@@ -1,3 +1,11 @@
+---
+name: pairfam
+label: Pairfam
+config:
+    variables:
+        label-table: True
+---
+
 # German Family Panel (Pairfam)
 
 ## Citation
