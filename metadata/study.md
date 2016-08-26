@@ -11,7 +11,9 @@ config:
 ## Citation
 
 * **Title:** The German Family Panel (Pairfam)
-* **Citation guideline (e.g. a publication):**  Huinink, Johannes, Josef Brüderl, Bernhard Nauck, Sabine Walper,Laura Castiglioni und Michael Feldhaus: Panel Analysis of Intimate Relationships and Family Dynamics (pairfam): Conceptual framework and design. Zeitschrift für Familienforschung 23, 2011, S. 77-101 Brüderl, Josef, Karsten Hank, Johannes Huinink, Bernhard Nauck, Franz J. Neyer, Sabine Walper, Philipp Alt, Petra Buhr, Laura Castiglioni, Christine Finn, Kristin Hajek, Michel Herzig, Bernadette Huyer-May, Rüdiger Lenke, Bettina Müller, Timo Peter, Veronika Salzburger, Claudia Schmiedeberg, Elisabeth Schubach, Philipp Schütze, Nina Schumann, Carolin Thönnissen, & Barbara Wilhelm. 2015. The German Family Panel (pairfam). GESIS Data Archive, Cologne. ZA5678 Data file Version 6.0.0, doi:10.4232/pairfam.5678.6.0.0
+* **Citation guideline (e.g. a publication):**
+  * Huinink, Johannes, Josef Brüderl, Bernhard Nauck, Sabine Walper,Laura Castiglioni und Michael Feldhaus: Panel Analysis of Intimate Relationships and Family Dynamics (pairfam): Conceptual framework and design. Zeitschrift für Familienforschung 23, 2011, S. 77-101
+  * Brüderl, Josef, Karsten Hank, Johannes Huinink, Bernhard Nauck, Franz J. Neyer, Sabine Walper, Philipp Alt, Petra Buhr, Laura Castiglioni, Christine Finn, Kristin Hajek, Michel Herzig, Bernadette Huyer-May, Rüdiger Lenke, Bettina Müller, Timo Peter, Veronika Salzburger, Claudia Schmiedeberg, Elisabeth Schubach, Philipp Schütze, Nina Schumann, Carolin Thönnissen, & Barbara Wilhelm. 2015. The German Family Panel (pairfam). GESIS Data Archive, Cologne. ZA5678 Data file Version 6.0.0, doi:10.4232/pairfam.5678.6.0.0
 * **Persistent identifier (e.g. DOI):** doi:10.4232/pairfam.5678.6.0.0
 * **Investigators:** Brüderl, Josef; Hank, Karsten; Huinink, Johannes; Nauck, Bernhard; Neyer, Franz; Walper, Sabine
 * **URL:** [www.pairfam.de](http://www.pairfam.de)
