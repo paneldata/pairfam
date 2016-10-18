@@ -71,7 +71,7 @@ Release includes anchor, partner, children, parents, and parenting data for each
 |7|5027|-|5098|82|327|-|328|264|221|89|11436|
 
 
-Release 7 includes 11 generated *datasets*
+Release 7 includes 11 generated datasets.
 
 ## Documentation
 
