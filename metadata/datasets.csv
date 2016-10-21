@@ -1,4 +1,4 @@
-dataset_name,label,period_name,analysis_unit,conceptual_dataset
+dataset_name,label,period_name,analysis_unit_name,conceptual_dataset_name
 anchor1,"anchor data, pairfam main sample, wave 1 (2008/09)",wave1,anchor,org/net
 anchor1_DD,"anchor data, DemoDiff subsample, wave 1 (2009/10)",wave1,anchor,org/net
 anchor2,"anchor data, pairfam main sample, wave 2 (2009/10)",wave2,anchor,org/net
