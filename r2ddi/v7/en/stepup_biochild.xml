@@ -1,0 +1,635 @@
+<codebook>
+  <dataDscr>
+    <var ID="id" intrvl="numeric" files="stepup_biochild">
+      <labl>Person number anchor</labl>
+      <sumStat type="Min.">750400000</sumStat>
+      <sumStat type="1st Qu.">750400000</sumStat>
+      <sumStat type="Median">750400000</sumStat>
+      <sumStat type="Mean">750500000</sumStat>
+      <sumStat type="3rd Qu.">750500000</sumStat>
+      <sumStat type="Max.">750500000</sumStat>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="demodiff" intrvl="labeled_numeric" files="stepup_biochild">
+      <labl>DemoDiff sample</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 pairfam</labl>
+        <catStat type="freq">5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 demodiff</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+    </var>
+    <var ID="cohort" intrvl="labeled_numeric" files="stepup_biochild">
+      <labl>Birth cohort</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 former capikid first interview</labl>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 1991-1993</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 1981-1983</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 1971-1973</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 former capikid re-interview</labl>
+        <catStat type="freq">4</catStat>
+      </catgry>
+    </var>
+    <var ID="dobk" intrvl="labeled_numeric" files="stepup_biochild">
+      <labl>Date of birth of child (months since January 1900)</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1343</catValu>
+        <catStat type="freq">2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1349</catValu>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1356</catValu>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1378</catValu>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+    </var>
+    <var ID="sexk" intrvl="labeled_numeric" files="stepup_biochild">
+      <labl>Gender of child</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Male</labl>
+        <catStat type="freq">4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Female</labl>
+        <catStat type="freq">1</catStat>
+      </catgry>
+    </var>
+    <var ID="intdat" intrvl="labeled_numeric" files="stepup_biochild">
+      <labl>Date of interview (months since January 1900)</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1344</catValu>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1354</catValu>
+        <catStat type="freq">2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1358</catValu>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1379</catValu>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+    </var>
+    <var ID="wave" intrvl="labeled_numeric" files="stepup_biochild">
+      <labl>Survey year</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Wave 1 : 2008/09</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Wave 2 : 2009/10</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Wave 3 : 2010/11</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Wave 4 : 2011/12</labl>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Wave 5 : 2012/13</labl>
+        <catStat type="freq">3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 Wave 6 : 2013/14</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Wave 7 : 2014/15</labl>
+        <catStat type="freq">1</catStat>
+      </catgry>
+    </var>
+    <var ID="entry" intrvl="numeric" files="stepup_biochild">
+      <labl>Respondent entered survey in wave</labl>
+      <sumStat type="Min.">4</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">4.2</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">5</sumStat>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="number" intrvl="numeric" files="stepup_biochild">
+      <labl>Pointer on Xth child (corresponding varkX in Anchor data)</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cid" intrvl="numeric" files="stepup_biochild">
+      <labl>Person number CAPI-child</labl>
+      <sumStat type="Min.">750400000</sumStat>
+      <sumStat type="1st Qu.">750400000</sumStat>
+      <sumStat type="Median">750400000</sumStat>
+      <sumStat type="Mean">750500000</sumStat>
+      <sumStat type="3rd Qu.">750500000</sumStat>
+      <sumStat type="Max.">750500000</sumStat>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="surveykid" intrvl="labeled_numeric" files="stepup_biochild">
+      <labl>Indicator: child was asked in CAPI child survey</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq">5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+    </var>
+    <var ID="index" intrvl="labeled_numeric" files="stepup_biochild">
+      <labl>Correct order of children (sorted descendingly by age)</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 1st child (oldest)</labl>
+        <catStat type="freq">5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 2nd child</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 3rd child</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 4th child</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 5th child</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 6th child</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 7th child</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 8th child</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 9th child</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 10th child</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+    </var>
+    <var ID="statusk" intrvl="labeled_numeric" files="stepup_biochild">
+      <labl>Status of child</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Biological child</labl>
+        <catStat type="freq">5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Adopted child</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Partner's child / stepchild</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Foster child</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+    </var>
+    <var ID="currliv" intrvl="labeled_numeric" files="stepup_biochild">
+      <labl>Cohabitation with child</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Only with Anchor</labl>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 With Anchor and elsewhere</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 Only alone/flat share</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Only with other parent unit</labl>
+        <catStat type="freq">3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 Only with other relative</labl>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Children's home</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>13 Only elsewhere</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+    </var>
+    <var ID="currliv_detail" intrvl="unknown" files="stepup_biochild">
+      <labl>currliv_detail</labl>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 2</catValu>
+        <labl>2 With Anchor but also alone/flat share</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 3</catValu>
+        <labl>3 With Anchor but also with other parent unit; mainly with Anchor</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 4</catValu>
+        <labl>4 With Anchor but also with other parent unit; namely in equal shares with Anchor and with other parent unit</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 5</catValu>
+        <labl>5 With Anchor but also with other parent unit; mainly with other parent unit</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 6</catValu>
+        <labl>6 With Anchor but also with other relative</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 7</catValu>
+        <labl>7 With Anchor but also at children's home</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 8</catValu>
+        <labl>8 With Anchor but also elsewhere</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="pno" intrvl="labeled_numeric" files="stepup_biochild">
+      <labl>Partnerindex: second biological parent</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq">1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>97</catValu>
+        <labl>97 Another person</labl>
+        <catStat type="freq">1</catStat>
+      </catgry>
+    </var>
+    <var ID="pid" intrvl="numeric" files="stepup_biochild">
+      <labl>Person number partner</labl>
+      <sumStat type="Min.">750400000</sumStat>
+      <sumStat type="1st Qu.">750400000</sumStat>
+      <sumStat type="Median">750500000</sumStat>
+      <sumStat type="Mean">750500000</sumStat>
+      <sumStat type="3rd Qu.">750500000</sumStat>
+      <sumStat type="Max.">750500000</sumStat>
+      <sumStat type="NA's">3</sumStat>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">3</sumStat>
+    </var>
+    <var ID="parentid" intrvl="numeric" files="stepup_biochild">
+      <labl>Person number second biological parent</labl>
+      <sumStat type="Min.">750400000</sumStat>
+      <sumStat type="1st Qu.">750400000</sumStat>
+      <sumStat type="Median">750500000</sumStat>
+      <sumStat type="Mean">750500000</sumStat>
+      <sumStat type="3rd Qu.">750500000</sumStat>
+      <sumStat type="Max.">750500000</sumStat>
+      <sumStat type="NA's">3</sumStat>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">3</sumStat>
+    </var>
+    <var ID="mid" intrvl="numeric" files="stepup_biochild">
+      <labl>Person number mother</labl>
+      <sumStat type="Min.">750400000</sumStat>
+      <sumStat type="1st Qu.">750400000</sumStat>
+      <sumStat type="Median">750400000</sumStat>
+      <sumStat type="Mean">750500000</sumStat>
+      <sumStat type="3rd Qu.">750500000</sumStat>
+      <sumStat type="Max.">750500000</sumStat>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="fid" intrvl="numeric" files="stepup_biochild">
+      <labl>Person number father</labl>
+      <sumStat type="Min.">750400000</sumStat>
+      <sumStat type="1st Qu.">750400000</sumStat>
+      <sumStat type="Median">750400000</sumStat>
+      <sumStat type="Mean">750500000</sumStat>
+      <sumStat type="3rd Qu.">750500000</sumStat>
+      <sumStat type="Max.">750500000</sumStat>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="smid" intrvl="numeric" files="stepup_biochild">
+      <labl>Person number stepmother</labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">5</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">5</sumStat>
+    </var>
+    <var ID="sfid" intrvl="numeric" files="stepup_biochild">
+      <labl>Person number stepfather</labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">5</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">5</sumStat>
+    </var>
+    <var ID="livkbeg" intrvl="unknown" files="stepup_biochild">
+      <labl>Beginning living together with child</labl>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="livkend" intrvl="unknown" files="stepup_biochild">
+      <labl>End living together with child</labl>
+      <catgry missing="FALSE">
+        <catValu>-99</catValu>
+        <labl>-99 Ongoing</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu> -7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu> -3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="b1livkbeg" intrvl="unknown" files="stepup_biochild">
+      <labl>Beginning break 1 living together with child</labl>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="b1livkend" intrvl="unknown" files="stepup_biochild">
+      <labl>End break 1 living together with child</labl>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="livkbirth" intrvl="unknown" files="stepup_biochild">
+      <labl>Living together since birth with child</labl>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 0</catValu>
+        <labl> 0 Not living together since birth</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>1 Living together since birth</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="dodk" intrvl="unknown" files="stepup_biochild">
+      <labl>Date of death child (months since January 1900)</labl>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="stepup_biochild"/>
+</codebook>
