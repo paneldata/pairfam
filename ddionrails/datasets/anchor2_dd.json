@@ -1,1 +1,1149 @@
-{"id": {"name": "id", "name_cs": "id", "variable": "id", "dataset": "anchor2_dd", "label": "Person number anchor", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "valid", "invalid"], "values": ["803100000", "835300000", "864400000", "864100000", "893900000", "920300000", "1173", "0"]}, "scale": "", "label_de": "Personennummer Anker"}, "demodiff": {"name": "demodiff", "name_cs": "demodiff", "variable": "demodiff", "dataset": "anchor2_dd", "label": "DemoDiff sample", "categories": {"frequencies": [0, 1173], "labels": ["0 pairfam", "1 demodiff"], "missings": [false, false], "values": ["0", "1"], "labels_de": ["0 pairfam", "1 demodiff"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1173", "0"]}, "scale": "cat", "label_de": "DemoDiff Stichprobe"}, "cla1": {"name": "cla1", "name_cs": "cla1", "variable": "cla1", "dataset": "anchor2_dd", "label": "In which federal state were you born? (Qu. 1)", "categories": {"frequencies": [0, 1, 0, 20, 2, 11, 0, 9, 4, 3, 2, 6, 51, 169, 105, 323, 230, 180, 0, 0, 57], "labels": ["-3 Does not apply", "-2 No answer", "-1 Don't know", "0 Berlin (West)", "1 Schleswig-Holstein", "2 Hamburg", "3 Niedersachsen (Lower Saxony)", "4 Bremen", "5 Nordrhein-Westfalen (North Rhine-Westfalia)", "6 Hessen (Hesse)", "7 Rheinland-Pfalz (Rhineland-Palatinate)", "8", "9 Bayern (Bavaria)", "10 Berlin (East)", "11 Brandenburg", "12 Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania)", "13 Sachsen (Saxony)", "14 Sachsen-Anhalt (Saxony-Anhalt)", "15", "16 Saarland", "18 Not born in Germany"], "missings": [true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false], "values": ["-3", "-2", "-1", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "18"], "labels_de": ["-3 Trifft nicht zu", "-2 Keine Angabe", "", "0 Berlin (West)", "1 Schleswig-Holstein", "2 Hamburg", "3 Niedersachsen", "4 Bremen", "5 Nordrhein-Westfalen", "6 Hessen", "7 Rheinland-Pfalz", "", "9 Bayern", "10 Berlin (Ost)", "11 Brandenburg", "12 Mecklenburg-Vorpommern", "13 Sachsen", "14 Sachsen-Anhalt", "", "16 Saarland", "18 Nicht in Deutschland geboren"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1172", "1"]}, "scale": "cat", "label_de": "Bundesland bei Geburt (Frage 1)"}, "cla2": {"name": "cla2", "name_cs": "cla2", "variable": "cla2", "dataset": "anchor2_dd", "label": "Number of moves until 18th birthday (Qu. 2)", "categories": {"frequencies": [370, 266, 9, 6, 1, 3, 1, 203, 1, 156, 0, 60, 54, 19, 13, 9, 2], "labels": ["0 No move", "1", "-1 Don't know", "10", "11", "12", "13", "2", "-2 No answer", "3", "-3 Does not apply", "4", "5", "6", "7", "8", "9"], "missings": [false, false, true, false, false, false, false, false, true, false, true, false, false, false, false, false, false], "values": ["0", "1", "-1", "10", "11", "12", "13", "2", "-2", "3", "-3", "4", "5", "6", "7", "8", "9"], "labels_de": ["", "", "", "", "", "", "", "", "-2 Keine Angabe", "", "-3 Trifft nicht zu", "", "", "", "", "", ""]}, "statistics": {"names": ["valid", "invalid"], "values": ["1163", "10"]}, "scale": "cat", "label_de": "NA"}, "cla8": {"name": "cla8", "name_cs": "cla8", "variable": "cla8", "dataset": "anchor2_dd", "label": "Assessment childhood (Qu. 3)", "categories": {"frequencies": [8, 7, 0, 327, 9, 0, 21, 0, 30, 60, 62, 136, 257, 256], "labels": ["0 Not happy at all", "1", "-1 Don't know", "10 Very happy", "2", "-2 No answer", "3", "-3 Does not apply", "4", "5", "6", "7", "8", "9"], "missings": [false, false, true, false, false, true, false, true, false, false, false, false, false, false], "values": ["0", "1", "-1", "10", "2", "-2", "3", "-3", "4", "5", "6", "7", "8", "9"], "labels_de": ["", "", "", "", "", "-2 Keine Angabe", "", "-3 Trifft nicht zu", "", "", "", "", "", ""]}, "statistics": {"names": ["valid", "invalid"], "values": ["1173", "0"]}, "scale": "cat", "label_de": "NA"}, "cla3": {"name": "cla3", "name_cs": "cla3", "variable": "cla3", "dataset": "anchor2_dd", "label": "Lived with biological parents immediately after birth (Qu. 4)", "categories": {"frequencies": [0, 0, 1, 1095, 77], "labels": ["-3 Does not apply", "-2 No answer", "-1 Don't know", "1 Yes", "2 No"], "missings": [true, true, true, false, false], "values": ["-3", "-2", "-1", "1", "2"], "labels_de": ["-3 Trifft nicht zu", "-2 Keine Angabe", "", "1 Ja", "2 Nein"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1172", "1"]}, "scale": "cat", "label_de": "Nach Geburt bei leiblichen Eltern gelebt (Frage 4)"}, "cla4": {"name": "cla4", "name_cs": "cla4", "variable": "cla4", "dataset": "anchor2_dd", "label": "With whom did you live immediately after your birth? (Qu. 5)", "categories": {"frequencies": [1096, 0, 0, 49, 12, 2, 0, 6, 0, 0, 4, 0, 3, 1], "labels": ["-3 Does not apply", "-2 No answer", "-1 Don't know", "2 With my mother (without a partner)", "3 With my mother and her (new) partner", "4 With my father (without a partner)", "5 With my father and his (new) partner", "6 With my grandparents", "7 With a brother or sister", "8 With other relatives", "9 With adoptive parents", "10 With foster parents", "14 In a children's home, assisted living, or a boarding school", "15 Other, namely"], "missings": [true, true, true, false, false, false, false, false, false, false, false, false, false, false], "values": ["-3", "-2", "-1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "14", "15"], "labels_de": ["-3 Trifft nicht zu", "-2 Keine Angabe", "", "2 Bei der Mutter (ohne Partner)", "3 Bei der Mutter und ihrem (neuen) Partner", "4 Beim Vater (ohne Partnerin)", "5 Beim Vater und seiner (neuen) Partnerin", "", "7 Bei einem Bruder oder einer Schwester", "8 Bei anderen Verwandten", "9 Bei Adoptiveltern", "10 Bei Pflegeeltern", "14 In einem Heim, einer betreuten Wohnung oder einem Internat", ""]}, "statistics": {"names": ["valid", "invalid"], "values": ["77", "1096"]}, "scale": "cat", "label_de": "Bei wem nach Geburt gelebt? (Frage 5)"}, "cla5e1": {"name": "cla5e1", "name_cs": "cla5e1", "variable": "cla5e1", "dataset": "anchor2_dd", "label": "Change of arrangement until 18th birthday? (Qu. 6)", "categories": {"frequencies": [1, 0, 0, 304, 868], "labels": ["-3 Does not apply", "-2 No answer", "-1 Don't know", "1 Yes", "2 No"], "missings": [true, true, true, false, false], "values": ["-3", "-2", "-1", "1", "2"], "labels_de": ["-3 Trifft nicht zu", "-2 Keine Angabe", "", "1 Ja", "2 Nein"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1172", "1"]}, "scale": "cat", "label_de": "NA"}, "cla5e2": {"name": "cla5e2", "name_cs": "cla5e2", "variable": "cla5e2", "dataset": "anchor2_dd", "label": "Change of arrangement until 18th birthday? (Qu. 6)", "categories": {"frequencies": [869, 0, 0, 107, 197], "labels": ["-3 Does not apply", "-2 No answer", "-1 Don't know", "1 Yes", "2 No"], "missings": [true, true, true, false, false], "values": ["-3", "-2", "-1", "1", "2"], "labels_de": ["-3 Trifft nicht zu", "-2 Keine Angabe", "", "1 Ja", "2 Nein"]}, "statistics": {"names": ["valid", "invalid"], "values": ["304", "869"]}, "scale": "cat", "label_de": "NA"}, "cla5e3": {"name": "cla5e3", "name_cs": "cla5e3", "variable": "cla5e3", "dataset": "anchor2_dd", "label": "Change of arrangement until 18th birthday? (Qu. 6)", "categories": {"frequencies": [1066, 1, 0, 24, 82], "labels": ["-3 Does not apply", "-2 No answer", "-1 Don't know", "1 Yes", "2 No"], "missings": [true, true, true, false, false], "values": ["-3", "-2", "-1", "1", "2"], "labels_de": ["-3 Trifft nicht zu", "-2 Keine Angabe", "", "1 Ja", "2 Nein"]}, "statistics": {"names": ["valid", "invalid"], "values": ["106", "1067"]}, "scale": "cat", "label_de": "NA"}, "cla5e4": {"name": "cla5e4", "name_cs": "cla5e4", "variable": "cla5e4", "dataset": "anchor2_dd", "label": "Change of arrangement until 18th birthday? (Qu. 6)", "categories": {"frequencies": [1149, 0, 1, 7, 16], "labels": ["-3 Does not apply", "-2 No answer", "-1 Don't know", "1 Yes", "2 No"], "missings": [true, true, true, false, false], "values": ["-3", "-2", "-1", "1", "2"], "labels_de": ["-3 Trifft nicht zu", "-2 Keine Angabe", "", "1 Ja", "2 Nein"]}, "statistics": {"names": ["valid", "invalid"], "values": ["23", "1150"]}, "scale": "cat", "label_de": "NA"}, "cla5e5": {"name": "cla5e5", "name_cs": "cla5e5", "variable": "cla5e5", "dataset": "anchor2_dd", "label": "Change of arrangement until 18th birthday? (Qu. 6)", "categories": {"frequencies": [1166, 0, 0, 3, 4], "labels": ["-3 Does not apply", "-2 No answer", "-1 Don't know", "1 Yes", "2 No"], "missings": [true, true, true, false, false], "values": ["-3", "-2", "-1", "1", "2"], "labels_de": ["-3 Trifft nicht zu", "-2 Keine Angabe", "", "1 Ja", "2 Nein"]}, "statistics": {"names": ["valid", "invalid"], "values": ["7", "1166"]}, "scale": "cat", "label_de": "NA"}, "cla5e6": {"name": "cla5e6", "name_cs": "cla5e6", "variable": "cla5e6", "dataset": "anchor2_dd", "label": "Change of arrangement until 18th birthday? (Qu. 6)", "categories": {"frequencies": [1170, 1, 0, 2, 0], "labels": ["-3 Does not apply", "-2 No answer", "-1 Don't know", "1 Yes", "2 No"], "missings": [true, true, true, false, false], "values": ["-3", "-2", "-1", "1", "2"], "labels_de": ["-3 Trifft nicht zu", "-2 Keine Angabe", "", "1 Ja", "2 Nein"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2", "1171"]}, "scale": "cat", "label_de": "NA"}, "cla5e7": {"name": "cla5e7", "name_cs": "cla5e7", "variable": "cla5e7", "dataset": "anchor2_dd", "label": "Change of arrangement until 18th birthday? (Qu. 6)", "categories": {"frequencies": [1171, 0, 0, 2, 0], "labels": ["-3 Does not apply", "-2 No answer", "-1 Don't know", "1 Yes", "2 No"], "missings": [true, true, true, false, false], "values": ["-3", "-2", "-1", "1", "2"], "labels_de": ["-3 Trifft nicht zu", "-2 Keine Angabe", "", "1 Ja", "2 Nein"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2", "1171"]}, "scale": "cat", "label_de": "NA"}, "cla5e8": {"name": "cla5e8", "name_cs": "cla5e8", "variable": "cla5e8", "dataset": "anchor2_dd", "label": "Change of arrangement until 18th birthday? (Qu. 6)", "categories": {"frequencies": [1171, 0, 0, 0, 2], "labels": ["-3 Does not apply", "-2 No answer", "-1 Don't know", "1 Yes", "2 No"], "missings": [true, true, true, false, false], "values": ["-3", "-2", "-1", "1", "2"], "labels_de": ["-3 Trifft nicht zu", "-2 Keine Angabe", "", "1 Ja", "2 Nein"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2", "1171"]}, "scale": "cat", "label_de": "NA"}, "intd": {"name": "intd", "name_cs": "intd", "variable": "intd", "dataset": "anchor2_dd", "label": "Date of interview: Day", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "valid", "invalid"], "values": ["1", "9", "15", "15.04", "22", "31", "1173", "0"]}, "scale": "", "label_de": "Interviewdatum: Tag"}, "intm": {"name": "intm", "name_cs": "intm", "variable": "intm", "dataset": "anchor2_dd", "label": "Date of interview: Month", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "valid", "invalid"], "values": ["1", "2", "11", "8.011", "11", "12", "1173", "0"]}, "scale": "", "label_de": "Interviewdatum: Monat"}, "inty": {"name": "inty", "name_cs": "inty", "variable": "inty", "dataset": "anchor2_dd", "label": "Date of interview: Year", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "valid", "invalid"], "values": ["2010", "2010", "2010", "2010", "2011", "2011", "1173", "0"]}, "scale": "", "label_de": "Interviewdatum: Jahr"}}
+{
+  "id": {
+    "name": "id",
+    "name_cs": "id",
+    "variable": "id",
+    "dataset": "anchor2_dd",
+    "label": "Person number anchor",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "803100000",
+        "835300000",
+        "864400000",
+        "864100000",
+        "893900000",
+        "920300000",
+        "1173",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Personennummer Anker"
+  },
+  "demodiff": {
+    "name": "demodiff",
+    "name_cs": "demodiff",
+    "variable": "demodiff",
+    "dataset": "anchor2_dd",
+    "label": "DemoDiff sample",
+    "categories": {
+      "frequencies": [
+        0,
+        1173
+      ],
+      "labels": [
+        "0 pairfam",
+        "1 demodiff"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "0 pairfam",
+        "1 demodiff"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1173",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "DemoDiff Stichprobe"
+  },
+  "cla1": {
+    "name": "cla1",
+    "name_cs": "cla1",
+    "variable": "cla1",
+    "dataset": "anchor2_dd",
+    "label": "In which federal state were you born? (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        1,
+        0,
+        20,
+        2,
+        11,
+        0,
+        9,
+        4,
+        3,
+        2,
+        6,
+        51,
+        169,
+        105,
+        323,
+        230,
+        180,
+        0,
+        0,
+        57
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
+        "0 Berlin (West)",
+        "1 Schleswig-Holstein",
+        "2 Hamburg",
+        "3 Niedersachsen (Lower Saxony)",
+        "4 Bremen",
+        "5 Nordrhein-Westfalen (North Rhine-Westfalia)",
+        "6 Hessen (Hesse)",
+        "7 Rheinland-Pfalz (Rhineland-Palatinate)",
+        "8",
+        "9 Bayern (Bavaria)",
+        "10 Berlin (East)",
+        "11 Brandenburg",
+        "12 Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania)",
+        "13 Sachsen (Saxony)",
+        "14 Sachsen-Anhalt (Saxony-Anhalt)",
+        "15",
+        "16 Saarland",
+        "18 Not born in Germany"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "18"
+      ],
+      "labels_de": [
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "",
+        "0 Berlin (West)",
+        "1 Schleswig-Holstein",
+        "2 Hamburg",
+        "3 Niedersachsen",
+        "4 Bremen",
+        "5 Nordrhein-Westfalen",
+        "6 Hessen",
+        "7 Rheinland-Pfalz",
+        "",
+        "9 Bayern",
+        "10 Berlin (Ost)",
+        "11 Brandenburg",
+        "12 Mecklenburg-Vorpommern",
+        "13 Sachsen",
+        "14 Sachsen-Anhalt",
+        "",
+        "16 Saarland",
+        "18 Nicht in Deutschland geboren"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1172",
+        "1"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bundesland bei Geburt (Frage 1)"
+  },
+  "cla2": {
+    "name": "cla2",
+    "name_cs": "cla2",
+    "variable": "cla2",
+    "dataset": "anchor2_dd",
+    "label": "Number of moves until 18th birthday (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        370,
+        266,
+        9,
+        6,
+        1,
+        3,
+        1,
+        203,
+        1,
+        156,
+        0,
+        60,
+        54,
+        19,
+        13,
+        9,
+        2
+      ],
+      "labels": [
+        "0 No move",
+        "1",
+        "-1 Don't know",
+        "10",
+        "11",
+        "12",
+        "13",
+        "2",
+        "-2 No answer",
+        "3",
+        "-3 Does not apply",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "2",
+        "-2",
+        "3",
+        "-3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-2 Keine Angabe",
+        "",
+        "-3 Trifft nicht zu",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1163",
+        "10"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "cla8": {
+    "name": "cla8",
+    "name_cs": "cla8",
+    "variable": "cla8",
+    "dataset": "anchor2_dd",
+    "label": "Assessment childhood (Qu. 3)",
+    "categories": {
+      "frequencies": [
+        8,
+        7,
+        0,
+        327,
+        9,
+        0,
+        21,
+        0,
+        30,
+        60,
+        62,
+        136,
+        257,
+        256
+      ],
+      "labels": [
+        "0 Not happy at all",
+        "1",
+        "-1 Don't know",
+        "10 Very happy",
+        "2",
+        "-2 No answer",
+        "3",
+        "-3 Does not apply",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        "-2",
+        "3",
+        "-3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-2 Keine Angabe",
+        "",
+        "-3 Trifft nicht zu",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1173",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "cla3": {
+    "name": "cla3",
+    "name_cs": "cla3",
+    "variable": "cla3",
+    "dataset": "anchor2_dd",
+    "label": "Lived with biological parents immediately after birth (Qu. 4)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        1,
+        1095,
+        77
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
+        "1 Yes",
+        "2 No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "",
+        "1 Ja",
+        "2 Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1172",
+        "1"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Nach Geburt bei leiblichen Eltern gelebt (Frage 4)"
+  },
+  "cla4": {
+    "name": "cla4",
+    "name_cs": "cla4",
+    "variable": "cla4",
+    "dataset": "anchor2_dd",
+    "label": "With whom did you live immediately after your birth? (Qu. 5)",
+    "categories": {
+      "frequencies": [
+        1096,
+        0,
+        0,
+        49,
+        12,
+        2,
+        0,
+        6,
+        0,
+        0,
+        4,
+        0,
+        3,
+        1
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
+        "2 With my mother (without a partner)",
+        "3 With my mother and her (new) partner",
+        "4 With my father (without a partner)",
+        "5 With my father and his (new) partner",
+        "6 With my grandparents",
+        "7 With a brother or sister",
+        "8 With other relatives",
+        "9 With adoptive parents",
+        "10 With foster parents",
+        "14 In a children's home, assisted living, or a boarding school",
+        "15 Other, namely"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "-2",
+        "-1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "14",
+        "15"
+      ],
+      "labels_de": [
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "",
+        "2 Bei der Mutter (ohne Partner)",
+        "3 Bei der Mutter und ihrem (neuen) Partner",
+        "4 Beim Vater (ohne Partnerin)",
+        "5 Beim Vater und seiner (neuen) Partnerin",
+        "",
+        "7 Bei einem Bruder oder einer Schwester",
+        "8 Bei anderen Verwandten",
+        "9 Bei Adoptiveltern",
+        "10 Bei Pflegeeltern",
+        "14 In einem Heim, einer betreuten Wohnung oder einem Internat",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "77",
+        "1096"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bei wem nach Geburt gelebt? (Frage 5)"
+  },
+  "cla5e1": {
+    "name": "cla5e1",
+    "name_cs": "cla5e1",
+    "variable": "cla5e1",
+    "dataset": "anchor2_dd",
+    "label": "Change of arrangement until 18th birthday? (Qu. 6)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        0,
+        304,
+        868
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
+        "1 Yes",
+        "2 No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "",
+        "1 Ja",
+        "2 Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1172",
+        "1"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "cla5e2": {
+    "name": "cla5e2",
+    "name_cs": "cla5e2",
+    "variable": "cla5e2",
+    "dataset": "anchor2_dd",
+    "label": "Change of arrangement until 18th birthday? (Qu. 6)",
+    "categories": {
+      "frequencies": [
+        869,
+        0,
+        0,
+        107,
+        197
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
+        "1 Yes",
+        "2 No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "",
+        "1 Ja",
+        "2 Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "304",
+        "869"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "cla5e3": {
+    "name": "cla5e3",
+    "name_cs": "cla5e3",
+    "variable": "cla5e3",
+    "dataset": "anchor2_dd",
+    "label": "Change of arrangement until 18th birthday? (Qu. 6)",
+    "categories": {
+      "frequencies": [
+        1066,
+        1,
+        0,
+        24,
+        82
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
+        "1 Yes",
+        "2 No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "",
+        "1 Ja",
+        "2 Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "106",
+        "1067"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "cla5e4": {
+    "name": "cla5e4",
+    "name_cs": "cla5e4",
+    "variable": "cla5e4",
+    "dataset": "anchor2_dd",
+    "label": "Change of arrangement until 18th birthday? (Qu. 6)",
+    "categories": {
+      "frequencies": [
+        1149,
+        0,
+        1,
+        7,
+        16
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
+        "1 Yes",
+        "2 No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "",
+        "1 Ja",
+        "2 Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "23",
+        "1150"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "cla5e5": {
+    "name": "cla5e5",
+    "name_cs": "cla5e5",
+    "variable": "cla5e5",
+    "dataset": "anchor2_dd",
+    "label": "Change of arrangement until 18th birthday? (Qu. 6)",
+    "categories": {
+      "frequencies": [
+        1166,
+        0,
+        0,
+        3,
+        4
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
+        "1 Yes",
+        "2 No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "",
+        "1 Ja",
+        "2 Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "1166"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "cla5e6": {
+    "name": "cla5e6",
+    "name_cs": "cla5e6",
+    "variable": "cla5e6",
+    "dataset": "anchor2_dd",
+    "label": "Change of arrangement until 18th birthday? (Qu. 6)",
+    "categories": {
+      "frequencies": [
+        1170,
+        1,
+        0,
+        2,
+        0
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
+        "1 Yes",
+        "2 No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "",
+        "1 Ja",
+        "2 Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2",
+        "1171"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "cla5e7": {
+    "name": "cla5e7",
+    "name_cs": "cla5e7",
+    "variable": "cla5e7",
+    "dataset": "anchor2_dd",
+    "label": "Change of arrangement until 18th birthday? (Qu. 6)",
+    "categories": {
+      "frequencies": [
+        1171,
+        0,
+        0,
+        2,
+        0
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
+        "1 Yes",
+        "2 No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "",
+        "1 Ja",
+        "2 Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2",
+        "1171"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "cla5e8": {
+    "name": "cla5e8",
+    "name_cs": "cla5e8",
+    "variable": "cla5e8",
+    "dataset": "anchor2_dd",
+    "label": "Change of arrangement until 18th birthday? (Qu. 6)",
+    "categories": {
+      "frequencies": [
+        1171,
+        0,
+        0,
+        0,
+        2
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
+        "1 Yes",
+        "2 No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "",
+        "1 Ja",
+        "2 Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2",
+        "1171"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "intd": {
+    "name": "intd",
+    "name_cs": "intd",
+    "variable": "intd",
+    "dataset": "anchor2_dd",
+    "label": "Date of interview: Day",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "9",
+        "15",
+        "15.04",
+        "22",
+        "31",
+        "1173",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Interviewdatum: Tag"
+  },
+  "intm": {
+    "name": "intm",
+    "name_cs": "intm",
+    "variable": "intm",
+    "dataset": "anchor2_dd",
+    "label": "Date of interview: Month",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "2",
+        "11",
+        "8.011",
+        "11",
+        "12",
+        "1173",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Interviewdatum: Monat"
+  },
+  "inty": {
+    "name": "inty",
+    "name_cs": "inty",
+    "variable": "inty",
+    "dataset": "anchor2_dd",
+    "label": "Date of interview: Year",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2010",
+        "2010",
+        "2010",
+        "2010",
+        "2011",
+        "2011",
+        "1173",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Interviewdatum: Jahr"
+  }
+}

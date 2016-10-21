@@ -1,1 +1,5154 @@
-{"id": {"name": "id", "name_cs": "id", "variable": "id", "dataset": "parenting5", "label": "Person number anchor", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "valid", "invalid"], "values": ["111000", "224600000", "472600000", "464100000", "692100000", "9.2e+08", "2022", "0"]}, "scale": "", "label_de": "Personennummer Anker"}, "pid": {"name": "pid", "name_cs": "pid", "variable": "pid", "dataset": "parenting5", "label": "Person number partner", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["3902000", "232500000", "479700000", "466300000", "692200000", "9.2e+08", "111", "1911", "111"]}, "scale": "", "label_de": "Personennummer Partner"}, "cid": {"name": "cid", "name_cs": "cid", "variable": "cid", "dataset": "parenting5", "label": "Person number child", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "valid", "invalid"], "values": ["111200", "224600000", "472600000", "464100000", "692100000", "9.2e+08", "2022", "0"]}, "scale": "", "label_de": "Personennummer Kind"}, "demodiff": {"name": "demodiff", "name_cs": "demodiff", "variable": "demodiff", "dataset": "parenting5", "label": "DemoDiff sample", "categories": {"frequencies": [1673, 349], "labels": ["0 pairfam", "1 demodiff"], "missings": [false, false], "values": ["0", "1"], "labels_de": ["0 pairfam", "1 demodiff"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2022", "0"]}, "scale": "cat", "label_de": "DemoDiff Stichprobe"}, "wave": {"name": "wave", "name_cs": "wave", "variable": "wave", "dataset": "parenting5", "label": "Survey year", "categories": {"frequencies": [0, 0, 0, 0, 2022], "labels": ["1 2008/09", "2 2009/10", "3 2010/11", "4 2011/12", "5 2012/13"], "missings": [false, false, false, false, false], "values": ["1", "2", "3", "4", "5"], "labels_de": ["1 2008/09", "2 2009/10", "3 2010/11", "4 2011/12", "5 2012/13"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2022", "0"]}, "scale": "cat", "label_de": "Erhebungsjahr"}, "dropoffvers": {"name": "dropoffvers", "name_cs": "dropoffvers", "variable": "dropoffvers", "dataset": "parenting5", "label": "Drop-off Version: Questionnaire completed by?", "categories": {"frequencies": [0, 0, 0, 1216, 806], "labels": ["-5 Inconsistent value", "-4 Incorrect entry", "-2 No answer", "1 by anchor", "2 by partner"], "missings": [true, true, true, false, false], "values": ["-5", "-4", "-2", "1", "2"], "labels_de": ["-5 Inkonsistenter Wert", "-4 Fehleingabe/Filterfehler", "-2 Keine Angabe", "1 Ankerperson", "2 Partner"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2022", "0"]}, "scale": "cat", "label_de": "Drop-Off Version: Befragte Person?"}, "pcr1i1": {"name": "pcr1i1", "name_cs": "pcr1i1", "variable": "pcr1i1", "dataset": "parenting5", "label": "You show your child with words and gestures that you like him/her (Qu. 1)", "categories": {"frequencies": [0, 0, 4, 2, 0, 17, 192, 904, 903], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2016", "6"]}, "scale": "cat", "label_de": "Sie zeigen Ihrem Kind mit Worten und Gesten, dass Sie es gerne haben (Frage 1)"}, "pcr1i2": {"name": "pcr1i2", "name_cs": "pcr1i2", "variable": "pcr1i2", "dataset": "parenting5", "label": "When your child makes new friends, you talk to him/her about them (Qu. 1)", "categories": {"frequencies": [1, 0, 1, 5, 2, 70, 486, 1016, 441], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2015", "7"]}, "scale": "cat", "label_de": "NA"}, "pcr1i15": {"name": "pcr1i15", "name_cs": "pcr1i15", "variable": "pcr1i15", "dataset": "parenting5", "label": "You are disappointed and sad because your child misbehaved (Qu. 1)", "categories": {"frequencies": [0, 0, 3, 5, 56, 449, 1149, 310, 50], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2014", "8"]}, "scale": "cat", "label_de": "NA"}, "pcr1i3": {"name": "pcr1i3", "name_cs": "pcr1i3", "variable": "pcr1i3", "dataset": "parenting5", "label": "You criticize your child (Qu. 1)", "categories": {"frequencies": [0, 0, 6, 1, 65, 422, 1232, 277, 19], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2015", "7"]}, "scale": "cat", "label_de": "Sie kritisieren Ihr Kind (Frage 1)"}, "pcr1i4": {"name": "pcr1i4", "name_cs": "pcr1i4", "variable": "pcr1i4", "dataset": "parenting5", "label": "You lessen a punishment or end it early (Qu. 1)", "categories": {"frequencies": [2, 0, 9, 30, 88, 632, 860, 341, 60], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1981", "41"]}, "scale": "cat", "label_de": "NA"}, "pcr1i5": {"name": "pcr1i5", "name_cs": "pcr1i5", "variable": "pcr1i5", "dataset": "parenting5", "label": "You cheer up your child when he/she is sad (Qu. 1)", "categories": {"frequencies": [4, 0, 7, 2, 3, 30, 233, 869, 874], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2009", "13"]}, "scale": "cat", "label_de": "NA"}, "pcr1i18": {"name": "pcr1i18", "name_cs": "pcr1i18", "variable": "pcr1i18", "dataset": "parenting5", "label": "You never waive from your rules (Qu. 1)", "categories": {"frequencies": [0, 0, 5, 25, 58, 524, 838, 485, 87], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1992", "30"]}, "scale": "cat", "label_de": "Sie lassen sich nicht von Ihren Regeln und Verboten abbringen (Frage 1)"}, "pcr1i19": {"name": "pcr1i19", "name_cs": "pcr1i19", "variable": "pcr1i19", "dataset": "parenting5", "label": "If your child does something against your will, you punish him/her (Qu. 1)", "categories": {"frequencies": [0, 0, 6, 15, 115, 660, 982, 223, 21], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2001", "21"]}, "scale": "cat", "label_de": "Wenn Ihr Kind etwas gegen Ihren Willen tut, bestrafen Sie es (Frage 1)"}, "pcr1i6": {"name": "pcr1i6", "name_cs": "pcr1i6", "variable": "pcr1i6", "dataset": "parenting5", "label": "When your child goes out, you know exactly where he/she is (Qu. 1)", "categories": {"frequencies": [0, 0, 4, 4, 2, 43, 157, 722, 1090], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2014", "8"]}, "scale": "cat", "label_de": "NA"}, "pcr1i7": {"name": "pcr1i7", "name_cs": "pcr1i7", "variable": "pcr1i7", "dataset": "parenting5", "label": "You find it hard to set and keep consistent rules for your child (Qu. 1)", "categories": {"frequencies": [1, 0, 5, 10, 129, 852, 820, 178, 27], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2006", "16"]}, "scale": "cat", "label_de": "NA"}, "pcr1i8": {"name": "pcr1i8", "name_cs": "pcr1i8", "variable": "pcr1i8", "dataset": "parenting5", "label": "You yell at your child because he/she did something wrong (Qu. 1)", "categories": {"frequencies": [1, 0, 3, 1, 332, 953, 622, 99, 11], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2017", "5"]}, "scale": "cat", "label_de": "Sie schreien Ihr Kind an, wenn es etwas falsch gemacht hat (Frage 1)"}, "pcr1i16": {"name": "pcr1i16", "name_cs": "pcr1i16", "variable": "pcr1i16", "dataset": "parenting5", "label": "You think your child is ungrateful when he/she does not obey you (Qu. 1)", "categories": {"frequencies": [1, 0, 6, 14, 848, 759, 339, 52, 3], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2001", "21"]}, "scale": "cat", "label_de": "NA"}, "pcr1i9": {"name": "pcr1i9", "name_cs": "pcr1i9", "variable": "pcr1i9", "dataset": "parenting5", "label": "When your child goes out, you ask what he/she did and experienced (Qu. 1)", "categories": {"frequencies": [0, 0, 7, 8, 8, 32, 221, 912, 834], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2007", "15"]}, "scale": "cat", "label_de": "Wenn Kind unterwegs war, fragen Sie nach, was es getan und erlebt hat (Frage 1)"}, "pcr1i10": {"name": "pcr1i10", "name_cs": "pcr1i10", "variable": "pcr1i10", "dataset": "parenting5", "label": "On some days you are stricter than on others (Qu. 1)", "categories": {"frequencies": [1, 0, 5, 19, 68, 399, 1274, 225, 31], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1997", "25"]}, "scale": "cat", "label_de": "Es gibt Tage, an denen Sie strenger sind als an anderen (Frage 1)"}, "pcr1i20": {"name": "pcr1i20", "name_cs": "pcr1i20", "variable": "pcr1i20", "dataset": "parenting5", "label": "You make it clear to child that he/she is not to break rules, decisions (Qu. 1)", "categories": {"frequencies": [0, 0, 8, 30, 79, 332, 895, 619, 59], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1984", "38"]}, "scale": "cat", "label_de": "Sie geben Kind zu verstehen, dass es sich nicht widersetzen soll (Frage 1)"}, "pcr1i17": {"name": "pcr1i17", "name_cs": "pcr1i17", "variable": "pcr1i17", "dataset": "parenting5", "label": "You don't talk to child for a while because he/she did something wrong (Qu. 1)", "categories": {"frequencies": [0, 0, 3, 1, 1051, 684, 210, 67, 6], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2018", "4"]}, "scale": "cat", "label_de": "Sie reden eine Zeit lang nicht mit Kind, wenn es etwas angestellt hat (Frage 1)"}, "pcr1i11": {"name": "pcr1i11", "name_cs": "pcr1i11", "variable": "pcr1i11", "dataset": "parenting5", "label": "You scold your child because you are angry at him/her (Qu. 1)", "categories": {"frequencies": [1, 0, 5, 3, 669, 811, 451, 74, 8], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2013", "9"]}, "scale": "cat", "label_de": "NA"}, "pcr1i21": {"name": "pcr1i21", "name_cs": "pcr1i21", "variable": "pcr1i21", "dataset": "parenting5", "label": "You tend to be a strict parent (Qu. 1)", "categories": {"frequencies": [3, 0, 10, 16, 127, 658, 812, 365, 31], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1993", "29"]}, "scale": "cat", "label_de": "Sie sind eher streng (Frage 1)"}, "pcr1i12": {"name": "pcr1i12", "name_cs": "pcr1i12", "variable": "pcr1i12", "dataset": "parenting5", "label": "When your child makes new friends, you get to know them soon thereafter (Qu. 1)", "categories": {"frequencies": [0, 0, 5, 11, 7, 164, 534, 918, 383], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2006", "16"]}, "scale": "cat", "label_de": "Wenn Ihr Kind neue Freunde hat, lernen Sie sie auch bald kennen (Frage 1)"}, "pcr1i13": {"name": "pcr1i13", "name_cs": "pcr1i13", "variable": "pcr1i13", "dataset": "parenting5", "label": "You threaten child with a punishment but don't actually follow through (Qu. 1)", "categories": {"frequencies": [0, 0, 5, 8, 259, 904, 639, 173, 34], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2009", "13"]}, "scale": "cat", "label_de": "Sie drohen Ihrem Kind eine Strafe an, strafen es dann aber doch nicht (Frage 1)"}, "pcr1i14": {"name": "pcr1i14", "name_cs": "pcr1i14", "variable": "pcr1i14", "dataset": "parenting5", "label": "You praise your child (Qu. 1)", "categories": {"frequencies": [0, 0, 4, 1, 0, 11, 220, 1027, 759], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Very often"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "4 Oft", "5 Sehr oft"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2017", "5"]}, "scale": "cat", "label_de": "Sie loben Ihr Kind (Frage 1)"}, "sdqpi1": {"name": "sdqpi1", "name_cs": "sdqpi1", "variable": "sdqpi1", "dataset": "parenting5", "label": "SDQ: Considerate of other people's feelings (Qu. 2)", "categories": {"frequencies": [1, 0, 3, 6, 66, 1009, 937], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2012", "10"]}, "scale": "cat", "label_de": "NA"}, "sdqpi2": {"name": "sdqpi2", "name_cs": "sdqpi2", "variable": "sdqpi2", "dataset": "parenting5", "label": "SDQ: Restless, overactive, cannot stay still for long (Qu. 2)", "categories": {"frequencies": [0, 0, 8, 4, 1116, 653, 241], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2010", "12"]}, "scale": "cat", "label_de": "NA"}, "sdqpi3": {"name": "sdqpi3", "name_cs": "sdqpi3", "variable": "sdqpi3", "dataset": "parenting5", "label": "SDQ: Often complains of headaches, stomach-aches or sickness (Qu. 2)", "categories": {"frequencies": [0, 0, 6, 10, 1307, 592, 107], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2006", "16"]}, "scale": "cat", "label_de": "NA"}, "sdqpi4": {"name": "sdqpi4", "name_cs": "sdqpi4", "variable": "sdqpi4", "dataset": "parenting5", "label": "SDQ: Shares readily with other children/youth (treats, toys etc.) (Qu. 2)", "categories": {"frequencies": [1, 0, 4, 22, 73, 815, 1107], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1995", "27"]}, "scale": "cat", "label_de": "NA"}, "sdqpi5": {"name": "sdqpi5", "name_cs": "sdqpi5", "variable": "sdqpi5", "dataset": "parenting5", "label": "SDQ: Often loses temper (Qu. 2)", "categories": {"frequencies": [0, 0, 7, 10, 1062, 770, 173], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2005", "17"]}, "scale": "cat", "label_de": "NA"}, "sdqpi6": {"name": "sdqpi6", "name_cs": "sdqpi6", "variable": "sdqpi6", "dataset": "parenting5", "label": "SDQ: Would rather be alone than with other children/youth (Qu. 2)", "categories": {"frequencies": [3, 0, 4, 9, 1384, 509, 113], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2006", "16"]}, "scale": "cat", "label_de": "NA"}, "sdqpi7": {"name": "sdqpi7", "name_cs": "sdqpi7", "variable": "sdqpi7", "dataset": "parenting5", "label": "SDQ: Generally well behaved, usually does what adults request (Qu. 2)", "categories": {"frequencies": [2, 0, 3, 8, 90, 1017, 902], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2009", "13"]}, "scale": "cat", "label_de": "SDQ: Im Allgemeinen folgsam; macht meist, was Erwachsene verlangen (Frage 2)"}, "sdqpi8": {"name": "sdqpi8", "name_cs": "sdqpi8", "variable": "sdqpi8", "dataset": "parenting5", "label": "SDQ: Many worries or often seems worried (Qu. 2)", "categories": {"frequencies": [2, 0, 2, 12, 1344, 582, 80], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2006", "16"]}, "scale": "cat", "label_de": "NA"}, "sdqpi9": {"name": "sdqpi9", "name_cs": "sdqpi9", "variable": "sdqpi9", "dataset": "parenting5", "label": "SDQ: Helpful if someone is hurt, upset or feeling ill (Qu. 2)", "categories": {"frequencies": [1, 0, 5, 14, 38, 428, 1536], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2002", "20"]}, "scale": "cat", "label_de": "NA"}, "sdqpi10": {"name": "sdqpi10", "name_cs": "sdqpi10", "variable": "sdqpi10", "dataset": "parenting5", "label": "SDQ: Constantly fidgeting or squirming (Qu. 2)", "categories": {"frequencies": [0, 0, 3, 8, 1314, 539, 158], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2011", "11"]}, "scale": "cat", "label_de": "NA"}, "sdqpi11": {"name": "sdqpi11", "name_cs": "sdqpi11", "variable": "sdqpi11", "dataset": "parenting5", "label": "SDQ: Has at least one good friend (Qu. 2)", "categories": {"frequencies": [1, 0, 3, 16, 38, 254, 1710], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2002", "20"]}, "scale": "cat", "label_de": "SDQ: Hat wenigstens einen guten Freund oder eine gute Freundin (Frage 2)"}, "sdqpi12": {"name": "sdqpi12", "name_cs": "sdqpi12", "variable": "sdqpi12", "dataset": "parenting5", "label": "SDQ: Often fights with other children/youth or bullies them (Qu. 2)", "categories": {"frequencies": [0, 0, 5, 21, 1585, 373, 38], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1996", "26"]}, "scale": "cat", "label_de": "SDQ: Streitet sich oft mit anderen Kindern oder schikaniert sie (Frage 2)"}, "sdqpi13": {"name": "sdqpi13", "name_cs": "sdqpi13", "variable": "sdqpi13", "dataset": "parenting5", "label": "SDQ: Often unhappy, depressed or tearful (Qu. 2)", "categories": {"frequencies": [3, 0, 1, 12, 1601, 354, 51], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2006", "16"]}, "scale": "cat", "label_de": "NA"}, "sdqpi14": {"name": "sdqpi14", "name_cs": "sdqpi14", "variable": "sdqpi14", "dataset": "parenting5", "label": "SDQ: Generally liked by other children/youth (Qu. 2)", "categories": {"frequencies": [2, 0, 2, 29, 28, 588, 1373], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1989", "33"]}, "scale": "cat", "label_de": "SDQ: Im Allgemeinen bei anderen Kindern beliebt (Frage 2)"}, "sdqpi15": {"name": "sdqpi15", "name_cs": "sdqpi15", "variable": "sdqpi15", "dataset": "parenting5", "label": "SDQ: Easily distracted, concentration wanders (Qu. 2)", "categories": {"frequencies": [0, 0, 3, 6, 667, 989, 357], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2013", "9"]}, "scale": "cat", "label_de": "SDQ: Leicht ablenkbar, unkonzentriert (Frage 2)"}, "sdqpi16": {"name": "sdqpi16", "name_cs": "sdqpi16", "variable": "sdqpi16", "dataset": "parenting5", "label": "SDQ: Nervous in new situations, easily loses confidence (Qu. 2)", "categories": {"frequencies": [1, 0, 2, 20, 1063, 773, 163], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1999", "23"]}, "scale": "cat", "label_de": "NA"}, "sdqpi17": {"name": "sdqpi17", "name_cs": "sdqpi17", "variable": "sdqpi17", "dataset": "parenting5", "label": "SDQ: Kind to younger children (Qu. 2)", "categories": {"frequencies": [0, 0, 2, 19, 55, 423, 1523], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2001", "21"]}, "scale": "cat", "label_de": "NA"}, "sdqpi18": {"name": "sdqpi18", "name_cs": "sdqpi18", "variable": "sdqpi18", "dataset": "parenting5", "label": "SDQ: Often lies or cheats (Qu. 2)", "categories": {"frequencies": [0, 0, 5, 26, 1315, 619, 57], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1991", "31"]}, "scale": "cat", "label_de": "NA"}, "sdqpi19": {"name": "sdqpi19", "name_cs": "sdqpi19", "variable": "sdqpi19", "dataset": "parenting5", "label": "SDQ: Picked on or bullied by other children/youth (Qu. 2)", "categories": {"frequencies": [3, 0, 7, 63, 1506, 386, 57], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1949", "73"]}, "scale": "cat", "label_de": "NA"}, "sdqpi20": {"name": "sdqpi20", "name_cs": "sdqpi20", "variable": "sdqpi20", "dataset": "parenting5", "label": "SDQ: Often offers to help others (parents, teachers, other children) (Qu. 2)", "categories": {"frequencies": [1, 0, 1, 22, 81, 914, 1003], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1998", "24"]}, "scale": "cat", "label_de": "SDQ: Hilft anderen oft freiwillig (Eltern, Lehrern, anderen Kindern) (Frage 2)"}, "sdqpi21": {"name": "sdqpi21", "name_cs": "sdqpi21", "variable": "sdqpi21", "dataset": "parenting5", "label": "SDQ: Thinks things out before acting (Qu. 2)", "categories": {"frequencies": [1, 0, 7, 16, 125, 1305, 568], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1998", "24"]}, "scale": "cat", "label_de": "SDQ: Denkt nach, bevor er/sie handelt (Frage 2)"}, "sdqpi22": {"name": "sdqpi22", "name_cs": "sdqpi22", "variable": "sdqpi22", "dataset": "parenting5", "label": "SDQ: Steals from home, school or elsewhere (Qu. 2)", "categories": {"frequencies": [0, 0, 5, 22, 1917, 65, 13], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1995", "27"]}, "scale": "cat", "label_de": "SDQ: Stiehlt zu Hause, in der Schule oder anderswo (Frage 2)"}, "sdqpi23": {"name": "sdqpi23", "name_cs": "sdqpi23", "variable": "sdqpi23", "dataset": "parenting5", "label": "SDQ: Gets along better with adults than with other children/youth (Qu. 2)", "categories": {"frequencies": [0, 0, 4, 62, 1318, 556, 82], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1956", "66"]}, "scale": "cat", "label_de": "SDQ: Kommt besser mit Erwachsenen aus als mit anderen Kindern (Frage 2)"}, "sdqpi24": {"name": "sdqpi24", "name_cs": "sdqpi24", "variable": "sdqpi24", "dataset": "parenting5", "label": "SDQ: Many fears, easily scared (Qu. 2)", "categories": {"frequencies": [2, 0, 1, 18, 1332, 568, 101], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2001", "21"]}, "scale": "cat", "label_de": "NA"}, "sdqpi25": {"name": "sdqpi25", "name_cs": "sdqpi25", "variable": "sdqpi25", "dataset": "parenting5", "label": "SDQ: Good attention span, sees work through to the end (Qu. 2)", "categories": {"frequencies": [3, 0, 3, 11, 204, 1134, 667], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not true", "1 Somewhat true", "2 Certainly true"], "missings": [true, true, true, true, false, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1", "2"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Trifft nicht zu", "1 Trifft teilweise zu", "2 Trifft eindeutig zu"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2005", "17"]}, "scale": "cat", "label_de": "NA"}, "pcr2i1": {"name": "pcr2i1", "name_cs": "pcr2i1", "variable": "pcr2i1", "dataset": "parenting5", "label": "When my child disobeys and breaks rules, he/she just wants to annoy me (Qu. 3)", "categories": {"frequencies": [900, 30, 615, 2, 371, 82, 0, 20, 2], "labels": ["1 Not at all", "-1", "2", "-2 No answer", "3", "4", "-4 Incorrect entry", "5 Absolutely", "-9 Invalid multiple answer"], "missings": [false, true, false, true, false, false, true, false, true], "values": ["1", "-1", "2", "-2", "3", "4", "-4", "5", "-9"], "labels_de": ["", "", "", "-2 Keine Angabe", "", "", "-4 Fehleingabe", "5 Trifft voll und ganz zu", ""]}, "statistics": {"names": ["valid", "invalid"], "values": ["1988", "34"]}, "scale": "cat", "label_de": "NA"}, "pcr2i2": {"name": "pcr2i2", "name_cs": "pcr2i2", "variable": "pcr2i2", "dataset": "parenting5", "label": "If there are problems with way I raise my child, it's my child's fault (Qu. 3)", "categories": {"frequencies": [1004, 35, 615, 4, 323, 36, 0, 3, 2], "labels": ["1 Not at all", "-1", "2", "-2 No answer", "3", "4", "-4 Incorrect entry", "5 Absolutely", "-9 Invalid multiple answer"], "missings": [false, true, false, true, false, false, true, false, true], "values": ["1", "-1", "2", "-2", "3", "4", "-4", "5", "-9"], "labels_de": ["", "", "", "-2 Keine Angabe", "", "", "-4 Fehleingabe", "5 Trifft voll und ganz zu", ""]}, "statistics": {"names": ["valid", "invalid"], "values": ["1981", "41"]}, "scale": "cat", "label_de": "Wenn es Probleme in der Erziehung gibt, liegt das an meinem Kind (Frage 3)"}, "pcr2i3": {"name": "pcr2i3", "name_cs": "pcr2i3", "variable": "pcr2i3", "dataset": "parenting5", "label": "It seems to me when my child misbehaves, he/she does it with purpose (Qu. 3)", "categories": {"frequencies": [1118, 22, 590, 2, 251, 29, 0, 8, 2], "labels": ["1 Not at all", "-1", "2", "-2 No answer", "3", "4", "-4 Incorrect entry", "5 Absolutely", "-9 Invalid multiple answer"], "missings": [false, true, false, true, false, false, true, false, true], "values": ["1", "-1", "2", "-2", "3", "4", "-4", "5", "-9"], "labels_de": ["", "", "", "-2 Keine Angabe", "", "", "-4 Fehleingabe", "5 Trifft voll und ganz zu", ""]}, "statistics": {"names": ["valid", "invalid"], "values": ["1996", "26"]}, "scale": "cat", "label_de": "NA"}, "pcr3i1": {"name": "pcr3i1", "name_cs": "pcr3i1", "variable": "pcr3i1", "dataset": "parenting5", "label": "Your child tells you what he/she is thinking (Qu. 4)", "categories": {"frequencies": [1, 0, 1, 5, 9, 92, 541, 1081, 292], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Always"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "", "5 Immer"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2015", "7"]}, "scale": "cat", "label_de": "NA"}, "pcr3i2": {"name": "pcr3i2", "name_cs": "pcr3i2", "variable": "pcr3i2", "dataset": "parenting5", "label": "You show recognition for the things your child does (Qu. 4)", "categories": {"frequencies": [2, 0, 3, 4, 1, 11, 189, 1229, 583], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Always"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "", "5 Immer"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2013", "9"]}, "scale": "cat", "label_de": "Die Dinge, die Ihr Kind tut, werden von Ihnen anerkannt (Frage 4)"}, "pcr3i3": {"name": "pcr3i3", "name_cs": "pcr3i3", "variable": "pcr3i3", "dataset": "parenting5", "label": "Your child makes you do things his/her way (Qu. 4)", "categories": {"frequencies": [0, 0, 3, 4, 112, 508, 1080, 299, 16], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Always"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "", "5 Immer"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2015", "7"]}, "scale": "cat", "label_de": "Ihr Kind bringt Sie dazu, dass Sie sich nach ihm richten (Frage 4)"}, "pcr3i4": {"name": "pcr3i4", "name_cs": "pcr3i4", "variable": "pcr3i4", "dataset": "parenting5", "label": "You and your child are annoyed or angry with each other (Qu. 4)", "categories": {"frequencies": [1, 0, 4, 2, 262, 1066, 617, 70, 0], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Always"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "", "5 Immer"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2015", "7"]}, "scale": "cat", "label_de": "NA"}, "pcr3i5": {"name": "pcr3i5", "name_cs": "pcr3i5", "variable": "pcr3i5", "dataset": "parenting5", "label": "You show your child that you respect and like him/her (Qu. 4)", "categories": {"frequencies": [1, 0, 5, 3, 1, 14, 202, 1103, 693], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Always"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "", "5 Immer"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2013", "9"]}, "scale": "cat", "label_de": "Sie zeigen Ihrem Kind, dass Sie es gut finden (Frage 4)"}, "pcr3i6": {"name": "pcr3i6", "name_cs": "pcr3i6", "variable": "pcr3i6", "dataset": "parenting5", "label": "You and your child disagree and quarrel (Qu. 4)", "categories": {"frequencies": [2, 0, 3, 4, 138, 901, 858, 112, 4], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Always"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "", "5 Immer"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2013", "9"]}, "scale": "cat", "label_de": "Sie und Ihr Kind sind unterschiedlicher Meinung und streiten sich (Frage 4)"}, "pcr3i7": {"name": "pcr3i7", "name_cs": "pcr3i7", "variable": "pcr3i7", "dataset": "parenting5", "label": "Your child gets his/her way when you can't agree on something (Qu. 4)", "categories": {"frequencies": [0, 0, 3, 14, 291, 1049, 591, 68, 6], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Always"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "", "5 Immer"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2005", "17"]}, "scale": "cat", "label_de": "NA"}, "pcr3i8": {"name": "pcr3i8", "name_cs": "pcr3i8", "variable": "pcr3i8", "dataset": "parenting5", "label": "Your child shares with you his/her feelings and thoughts (Qu. 4)", "categories": {"frequencies": [2, 0, 2, 4, 10, 170, 575, 988, 271], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Never", "2 Seldom", "3 Sometimes", "4 Often", "5 Always"], "missings": [true, true, true, true, false, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Nie", "2 Selten", "3 Manchmal", "", "5 Immer"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2014", "8"]}, "scale": "cat", "label_de": "NA"}, "edu1": {"name": "edu1", "name_cs": "edu1", "variable": "edu1", "dataset": "parenting5", "label": "What educational certificate do you wish for your child? (Qu. 5)", "categories": {"frequencies": [33, 0, 4, 41, 73, 640, 1227, 4], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Secondary general school leaving certificate", "2 Intermediate school leaving certificate", "3 Entrance qualification for universities (of applied sciences)", "4 No certificate"], "missings": [true, true, true, true, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Hauptschulabschluss", "2 Realschulabschluss/Mittlere Reife", "3 (Fach-)Abitur", "4 Schule ohne Abschluss verlassen"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1944", "78"]}, "scale": "cat", "label_de": "NA"}, "edu2": {"name": "edu2", "name_cs": "edu2", "variable": "edu2", "dataset": "parenting5", "label": "With what educational certificate is child likely to finish school? (Qu. 6)", "categories": {"frequencies": [25, 0, 4, 159, 158, 739, 929, 8], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Secondary general school leaving certificate", "2 Intermediate school leaving certificate", "3 Entrance qualification for universities (of applied sciences)", "4 Without a certificate"], "missings": [true, true, true, true, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Hauptschulabschluss", "2 Realschulabschluss/Mittlere Reife", "3 (Fach-)Abitur", "4 Schule ohne Abschluss verlassen"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1834", "188"]}, "scale": "cat", "label_de": "Mit welchem Schulabschluss wird Ihr Kind die Schule verlassen? (Frage 6)"}, "edu3": {"name": "edu3", "name_cs": "edu3", "variable": "edu3", "dataset": "parenting5", "label": "How likely is it that your child will attend university? (Qu. 7)", "categories": {"frequencies": [2, 0, 2, 172, 501, 796, 415, 134], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "1 Very likely", "2 Fairly likely", "3 Not very likely", "4 Not at all likely"], "missings": [true, true, true, true, false, false, false, false], "values": ["-9", "-4", "-2", "-1", "1", "2", "3", "4"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "1 Sehr wahrscheinlich", "2 Etwas wahrscheinlich", "3 Nicht sehr wahrscheinlich", ""]}, "statistics": {"names": ["valid", "invalid"], "values": ["1846", "176"]}, "scale": "cat", "label_de": "NA"}, "edu4": {"name": "edu4", "name_cs": "edu4", "variable": "edu4", "dataset": "parenting5", "label": "How important is it to you that your child will attend university? (Qu. 8)", "categories": {"frequencies": [398, 59, 332, 3, 583, 398, 0, 248, 1], "labels": ["1 Not at all important", "-1", "2", "-2 No answer", "3", "4", "-4 Incorrect entry", "5 Very important", "-9 Invalid multiple answer"], "missings": [false, true, false, true, false, false, true, false, true], "values": ["1", "-1", "2", "-2", "3", "4", "-4", "5", "-9"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "", "2 2", "3 3", "4 4", "5 Sehr wichtig"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1959", "63"]}, "scale": "cat", "label_de": "NA"}, "edu5i1": {"name": "edu5i1", "name_cs": "edu5i1", "variable": "edu5i1", "dataset": "parenting5", "label": "Extra lessons or classes in Math (Qu. 9)", "categories": {"frequencies": [0, 0, 0, 0, 1780, 242], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not mentioned", "1 Mentioned"], "missings": [true, true, true, true, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Nicht genannt", "1 Genannt"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2022", "0"]}, "scale": "cat", "label_de": "Zusatz- oder Nachhilfestunden in Mathe (Frage 9)"}, "edu5i2": {"name": "edu5i2", "name_cs": "edu5i2", "variable": "edu5i2", "dataset": "parenting5", "label": "Extra lessons or classes in German (Qu. 9)", "categories": {"frequencies": [0, 0, 0, 0, 1837, 185], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not mentioned", "1 Mentioned"], "missings": [true, true, true, true, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Nicht genannt", "1 Genannt"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2022", "0"]}, "scale": "cat", "label_de": "Zusatz- oder Nachhilfestunden in Deutsch (Frage 9)"}, "edu5i3": {"name": "edu5i3", "name_cs": "edu5i3", "variable": "edu5i3", "dataset": "parenting5", "label": "Extra lessons or classes in Foreign languages (Qu. 9)", "categories": {"frequencies": [0, 0, 0, 0, 1888, 134], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not mentioned", "1 Mentioned"], "missings": [true, true, true, true, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Nicht genannt", "1 Genannt"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2022", "0"]}, "scale": "cat", "label_de": "Zusatz- oder Nachhilfestunden in Fremdsprachen (Frage 9)"}, "edu5i4": {"name": "edu5i4", "name_cs": "edu5i4", "variable": "edu5i4", "dataset": "parenting5", "label": "Extra lessons or classes in Another subject (Qu. 9)", "categories": {"frequencies": [0, 0, 0, 0, 1991, 31], "labels": ["-9 Invalid multiple answer", "-4 Incorrect entry", "-2 No answer", "-1", "0 Not mentioned", "1 Mentioned"], "missings": [true, true, true, true, false, false], "values": ["-9", "-4", "-2", "-1", "0", "1"], "labels_de": ["", "-4 Fehleingabe", "-2 Keine Angabe", "", "0 Nicht genannt", "1 Genannt"]}, "statistics": {"names": ["valid", "invalid"], "values": ["2022", "0"]}, "scale": "cat", "label_de": "Zusatz- oder Nachhilfestunden in anderem Fach (Frage 9)"}, "edu6": {"name": "edu6", "name_cs": "edu6", "variable": "edu6", "dataset": "parenting5", "label": "Average cost for extra lessons or classes (Qu. 10)", "categories": {"frequencies": [163, 47, 7, 26, 1, 5, 6, 2, 2, 2, 9, 1, 2, 1, 3, 1, 1, 6, 11, 8, 2, 1, 2, 3, 1602, 21, 2, 1, 1, 0, 18, 1, 1, 5, 16, 1, 1, 14, 1, 4, 2, 1, 9, 2, 1, 0, 5, 1], "labels": ["0 Free of charge", "-1", "10", "100", "104", "110", "120", "124", "125", "128", "130", "140", "150", "155", "170", "180", "189", "-2 No answer", "20", "200", "220", "24", "240", "250", "-3 Does not apply", "30", "32", "35", "38", "-4 Incorrect entry", "40", "45", "48", "-5 Inconsistent value", "50", "500", "55", "60", "7", "70", "75", "79", "80", "84", "85", "-9 Invalid multiple answer", "90", "97"], "missings": [false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, false, false, false, false, false, false, true, false, false, false, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, true, false, false], "values": ["0", "-1", "10", "100", "104", "110", "120", "124", "125", "128", "130", "140", "150", "155", "170", "180", "189", "-2", "20", "200", "220", "24", "240", "250", "-3", "30", "32", "35", "38", "-4", "40", "45", "48", "-5", "50", "500", "55", "60", "7", "70", "75", "79", "80", "84", "85", "-9", "90", "97"], "labels_de": ["0 Kostenfrei", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "-2 Keine Angabe", "", "", "", "", "", "", "-3 Trifft nicht zu", "", "", "", "", "-4 Fehleingabe", "", "", "", "-5 Inkonsistenter Wert", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]}, "statistics": {"names": ["valid", "invalid"], "values": ["362", "1660"]}, "scale": "cat", "label_de": "NA"}}
+{
+  "id": {
+    "name": "id",
+    "name_cs": "id",
+    "variable": "id",
+    "dataset": "parenting5",
+    "label": "Person number anchor",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "111000",
+        "224600000",
+        "472600000",
+        "464100000",
+        "692100000",
+        "9.2e+08",
+        "2022",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Personennummer Anker"
+  },
+  "pid": {
+    "name": "pid",
+    "name_cs": "pid",
+    "variable": "pid",
+    "dataset": "parenting5",
+    "label": "Person number partner",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3902000",
+        "232500000",
+        "479700000",
+        "466300000",
+        "692200000",
+        "9.2e+08",
+        "111",
+        "1911",
+        "111"
+      ]
+    },
+    "scale": "",
+    "label_de": "Personennummer Partner"
+  },
+  "cid": {
+    "name": "cid",
+    "name_cs": "cid",
+    "variable": "cid",
+    "dataset": "parenting5",
+    "label": "Person number child",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "111200",
+        "224600000",
+        "472600000",
+        "464100000",
+        "692100000",
+        "9.2e+08",
+        "2022",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Personennummer Kind"
+  },
+  "demodiff": {
+    "name": "demodiff",
+    "name_cs": "demodiff",
+    "variable": "demodiff",
+    "dataset": "parenting5",
+    "label": "DemoDiff sample",
+    "categories": {
+      "frequencies": [
+        1673,
+        349
+      ],
+      "labels": [
+        "0 pairfam",
+        "1 demodiff"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "0 pairfam",
+        "1 demodiff"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2022",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "DemoDiff Stichprobe"
+  },
+  "wave": {
+    "name": "wave",
+    "name_cs": "wave",
+    "variable": "wave",
+    "dataset": "parenting5",
+    "label": "Survey year",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        2022
+      ],
+      "labels": [
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2022",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Erhebungsjahr"
+  },
+  "dropoffvers": {
+    "name": "dropoffvers",
+    "name_cs": "dropoffvers",
+    "variable": "dropoffvers",
+    "dataset": "parenting5",
+    "label": "Drop-off Version: Questionnaire completed by?",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        1216,
+        806
+      ],
+      "labels": [
+        "-5 Inconsistent value",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "1 by anchor",
+        "2 by partner"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-5",
+        "-4",
+        "-2",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-5 Inkonsistenter Wert",
+        "-4 Fehleingabe/Filterfehler",
+        "-2 Keine Angabe",
+        "1 Ankerperson",
+        "2 Partner"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2022",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Drop-Off Version: Befragte Person?"
+  },
+  "pcr1i1": {
+    "name": "pcr1i1",
+    "name_cs": "pcr1i1",
+    "variable": "pcr1i1",
+    "dataset": "parenting5",
+    "label": "You show your child with words and gestures that you like him/her (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        4,
+        2,
+        0,
+        17,
+        192,
+        904,
+        903
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2016",
+        "6"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sie zeigen Ihrem Kind mit Worten und Gesten, dass Sie es gerne haben (Frage 1)"
+  },
+  "pcr1i2": {
+    "name": "pcr1i2",
+    "name_cs": "pcr1i2",
+    "variable": "pcr1i2",
+    "dataset": "parenting5",
+    "label": "When your child makes new friends, you talk to him/her about them (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        1,
+        5,
+        2,
+        70,
+        486,
+        1016,
+        441
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2015",
+        "7"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr1i15": {
+    "name": "pcr1i15",
+    "name_cs": "pcr1i15",
+    "variable": "pcr1i15",
+    "dataset": "parenting5",
+    "label": "You are disappointed and sad because your child misbehaved (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        3,
+        5,
+        56,
+        449,
+        1149,
+        310,
+        50
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2014",
+        "8"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr1i3": {
+    "name": "pcr1i3",
+    "name_cs": "pcr1i3",
+    "variable": "pcr1i3",
+    "dataset": "parenting5",
+    "label": "You criticize your child (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        6,
+        1,
+        65,
+        422,
+        1232,
+        277,
+        19
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2015",
+        "7"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sie kritisieren Ihr Kind (Frage 1)"
+  },
+  "pcr1i4": {
+    "name": "pcr1i4",
+    "name_cs": "pcr1i4",
+    "variable": "pcr1i4",
+    "dataset": "parenting5",
+    "label": "You lessen a punishment or end it early (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        9,
+        30,
+        88,
+        632,
+        860,
+        341,
+        60
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1981",
+        "41"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr1i5": {
+    "name": "pcr1i5",
+    "name_cs": "pcr1i5",
+    "variable": "pcr1i5",
+    "dataset": "parenting5",
+    "label": "You cheer up your child when he/she is sad (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        4,
+        0,
+        7,
+        2,
+        3,
+        30,
+        233,
+        869,
+        874
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2009",
+        "13"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr1i18": {
+    "name": "pcr1i18",
+    "name_cs": "pcr1i18",
+    "variable": "pcr1i18",
+    "dataset": "parenting5",
+    "label": "You never waive from your rules (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        5,
+        25,
+        58,
+        524,
+        838,
+        485,
+        87
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1992",
+        "30"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sie lassen sich nicht von Ihren Regeln und Verboten abbringen (Frage 1)"
+  },
+  "pcr1i19": {
+    "name": "pcr1i19",
+    "name_cs": "pcr1i19",
+    "variable": "pcr1i19",
+    "dataset": "parenting5",
+    "label": "If your child does something against your will, you punish him/her (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        6,
+        15,
+        115,
+        660,
+        982,
+        223,
+        21
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2001",
+        "21"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wenn Ihr Kind etwas gegen Ihren Willen tut, bestrafen Sie es (Frage 1)"
+  },
+  "pcr1i6": {
+    "name": "pcr1i6",
+    "name_cs": "pcr1i6",
+    "variable": "pcr1i6",
+    "dataset": "parenting5",
+    "label": "When your child goes out, you know exactly where he/she is (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        4,
+        4,
+        2,
+        43,
+        157,
+        722,
+        1090
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2014",
+        "8"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr1i7": {
+    "name": "pcr1i7",
+    "name_cs": "pcr1i7",
+    "variable": "pcr1i7",
+    "dataset": "parenting5",
+    "label": "You find it hard to set and keep consistent rules for your child (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        5,
+        10,
+        129,
+        852,
+        820,
+        178,
+        27
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2006",
+        "16"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr1i8": {
+    "name": "pcr1i8",
+    "name_cs": "pcr1i8",
+    "variable": "pcr1i8",
+    "dataset": "parenting5",
+    "label": "You yell at your child because he/she did something wrong (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        3,
+        1,
+        332,
+        953,
+        622,
+        99,
+        11
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2017",
+        "5"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sie schreien Ihr Kind an, wenn es etwas falsch gemacht hat (Frage 1)"
+  },
+  "pcr1i16": {
+    "name": "pcr1i16",
+    "name_cs": "pcr1i16",
+    "variable": "pcr1i16",
+    "dataset": "parenting5",
+    "label": "You think your child is ungrateful when he/she does not obey you (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        6,
+        14,
+        848,
+        759,
+        339,
+        52,
+        3
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2001",
+        "21"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr1i9": {
+    "name": "pcr1i9",
+    "name_cs": "pcr1i9",
+    "variable": "pcr1i9",
+    "dataset": "parenting5",
+    "label": "When your child goes out, you ask what he/she did and experienced (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        7,
+        8,
+        8,
+        32,
+        221,
+        912,
+        834
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2007",
+        "15"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wenn Kind unterwegs war, fragen Sie nach, was es getan und erlebt hat (Frage 1)"
+  },
+  "pcr1i10": {
+    "name": "pcr1i10",
+    "name_cs": "pcr1i10",
+    "variable": "pcr1i10",
+    "dataset": "parenting5",
+    "label": "On some days you are stricter than on others (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        5,
+        19,
+        68,
+        399,
+        1274,
+        225,
+        31
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1997",
+        "25"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Es gibt Tage, an denen Sie strenger sind als an anderen (Frage 1)"
+  },
+  "pcr1i20": {
+    "name": "pcr1i20",
+    "name_cs": "pcr1i20",
+    "variable": "pcr1i20",
+    "dataset": "parenting5",
+    "label": "You make it clear to child that he/she is not to break rules, decisions (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        8,
+        30,
+        79,
+        332,
+        895,
+        619,
+        59
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1984",
+        "38"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sie geben Kind zu verstehen, dass es sich nicht widersetzen soll (Frage 1)"
+  },
+  "pcr1i17": {
+    "name": "pcr1i17",
+    "name_cs": "pcr1i17",
+    "variable": "pcr1i17",
+    "dataset": "parenting5",
+    "label": "You don't talk to child for a while because he/she did something wrong (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        3,
+        1,
+        1051,
+        684,
+        210,
+        67,
+        6
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2018",
+        "4"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sie reden eine Zeit lang nicht mit Kind, wenn es etwas angestellt hat (Frage 1)"
+  },
+  "pcr1i11": {
+    "name": "pcr1i11",
+    "name_cs": "pcr1i11",
+    "variable": "pcr1i11",
+    "dataset": "parenting5",
+    "label": "You scold your child because you are angry at him/her (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        5,
+        3,
+        669,
+        811,
+        451,
+        74,
+        8
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2013",
+        "9"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr1i21": {
+    "name": "pcr1i21",
+    "name_cs": "pcr1i21",
+    "variable": "pcr1i21",
+    "dataset": "parenting5",
+    "label": "You tend to be a strict parent (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        3,
+        0,
+        10,
+        16,
+        127,
+        658,
+        812,
+        365,
+        31
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1993",
+        "29"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sie sind eher streng (Frage 1)"
+  },
+  "pcr1i12": {
+    "name": "pcr1i12",
+    "name_cs": "pcr1i12",
+    "variable": "pcr1i12",
+    "dataset": "parenting5",
+    "label": "When your child makes new friends, you get to know them soon thereafter (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        5,
+        11,
+        7,
+        164,
+        534,
+        918,
+        383
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2006",
+        "16"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wenn Ihr Kind neue Freunde hat, lernen Sie sie auch bald kennen (Frage 1)"
+  },
+  "pcr1i13": {
+    "name": "pcr1i13",
+    "name_cs": "pcr1i13",
+    "variable": "pcr1i13",
+    "dataset": "parenting5",
+    "label": "You threaten child with a punishment but don't actually follow through (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        5,
+        8,
+        259,
+        904,
+        639,
+        173,
+        34
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2009",
+        "13"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sie drohen Ihrem Kind eine Strafe an, strafen es dann aber doch nicht (Frage 1)"
+  },
+  "pcr1i14": {
+    "name": "pcr1i14",
+    "name_cs": "pcr1i14",
+    "variable": "pcr1i14",
+    "dataset": "parenting5",
+    "label": "You praise your child (Qu. 1)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        4,
+        1,
+        0,
+        11,
+        220,
+        1027,
+        759
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Very often"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "4 Oft",
+        "5 Sehr oft"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2017",
+        "5"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sie loben Ihr Kind (Frage 1)"
+  },
+  "sdqpi1": {
+    "name": "sdqpi1",
+    "name_cs": "sdqpi1",
+    "variable": "sdqpi1",
+    "dataset": "parenting5",
+    "label": "SDQ: Considerate of other people's feelings (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        3,
+        6,
+        66,
+        1009,
+        937
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2012",
+        "10"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi2": {
+    "name": "sdqpi2",
+    "name_cs": "sdqpi2",
+    "variable": "sdqpi2",
+    "dataset": "parenting5",
+    "label": "SDQ: Restless, overactive, cannot stay still for long (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        8,
+        4,
+        1116,
+        653,
+        241
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2010",
+        "12"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi3": {
+    "name": "sdqpi3",
+    "name_cs": "sdqpi3",
+    "variable": "sdqpi3",
+    "dataset": "parenting5",
+    "label": "SDQ: Often complains of headaches, stomach-aches or sickness (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        6,
+        10,
+        1307,
+        592,
+        107
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2006",
+        "16"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi4": {
+    "name": "sdqpi4",
+    "name_cs": "sdqpi4",
+    "variable": "sdqpi4",
+    "dataset": "parenting5",
+    "label": "SDQ: Shares readily with other children/youth (treats, toys etc.) (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        4,
+        22,
+        73,
+        815,
+        1107
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1995",
+        "27"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi5": {
+    "name": "sdqpi5",
+    "name_cs": "sdqpi5",
+    "variable": "sdqpi5",
+    "dataset": "parenting5",
+    "label": "SDQ: Often loses temper (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        7,
+        10,
+        1062,
+        770,
+        173
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2005",
+        "17"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi6": {
+    "name": "sdqpi6",
+    "name_cs": "sdqpi6",
+    "variable": "sdqpi6",
+    "dataset": "parenting5",
+    "label": "SDQ: Would rather be alone than with other children/youth (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        3,
+        0,
+        4,
+        9,
+        1384,
+        509,
+        113
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2006",
+        "16"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi7": {
+    "name": "sdqpi7",
+    "name_cs": "sdqpi7",
+    "variable": "sdqpi7",
+    "dataset": "parenting5",
+    "label": "SDQ: Generally well behaved, usually does what adults request (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        3,
+        8,
+        90,
+        1017,
+        902
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2009",
+        "13"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "SDQ: Im Allgemeinen folgsam; macht meist, was Erwachsene verlangen (Frage 2)"
+  },
+  "sdqpi8": {
+    "name": "sdqpi8",
+    "name_cs": "sdqpi8",
+    "variable": "sdqpi8",
+    "dataset": "parenting5",
+    "label": "SDQ: Many worries or often seems worried (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        2,
+        12,
+        1344,
+        582,
+        80
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2006",
+        "16"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi9": {
+    "name": "sdqpi9",
+    "name_cs": "sdqpi9",
+    "variable": "sdqpi9",
+    "dataset": "parenting5",
+    "label": "SDQ: Helpful if someone is hurt, upset or feeling ill (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        5,
+        14,
+        38,
+        428,
+        1536
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2002",
+        "20"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi10": {
+    "name": "sdqpi10",
+    "name_cs": "sdqpi10",
+    "variable": "sdqpi10",
+    "dataset": "parenting5",
+    "label": "SDQ: Constantly fidgeting or squirming (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        3,
+        8,
+        1314,
+        539,
+        158
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2011",
+        "11"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi11": {
+    "name": "sdqpi11",
+    "name_cs": "sdqpi11",
+    "variable": "sdqpi11",
+    "dataset": "parenting5",
+    "label": "SDQ: Has at least one good friend (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        3,
+        16,
+        38,
+        254,
+        1710
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2002",
+        "20"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "SDQ: Hat wenigstens einen guten Freund oder eine gute Freundin (Frage 2)"
+  },
+  "sdqpi12": {
+    "name": "sdqpi12",
+    "name_cs": "sdqpi12",
+    "variable": "sdqpi12",
+    "dataset": "parenting5",
+    "label": "SDQ: Often fights with other children/youth or bullies them (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        5,
+        21,
+        1585,
+        373,
+        38
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1996",
+        "26"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "SDQ: Streitet sich oft mit anderen Kindern oder schikaniert sie (Frage 2)"
+  },
+  "sdqpi13": {
+    "name": "sdqpi13",
+    "name_cs": "sdqpi13",
+    "variable": "sdqpi13",
+    "dataset": "parenting5",
+    "label": "SDQ: Often unhappy, depressed or tearful (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        3,
+        0,
+        1,
+        12,
+        1601,
+        354,
+        51
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2006",
+        "16"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi14": {
+    "name": "sdqpi14",
+    "name_cs": "sdqpi14",
+    "variable": "sdqpi14",
+    "dataset": "parenting5",
+    "label": "SDQ: Generally liked by other children/youth (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        2,
+        29,
+        28,
+        588,
+        1373
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1989",
+        "33"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "SDQ: Im Allgemeinen bei anderen Kindern beliebt (Frage 2)"
+  },
+  "sdqpi15": {
+    "name": "sdqpi15",
+    "name_cs": "sdqpi15",
+    "variable": "sdqpi15",
+    "dataset": "parenting5",
+    "label": "SDQ: Easily distracted, concentration wanders (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        3,
+        6,
+        667,
+        989,
+        357
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2013",
+        "9"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "SDQ: Leicht ablenkbar, unkonzentriert (Frage 2)"
+  },
+  "sdqpi16": {
+    "name": "sdqpi16",
+    "name_cs": "sdqpi16",
+    "variable": "sdqpi16",
+    "dataset": "parenting5",
+    "label": "SDQ: Nervous in new situations, easily loses confidence (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        2,
+        20,
+        1063,
+        773,
+        163
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1999",
+        "23"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi17": {
+    "name": "sdqpi17",
+    "name_cs": "sdqpi17",
+    "variable": "sdqpi17",
+    "dataset": "parenting5",
+    "label": "SDQ: Kind to younger children (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        2,
+        19,
+        55,
+        423,
+        1523
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2001",
+        "21"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi18": {
+    "name": "sdqpi18",
+    "name_cs": "sdqpi18",
+    "variable": "sdqpi18",
+    "dataset": "parenting5",
+    "label": "SDQ: Often lies or cheats (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        5,
+        26,
+        1315,
+        619,
+        57
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1991",
+        "31"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi19": {
+    "name": "sdqpi19",
+    "name_cs": "sdqpi19",
+    "variable": "sdqpi19",
+    "dataset": "parenting5",
+    "label": "SDQ: Picked on or bullied by other children/youth (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        3,
+        0,
+        7,
+        63,
+        1506,
+        386,
+        57
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1949",
+        "73"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi20": {
+    "name": "sdqpi20",
+    "name_cs": "sdqpi20",
+    "variable": "sdqpi20",
+    "dataset": "parenting5",
+    "label": "SDQ: Often offers to help others (parents, teachers, other children) (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        1,
+        22,
+        81,
+        914,
+        1003
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1998",
+        "24"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "SDQ: Hilft anderen oft freiwillig (Eltern, Lehrern, anderen Kindern) (Frage 2)"
+  },
+  "sdqpi21": {
+    "name": "sdqpi21",
+    "name_cs": "sdqpi21",
+    "variable": "sdqpi21",
+    "dataset": "parenting5",
+    "label": "SDQ: Thinks things out before acting (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        7,
+        16,
+        125,
+        1305,
+        568
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1998",
+        "24"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "SDQ: Denkt nach, bevor er/sie handelt (Frage 2)"
+  },
+  "sdqpi22": {
+    "name": "sdqpi22",
+    "name_cs": "sdqpi22",
+    "variable": "sdqpi22",
+    "dataset": "parenting5",
+    "label": "SDQ: Steals from home, school or elsewhere (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        5,
+        22,
+        1917,
+        65,
+        13
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1995",
+        "27"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "SDQ: Stiehlt zu Hause, in der Schule oder anderswo (Frage 2)"
+  },
+  "sdqpi23": {
+    "name": "sdqpi23",
+    "name_cs": "sdqpi23",
+    "variable": "sdqpi23",
+    "dataset": "parenting5",
+    "label": "SDQ: Gets along better with adults than with other children/youth (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        4,
+        62,
+        1318,
+        556,
+        82
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1956",
+        "66"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "SDQ: Kommt besser mit Erwachsenen aus als mit anderen Kindern (Frage 2)"
+  },
+  "sdqpi24": {
+    "name": "sdqpi24",
+    "name_cs": "sdqpi24",
+    "variable": "sdqpi24",
+    "dataset": "parenting5",
+    "label": "SDQ: Many fears, easily scared (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        1,
+        18,
+        1332,
+        568,
+        101
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2001",
+        "21"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "sdqpi25": {
+    "name": "sdqpi25",
+    "name_cs": "sdqpi25",
+    "variable": "sdqpi25",
+    "dataset": "parenting5",
+    "label": "SDQ: Good attention span, sees work through to the end (Qu. 2)",
+    "categories": {
+      "frequencies": [
+        3,
+        0,
+        3,
+        11,
+        204,
+        1134,
+        667
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not true",
+        "1 Somewhat true",
+        "2 Certainly true"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Trifft nicht zu",
+        "1 Trifft teilweise zu",
+        "2 Trifft eindeutig zu"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2005",
+        "17"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr2i1": {
+    "name": "pcr2i1",
+    "name_cs": "pcr2i1",
+    "variable": "pcr2i1",
+    "dataset": "parenting5",
+    "label": "When my child disobeys and breaks rules, he/she just wants to annoy me (Qu. 3)",
+    "categories": {
+      "frequencies": [
+        900,
+        30,
+        615,
+        2,
+        371,
+        82,
+        0,
+        20,
+        2
+      ],
+      "labels": [
+        "1 Not at all",
+        "-1",
+        "2",
+        "-2 No answer",
+        "3",
+        "4",
+        "-4 Incorrect entry",
+        "5 Absolutely",
+        "-9 Invalid multiple answer"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "-4",
+        "5",
+        "-9"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "-2 Keine Angabe",
+        "",
+        "",
+        "-4 Fehleingabe",
+        "5 Trifft voll und ganz zu",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1988",
+        "34"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr2i2": {
+    "name": "pcr2i2",
+    "name_cs": "pcr2i2",
+    "variable": "pcr2i2",
+    "dataset": "parenting5",
+    "label": "If there are problems with way I raise my child, it's my child's fault (Qu. 3)",
+    "categories": {
+      "frequencies": [
+        1004,
+        35,
+        615,
+        4,
+        323,
+        36,
+        0,
+        3,
+        2
+      ],
+      "labels": [
+        "1 Not at all",
+        "-1",
+        "2",
+        "-2 No answer",
+        "3",
+        "4",
+        "-4 Incorrect entry",
+        "5 Absolutely",
+        "-9 Invalid multiple answer"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "-4",
+        "5",
+        "-9"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "-2 Keine Angabe",
+        "",
+        "",
+        "-4 Fehleingabe",
+        "5 Trifft voll und ganz zu",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1981",
+        "41"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wenn es Probleme in der Erziehung gibt, liegt das an meinem Kind (Frage 3)"
+  },
+  "pcr2i3": {
+    "name": "pcr2i3",
+    "name_cs": "pcr2i3",
+    "variable": "pcr2i3",
+    "dataset": "parenting5",
+    "label": "It seems to me when my child misbehaves, he/she does it with purpose (Qu. 3)",
+    "categories": {
+      "frequencies": [
+        1118,
+        22,
+        590,
+        2,
+        251,
+        29,
+        0,
+        8,
+        2
+      ],
+      "labels": [
+        "1 Not at all",
+        "-1",
+        "2",
+        "-2 No answer",
+        "3",
+        "4",
+        "-4 Incorrect entry",
+        "5 Absolutely",
+        "-9 Invalid multiple answer"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "-4",
+        "5",
+        "-9"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "-2 Keine Angabe",
+        "",
+        "",
+        "-4 Fehleingabe",
+        "5 Trifft voll und ganz zu",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1996",
+        "26"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr3i1": {
+    "name": "pcr3i1",
+    "name_cs": "pcr3i1",
+    "variable": "pcr3i1",
+    "dataset": "parenting5",
+    "label": "Your child tells you what he/she is thinking (Qu. 4)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        1,
+        5,
+        9,
+        92,
+        541,
+        1081,
+        292
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Always"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "",
+        "5 Immer"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2015",
+        "7"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr3i2": {
+    "name": "pcr3i2",
+    "name_cs": "pcr3i2",
+    "variable": "pcr3i2",
+    "dataset": "parenting5",
+    "label": "You show recognition for the things your child does (Qu. 4)",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        3,
+        4,
+        1,
+        11,
+        189,
+        1229,
+        583
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Always"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "",
+        "5 Immer"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2013",
+        "9"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Die Dinge, die Ihr Kind tut, werden von Ihnen anerkannt (Frage 4)"
+  },
+  "pcr3i3": {
+    "name": "pcr3i3",
+    "name_cs": "pcr3i3",
+    "variable": "pcr3i3",
+    "dataset": "parenting5",
+    "label": "Your child makes you do things his/her way (Qu. 4)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        3,
+        4,
+        112,
+        508,
+        1080,
+        299,
+        16
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Always"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "",
+        "5 Immer"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2015",
+        "7"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ihr Kind bringt Sie dazu, dass Sie sich nach ihm richten (Frage 4)"
+  },
+  "pcr3i4": {
+    "name": "pcr3i4",
+    "name_cs": "pcr3i4",
+    "variable": "pcr3i4",
+    "dataset": "parenting5",
+    "label": "You and your child are annoyed or angry with each other (Qu. 4)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        4,
+        2,
+        262,
+        1066,
+        617,
+        70,
+        0
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Always"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "",
+        "5 Immer"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2015",
+        "7"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr3i5": {
+    "name": "pcr3i5",
+    "name_cs": "pcr3i5",
+    "variable": "pcr3i5",
+    "dataset": "parenting5",
+    "label": "You show your child that you respect and like him/her (Qu. 4)",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        5,
+        3,
+        1,
+        14,
+        202,
+        1103,
+        693
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Always"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "",
+        "5 Immer"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2013",
+        "9"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sie zeigen Ihrem Kind, dass Sie es gut finden (Frage 4)"
+  },
+  "pcr3i6": {
+    "name": "pcr3i6",
+    "name_cs": "pcr3i6",
+    "variable": "pcr3i6",
+    "dataset": "parenting5",
+    "label": "You and your child disagree and quarrel (Qu. 4)",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        3,
+        4,
+        138,
+        901,
+        858,
+        112,
+        4
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Always"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "",
+        "5 Immer"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2013",
+        "9"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sie und Ihr Kind sind unterschiedlicher Meinung und streiten sich (Frage 4)"
+  },
+  "pcr3i7": {
+    "name": "pcr3i7",
+    "name_cs": "pcr3i7",
+    "variable": "pcr3i7",
+    "dataset": "parenting5",
+    "label": "Your child gets his/her way when you can't agree on something (Qu. 4)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        3,
+        14,
+        291,
+        1049,
+        591,
+        68,
+        6
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Always"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "",
+        "5 Immer"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2005",
+        "17"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "pcr3i8": {
+    "name": "pcr3i8",
+    "name_cs": "pcr3i8",
+    "variable": "pcr3i8",
+    "dataset": "parenting5",
+    "label": "Your child shares with you his/her feelings and thoughts (Qu. 4)",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        2,
+        4,
+        10,
+        170,
+        575,
+        988,
+        271
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Never",
+        "2 Seldom",
+        "3 Sometimes",
+        "4 Often",
+        "5 Always"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Nie",
+        "2 Selten",
+        "3 Manchmal",
+        "",
+        "5 Immer"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2014",
+        "8"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "edu1": {
+    "name": "edu1",
+    "name_cs": "edu1",
+    "variable": "edu1",
+    "dataset": "parenting5",
+    "label": "What educational certificate do you wish for your child? (Qu. 5)",
+    "categories": {
+      "frequencies": [
+        33,
+        0,
+        4,
+        41,
+        73,
+        640,
+        1227,
+        4
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Secondary general school leaving certificate",
+        "2 Intermediate school leaving certificate",
+        "3 Entrance qualification for universities (of applied sciences)",
+        "4 No certificate"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Hauptschulabschluss",
+        "2 Realschulabschluss/Mittlere Reife",
+        "3 (Fach-)Abitur",
+        "4 Schule ohne Abschluss verlassen"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1944",
+        "78"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "edu2": {
+    "name": "edu2",
+    "name_cs": "edu2",
+    "variable": "edu2",
+    "dataset": "parenting5",
+    "label": "With what educational certificate is child likely to finish school? (Qu. 6)",
+    "categories": {
+      "frequencies": [
+        25,
+        0,
+        4,
+        159,
+        158,
+        739,
+        929,
+        8
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Secondary general school leaving certificate",
+        "2 Intermediate school leaving certificate",
+        "3 Entrance qualification for universities (of applied sciences)",
+        "4 Without a certificate"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Hauptschulabschluss",
+        "2 Realschulabschluss/Mittlere Reife",
+        "3 (Fach-)Abitur",
+        "4 Schule ohne Abschluss verlassen"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1834",
+        "188"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Mit welchem Schulabschluss wird Ihr Kind die Schule verlassen? (Frage 6)"
+  },
+  "edu3": {
+    "name": "edu3",
+    "name_cs": "edu3",
+    "variable": "edu3",
+    "dataset": "parenting5",
+    "label": "How likely is it that your child will attend university? (Qu. 7)",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        2,
+        172,
+        501,
+        796,
+        415,
+        134
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "1 Very likely",
+        "2 Fairly likely",
+        "3 Not very likely",
+        "4 Not at all likely"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "1 Sehr wahrscheinlich",
+        "2 Etwas wahrscheinlich",
+        "3 Nicht sehr wahrscheinlich",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1846",
+        "176"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "edu4": {
+    "name": "edu4",
+    "name_cs": "edu4",
+    "variable": "edu4",
+    "dataset": "parenting5",
+    "label": "How important is it to you that your child will attend university? (Qu. 8)",
+    "categories": {
+      "frequencies": [
+        398,
+        59,
+        332,
+        3,
+        583,
+        398,
+        0,
+        248,
+        1
+      ],
+      "labels": [
+        "1 Not at all important",
+        "-1",
+        "2",
+        "-2 No answer",
+        "3",
+        "4",
+        "-4 Incorrect entry",
+        "5 Very important",
+        "-9 Invalid multiple answer"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "-4",
+        "5",
+        "-9"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "",
+        "2 2",
+        "3 3",
+        "4 4",
+        "5 Sehr wichtig"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1959",
+        "63"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  },
+  "edu5i1": {
+    "name": "edu5i1",
+    "name_cs": "edu5i1",
+    "variable": "edu5i1",
+    "dataset": "parenting5",
+    "label": "Extra lessons or classes in Math (Qu. 9)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        1780,
+        242
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not mentioned",
+        "1 Mentioned"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Nicht genannt",
+        "1 Genannt"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2022",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zusatz- oder Nachhilfestunden in Mathe (Frage 9)"
+  },
+  "edu5i2": {
+    "name": "edu5i2",
+    "name_cs": "edu5i2",
+    "variable": "edu5i2",
+    "dataset": "parenting5",
+    "label": "Extra lessons or classes in German (Qu. 9)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        1837,
+        185
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not mentioned",
+        "1 Mentioned"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Nicht genannt",
+        "1 Genannt"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2022",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zusatz- oder Nachhilfestunden in Deutsch (Frage 9)"
+  },
+  "edu5i3": {
+    "name": "edu5i3",
+    "name_cs": "edu5i3",
+    "variable": "edu5i3",
+    "dataset": "parenting5",
+    "label": "Extra lessons or classes in Foreign languages (Qu. 9)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        1888,
+        134
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not mentioned",
+        "1 Mentioned"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Nicht genannt",
+        "1 Genannt"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2022",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zusatz- oder Nachhilfestunden in Fremdsprachen (Frage 9)"
+  },
+  "edu5i4": {
+    "name": "edu5i4",
+    "name_cs": "edu5i4",
+    "variable": "edu5i4",
+    "dataset": "parenting5",
+    "label": "Extra lessons or classes in Another subject (Qu. 9)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        1991,
+        31
+      ],
+      "labels": [
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
+        "-2 No answer",
+        "-1",
+        "0 Not mentioned",
+        "1 Mentioned"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-9",
+        "-4",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "",
+        "-4 Fehleingabe",
+        "-2 Keine Angabe",
+        "",
+        "0 Nicht genannt",
+        "1 Genannt"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2022",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zusatz- oder Nachhilfestunden in anderem Fach (Frage 9)"
+  },
+  "edu6": {
+    "name": "edu6",
+    "name_cs": "edu6",
+    "variable": "edu6",
+    "dataset": "parenting5",
+    "label": "Average cost for extra lessons or classes (Qu. 10)",
+    "categories": {
+      "frequencies": [
+        163,
+        47,
+        7,
+        26,
+        1,
+        5,
+        6,
+        2,
+        2,
+        2,
+        9,
+        1,
+        2,
+        1,
+        3,
+        1,
+        1,
+        6,
+        11,
+        8,
+        2,
+        1,
+        2,
+        3,
+        1602,
+        21,
+        2,
+        1,
+        1,
+        0,
+        18,
+        1,
+        1,
+        5,
+        16,
+        1,
+        1,
+        14,
+        1,
+        4,
+        2,
+        1,
+        9,
+        2,
+        1,
+        0,
+        5,
+        1
+      ],
+      "labels": [
+        "0 Free of charge",
+        "-1",
+        "10",
+        "100",
+        "104",
+        "110",
+        "120",
+        "124",
+        "125",
+        "128",
+        "130",
+        "140",
+        "150",
+        "155",
+        "170",
+        "180",
+        "189",
+        "-2 No answer",
+        "20",
+        "200",
+        "220",
+        "24",
+        "240",
+        "250",
+        "-3 Does not apply",
+        "30",
+        "32",
+        "35",
+        "38",
+        "-4 Incorrect entry",
+        "40",
+        "45",
+        "48",
+        "-5 Inconsistent value",
+        "50",
+        "500",
+        "55",
+        "60",
+        "7",
+        "70",
+        "75",
+        "79",
+        "80",
+        "84",
+        "85",
+        "-9 Invalid multiple answer",
+        "90",
+        "97"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "-1",
+        "10",
+        "100",
+        "104",
+        "110",
+        "120",
+        "124",
+        "125",
+        "128",
+        "130",
+        "140",
+        "150",
+        "155",
+        "170",
+        "180",
+        "189",
+        "-2",
+        "20",
+        "200",
+        "220",
+        "24",
+        "240",
+        "250",
+        "-3",
+        "30",
+        "32",
+        "35",
+        "38",
+        "-4",
+        "40",
+        "45",
+        "48",
+        "-5",
+        "50",
+        "500",
+        "55",
+        "60",
+        "7",
+        "70",
+        "75",
+        "79",
+        "80",
+        "84",
+        "85",
+        "-9",
+        "90",
+        "97"
+      ],
+      "labels_de": [
+        "0 Kostenfrei",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-2 Keine Angabe",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Trifft nicht zu",
+        "",
+        "",
+        "",
+        "",
+        "-4 Fehleingabe",
+        "",
+        "",
+        "",
+        "-5 Inkonsistenter Wert",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "362",
+        "1660"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NA"
+  }
+}
