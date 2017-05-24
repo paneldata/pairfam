@@ -3,11 +3,11 @@ set more off
 
 set maxvar 30000
 
-local allfiles : dir "../../data/pairfam/v7" files "*.dta"
+local allfiles : dir "../../data/pairfam/v8" files "*.dta"
 foreach file in `allfiles' {
-  use ../../data/pairfam/v7/`file', clear
+  use ../../data/pairfam/v8/`file', clear
   label language en
-  saveold temp/v7/en/`file', replace
+  saveold temp/v8/en/`file', replace
   label language de
-  saveold temp/v7/de/`file', replace
+  saveold temp/v8/de/`file', replace
 }
