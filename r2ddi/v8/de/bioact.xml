@@ -1,0 +1,2205 @@
+<codebook>
+  <dataDscr>
+    <var ID="id" intrvl="numeric" files="bioact">
+      <labl>Person number anchor</labl>
+      <sumStat type="Min.">111000</sumStat>
+      <sumStat type="1st Qu.">209400000</sumStat>
+      <sumStat type="Median">419900000</sumStat>
+      <sumStat type="Mean">424200000</sumStat>
+      <sumStat type="3rd Qu.">623700000</sumStat>
+      <sumStat type="Max.">920300000</sumStat>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="demodiff" intrvl="labeled_numeric" files="bioact">
+      <labl>DemoDiff sample</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 pairfam</labl>
+        <catStat type="freq">31164</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 demodiff</labl>
+        <catStat type="freq"> 3408</catStat>
+      </catgry>
+    </var>
+    <var ID="cohort" intrvl="labeled_numeric" files="bioact">
+      <labl>Birth cohort</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 1991-1993</labl>
+        <catStat type="freq">14754</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 1981-1983</labl>
+        <catStat type="freq">11040</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 1971-1973</labl>
+        <catStat type="freq"> 8778</catStat>
+      </catgry>
+    </var>
+    <var ID="dob" intrvl="labeled_numeric" files="bioact">
+      <labl>Date of birth</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 not in demodiff</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1000</catValu>
+        <catStat type="freq">319</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1001</catValu>
+        <catStat type="freq">377</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1002</catValu>
+        <catStat type="freq">343</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1003</catValu>
+        <catStat type="freq">250</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1004</catValu>
+        <catStat type="freq">304</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1005</catValu>
+        <catStat type="freq">292</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1006</catValu>
+        <catStat type="freq">329</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1007</catValu>
+        <catStat type="freq">348</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1092</catValu>
+        <catStat type="freq">470</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1093</catValu>
+        <catStat type="freq">337</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1094</catValu>
+        <catStat type="freq">407</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1095</catValu>
+        <catStat type="freq">463</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1096</catValu>
+        <catStat type="freq">417</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1097</catValu>
+        <catStat type="freq">426</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1098</catValu>
+        <catStat type="freq">418</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1099</catValu>
+        <catStat type="freq">367</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1100</catValu>
+        <catStat type="freq">491</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1101</catValu>
+        <catStat type="freq">483</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1102</catValu>
+        <catStat type="freq">464</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1103</catValu>
+        <catStat type="freq">377</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1104</catValu>
+        <catStat type="freq">401</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1105</catValu>
+        <catStat type="freq">493</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1106</catValu>
+        <catStat type="freq">398</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1107</catValu>
+        <catStat type="freq">322</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1108</catValu>
+        <catStat type="freq">402</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1109</catValu>
+        <catStat type="freq">362</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1110</catValu>
+        <catStat type="freq">400</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1111</catValu>
+        <catStat type="freq">351</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1112</catValu>
+        <catStat type="freq">450</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1113</catValu>
+        <catStat type="freq">530</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1114</catValu>
+        <catStat type="freq">364</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1115</catValu>
+        <catStat type="freq">342</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1116</catValu>
+        <catStat type="freq">495</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1117</catValu>
+        <catStat type="freq">370</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1118</catValu>
+        <catStat type="freq">401</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1119</catValu>
+        <catStat type="freq">417</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1120</catValu>
+        <catStat type="freq">439</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1121</catValu>
+        <catStat type="freq">395</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1122</catValu>
+        <catStat type="freq">470</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1123</catValu>
+        <catStat type="freq">453</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1124</catValu>
+        <catStat type="freq">414</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1125</catValu>
+        <catStat type="freq">356</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1126</catValu>
+        <catStat type="freq">327</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1127</catValu>
+        <catStat type="freq">282</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>852</catValu>
+        <catStat type="freq">242</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>853</catValu>
+        <catStat type="freq">240</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>854</catValu>
+        <catStat type="freq">307</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>855</catValu>
+        <catStat type="freq">297</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>856</catValu>
+        <catStat type="freq">258</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>857</catValu>
+        <catStat type="freq">328</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>858</catValu>
+        <catStat type="freq">226</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>859</catValu>
+        <catStat type="freq">240</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>860</catValu>
+        <catStat type="freq">309</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>861</catValu>
+        <catStat type="freq">222</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>862</catValu>
+        <catStat type="freq">248</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>863</catValu>
+        <catStat type="freq">280</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>864</catValu>
+        <catStat type="freq">279</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>865</catValu>
+        <catStat type="freq">230</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>866</catValu>
+        <catStat type="freq">248</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>867</catValu>
+        <catStat type="freq">231</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>868</catValu>
+        <catStat type="freq">323</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>869</catValu>
+        <catStat type="freq">260</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>870</catValu>
+        <catStat type="freq">260</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>871</catValu>
+        <catStat type="freq">197</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>872</catValu>
+        <catStat type="freq">211</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>873</catValu>
+        <catStat type="freq">260</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>874</catValu>
+        <catStat type="freq">221</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>875</catValu>
+        <catStat type="freq">221</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>876</catValu>
+        <catStat type="freq">239</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>877</catValu>
+        <catStat type="freq">209</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>878</catValu>
+        <catStat type="freq">233</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>879</catValu>
+        <catStat type="freq">185</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>880</catValu>
+        <catStat type="freq">263</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>881</catValu>
+        <catStat type="freq">292</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>882</catValu>
+        <catStat type="freq">219</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>883</catValu>
+        <catStat type="freq">192</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>884</catValu>
+        <catStat type="freq">231</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>885</catValu>
+        <catStat type="freq">199</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>886</catValu>
+        <catStat type="freq">192</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>887</catValu>
+        <catStat type="freq">185</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>888</catValu>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>960</catValu>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>972</catValu>
+        <catStat type="freq">326</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>973</catValu>
+        <catStat type="freq">267</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>974</catValu>
+        <catStat type="freq">247</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>975</catValu>
+        <catStat type="freq">248</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>976</catValu>
+        <catStat type="freq">300</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>977</catValu>
+        <catStat type="freq">245</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>978</catValu>
+        <catStat type="freq">341</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>979</catValu>
+        <catStat type="freq">375</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>980</catValu>
+        <catStat type="freq">302</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>981</catValu>
+        <catStat type="freq">268</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>982</catValu>
+        <catStat type="freq">252</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>983</catValu>
+        <catStat type="freq">308</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>984</catValu>
+        <catStat type="freq">296</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>985</catValu>
+        <catStat type="freq">231</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>986</catValu>
+        <catStat type="freq">316</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>987</catValu>
+        <catStat type="freq">299</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>988</catValu>
+        <catStat type="freq">360</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>989</catValu>
+        <catStat type="freq">352</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>990</catValu>
+        <catStat type="freq">404</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>991</catValu>
+        <catStat type="freq">260</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>992</catValu>
+        <catStat type="freq">320</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>993</catValu>
+        <catStat type="freq">261</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>994</catValu>
+        <catStat type="freq">325</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>995</catValu>
+        <catStat type="freq">392</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>996</catValu>
+        <catStat type="freq">346</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>997</catValu>
+        <catStat type="freq">229</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>998</catValu>
+        <catStat type="freq">348</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>999</catValu>
+        <catStat type="freq">259</catStat>
+      </catgry>
+    </var>
+    <var ID="sex_gen" intrvl="labeled_numeric" files="bioact">
+      <labl>Sex anchor</labl>
+      <sumStat type="valid">34562</sumStat>
+      <sumStat type="invalid">10</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 not in demodiff</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-7</catValu>
+        <labl>-7 Incomplete data</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filter error / Incorrect entry</labl>
+        <catStat type="freq">   10</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Male</labl>
+        <catStat type="freq">15173</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Female</labl>
+        <catStat type="freq">19389</catStat>
+      </catgry>
+    </var>
+    <var ID="wave1" intrvl="labeled_numeric" files="bioact">
+      <labl>Survey year wave 1</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 2008/09</labl>
+        <catStat type="freq">34572</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 2009/10</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 2010/11</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 2011/12</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 2012/13</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 2013/2014</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 2014/2015</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 2015/2016</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="wave2" intrvl="labeled_numeric" files="bioact">
+      <labl>Survey year wave 2</labl>
+      <sumStat type="valid">29562</sumStat>
+      <sumStat type="invalid">5010</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq"> 5010</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 2008/09</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 2009/10</labl>
+        <catStat type="freq">29562</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 2010/11</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 2011/12</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 2012/13</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 2013/2014</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 2014/2015</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 2015/2016</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="wave3" intrvl="labeled_numeric" files="bioact">
+      <labl>Survey year wave 3</labl>
+      <sumStat type="valid">31316</sumStat>
+      <sumStat type="invalid">3256</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq"> 3256</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 2008/09</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 2009/10</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 2010/11</labl>
+        <catStat type="freq">31316</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 2011/12</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 2012/13</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 2013/2014</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 2014/2015</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 2015/2016</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="wave4" intrvl="labeled_numeric" files="bioact">
+      <labl>Survey year wave 4</labl>
+      <sumStat type="valid">29296</sumStat>
+      <sumStat type="invalid">5276</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq"> 5276</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 2008/09</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 2009/10</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 2010/11</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 2011/12</labl>
+        <catStat type="freq">29296</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 2012/13</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 2013/2014</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 2014/2015</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 2015/2016</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="wave5" intrvl="labeled_numeric" files="bioact">
+      <labl>Survey year wave 5</labl>
+      <sumStat type="valid">27513</sumStat>
+      <sumStat type="invalid">7059</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq"> 7059</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 2008/09</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 2009/10</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 2010/11</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 2011/12</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 2012/13</labl>
+        <catStat type="freq">27513</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 2013/2014</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 2014/2015</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 2015/2016</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="wave6" intrvl="labeled_numeric" files="bioact">
+      <labl>Survey year wave 6</labl>
+      <sumStat type="valid">25580</sumStat>
+      <sumStat type="invalid">8992</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq"> 8992</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 2008/09</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 2009/10</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 2010/11</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 2011/12</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 2012/13</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 2013/2014</labl>
+        <catStat type="freq">25580</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 2014/2015</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 2015/2016</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="wave7" intrvl="labeled_numeric" files="bioact">
+      <labl>Survey year wave 7</labl>
+      <sumStat type="valid">23402</sumStat>
+      <sumStat type="invalid">11170</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">11170</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 2008/09</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 2009/10</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 2010/11</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 2011/12</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 2012/13</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 2013/2014</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 2014/2015</labl>
+        <catStat type="freq">23402</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 2015/2016</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="wave8" intrvl="labeled_numeric" files="bioact">
+      <labl>Survey year wave 8</labl>
+      <sumStat type="valid">21728</sumStat>
+      <sumStat type="invalid">12844</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">12844</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 2008/09</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 2009/10</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 2010/11</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 2011/12</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 2012/13</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 2013/2014</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 2014/2015</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 2015/2016</labl>
+        <catStat type="freq">21728</catStat>
+      </catgry>
+    </var>
+    <var ID="respw2" intrvl="labeled_numeric" files="bioact">
+      <labl>Respondent in wave 2</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 Not in demodiff</labl>
+        <catStat type="freq"> 3408</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq"> 1602</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">29562</catStat>
+      </catgry>
+    </var>
+    <var ID="respw3" intrvl="labeled_numeric" files="bioact">
+      <labl>Respondent in wave 3</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 Not in demodiff</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq"> 3256</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">31316</catStat>
+      </catgry>
+    </var>
+    <var ID="respw4" intrvl="labeled_numeric" files="bioact">
+      <labl>Respondent in wave 4</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 Not in demodiff</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq"> 5276</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">29296</catStat>
+      </catgry>
+    </var>
+    <var ID="respw5" intrvl="labeled_numeric" files="bioact">
+      <labl>Respondent in wave 5</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 Not in demodiff</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq"> 7059</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">27513</catStat>
+      </catgry>
+    </var>
+    <var ID="respw6" intrvl="labeled_numeric" files="bioact">
+      <labl>Respondent in wave 6</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 Not in demodiff</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq"> 8992</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">25580</catStat>
+      </catgry>
+    </var>
+    <var ID="respw7" intrvl="labeled_numeric" files="bioact">
+      <labl>Respondent in wave 7</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 Not in demodiff</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq">11170</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">23402</catStat>
+      </catgry>
+    </var>
+    <var ID="respw8" intrvl="labeled_numeric" files="bioact">
+      <labl>Respondent in wave 8</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 Not in demodiff</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq">12844</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">21728</catStat>
+      </catgry>
+    </var>
+    <var ID="intdatw1" intrvl="labeled_numeric" files="bioact">
+      <labl>Date of interview wave 1</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 not in demodiff</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1304</catValu>
+        <catStat type="freq"> 187</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1305</catValu>
+        <catStat type="freq">5885</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1306</catValu>
+        <catStat type="freq">7284</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1307</catValu>
+        <catStat type="freq">3684</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1308</catValu>
+        <catStat type="freq">4015</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1309</catValu>
+        <catStat type="freq">2806</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1310</catValu>
+        <catStat type="freq">5188</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1311</catValu>
+        <catStat type="freq">2022</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1312</catValu>
+        <catStat type="freq">  93</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1318</catValu>
+        <catStat type="freq"> 447</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1319</catValu>
+        <catStat type="freq"> 397</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1320</catValu>
+        <catStat type="freq"> 256</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1321</catValu>
+        <catStat type="freq"> 882</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1322</catValu>
+        <catStat type="freq">1426</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="intdatw2" intrvl="labeled_numeric" files="bioact">
+      <labl>Date of interview wave 2</labl>
+      <sumStat type="valid">32970</sumStat>
+      <sumStat type="invalid">1602</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 not in demodiff</labl>
+        <catStat type="freq">3408</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1317</catValu>
+        <catStat type="freq"> 805</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1318</catValu>
+        <catStat type="freq">8175</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1319</catValu>
+        <catStat type="freq">4460</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1320</catValu>
+        <catStat type="freq">5710</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1321</catValu>
+        <catStat type="freq">5580</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1322</catValu>
+        <catStat type="freq">3817</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1323</catValu>
+        <catStat type="freq">1015</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">1602</catStat>
+      </catgry>
+    </var>
+    <var ID="intdatw3" intrvl="labeled_numeric" files="bioact">
+      <labl>Date of interview wave 3</labl>
+      <sumStat type="valid">31316</sumStat>
+      <sumStat type="invalid">3256</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 not in demodiff</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1329</catValu>
+        <catStat type="freq">  39</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1330</catValu>
+        <catStat type="freq">8045</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1331</catValu>
+        <catStat type="freq">4762</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1332</catValu>
+        <catStat type="freq">8799</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1333</catValu>
+        <catStat type="freq">5452</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1334</catValu>
+        <catStat type="freq">3013</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1335</catValu>
+        <catStat type="freq">1206</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">3256</catStat>
+      </catgry>
+    </var>
+    <var ID="intdatw4" intrvl="labeled_numeric" files="bioact">
+      <labl>Date of interview wave 4</labl>
+      <sumStat type="valid">29296</sumStat>
+      <sumStat type="invalid">5276</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 not in demodiff</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1341</catValu>
+        <catStat type="freq"> 127</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1342</catValu>
+        <catStat type="freq">9192</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1343</catValu>
+        <catStat type="freq">4705</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1344</catValu>
+        <catStat type="freq">8548</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1345</catValu>
+        <catStat type="freq">3796</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1346</catValu>
+        <catStat type="freq">2021</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1347</catValu>
+        <catStat type="freq"> 882</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1348</catValu>
+        <catStat type="freq">  25</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">5276</catStat>
+      </catgry>
+    </var>
+    <var ID="intdatw5" intrvl="labeled_numeric" files="bioact">
+      <labl>Date of interview wave 5</labl>
+      <sumStat type="valid">27513</sumStat>
+      <sumStat type="invalid">7059</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 not in demodiff</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1353</catValu>
+        <catStat type="freq">4349</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1354</catValu>
+        <catStat type="freq">6885</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1355</catValu>
+        <catStat type="freq">4093</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1356</catValu>
+        <catStat type="freq">6865</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1357</catValu>
+        <catStat type="freq">3286</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1358</catValu>
+        <catStat type="freq">1388</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1359</catValu>
+        <catStat type="freq"> 574</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1360</catValu>
+        <catStat type="freq">  73</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">7059</catStat>
+      </catgry>
+    </var>
+    <var ID="intdatw6" intrvl="labeled_numeric" files="bioact">
+      <labl>Date of interview wave 6</labl>
+      <sumStat type="valid">25580</sumStat>
+      <sumStat type="invalid">8992</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 not in demodiff</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1365</catValu>
+        <catStat type="freq">2234</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1366</catValu>
+        <catStat type="freq">7675</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1367</catValu>
+        <catStat type="freq">4024</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1368</catValu>
+        <catStat type="freq">6243</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1369</catValu>
+        <catStat type="freq">3470</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1370</catValu>
+        <catStat type="freq">1238</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1371</catValu>
+        <catStat type="freq"> 668</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1372</catValu>
+        <catStat type="freq">  28</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">8992</catStat>
+      </catgry>
+    </var>
+    <var ID="intdatw7" intrvl="labeled_numeric" files="bioact">
+      <labl>Date of interview wave 7</labl>
+      <sumStat type="valid">23402</sumStat>
+      <sumStat type="invalid">11170</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 not in demodiff</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1377</catValu>
+        <catStat type="freq"> 3075</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1378</catValu>
+        <catStat type="freq"> 6236</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1379</catValu>
+        <catStat type="freq"> 4414</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1380</catValu>
+        <catStat type="freq"> 4990</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1381</catValu>
+        <catStat type="freq"> 2509</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1382</catValu>
+        <catStat type="freq"> 1362</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1383</catValu>
+        <catStat type="freq">  675</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1384</catValu>
+        <catStat type="freq">  141</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">11170</catStat>
+      </catgry>
+    </var>
+    <var ID="intdatw8" intrvl="labeled_numeric" files="bioact">
+      <labl>Date of interview wave 8</labl>
+      <sumStat type="valid">21728</sumStat>
+      <sumStat type="invalid">12844</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-10</catValu>
+        <labl>-10 not in demodiff</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1389</catValu>
+        <catStat type="freq"> 1095</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1390</catValu>
+        <catStat type="freq"> 6858</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1391</catValu>
+        <catStat type="freq"> 5505</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1392</catValu>
+        <catStat type="freq"> 5199</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1393</catValu>
+        <catStat type="freq"> 1884</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1394</catValu>
+        <catStat type="freq"> 1108</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1395</catValu>
+        <catStat type="freq">   79</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">12844</catStat>
+      </catgry>
+    </var>
+    <var ID="activity" intrvl="labeled_numeric" files="bioact">
+      <labl>Type of activity</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 General secondary school (first education)</labl>
+        <catStat type="freq">3270</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Evening school, working on a school leaving certificate for adults</labl>
+        <catStat type="freq"> 480</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Vocational training (apprenticeship, business school etc.)</labl>
+        <catStat type="freq">2555</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Vocational retraining / further education</labl>
+        <catStat type="freq"> 762</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 University of cooperative education (also 'Berufsakademie')</labl>
+        <catStat type="freq"> 118</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 University of applied sciences, college, university</labl>
+        <catStat type="freq">2310</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Pre-vocational training</labl>
+        <catStat type="freq"> 384</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 Technical/professional school</labl>
+        <catStat type="freq"> 185</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 Other education</labl>
+        <catStat type="freq"> 166</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Full-time employment</labl>
+        <catStat type="freq">7240</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 Self-employment</labl>
+        <catStat type="freq">1008</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Part-time employment (also multiple part-time jobs)</labl>
+        <catStat type="freq">3353</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>13 Internships, traineeship, including unpaid work</labl>
+        <catStat type="freq">1069</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>14 Marginal part-time employment, mini-job, 'Ein-Euro-Job'</labl>
+        <catStat type="freq">2261</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>15 Occasional or irregular employment</labl>
+        <catStat type="freq"> 749</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>16 Other type of employment, namely</labl>
+        <catStat type="freq"> 204</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <labl>17 Maternity or paternity leave or other leave of absence for childcare</labl>
+        <catStat type="freq">1766</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>18 Military service, alternative civilian service, voluntary social service year</labl>
+        <catStat type="freq"> 348</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <labl>19 Unemployed, seeking employment</labl>
+        <catStat type="freq">3248</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>20 Housewife / Househusband</labl>
+        <catStat type="freq">1291</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>21 Early retirement, retirement, occupational disability</labl>
+        <catStat type="freq"> 135</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>22 Other type of non-employment</labl>
+        <catStat type="freq">1094</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>23 Don't know, cannot remember</labl>
+        <catStat type="freq"> 576</catStat>
+      </catgry>
+    </var>
+    <var ID="spell" intrvl="numeric" files="bioact">
+      <labl>Counter - Number of episodes per activity</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.23</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="actbeg" intrvl="numeric" files="bioact">
+      <labl>Beginning of episode</labl>
+      <sumStat type="Min.">1304</sumStat>
+      <sumStat type="1st Qu.">1310</sumStat>
+      <sumStat type="Median">1326</sumStat>
+      <sumStat type="Mean">1332</sumStat>
+      <sumStat type="3rd Qu.">1351</sumStat>
+      <sumStat type="Max.">1394</sumStat>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="actend" intrvl="labeled_numeric" files="bioact">
+      <labl>End of episode</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1304</catValu>
+        <catStat type="freq">    4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1305</catValu>
+        <catStat type="freq">   91</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1306</catValu>
+        <catStat type="freq">   89</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1307</catValu>
+        <catStat type="freq">  124</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1308</catValu>
+        <catStat type="freq">  144</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1309</catValu>
+        <catStat type="freq">  160</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1310</catValu>
+        <catStat type="freq">  204</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1311</catValu>
+        <catStat type="freq">  194</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1312</catValu>
+        <catStat type="freq">  168</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1313</catValu>
+        <catStat type="freq">  327</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1314</catValu>
+        <catStat type="freq">  534</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1315</catValu>
+        <catStat type="freq">  508</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1316</catValu>
+        <catStat type="freq">  262</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1317</catValu>
+        <catStat type="freq">  217</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1318</catValu>
+        <catStat type="freq">  346</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1319</catValu>
+        <catStat type="freq">  346</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1320</catValu>
+        <catStat type="freq">  301</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1321</catValu>
+        <catStat type="freq">  375</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1322</catValu>
+        <catStat type="freq">  356</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1323</catValu>
+        <catStat type="freq">  197</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1324</catValu>
+        <catStat type="freq">  187</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1325</catValu>
+        <catStat type="freq">  408</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1326</catValu>
+        <catStat type="freq">  576</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1327</catValu>
+        <catStat type="freq">  509</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1328</catValu>
+        <catStat type="freq">  322</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1329</catValu>
+        <catStat type="freq">  179</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1330</catValu>
+        <catStat type="freq">  303</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1331</catValu>
+        <catStat type="freq">  291</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1332</catValu>
+        <catStat type="freq">  335</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1333</catValu>
+        <catStat type="freq">  295</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1334</catValu>
+        <catStat type="freq">  272</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1335</catValu>
+        <catStat type="freq">  224</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1336</catValu>
+        <catStat type="freq">  231</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1337</catValu>
+        <catStat type="freq">  460</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1338</catValu>
+        <catStat type="freq">  521</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1339</catValu>
+        <catStat type="freq">  486</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1340</catValu>
+        <catStat type="freq">  443</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1341</catValu>
+        <catStat type="freq">  189</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1342</catValu>
+        <catStat type="freq">  264</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1343</catValu>
+        <catStat type="freq">  278</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1344</catValu>
+        <catStat type="freq">  306</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1345</catValu>
+        <catStat type="freq">  243</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1346</catValu>
+        <catStat type="freq">  240</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1347</catValu>
+        <catStat type="freq">  171</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1348</catValu>
+        <catStat type="freq">  193</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1349</catValu>
+        <catStat type="freq">  417</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1350</catValu>
+        <catStat type="freq">  484</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1351</catValu>
+        <catStat type="freq">  461</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1352</catValu>
+        <catStat type="freq">  420</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1353</catValu>
+        <catStat type="freq">  243</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1354</catValu>
+        <catStat type="freq">  208</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1355</catValu>
+        <catStat type="freq">  268</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1356</catValu>
+        <catStat type="freq">  249</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1357</catValu>
+        <catStat type="freq">  216</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1358</catValu>
+        <catStat type="freq">  191</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1359</catValu>
+        <catStat type="freq">  130</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1360</catValu>
+        <catStat type="freq">  166</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1361</catValu>
+        <catStat type="freq">  280</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1362</catValu>
+        <catStat type="freq">  343</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1363</catValu>
+        <catStat type="freq">  359</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1364</catValu>
+        <catStat type="freq">  304</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1365</catValu>
+        <catStat type="freq">  182</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1366</catValu>
+        <catStat type="freq">  194</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1367</catValu>
+        <catStat type="freq">  210</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1368</catValu>
+        <catStat type="freq">  258</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1369</catValu>
+        <catStat type="freq">  181</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1370</catValu>
+        <catStat type="freq">  144</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1371</catValu>
+        <catStat type="freq">  120</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1372</catValu>
+        <catStat type="freq">  110</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1373</catValu>
+        <catStat type="freq">  190</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1374</catValu>
+        <catStat type="freq">  251</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1375</catValu>
+        <catStat type="freq">  258</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1376</catValu>
+        <catStat type="freq">  221</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1377</catValu>
+        <catStat type="freq">  155</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1378</catValu>
+        <catStat type="freq">  155</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1379</catValu>
+        <catStat type="freq">  174</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1380</catValu>
+        <catStat type="freq">  188</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1381</catValu>
+        <catStat type="freq">  140</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1382</catValu>
+        <catStat type="freq">  172</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1383</catValu>
+        <catStat type="freq">  105</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1384</catValu>
+        <catStat type="freq">  101</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1385</catValu>
+        <catStat type="freq">  146</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1386</catValu>
+        <catStat type="freq">  188</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1387</catValu>
+        <catStat type="freq">  204</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1388</catValu>
+        <catStat type="freq">  184</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1389</catValu>
+        <catStat type="freq">  108</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1390</catValu>
+        <catStat type="freq">   53</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1391</catValu>
+        <catStat type="freq">   50</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1392</catValu>
+        <catStat type="freq">   12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1393</catValu>
+        <catStat type="freq">    6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1394</catValu>
+        <catStat type="freq">    2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>97</catValu>
+        <labl>97 ongoing</labl>
+        <catStat type="freq">12498</catStat>
+      </catgry>
+    </var>
+    <var ID="actcensor" intrvl="labeled_numeric" files="bioact">
+      <labl>Censor</labl>
+      <sumStat type="valid">33996</sumStat>
+      <sumStat type="invalid">576</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 No censoring (only for ehc19i23*)</labl>
+        <catStat type="freq">  576</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Uncensored</labl>
+        <catStat type="freq">13452</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Left-censored</labl>
+        <catStat type="freq"> 7329</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Right-censored, end of episode is missing</labl>
+        <catStat type="freq">  159</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Right-censored, ongoing episode</labl>
+        <catStat type="freq"> 7754</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Combination of 1 &amp; 2</labl>
+        <catStat type="freq">  274</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Combination of 1 &amp; 3</labl>
+        <catStat type="freq"> 4603</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 left censored, beginning is missing</labl>
+        <catStat type="freq">  284</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Combination of 3 &amp; 6</labl>
+        <catStat type="freq">  141</catStat>
+      </catgry>
+    </var>
+    <var ID="actcurrw1" intrvl="labeled_numeric" files="bioact">
+      <labl>Current activity in wave 1</labl>
+      <sumStat type="valid">34572</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq">20913</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">13659</catStat>
+      </catgry>
+    </var>
+    <var ID="actcurrw2" intrvl="labeled_numeric" files="bioact">
+      <labl>Current activity in wave 2</labl>
+      <sumStat type="valid">29562</sumStat>
+      <sumStat type="invalid">5010</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq"> 5010</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq">17595</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">11967</catStat>
+      </catgry>
+    </var>
+    <var ID="actcurrw3" intrvl="labeled_numeric" files="bioact">
+      <labl>Current activity in wave 3</labl>
+      <sumStat type="valid">31316</sumStat>
+      <sumStat type="invalid">3256</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq"> 3256</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq">18954</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">12362</catStat>
+      </catgry>
+    </var>
+    <var ID="actcurrw4" intrvl="labeled_numeric" files="bioact">
+      <labl>Current activity in wave 4</labl>
+      <sumStat type="valid">29296</sumStat>
+      <sumStat type="invalid">5276</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq"> 5276</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq">17805</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">11491</catStat>
+      </catgry>
+    </var>
+    <var ID="actcurrw5" intrvl="labeled_numeric" files="bioact">
+      <labl>Current activity in wave 5</labl>
+      <sumStat type="valid">27513</sumStat>
+      <sumStat type="invalid">7059</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq"> 7059</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq">16790</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq">10723</catStat>
+      </catgry>
+    </var>
+    <var ID="actcurrw6" intrvl="labeled_numeric" files="bioact">
+      <labl>Current activity in wave 6</labl>
+      <sumStat type="valid">25580</sumStat>
+      <sumStat type="invalid">8992</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq"> 8992</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq">15653</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq"> 9927</catStat>
+      </catgry>
+    </var>
+    <var ID="actcurrw7" intrvl="labeled_numeric" files="bioact">
+      <labl>Current activity in wave 7</labl>
+      <sumStat type="valid">23402</sumStat>
+      <sumStat type="invalid">11170</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">11170</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq">14231</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq"> 9171</catStat>
+      </catgry>
+    </var>
+    <var ID="actcurrw8" intrvl="labeled_numeric" files="bioact">
+      <labl>Current activity in wave 8</labl>
+      <sumStat type="valid">21728</sumStat>
+      <sumStat type="invalid">12844</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Does not apply</labl>
+        <catStat type="freq">12844</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 No</labl>
+        <catStat type="freq">13099</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Yes</labl>
+        <catStat type="freq"> 8629</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="bioact"/>
+</codebook>

@@ -1,0 +1,2799 @@
+<codebook>
+  <dataDscr>
+    <var ID="id" intrvl="numeric" files="parenting6">
+      <labl>Personennummer Anker</labl>
+      <sumStat type="Min.">111000</sumStat>
+      <sumStat type="1st Qu.">224600000</sumStat>
+      <sumStat type="Median">467900000</sumStat>
+      <sumStat type="Mean">462200000</sumStat>
+      <sumStat type="3rd Qu.">692300000</sumStat>
+      <sumStat type="Max.">9.2e+08</sumStat>
+      <sumStat type="valid">2251</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pid" intrvl="numeric" files="parenting6">
+      <labl>Personennummer Partner</labl>
+      <sumStat type="Min.">111100</sumStat>
+      <sumStat type="1st Qu.">224100000</sumStat>
+      <sumStat type="Median">471900000</sumStat>
+      <sumStat type="Mean">461700000</sumStat>
+      <sumStat type="3rd Qu.">691100000</sumStat>
+      <sumStat type="Max.">9.2e+08</sumStat>
+      <sumStat type="NA's">137</sumStat>
+      <sumStat type="valid">2114</sumStat>
+      <sumStat type="invalid">137</sumStat>
+    </var>
+    <var ID="cid" intrvl="numeric" files="parenting6">
+      <labl>Personennummer Kind</labl>
+      <sumStat type="Min.">111200</sumStat>
+      <sumStat type="1st Qu.">224600000</sumStat>
+      <sumStat type="Median">467900000</sumStat>
+      <sumStat type="Mean">462200000</sumStat>
+      <sumStat type="3rd Qu.">692300000</sumStat>
+      <sumStat type="Max.">9.2e+08</sumStat>
+      <sumStat type="valid">2251</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="demodiff" intrvl="labeled_numeric" files="parenting6">
+      <labl>DemoDiff Stichprobe</labl>
+      <sumStat type="valid">2251</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 pairfam</labl>
+        <catStat type="freq">1869</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 demodiff</labl>
+        <catStat type="freq"> 382</catStat>
+      </catgry>
+    </var>
+    <var ID="wave" intrvl="labeled_numeric" files="parenting6">
+      <labl>Erhebungsjahr</labl>
+      <sumStat type="valid">2251</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 2008/09</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 2009/10</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 2010/11</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 2011/12</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 2012/13</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 2013/14</labl>
+        <catStat type="freq">2251</catStat>
+      </catgry>
+    </var>
+    <var ID="dropoffvers" intrvl="labeled_numeric" files="parenting6">
+      <labl>Drop-Off Version: Befragte Person?</labl>
+      <sumStat type="valid">2251</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe/Filterfehler</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Ankerperson</labl>
+        <catStat type="freq">1429</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Partner</labl>
+        <catStat type="freq"> 822</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i1" intrvl="labeled_numeric" files="parenting6">
+      <labl>Sie zeigen Ihrem Kind mit Worten und Gesten, dass Sie es gerne haben (Frage 1)</labl>
+      <sumStat type="valid">2236</sumStat>
+      <sumStat type="invalid">15</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 226</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq">1072</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq"> 922</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i2" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2237</sumStat>
+      <sumStat type="invalid">14</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  14</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">  14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">  72</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 560</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq">1104</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq"> 487</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i3" intrvl="labeled_numeric" files="parenting6">
+      <labl>Sie kritisieren Ihr Kind (Frage 1)</labl>
+      <sumStat type="valid">2233</sumStat>
+      <sumStat type="invalid">18</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  18</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq"> 472</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq">1371</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq"> 316</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq">  14</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i4" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2230</sumStat>
+      <sumStat type="invalid">21</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  19</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq"> 116</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq"> 684</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq">1022</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq"> 356</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq">  52</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i5" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2235</sumStat>
+      <sumStat type="invalid">16</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">  4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq"> 33</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq">251</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq">983</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq">964</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i6" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2233</sumStat>
+      <sumStat type="invalid">18</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">  38</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 203</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq"> 827</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq">1156</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i7" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2233</sumStat>
+      <sumStat type="invalid">18</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 18</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">179</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">896</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq">907</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq">214</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq"> 37</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i8" intrvl="labeled_numeric" files="parenting6">
+      <labl>Sie schreien Ihr Kind an, wenn es etwas falsch gemacht hat (Frage 1)</labl>
+      <sumStat type="valid">2234</sumStat>
+      <sumStat type="invalid">17</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq"> 407</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">1095</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 631</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq">  90</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i9" intrvl="labeled_numeric" files="parenting6">
+      <labl>Wenn Kind unterwegs war, fragen Sie nach, was es getan und erlebt hat (Frage 1)</labl>
+      <sumStat type="valid">2235</sumStat>
+      <sumStat type="invalid">16</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">  30</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 236</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq">1134</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq"> 828</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i10" intrvl="labeled_numeric" files="parenting6">
+      <labl>Es gibt Tage, an denen Sie strenger sind als an anderen (Frage 1)</labl>
+      <sumStat type="valid">2234</sumStat>
+      <sumStat type="invalid">17</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">  85</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq"> 483</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq">1402</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq"> 229</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq">  35</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i11" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2235</sumStat>
+      <sumStat type="invalid">16</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">644</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">969</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq">537</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq"> 77</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i12" intrvl="labeled_numeric" files="parenting6">
+      <labl>Wenn Ihr Kind neue Freunde hat, lernen Sie sie auch bald kennen (Frage 1)</labl>
+      <sumStat type="valid">2234</sumStat>
+      <sumStat type="invalid">17</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq"> 17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">189</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq">670</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq">984</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq">374</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i13" intrvl="labeled_numeric" files="parenting6">
+      <labl>Sie drohen Ihrem Kind eine Strafe an, strafen es dann aber doch nicht (Frage 1)</labl>
+      <sumStat type="valid">2236</sumStat>
+      <sumStat type="invalid">15</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 15</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">324</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">961</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq">737</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq">185</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq"> 29</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr1i14" intrvl="labeled_numeric" files="parenting6">
+      <labl>Sie loben Ihr Kind (Frage 1)</labl>
+      <sumStat type="valid">2236</sumStat>
+      <sumStat type="invalid">15</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">  14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 266</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Oft</labl>
+        <catStat type="freq">1167</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Sehr oft</labl>
+        <catStat type="freq"> 785</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi1" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2242</sumStat>
+      <sumStat type="invalid">9</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">  76</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq">1130</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq">1036</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi3" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2248</sumStat>
+      <sumStat type="invalid">3</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">1377</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq"> 732</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq"> 139</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi4" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2239</sumStat>
+      <sumStat type="invalid">12</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">  81</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq"> 891</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq">1267</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi5" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2241</sumStat>
+      <sumStat type="invalid">10</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">1141</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq"> 884</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq"> 216</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi7" intrvl="labeled_numeric" files="parenting6">
+      <labl>SDQ: Im Allgemeinen folgsam; macht meist, was Erwachsene verlangen (Frage 2)</labl>
+      <sumStat type="valid">2247</sumStat>
+      <sumStat type="invalid">4</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">  90</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq">1097</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq">1060</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi8" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2246</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">1422</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq"> 724</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq"> 100</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi9" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2243</sumStat>
+      <sumStat type="invalid">8</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">  46</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq"> 567</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq">1630</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi12" intrvl="labeled_numeric" files="parenting6">
+      <labl>SDQ: Streitet sich oft mit anderen Kindern oder schikaniert sie (Frage 2)</labl>
+      <sumStat type="valid">2246</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">1751</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq"> 456</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq">  39</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi13" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2245</sumStat>
+      <sumStat type="invalid">6</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">1759</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq"> 423</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq">  63</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi16" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2246</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">1347</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq"> 763</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq"> 136</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi17" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2244</sumStat>
+      <sumStat type="invalid">7</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">  54</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq"> 487</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq">1703</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi18" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2245</sumStat>
+      <sumStat type="invalid">6</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">1515</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq"> 665</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq">  65</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi20" intrvl="labeled_numeric" files="parenting6">
+      <labl>SDQ: Hilft anderen oft freiwillig (Eltern, Lehrern, anderen Kindern) (Frage 2)</labl>
+      <sumStat type="valid">2247</sumStat>
+      <sumStat type="invalid">4</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">  98</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq">1130</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq">1019</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi22" intrvl="labeled_numeric" files="parenting6">
+      <labl>SDQ: Stiehlt zu Hause, in der Schule oder anderswo (Frage 2)</labl>
+      <sumStat type="valid">2249</sumStat>
+      <sumStat type="invalid">2</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">2152</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq">  72</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq">  25</catStat>
+      </catgry>
+    </var>
+    <var ID="sdqpi24" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2246</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Trifft nicht zu</labl>
+        <catStat type="freq">1476</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Trifft teilweise zu</labl>
+        <catStat type="freq"> 665</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Trifft eindeutig zu</labl>
+        <catStat type="freq"> 105</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr2i1" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2245</sumStat>
+      <sumStat type="invalid">6</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">1103</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 639</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 388</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">  87</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Trifft voll und ganz zu</labl>
+        <catStat type="freq">  28</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr2i2" intrvl="labeled_numeric" files="parenting6">
+      <labl>Wenn es Probleme in der Erziehung gibt, liegt das an meinem Kind (Frage 3)</labl>
+      <sumStat type="valid">2244</sumStat>
+      <sumStat type="invalid">7</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">1219</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 687</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 300</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">  31</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Trifft voll und ganz zu</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr2i3" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2246</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">1292</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 663</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 241</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">  39</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Trifft voll und ganz zu</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i91" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2243</sumStat>
+      <sumStat type="invalid">8</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq"> 320</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq">1170</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq"> 439</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq"> 274</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq">  40</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i2" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2240</sumStat>
+      <sumStat type="invalid">11</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq">  66</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq">1030</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq"> 813</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq"> 296</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq">  35</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i3" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2246</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq"> 131</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq">1129</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq"> 661</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq"> 273</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq">  52</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i4" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2239</sumStat>
+      <sumStat type="invalid">12</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 10</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq">165</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq">415</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq">315</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq">734</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq">610</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i5" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2241</sumStat>
+      <sumStat type="invalid">10</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq"> 87</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq">386</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq">554</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq">763</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq">451</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i96" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2238</sumStat>
+      <sumStat type="invalid">13</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq"> 93</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq">664</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq">664</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq">546</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq">271</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i7" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2245</sumStat>
+      <sumStat type="invalid">6</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq">121</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq">866</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq">709</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq">440</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq">109</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i8" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2232</sumStat>
+      <sumStat type="invalid">19</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 11</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq">169</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq">551</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq">406</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq">632</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq">474</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i99" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2238</sumStat>
+      <sumStat type="invalid">13</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq"> 99</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq">990</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq">935</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq">211</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i10" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2243</sumStat>
+      <sumStat type="invalid">8</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq">400</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq">398</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq">338</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq">656</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq">451</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i11" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2240</sumStat>
+      <sumStat type="invalid">11</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq">843</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq">997</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq">245</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq">122</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq"> 33</catStat>
+      </catgry>
+    </var>
+    <var ID="act1i12" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2244</sumStat>
+      <sumStat type="invalid">7</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 (Fast) jeden Tag</labl>
+        <catStat type="freq"> 89</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Etwa 1mal in der Woche</labl>
+        <catStat type="freq">444</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Etwa 1mal im Monat</labl>
+        <catStat type="freq">435</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Seltener</labl>
+        <catStat type="freq">823</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nie</labl>
+        <catStat type="freq">453</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr3i1" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2248</sumStat>
+      <sumStat type="invalid">3</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">  16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq"> 146</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 567</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">1221</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Immer</labl>
+        <catStat type="freq"> 298</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr3i2" intrvl="labeled_numeric" files="parenting6">
+      <labl>Die Dinge, die Ihr Kind tut, werden von Ihnen anerkannt (Frage 5)</labl>
+      <sumStat type="valid">2249</sumStat>
+      <sumStat type="invalid">2</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 215</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">1431</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Immer</labl>
+        <catStat type="freq"> 587</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr3i3" intrvl="labeled_numeric" files="parenting6">
+      <labl>Ihr Kind bringt Sie dazu, dass Sie sich nach ihm richten (Frage 5)</labl>
+      <sumStat type="valid">2249</sumStat>
+      <sumStat type="invalid">2</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq"> 139</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq"> 608</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq">1166</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 313</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Immer</labl>
+        <catStat type="freq">  23</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr3i4" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2247</sumStat>
+      <sumStat type="invalid">4</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq"> 222</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">1141</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 792</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">  91</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Immer</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr3i5" intrvl="labeled_numeric" files="parenting6">
+      <labl>Sie zeigen Ihrem Kind, dass Sie es gut finden (Frage 5)</labl>
+      <sumStat type="valid">2244</sumStat>
+      <sumStat type="invalid">7</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">  16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 281</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">1251</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Immer</labl>
+        <catStat type="freq"> 692</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr3i6" intrvl="labeled_numeric" files="parenting6">
+      <labl>Sie und Ihr Kind sind unterschiedlicher Meinung und streiten sich (Frage 5)</labl>
+      <sumStat type="valid">2245</sumStat>
+      <sumStat type="invalid">6</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">177</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">951</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq">965</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">147</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Immer</labl>
+        <catStat type="freq">  5</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr3i7" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2245</sumStat>
+      <sumStat type="invalid">6</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq"> 381</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq">1160</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 611</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">  85</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Immer</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+    </var>
+    <var ID="pcr3i8" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">2245</sumStat>
+      <sumStat type="invalid">6</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Nie</labl>
+        <catStat type="freq">  28</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Selten</labl>
+        <catStat type="freq"> 201</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Manchmal</labl>
+        <catStat type="freq"> 669</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">1073</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Immer</labl>
+        <catStat type="freq"> 274</catStat>
+      </catgry>
+    </var>
+    <var ID="edu5i1" intrvl="labeled_numeric" files="parenting6">
+      <labl>Zusatz- oder Nachhilfestunden in Mathe (Frage 6)</labl>
+      <sumStat type="valid">2251</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">2006</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 245</catStat>
+      </catgry>
+    </var>
+    <var ID="edu5i2" intrvl="labeled_numeric" files="parenting6">
+      <labl>Zusatz- oder Nachhilfestunden in Deutsch (Frage 6)</labl>
+      <sumStat type="valid">2251</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">2094</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 157</catStat>
+      </catgry>
+    </var>
+    <var ID="edu5i3" intrvl="labeled_numeric" files="parenting6">
+      <labl>Zusatz- oder Nachhilfestunden in Fremdsprachen (Frage 6)</labl>
+      <sumStat type="valid">2251</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">2087</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 164</catStat>
+      </catgry>
+    </var>
+    <var ID="edu5i4" intrvl="labeled_numeric" files="parenting6">
+      <labl>Zusatz- oder Nachhilfestunden in anderem Fach (Frage 6)</labl>
+      <sumStat type="valid">2251</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">2217</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq">  34</catStat>
+      </catgry>
+    </var>
+    <var ID="edu6" intrvl="labeled_numeric" files="parenting6">
+      <labl>NA</labl>
+      <sumStat type="valid">405</sumStat>
+      <sumStat type="invalid">1846</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Kostenfrei</labl>
+        <catStat type="freq"> 170</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>100</catValu>
+        <catStat type="freq">  27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>104</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>112</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>114</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>120</catValu>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>125</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>128</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>129</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>139</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>140</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>150</catValu>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>155</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>160</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>170</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>180</catValu>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>190</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">  47</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>220</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>240</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>250</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">1791</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>30</catValu>
+        <catStat type="freq">  16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>300</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>340</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>35</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>37</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Fehleingabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <catStat type="freq">  33</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>45</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>50</catValu>
+        <catStat type="freq">  23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>55</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>56</catValu>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>57</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>60</catValu>
+        <catStat type="freq">  18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>65</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>69</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>70</catValu>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>75</catValu>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>79</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>80</catValu>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>85</catValu>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>87</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-9</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>90</catValu>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="parenting6"/>
+</codebook>

@@ -1,3 +1,5 @@
 temp/*
 !temp/.gitkeep
 *.dta
+nohup.out
+split.log
