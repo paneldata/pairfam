@@ -1,5 +1,6 @@
 {
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -37,6 +38,7 @@
     "label_de": "Personennummer Anker"
   },
   "demodiff": {
+    "study": "pairfam",
     "name": "demodiff",
     "name_cs": "demodiff",
     "variable": "demodiff",
@@ -78,6 +80,7 @@
     "label_de": "DemoDiff Stichprobe"
   },
   "cohort": {
+    "study": "pairfam",
     "name": "cohort",
     "name_cs": "cohort",
     "variable": "cohort",
@@ -129,6 +132,7 @@
     "label_de": "Birth cohort"
   },
   "dob": {
+    "study": "pairfam",
     "name": "dob",
     "name_cs": "dob",
     "variable": "dob",
@@ -665,6 +669,7 @@
     "label_de": "Date of birth"
   },
   "sex_gen": {
+    "study": "pairfam",
     "name": "sex_gen",
     "name_cs": "sex_gen",
     "variable": "sex_gen",
@@ -726,6 +731,7 @@
     "label_de": "Generated sex anchor"
   },
   "wave1": {
+    "study": "pairfam",
     "name": "wave1",
     "name_cs": "wave1",
     "variable": "wave1",
@@ -797,6 +803,7 @@
     "label_de": "Survey year wave1"
   },
   "wave2": {
+    "study": "pairfam",
     "name": "wave2",
     "name_cs": "wave2",
     "variable": "wave2",
@@ -868,6 +875,7 @@
     "label_de": "Survey year wave2"
   },
   "wave3": {
+    "study": "pairfam",
     "name": "wave3",
     "name_cs": "wave3",
     "variable": "wave3",
@@ -939,6 +947,7 @@
     "label_de": "Survey year wave3"
   },
   "intdatw1": {
+    "study": "pairfam",
     "name": "intdatw1",
     "name_cs": "intdatw1",
     "variable": "intdatw1",
@@ -1050,6 +1059,7 @@
     "label_de": "Date of interview wave1"
   },
   "intdatw2": {
+    "study": "pairfam",
     "name": "intdatw2",
     "name_cs": "intdatw2",
     "variable": "intdatw2",
@@ -1126,6 +1136,7 @@
     "label_de": "Date of interview wave2"
   },
   "intdatw3": {
+    "study": "pairfam",
     "name": "intdatw3",
     "name_cs": "intdatw3",
     "variable": "intdatw3",
@@ -1202,6 +1213,7 @@
     "label_de": "Date of interview wave3"
   },
   "respw2": {
+    "study": "pairfam",
     "name": "respw2",
     "name_cs": "respw2",
     "variable": "respw2",
@@ -1248,6 +1260,7 @@
     "label_de": "Respondent in wave 2"
   },
   "respw3": {
+    "study": "pairfam",
     "name": "respw3",
     "name_cs": "respw3",
     "variable": "respw3",
@@ -1294,6 +1307,7 @@
     "label_de": "Respondent in wave 3"
   },
   "resplace_rtr": {
+    "study": "pairfam",
     "name": "resplace_rtr",
     "name_cs": "resplace_rtr",
     "variable": "resplace_rtr",
@@ -1345,6 +1359,7 @@
     "label_de": "Place of residence mentioned"
   },
   "resbeg_rtr": {
+    "study": "pairfam",
     "name": "resbeg_rtr",
     "name_cs": "resbeg_rtr",
     "variable": "resbeg_rtr",
@@ -3716,6 +3731,7 @@
     "label_de": "Beginning of episode"
   },
   "resend_rtr": {
+    "study": "pairfam",
     "name": "resend_rtr",
     "name_cs": "resend_rtr",
     "variable": "resend_rtr",
@@ -6152,6 +6168,7 @@
     "label_de": "End od episode"
   },
   "rescensor_rtr": {
+    "study": "pairfam",
     "name": "rescensor_rtr",
     "name_cs": "rescensor_rtr",
     "variable": "rescensor_rtr",
@@ -6208,6 +6225,7 @@
     "label_de": "Censor"
   },
   "resland_rtr": {
+    "study": "pairfam",
     "name": "resland_rtr",
     "name_cs": "resland_rtr",
     "variable": "resland_rtr",
@@ -6255,14 +6273,14 @@
         "5 Nordrhein-Westfalen (North Rhine-Westfalia)",
         "6 Hessen (Hesse)",
         "7 Rheinland-Pfalz (Rhineland-Palatinate)",
-        "8 Baden-W\u00fcrttemberg",
+        "8",
         "9 Bayern (Bavaria)",
         "10 Berlin (East)",
         "11 Brandenburg",
         "12 Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania)",
         "13 Sachsen (Saxony)",
         "14 Sachsen-Anhalt (Saxony-Anhalt)",
-        "15 Th\u00fcringen (Thuringia)",
+        "15",
         "16 Saarland",
         "17 Another country"
       ],
@@ -6333,14 +6351,14 @@
         "5 Nordrhein-Westfalen (North Rhine-Westfalia)",
         "6 Hessen (Hesse)",
         "7 Rheinland-Pfalz (Rhineland-Palatinate)",
-        "8 Baden-W\u00fcrttemberg",
+        "",
         "9 Bayern (Bavaria)",
         "10 Berlin (East)",
         "11 Brandenburg",
         "12 Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania)",
         "13 Sachsen (Saxony)",
         "14 Sachsen-Anhalt (Saxony-Anhalt)",
-        "15 Th\u00fcringen (Thuringia)",
+        "",
         "16 Saarland",
         "17 Another country"
       ]
@@ -6359,6 +6377,7 @@
     "label_de": "Federal State (Bundesland)"
   },
   "resindex_rtr": {
+    "study": "pairfam",
     "name": "resindex_rtr",
     "name_cs": "resindex_rtr",
     "variable": "resindex_rtr",
@@ -6575,6 +6594,7 @@
     "label_de": "Number of main residence"
   },
   "resdis_rtr": {
+    "study": "pairfam",
     "name": "resdis_rtr",
     "name_cs": "resdis_rtr",
     "variable": "resdis_rtr",
@@ -7586,21 +7606,21 @@
         1,
         1,
         1,
-        0,
         6,
+        0,
         1,
         1,
         2,
         1,
-        282,
         8,
+        282,
         2,
         1,
         1,
         1,
         1,
-        2773,
         4,
+        2773,
         1,
         1,
         2
@@ -8610,21 +8630,21 @@
         "963",
         "964",
         "969",
-        "-97 Secondary residence with break",
         "97",
+        "-97 Secondary residence with break",
         "971",
         "9731",
         "9747",
         "975",
-        "-98 No calculation possible",
         "98",
+        "-98 No calculation possible",
         "984",
         "985",
         "9856",
         "987",
         "9876",
-        "-99 untraceable place",
         "99",
+        "-99 untraceable place",
         "992",
         "993",
         "998"
@@ -10658,21 +10678,21 @@
         "963",
         "964",
         "969",
-        "-97",
         "97",
+        "-97",
         "971",
         "9731",
         "9747",
         "975",
-        "-98",
         "98",
+        "-98",
         "984",
         "985",
         "9856",
         "987",
         "9876",
-        "-99",
         "99",
+        "-99",
         "992",
         "993",
         "998"
@@ -11682,6 +11702,7 @@
         "",
         "",
         "",
+        "",
         "-97 Secondary residence with break",
         "",
         "",
@@ -11696,7 +11717,6 @@
         "",
         "",
         "-99 untraceable place",
-        "",
         "",
         "",
         ""
@@ -11716,6 +11736,7 @@
     "label_de": "Distance between consecutive residences (in km)"
   },
   "resbik_rtr": {
+    "study": "pairfam",
     "name": "resbik_rtr",
     "name_cs": "resbik_rtr",
     "variable": "resbik_rtr",
@@ -11802,6 +11823,7 @@
     "label_de": "BIK classification"
   },
   "resnumber_rtr": {
+    "study": "pairfam",
     "name": "resnumber_rtr",
     "name_cs": "resnumber_rtr",
     "variable": "resnumber_rtr",
@@ -11888,6 +11910,7 @@
     "label_de": "Identification number city"
   },
   "resflag1_rtr": {
+    "study": "pairfam",
     "name": "resflag1_rtr",
     "name_cs": "resflag1_rtr",
     "variable": "resflag1_rtr",
@@ -11949,6 +11972,7 @@
     "label_de": "Inaccurate information on month"
   },
   "resflag2_rtr": {
+    "study": "pairfam",
     "name": "resflag2_rtr",
     "name_cs": "resflag2_rtr",
     "variable": "resflag2_rtr",

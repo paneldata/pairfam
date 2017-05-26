@@ -1,5 +1,6 @@
 {
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -37,6 +38,7 @@
     "label_de": "Personennummer Anker"
   },
   "parid": {
+    "study": "pairfam",
     "name": "parid",
     "name_cs": "parid",
     "variable": "parid",
@@ -74,6 +76,7 @@
     "label_de": "Personennummer Befragter (Eltern)"
   },
   "cid": {
+    "study": "pairfam",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -113,6 +116,7 @@
     "label_de": "Personennummer (CAPI) Kind"
   },
   "sibid1": {
+    "study": "pairfam",
     "name": "sibid1",
     "name_cs": "sibid1",
     "variable": "sibid1",
@@ -152,6 +156,7 @@
     "label_de": "Personennummer Geschwisterkind 1 (k2 in Welle 7)"
   },
   "sibid2": {
+    "study": "pairfam",
     "name": "sibid2",
     "name_cs": "sibid2",
     "variable": "sibid2",
@@ -191,6 +196,7 @@
     "label_de": "Personennummer Geschwisterkind 2 (k3 in Welle 7)"
   },
   "sibid3": {
+    "study": "pairfam",
     "name": "sibid3",
     "name_cs": "sibid3",
     "variable": "sibid3",
@@ -230,6 +236,7 @@
     "label_de": "Personennummer Geschwisterkind 3 (k4 in Welle 7)"
   },
   "sibid4": {
+    "study": "pairfam",
     "name": "sibid4",
     "name_cs": "sibid4",
     "variable": "sibid4",
@@ -269,6 +276,7 @@
     "label_de": "Personennummer Geschwisterkind 4 (k5 in Welle 7)"
   },
   "sibid5": {
+    "study": "pairfam",
     "name": "sibid5",
     "name_cs": "sibid5",
     "variable": "sibid5",
@@ -308,6 +316,7 @@
     "label_de": "Personennummer Geschwisterkind 5 (k6 in Welle 7)"
   },
   "demodiff": {
+    "study": "pairfam",
     "name": "demodiff",
     "name_cs": "demodiff",
     "variable": "demodiff",
@@ -349,6 +358,7 @@
     "label_de": "DemoDiff Stichprobe"
   },
   "wave": {
+    "study": "pairfam",
     "name": "wave",
     "name_cs": "wave",
     "variable": "wave",
@@ -385,6 +395,7 @@
     "label_de": "Erhebungswelle"
   },
   "parval1i1": {
+    "study": "pairfam",
     "name": "parval1i1",
     "name_cs": "parval1i1",
     "variable": "parval1i1",
@@ -479,6 +490,7 @@
     "label_de": "NA"
   },
   "parval1i2": {
+    "study": "pairfam",
     "name": "parval1i2",
     "name_cs": "parval1i2",
     "variable": "parval1i2",
@@ -573,6 +585,7 @@
     "label_de": "Man sollte heiraten, wenn man mit Partner auf Dauer zusammen lebt (Frage 2)"
   },
   "parval1i3": {
+    "study": "pairfam",
     "name": "parval1i3",
     "name_cs": "parval1i3",
     "variable": "parval1i3",
@@ -667,6 +680,7 @@
     "label_de": "NA"
   },
   "parval1i4": {
+    "study": "pairfam",
     "name": "parval1i4",
     "name_cs": "parval1i4",
     "variable": "parval1i4",
@@ -761,6 +775,7 @@
     "label_de": "NA"
   },
   "parval1i5": {
+    "study": "pairfam",
     "name": "parval1i5",
     "name_cs": "parval1i5",
     "variable": "parval1i5",
@@ -855,6 +870,7 @@
     "label_de": "Ein Kind unter 6 Jahren wird darunter leiden,wenn seine Mutter arbeitet (Fr. 2)"
   },
   "parval1i6": {
+    "study": "pairfam",
     "name": "parval1i6",
     "name_cs": "parval1i6",
     "variable": "parval1i6",
@@ -949,6 +965,7 @@
     "label_de": "NA"
   },
   "parval1i7": {
+    "study": "pairfam",
     "name": "parval1i7",
     "name_cs": "parval1i7",
     "variable": "parval1i7",
@@ -1043,6 +1060,7 @@
     "label_de": "Ehe ist eine lebenslange Verbindung und sollte nicht beendet werden (Frage 2)"
   },
   "parval1i8": {
+    "study": "pairfam",
     "name": "parval1i8",
     "name_cs": "parval1i8",
     "variable": "parval1i8",
@@ -1137,6 +1155,7 @@
     "label_de": "NA"
   },
   "parsat1i1": {
+    "study": "pairfam",
     "name": "parsat1i1",
     "name_cs": "parsat1i1",
     "variable": "parsat1i1",
@@ -1261,6 +1280,7 @@
     "label_de": "Zufriedenheit mit Beruf (Frage 3)"
   },
   "parsat1i2": {
+    "study": "pairfam",
     "name": "parsat1i2",
     "name_cs": "parsat1i2",
     "variable": "parsat1i2",
@@ -1385,6 +1405,7 @@
     "label_de": "Zufriedenheit mit Freizeitgestaltung, Hobbys, Interessen (Frage 3)"
   },
   "parsat1i3": {
+    "study": "pairfam",
     "name": "parsat1i3",
     "name_cs": "parsat1i3",
     "variable": "parsat1i3",
@@ -1509,6 +1530,7 @@
     "label_de": "Zufriedenheit mit Freunden, Bekannten, sozialen Kontakten (Frage 3)"
   },
   "parsat1i4": {
+    "study": "pairfam",
     "name": "parsat1i4",
     "name_cs": "parsat1i4",
     "variable": "parsat1i4",
@@ -1633,6 +1655,7 @@
     "label_de": "Zufriedenheit mit Familie (Frage 3)"
   },
   "parsd32": {
+    "study": "pairfam",
     "name": "parsd32",
     "name_cs": "parsd32",
     "variable": "parsd32",
@@ -1753,6 +1776,7 @@
     "label_de": "Anzahl Kinder (Frage 4)"
   },
   "parsd19k1y": {
+    "study": "pairfam",
     "name": "parsd19k1y",
     "name_cs": "parsd19k1y",
     "variable": "parsd19k1y",
@@ -1898,6 +1922,7 @@
     "label_de": "Jahr Geburt Kind 1, Anker (Frage 5)"
   },
   "parsd14k1g": {
+    "study": "pairfam",
     "name": "parsd14k1g",
     "name_cs": "parsd14k1g",
     "variable": "parsd14k1g",
@@ -1977,6 +2002,7 @@
     "label_de": "Geschlecht Kind 1, Anker (Frage 5)"
   },
   "parsd15k1": {
+    "study": "pairfam",
     "name": "parsd15k1",
     "name_cs": "parsd15k1",
     "variable": "parsd15k1",
@@ -2071,6 +2097,7 @@
     "label_de": "Status Kind 1, Anker (Frage 5)"
   },
   "parsd33k1": {
+    "study": "pairfam",
     "name": "parsd33k1",
     "name_cs": "parsd33k1",
     "variable": "parsd33k1",
@@ -2150,6 +2177,7 @@
     "label_de": "Lebt Kind 1, Anker (Frage 5)"
   },
   "parsd34k1": {
+    "study": "pairfam",
     "name": "parsd34k1",
     "name_cs": "parsd34k1",
     "variable": "parsd34k1",
@@ -2239,6 +2267,7 @@
     "label_de": "Familienstand Kind 1, Anker (Frage 5)"
   },
   "parsd35k1": {
+    "study": "pairfam",
     "name": "parsd35k1",
     "name_cs": "parsd35k1",
     "variable": "parsd35k1",
@@ -2318,6 +2347,7 @@
     "label_de": "Partner Kind 1, Anker (Frage 3)"
   },
   "parigr86k1": {
+    "study": "pairfam",
     "name": "parigr86k1",
     "name_cs": "parigr86k1",
     "variable": "parigr86k1",
@@ -2422,6 +2452,7 @@
     "label_de": "Enge Partner Kind 1, Anker (Frage 5)"
   },
   "parigr39k1": {
+    "study": "pairfam",
     "name": "parigr39k1",
     "name_cs": "parigr39k1",
     "variable": "parigr39k1",
@@ -2531,6 +2562,7 @@
     "label_de": "NA"
   },
   "parigr40k1": {
+    "study": "pairfam",
     "name": "parigr40k1",
     "name_cs": "parigr40k1",
     "variable": "parigr40k1",
@@ -2625,6 +2657,7 @@
     "label_de": "Enge Kind 1, Anker (Frage 5)"
   },
   "parigr41k1": {
+    "study": "pairfam",
     "name": "parigr41k1",
     "name_cs": "parigr41k1",
     "variable": "parigr41k1",
@@ -2729,6 +2762,7 @@
     "label_de": "Wohnentfernung Kind 1, Anker (Frage 5)"
   },
   "parsd36k1": {
+    "study": "pairfam",
     "name": "parsd36k1",
     "name_cs": "parsd36k1",
     "variable": "parsd36k1",
@@ -2834,6 +2868,7 @@
     "label_de": "Eigene Kinder Kind 1, Anker  (Frage 5)"
   },
   "parsd27k1": {
+    "study": "pairfam",
     "name": "parsd27k1",
     "name_cs": "parsd27k1",
     "variable": "parsd27k1",
@@ -2923,6 +2958,7 @@
     "label_de": "NA"
   },
   "parsd19k2y": {
+    "study": "pairfam",
     "name": "parsd19k2y",
     "name_cs": "parsd19k2y",
     "variable": "parsd19k2y",
@@ -3273,6 +3309,7 @@
     "label_de": "Jahr Geburt Kind 2(Frage 5)"
   },
   "parsd14k2g": {
+    "study": "pairfam",
     "name": "parsd14k2g",
     "name_cs": "parsd14k2g",
     "variable": "parsd14k2g",
@@ -3352,6 +3389,7 @@
     "label_de": "Geschlecht Kind 2(Frage 5)"
   },
   "parsd15k2": {
+    "study": "pairfam",
     "name": "parsd15k2",
     "name_cs": "parsd15k2",
     "variable": "parsd15k2",
@@ -3446,6 +3484,7 @@
     "label_de": "Status Kind2(Frage 5)"
   },
   "parsd33k2": {
+    "study": "pairfam",
     "name": "parsd33k2",
     "name_cs": "parsd33k2",
     "variable": "parsd33k2",
@@ -3525,6 +3564,7 @@
     "label_de": "Lebt Kind 2(Frage 5)"
   },
   "parsd34k2": {
+    "study": "pairfam",
     "name": "parsd34k2",
     "name_cs": "parsd34k2",
     "variable": "parsd34k2",
@@ -3614,6 +3654,7 @@
     "label_de": "Familienstand Kind 2  (Frage 5)"
   },
   "parsd35k2": {
+    "study": "pairfam",
     "name": "parsd35k2",
     "name_cs": "parsd35k2",
     "variable": "parsd35k2",
@@ -3693,6 +3734,7 @@
     "label_de": "Partner Kind 2 (Frage 5)"
   },
   "parigr86k2": {
+    "study": "pairfam",
     "name": "parigr86k2",
     "name_cs": "parigr86k2",
     "variable": "parigr86k2",
@@ -3797,6 +3839,7 @@
     "label_de": "Enge Partner Kind 2 (Frage 5)"
   },
   "parigr39k2": {
+    "study": "pairfam",
     "name": "parigr39k2",
     "name_cs": "parigr39k2",
     "variable": "parigr39k2",
@@ -3906,6 +3949,7 @@
     "label_de": "NA"
   },
   "parigr40k2": {
+    "study": "pairfam",
     "name": "parigr40k2",
     "name_cs": "parigr40k2",
     "variable": "parigr40k2",
@@ -4000,6 +4044,7 @@
     "label_de": "Enge Kind 2 (Frage 5)"
   },
   "parigr41k2": {
+    "study": "pairfam",
     "name": "parigr41k2",
     "name_cs": "parigr41k2",
     "variable": "parigr41k2",
@@ -4104,6 +4149,7 @@
     "label_de": "Wohnentfernung Kind 2 (Frage 5)"
   },
   "parsd36k2": {
+    "study": "pairfam",
     "name": "parsd36k2",
     "name_cs": "parsd36k2",
     "variable": "parsd36k2",
@@ -4209,6 +4255,7 @@
     "label_de": "Eigene Kinder Kind 2 (Frage 5)"
   },
   "parsd27k2": {
+    "study": "pairfam",
     "name": "parsd27k2",
     "name_cs": "parsd27k2",
     "variable": "parsd27k2",
@@ -4298,6 +4345,7 @@
     "label_de": "NA"
   },
   "parsd19k3y": {
+    "study": "pairfam",
     "name": "parsd19k3y",
     "name_cs": "parsd19k3y",
     "variable": "parsd19k3y",
@@ -4618,6 +4666,7 @@
     "label_de": "Jahr Geburt Kind 3(Frage 5)"
   },
   "parsd14k3g": {
+    "study": "pairfam",
     "name": "parsd14k3g",
     "name_cs": "parsd14k3g",
     "variable": "parsd14k3g",
@@ -4697,6 +4746,7 @@
     "label_de": "Geschlecht Kind 3(Frage 5)"
   },
   "parsd15k3": {
+    "study": "pairfam",
     "name": "parsd15k3",
     "name_cs": "parsd15k3",
     "variable": "parsd15k3",
@@ -4791,6 +4841,7 @@
     "label_de": "Status Kind3(Frage 5)"
   },
   "parsd33k3": {
+    "study": "pairfam",
     "name": "parsd33k3",
     "name_cs": "parsd33k3",
     "variable": "parsd33k3",
@@ -4870,6 +4921,7 @@
     "label_de": "Lebt Kind 3(Frage 5)"
   },
   "parsd34k3": {
+    "study": "pairfam",
     "name": "parsd34k3",
     "name_cs": "parsd34k3",
     "variable": "parsd34k3",
@@ -4959,6 +5011,7 @@
     "label_de": "Familienstand Kind 3  (Frage 5)"
   },
   "parsd35k3": {
+    "study": "pairfam",
     "name": "parsd35k3",
     "name_cs": "parsd35k3",
     "variable": "parsd35k3",
@@ -5038,6 +5091,7 @@
     "label_de": "Partner Kind 3 (Frage 5)"
   },
   "parigr86k3": {
+    "study": "pairfam",
     "name": "parigr86k3",
     "name_cs": "parigr86k3",
     "variable": "parigr86k3",
@@ -5142,6 +5196,7 @@
     "label_de": "Enge Partner Kind 3 (Frage 5)"
   },
   "parigr39k3": {
+    "study": "pairfam",
     "name": "parigr39k3",
     "name_cs": "parigr39k3",
     "variable": "parigr39k3",
@@ -5251,6 +5306,7 @@
     "label_de": "NA"
   },
   "parigr40k3": {
+    "study": "pairfam",
     "name": "parigr40k3",
     "name_cs": "parigr40k3",
     "variable": "parigr40k3",
@@ -5345,6 +5401,7 @@
     "label_de": "Enge Kind 3 (Frage 5)"
   },
   "parigr41k3": {
+    "study": "pairfam",
     "name": "parigr41k3",
     "name_cs": "parigr41k3",
     "variable": "parigr41k3",
@@ -5449,6 +5506,7 @@
     "label_de": "Wohnentfernung Kind 3 (Frage 5)"
   },
   "parsd36k3": {
+    "study": "pairfam",
     "name": "parsd36k3",
     "name_cs": "parsd36k3",
     "variable": "parsd36k3",
@@ -5549,6 +5607,7 @@
     "label_de": "Eigene Kinder Kind 3 (Frage 5)"
   },
   "parsd27k3": {
+    "study": "pairfam",
     "name": "parsd27k3",
     "name_cs": "parsd27k3",
     "variable": "parsd27k3",
@@ -5638,6 +5697,7 @@
     "label_de": "NA"
   },
   "parsd19k4y": {
+    "study": "pairfam",
     "name": "parsd19k4y",
     "name_cs": "parsd19k4y",
     "variable": "parsd19k4y",
@@ -5933,6 +5993,7 @@
     "label_de": "Jahr Geburt Kind 4(Frage 5)"
   },
   "parsd14k4g": {
+    "study": "pairfam",
     "name": "parsd14k4g",
     "name_cs": "parsd14k4g",
     "variable": "parsd14k4g",
@@ -6012,6 +6073,7 @@
     "label_de": "Geschlecht Kind 4(Frage 5)"
   },
   "parsd15k4": {
+    "study": "pairfam",
     "name": "parsd15k4",
     "name_cs": "parsd15k4",
     "variable": "parsd15k4",
@@ -6106,6 +6168,7 @@
     "label_de": "Status Kind4(Frage 5)"
   },
   "parsd33k4": {
+    "study": "pairfam",
     "name": "parsd33k4",
     "name_cs": "parsd33k4",
     "variable": "parsd33k4",
@@ -6185,6 +6248,7 @@
     "label_de": "Lebt Kind 4(Frage 5)"
   },
   "parsd34k4": {
+    "study": "pairfam",
     "name": "parsd34k4",
     "name_cs": "parsd34k4",
     "variable": "parsd34k4",
@@ -6274,6 +6338,7 @@
     "label_de": "Familienstand Kind 4  (Frage 5)"
   },
   "parsd35k4": {
+    "study": "pairfam",
     "name": "parsd35k4",
     "name_cs": "parsd35k4",
     "variable": "parsd35k4",
@@ -6353,6 +6418,7 @@
     "label_de": "Partner Kind 4 (Frage 5)"
   },
   "parigr86k4": {
+    "study": "pairfam",
     "name": "parigr86k4",
     "name_cs": "parigr86k4",
     "variable": "parigr86k4",
@@ -6457,6 +6523,7 @@
     "label_de": "Enge Partner Kind 4 (Frage 5)"
   },
   "parigr39k4": {
+    "study": "pairfam",
     "name": "parigr39k4",
     "name_cs": "parigr39k4",
     "variable": "parigr39k4",
@@ -6566,6 +6633,7 @@
     "label_de": "NA"
   },
   "parigr40k4": {
+    "study": "pairfam",
     "name": "parigr40k4",
     "name_cs": "parigr40k4",
     "variable": "parigr40k4",
@@ -6660,6 +6728,7 @@
     "label_de": "Enge Kind 4 (Frage 5)"
   },
   "parigr41k4": {
+    "study": "pairfam",
     "name": "parigr41k4",
     "name_cs": "parigr41k4",
     "variable": "parigr41k4",
@@ -6764,6 +6833,7 @@
     "label_de": "Wohnentfernung Kind 4 (Frage 5)"
   },
   "parsd36k4": {
+    "study": "pairfam",
     "name": "parsd36k4",
     "name_cs": "parsd36k4",
     "variable": "parsd36k4",
@@ -6864,6 +6934,7 @@
     "label_de": "Eigene Kinder Kind 4 (Frage 5)"
   },
   "parsd27k4": {
+    "study": "pairfam",
     "name": "parsd27k4",
     "name_cs": "parsd27k4",
     "variable": "parsd27k4",
@@ -6953,6 +7024,7 @@
     "label_de": "NA"
   },
   "parcrn32i1": {
+    "study": "pairfam",
     "name": "parcrn32i1",
     "name_cs": "parcrn32i1",
     "variable": "parcrn32i1",
@@ -7047,6 +7119,7 @@
     "label_de": "NA"
   },
   "parcrn32i2": {
+    "study": "pairfam",
     "name": "parcrn32i2",
     "name_cs": "parcrn32i2",
     "variable": "parcrn32i2",
@@ -7141,6 +7214,7 @@
     "label_de": "NA"
   },
   "parcrn32i3": {
+    "study": "pairfam",
     "name": "parcrn32i3",
     "name_cs": "parcrn32i3",
     "variable": "parcrn32i3",
@@ -7235,6 +7309,7 @@
     "label_de": "NA"
   },
   "parigr42a": {
+    "study": "pairfam",
     "name": "parigr42a",
     "name_cs": "parigr42a",
     "variable": "parigr42a",
@@ -7334,6 +7409,7 @@
     "label_de": "NA"
   },
   "parigr45a": {
+    "study": "pairfam",
     "name": "parigr45a",
     "name_cs": "parigr45a",
     "variable": "parigr45a",
@@ -7433,6 +7509,7 @@
     "label_de": "NA"
   },
   "parigr47a": {
+    "study": "pairfam",
     "name": "parigr47a",
     "name_cs": "parigr47a",
     "variable": "parigr47a",
@@ -7532,6 +7609,7 @@
     "label_de": "Wie oft verschiedene Meinung und Streit mit Anker (Frage 7)"
   },
   "parigr49a": {
+    "study": "pairfam",
     "name": "parigr49a",
     "name_cs": "parigr49a",
     "variable": "parigr49a",
@@ -7631,6 +7709,7 @@
     "label_de": "NA"
   },
   "parigr99a": {
+    "study": "pairfam",
     "name": "parigr99a",
     "name_cs": "parigr99a",
     "variable": "parigr99a",
@@ -7730,6 +7809,7 @@
     "label_de": "NA"
   },
   "parigr98a": {
+    "study": "pairfam",
     "name": "parigr98a",
     "name_cs": "parigr98a",
     "variable": "parigr98a",
@@ -7829,6 +7909,7 @@
     "label_de": "NA"
   },
   "parigr78": {
+    "study": "pairfam",
     "name": "parigr78",
     "name_cs": "parigr78",
     "variable": "parigr78",
@@ -7928,6 +8009,7 @@
     "label_de": "NA"
   },
   "parigr53a": {
+    "study": "pairfam",
     "name": "parigr53a",
     "name_cs": "parigr53a",
     "variable": "parigr53a",
@@ -8027,6 +8109,7 @@
     "label_de": "NA"
   },
   "parigr54a": {
+    "study": "pairfam",
     "name": "parigr54a",
     "name_cs": "parigr54a",
     "variable": "parigr54a",
@@ -8126,6 +8209,7 @@
     "label_de": "NA"
   },
   "parigr56a": {
+    "study": "pairfam",
     "name": "parigr56a",
     "name_cs": "parigr56a",
     "variable": "parigr56a",
@@ -8225,6 +8309,7 @@
     "label_de": "NA"
   },
   "parigr57a": {
+    "study": "pairfam",
     "name": "parigr57a",
     "name_cs": "parigr57a",
     "variable": "parigr57a",
@@ -8324,6 +8409,7 @@
     "label_de": "NA"
   },
   "parigr58a": {
+    "study": "pairfam",
     "name": "parigr58a",
     "name_cs": "parigr58a",
     "variable": "parigr58a",
@@ -8423,6 +8509,7 @@
     "label_de": "NA"
   },
   "parigr59a": {
+    "study": "pairfam",
     "name": "parigr59a",
     "name_cs": "parigr59a",
     "variable": "parigr59a",
@@ -8522,6 +8609,7 @@
     "label_de": "NA"
   },
   "parigr79a": {
+    "study": "pairfam",
     "name": "parigr79a",
     "name_cs": "parigr79a",
     "variable": "parigr79a",
@@ -8621,6 +8709,7 @@
     "label_de": "NA"
   },
   "parigr80a": {
+    "study": "pairfam",
     "name": "parigr80a",
     "name_cs": "parigr80a",
     "variable": "parigr80a",
@@ -8720,6 +8809,7 @@
     "label_de": "NA"
   },
   "parigr81a": {
+    "study": "pairfam",
     "name": "parigr81a",
     "name_cs": "parigr81a",
     "variable": "parigr81a",
@@ -8819,6 +8909,7 @@
     "label_de": "NA"
   },
   "parigr60a": {
+    "study": "pairfam",
     "name": "parigr60a",
     "name_cs": "parigr60a",
     "variable": "parigr60a",
@@ -8918,6 +9009,7 @@
     "label_de": "NA"
   },
   "parigr61a": {
+    "study": "pairfam",
     "name": "parigr61a",
     "name_cs": "parigr61a",
     "variable": "parigr61a",
@@ -9017,6 +9109,7 @@
     "label_de": "NA"
   },
   "parigr63a": {
+    "study": "pairfam",
     "name": "parigr63a",
     "name_cs": "parigr63a",
     "variable": "parigr63a",
@@ -9116,6 +9209,7 @@
     "label_de": "NA"
   },
   "parigr64a": {
+    "study": "pairfam",
     "name": "parigr64a",
     "name_cs": "parigr64a",
     "variable": "parigr64a",
@@ -9215,6 +9309,7 @@
     "label_de": "NA"
   },
   "parigr65a": {
+    "study": "pairfam",
     "name": "parigr65a",
     "name_cs": "parigr65a",
     "variable": "parigr65a",
@@ -9314,6 +9409,7 @@
     "label_de": "NA"
   },
   "parigr66a": {
+    "study": "pairfam",
     "name": "parigr66a",
     "name_cs": "parigr66a",
     "variable": "parigr66a",
@@ -9413,6 +9509,7 @@
     "label_de": "NA"
   },
   "pargc1a": {
+    "study": "pairfam",
     "name": "pargc1a",
     "name_cs": "pargc1a",
     "variable": "pargc1a",
@@ -9558,6 +9655,7 @@
     "label_de": "Anzahl lebende Enkelkinder (Frage 11)"
   },
   "pargc2i1": {
+    "study": "pairfam",
     "name": "pargc2i1",
     "name_cs": "pargc2i1",
     "variable": "pargc2i1",
@@ -9658,6 +9756,7 @@
     "label_de": "Anzahl Enkel bis 3 Jahre (Frage 11)"
   },
   "pargc2i2": {
+    "study": "pairfam",
     "name": "pargc2i2",
     "name_cs": "pargc2i2",
     "variable": "pargc2i2",
@@ -9758,6 +9857,7 @@
     "label_de": "Anzahl Enkel 4 bis 7 Jahre (Frage 11)"
   },
   "pargc2i3": {
+    "study": "pairfam",
     "name": "pargc2i3",
     "name_cs": "pargc2i3",
     "variable": "pargc2i3",
@@ -9858,6 +9958,7 @@
     "label_de": "Anzahl Enkel 8 bis 10 Jahre (Frage 11)"
   },
   "pargc2i4": {
+    "study": "pairfam",
     "name": "pargc2i4",
     "name_cs": "pargc2i4",
     "variable": "pargc2i4",
@@ -9958,6 +10059,7 @@
     "label_de": "Anzahl Enkel 11 bis 15 Jahre (Frage 11)"
   },
   "pargc2i5": {
+    "study": "pairfam",
     "name": "pargc2i5",
     "name_cs": "pargc2i5",
     "variable": "pargc2i5",
@@ -10083,6 +10185,7 @@
     "label_de": "NA"
   },
   "pargc5g": {
+    "study": "pairfam",
     "name": "pargc5g",
     "name_cs": "pargc5g",
     "variable": "pargc5g",
@@ -10162,6 +10265,7 @@
     "label_de": "Geschlecht Zielenkel (Frage 12)"
   },
   "pargc5m": {
+    "study": "pairfam",
     "name": "pargc5m",
     "name_cs": "pargc5m",
     "variable": "pargc5m",
@@ -10292,6 +10396,7 @@
     "label_de": "Geburtsmonat Zielenkel (Frage 13)"
   },
   "pargc5y": {
+    "study": "pairfam",
     "name": "pargc5y",
     "name_cs": "pargc5y",
     "variable": "pargc5y",
@@ -10492,6 +10597,7 @@
     "label_de": "Geburtsjahr Zielenkel (Frage 13)"
   },
   "pargc6": {
+    "study": "pairfam",
     "name": "pargc6",
     "name_cs": "pargc6",
     "variable": "pargc6",
@@ -10601,6 +10707,7 @@
     "label_de": "NA"
   },
   "pargc7": {
+    "study": "pairfam",
     "name": "pargc7",
     "name_cs": "pargc7",
     "variable": "pargc7",
@@ -10710,6 +10817,7 @@
     "label_de": "NA"
   },
   "pargc8": {
+    "study": "pairfam",
     "name": "pargc8",
     "name_cs": "pargc8",
     "variable": "pargc8",
@@ -10809,6 +10917,7 @@
     "label_de": "NA"
   },
   "pargc9": {
+    "study": "pairfam",
     "name": "pargc9",
     "name_cs": "pargc9",
     "variable": "pargc9",
@@ -10908,6 +11017,7 @@
     "label_de": "NA"
   },
   "pargc10": {
+    "study": "pairfam",
     "name": "pargc10",
     "name_cs": "pargc10",
     "variable": "pargc10",
@@ -11007,6 +11117,7 @@
     "label_de": "NA"
   },
   "pargc11": {
+    "study": "pairfam",
     "name": "pargc11",
     "name_cs": "pargc11",
     "variable": "pargc11",
@@ -11106,6 +11217,7 @@
     "label_de": "NA"
   },
   "parigr22": {
+    "study": "pairfam",
     "name": "parigr22",
     "name_cs": "parigr22",
     "variable": "parigr22",
@@ -11185,6 +11297,7 @@
     "label_de": "Lebt Mutter noch (Frage 20)"
   },
   "parigr25": {
+    "study": "pairfam",
     "name": "parigr25",
     "name_cs": "parigr25",
     "variable": "parigr25",
@@ -11264,6 +11377,7 @@
     "label_de": "Lebt Vater noch (Frage 20)"
   },
   "parigr29": {
+    "study": "pairfam",
     "name": "parigr29",
     "name_cs": "parigr29",
     "variable": "parigr29",
@@ -11368,6 +11482,7 @@
     "label_de": "Familienstand der leiblichen (Adoptiv-)Mutter (Frage 21)"
   },
   "parigr34": {
+    "study": "pairfam",
     "name": "parigr34",
     "name_cs": "parigr34",
     "variable": "parigr34",
@@ -11472,6 +11587,7 @@
     "label_de": "Familienstand des leiblichen (Adoptiv-)Vaters (Frage 21)"
   },
   "parigr101i1": {
+    "study": "pairfam",
     "name": "parigr101i1",
     "name_cs": "parigr101i1",
     "variable": "parigr101i1",
@@ -11551,6 +11667,7 @@
     "label_de": "Lebt Mutter mit Vater in gemeinsamen Haushalt? (Frage 22)"
   },
   "parigr101i2": {
+    "study": "pairfam",
     "name": "parigr101i2",
     "name_cs": "parigr101i2",
     "variable": "parigr101i2",
@@ -11630,6 +11747,7 @@
     "label_de": "Lebt Mutter mit anderem Partner in gemeinsamen Haushalt? (Frage 22)"
   },
   "parigr101i3": {
+    "study": "pairfam",
     "name": "parigr101i3",
     "name_cs": "parigr101i3",
     "variable": "parigr101i3",
@@ -11709,6 +11827,7 @@
     "label_de": "Lebt Mutter mit jemand anderem im Haushalt? (Frage 22)"
   },
   "parigr101i4": {
+    "study": "pairfam",
     "name": "parigr101i4",
     "name_cs": "parigr101i4",
     "variable": "parigr101i4",
@@ -11788,6 +11907,7 @@
     "label_de": "Lebt Mutter allein im Haushalt?  (Frage 22)"
   },
   "parigr101i5": {
+    "study": "pairfam",
     "name": "parigr101i5",
     "name_cs": "parigr101i5",
     "variable": "parigr101i5",
@@ -11867,6 +11987,7 @@
     "label_de": "Lebt Mutter in Alters- oder Pflegeheim? (Frage 22)"
   },
   "parigr101i6": {
+    "study": "pairfam",
     "name": "parigr101i6",
     "name_cs": "parigr101i6",
     "variable": "parigr101i6",
@@ -11946,6 +12067,7 @@
     "label_de": "Lebt Mutter sonstiges? (Frage 22)"
   },
   "parigr101i7": {
+    "study": "pairfam",
     "name": "parigr101i7",
     "name_cs": "parigr101i7",
     "variable": "parigr101i7",
@@ -12025,6 +12147,7 @@
     "label_de": "NA"
   },
   "parigr102i1": {
+    "study": "pairfam",
     "name": "parigr102i1",
     "name_cs": "parigr102i1",
     "variable": "parigr102i1",
@@ -12104,6 +12227,7 @@
     "label_de": "Lebt Vater mit Mutter in gemeinsamen Haushalt? (Frage 22)"
   },
   "parigr102i2": {
+    "study": "pairfam",
     "name": "parigr102i2",
     "name_cs": "parigr102i2",
     "variable": "parigr102i2",
@@ -12183,6 +12307,7 @@
     "label_de": "Lebt Vater mit anderem Partner in gemeinsamen Haushalt? (Frage 22)"
   },
   "parigr102i3": {
+    "study": "pairfam",
     "name": "parigr102i3",
     "name_cs": "parigr102i3",
     "variable": "parigr102i3",
@@ -12262,6 +12387,7 @@
     "label_de": "Lebt Vater mit jemand anderem im Haushalt? (Frage 22)"
   },
   "parigr102i4": {
+    "study": "pairfam",
     "name": "parigr102i4",
     "name_cs": "parigr102i4",
     "variable": "parigr102i4",
@@ -12341,6 +12467,7 @@
     "label_de": "Lebt Vater allein im Haushalt?  (Frage 22)"
   },
   "parigr102i5": {
+    "study": "pairfam",
     "name": "parigr102i5",
     "name_cs": "parigr102i5",
     "variable": "parigr102i5",
@@ -12420,6 +12547,7 @@
     "label_de": "Lebt Vater in Alters- oder Pflegeheim? (Frage 22)"
   },
   "parigr102i6": {
+    "study": "pairfam",
     "name": "parigr102i6",
     "name_cs": "parigr102i6",
     "variable": "parigr102i6",
@@ -12499,6 +12627,7 @@
     "label_de": "Lebt Vater sonstiges? (Frage 22)"
   },
   "parigr102i7": {
+    "study": "pairfam",
     "name": "parigr102i7",
     "name_cs": "parigr102i7",
     "variable": "parigr102i7",
@@ -12578,6 +12707,7 @@
     "label_de": "NA"
   },
   "parigr39p1": {
+    "study": "pairfam",
     "name": "parigr39p1",
     "name_cs": "parigr39p1",
     "variable": "parigr39p1",
@@ -12687,6 +12817,7 @@
     "label_de": "NA"
   },
   "parigr39p3": {
+    "study": "pairfam",
     "name": "parigr39p3",
     "name_cs": "parigr39p3",
     "variable": "parigr39p3",
@@ -12796,6 +12927,7 @@
     "label_de": "NA"
   },
   "parigr40p1": {
+    "study": "pairfam",
     "name": "parigr40p1",
     "name_cs": "parigr40p1",
     "variable": "parigr40p1",
@@ -12890,6 +13022,7 @@
     "label_de": "Wie eng mit Mutter heute verbunden (Frage 24)"
   },
   "parigr40p3": {
+    "study": "pairfam",
     "name": "parigr40p3",
     "name_cs": "parigr40p3",
     "variable": "parigr40p3",
@@ -12984,6 +13117,7 @@
     "label_de": "Wie eng mit Vater heute verbunden (Frage 25)"
   },
   "parigr41p1": {
+    "study": "pairfam",
     "name": "parigr41p1",
     "name_cs": "parigr41p1",
     "variable": "parigr41p1",
@@ -13088,6 +13222,7 @@
     "label_de": "Dauer um zu Mutter zu gelangen (Frage 26)"
   },
   "parigr41p3": {
+    "study": "pairfam",
     "name": "parigr41p3",
     "name_cs": "parigr41p3",
     "variable": "parigr41p3",
@@ -13192,6 +13327,7 @@
     "label_de": "Dauer um zu Vater zu gelangen (Frage 26)"
   },
   "parigr51p1": {
+    "study": "pairfam",
     "name": "parigr51p1",
     "name_cs": "parigr51p1",
     "variable": "parigr51p1",
@@ -13271,6 +13407,7 @@
     "label_de": "NA"
   },
   "parigr51p3": {
+    "study": "pairfam",
     "name": "parigr51p3",
     "name_cs": "parigr51p3",
     "variable": "parigr51p3",
@@ -13350,6 +13487,7 @@
     "label_de": "NA"
   },
   "parigr51p1i1": {
+    "study": "pairfam",
     "name": "parigr51p1i1",
     "name_cs": "parigr51p1i1",
     "variable": "parigr51p1i1",
@@ -13429,6 +13567,7 @@
     "label_de": "Mutter: Hilfe von prof. Pflegedienst (Frage 28)"
   },
   "parigr51p1i2": {
+    "study": "pairfam",
     "name": "parigr51p1i2",
     "name_cs": "parigr51p1i2",
     "variable": "parigr51p1i2",
@@ -13508,6 +13647,7 @@
     "label_de": "Mutter: Hilfe von mir (Frage 28)"
   },
   "parigr51p1i3": {
+    "study": "pairfam",
     "name": "parigr51p1i3",
     "name_cs": "parigr51p1i3",
     "variable": "parigr51p1i3",
@@ -13587,6 +13727,7 @@
     "label_de": "Mutter: Hilfe von ihrem (Ehe-)Partner (Frage 28)"
   },
   "parigr51p1i4": {
+    "study": "pairfam",
     "name": "parigr51p1i4",
     "name_cs": "parigr51p1i4",
     "variable": "parigr51p1i4",
@@ -13666,6 +13807,7 @@
     "label_de": "NA"
   },
   "parigr51p1i5": {
+    "study": "pairfam",
     "name": "parigr51p1i5",
     "name_cs": "parigr51p1i5",
     "variable": "parigr51p1i5",
@@ -13745,6 +13887,7 @@
     "label_de": "Mutter: Hilfe von Freunden oder Bekannten (Frage 28)"
   },
   "parigr51p1i6": {
+    "study": "pairfam",
     "name": "parigr51p1i6",
     "name_cs": "parigr51p1i6",
     "variable": "parigr51p1i6",
@@ -13824,6 +13967,7 @@
     "label_de": "Mutter: Hilfe von sonstigen Personen (Frage 28)"
   },
   "parigr51p3i1": {
+    "study": "pairfam",
     "name": "parigr51p3i1",
     "name_cs": "parigr51p3i1",
     "variable": "parigr51p3i1",
@@ -13903,6 +14047,7 @@
     "label_de": "Vater: Hilfe von prof. Pflegedienst (Frage 28)"
   },
   "parigr51p3i2": {
+    "study": "pairfam",
     "name": "parigr51p3i2",
     "name_cs": "parigr51p3i2",
     "variable": "parigr51p3i2",
@@ -13982,6 +14127,7 @@
     "label_de": "Vater: Hilfe von mir (Frage 28)"
   },
   "parigr51p3i3": {
+    "study": "pairfam",
     "name": "parigr51p3i3",
     "name_cs": "parigr51p3i3",
     "variable": "parigr51p3i3",
@@ -14061,6 +14207,7 @@
     "label_de": "Vater: Hilfe von seiner (Ehe-)Partnerin (Frage 28)"
   },
   "parigr51p3i4": {
+    "study": "pairfam",
     "name": "parigr51p3i4",
     "name_cs": "parigr51p3i4",
     "variable": "parigr51p3i4",
@@ -14140,6 +14287,7 @@
     "label_de": "NA"
   },
   "parigr51p3i5": {
+    "study": "pairfam",
     "name": "parigr51p3i5",
     "name_cs": "parigr51p3i5",
     "variable": "parigr51p3i5",
@@ -14219,6 +14367,7 @@
     "label_de": "Vater: Hilfe von Freunden oder Bekannten (Frage 28)"
   },
   "parigr51p3i6": {
+    "study": "pairfam",
     "name": "parigr51p3i6",
     "name_cs": "parigr51p3i6",
     "variable": "parigr51p3i6",
@@ -14298,6 +14447,7 @@
     "label_de": "Vater: Hilfe von sonstigen Personen (Frage 28)"
   },
   "parigr103": {
+    "study": "pairfam",
     "name": "parigr103",
     "name_cs": "parigr103",
     "variable": "parigr103",
@@ -14407,6 +14557,7 @@
     "label_de": "Summe Geldgeschenke von Eltern letzten 12 Monate (Frage 29)"
   },
   "parigr53p1": {
+    "study": "pairfam",
     "name": "parigr53p1",
     "name_cs": "parigr53p1",
     "variable": "parigr53p1",
@@ -14506,6 +14657,7 @@
     "label_de": "NA"
   },
   "parigr54p1": {
+    "study": "pairfam",
     "name": "parigr54p1",
     "name_cs": "parigr54p1",
     "variable": "parigr54p1",
@@ -14605,6 +14757,7 @@
     "label_de": "NA"
   },
   "parigr55p1": {
+    "study": "pairfam",
     "name": "parigr55p1",
     "name_cs": "parigr55p1",
     "variable": "parigr55p1",
@@ -14704,6 +14857,7 @@
     "label_de": "NA"
   },
   "parigr56p1": {
+    "study": "pairfam",
     "name": "parigr56p1",
     "name_cs": "parigr56p1",
     "variable": "parigr56p1",
@@ -14803,6 +14957,7 @@
     "label_de": "NA"
   },
   "parigr57p1": {
+    "study": "pairfam",
     "name": "parigr57p1",
     "name_cs": "parigr57p1",
     "variable": "parigr57p1",
@@ -14902,6 +15057,7 @@
     "label_de": "NA"
   },
   "parigr58p1": {
+    "study": "pairfam",
     "name": "parigr58p1",
     "name_cs": "parigr58p1",
     "variable": "parigr58p1",
@@ -15001,6 +15157,7 @@
     "label_de": "NA"
   },
   "parigr59p1": {
+    "study": "pairfam",
     "name": "parigr59p1",
     "name_cs": "parigr59p1",
     "variable": "parigr59p1",
@@ -15100,6 +15257,7 @@
     "label_de": "NA"
   },
   "parigr53p3": {
+    "study": "pairfam",
     "name": "parigr53p3",
     "name_cs": "parigr53p3",
     "variable": "parigr53p3",
@@ -15199,6 +15357,7 @@
     "label_de": "NA"
   },
   "parigr54p3": {
+    "study": "pairfam",
     "name": "parigr54p3",
     "name_cs": "parigr54p3",
     "variable": "parigr54p3",
@@ -15298,6 +15457,7 @@
     "label_de": "NA"
   },
   "parigr55p3": {
+    "study": "pairfam",
     "name": "parigr55p3",
     "name_cs": "parigr55p3",
     "variable": "parigr55p3",
@@ -15397,6 +15557,7 @@
     "label_de": "NA"
   },
   "parigr56p3": {
+    "study": "pairfam",
     "name": "parigr56p3",
     "name_cs": "parigr56p3",
     "variable": "parigr56p3",
@@ -15496,6 +15657,7 @@
     "label_de": "NA"
   },
   "parigr57p3": {
+    "study": "pairfam",
     "name": "parigr57p3",
     "name_cs": "parigr57p3",
     "variable": "parigr57p3",
@@ -15595,6 +15757,7 @@
     "label_de": "NA"
   },
   "parigr58p3": {
+    "study": "pairfam",
     "name": "parigr58p3",
     "name_cs": "parigr58p3",
     "variable": "parigr58p3",
@@ -15694,6 +15857,7 @@
     "label_de": "NA"
   },
   "parigr59p3": {
+    "study": "pairfam",
     "name": "parigr59p3",
     "name_cs": "parigr59p3",
     "variable": "parigr59p3",
@@ -15793,6 +15957,7 @@
     "label_de": "NA"
   },
   "pardobm": {
+    "study": "pairfam",
     "name": "pardobm",
     "name_cs": "pardobm",
     "variable": "pardobm",
@@ -15923,6 +16088,7 @@
     "label_de": "Monat Geburt befragtes Elternteil (Frage 31)"
   },
   "pardoby": {
+    "study": "pairfam",
     "name": "pardoby",
     "name_cs": "pardoby",
     "variable": "pardoby",
@@ -16228,6 +16394,7 @@
     "label_de": "Jahr Geburt befragtes Elternteil (Frage 31)"
   },
   "parsex": {
+    "study": "pairfam",
     "name": "parsex",
     "name_cs": "parsex",
     "variable": "parsex",
@@ -16307,6 +16474,7 @@
     "label_de": "Geschlecht befragtes Elternteil (Frage 32)"
   },
   "parpa17i1": {
+    "study": "pairfam",
     "name": "parpa17i1",
     "name_cs": "parpa17i1",
     "variable": "parpa17i1",
@@ -16406,6 +16574,7 @@
     "label_de": "NA"
   },
   "parpa17i2": {
+    "study": "pairfam",
     "name": "parpa17i2",
     "name_cs": "parpa17i2",
     "variable": "parpa17i2",
@@ -16505,6 +16674,7 @@
     "label_de": "NA"
   },
   "parpa17i3": {
+    "study": "pairfam",
     "name": "parpa17i3",
     "name_cs": "parpa17i3",
     "variable": "parpa17i3",
@@ -16604,6 +16774,7 @@
     "label_de": "NA"
   },
   "parpa17i4": {
+    "study": "pairfam",
     "name": "parpa17i4",
     "name_cs": "parpa17i4",
     "variable": "parpa17i4",
@@ -16703,6 +16874,7 @@
     "label_de": "NA"
   },
   "parpa17i5": {
+    "study": "pairfam",
     "name": "parpa17i5",
     "name_cs": "parpa17i5",
     "variable": "parpa17i5",
@@ -16802,6 +16974,7 @@
     "label_de": "NA"
   },
   "parpa17i6": {
+    "study": "pairfam",
     "name": "parpa17i6",
     "name_cs": "parpa17i6",
     "variable": "parpa17i6",
@@ -16901,6 +17074,7 @@
     "label_de": "NA"
   },
   "parpa17i7": {
+    "study": "pairfam",
     "name": "parpa17i7",
     "name_cs": "parpa17i7",
     "variable": "parpa17i7",
@@ -17000,6 +17174,7 @@
     "label_de": "NA"
   },
   "parpa17i8": {
+    "study": "pairfam",
     "name": "parpa17i8",
     "name_cs": "parpa17i8",
     "variable": "parpa17i8",
@@ -17099,6 +17274,7 @@
     "label_de": "NA"
   },
   "parhlt1": {
+    "study": "pairfam",
     "name": "parhlt1",
     "name_cs": "parhlt1",
     "variable": "parhlt1",
@@ -17193,6 +17369,7 @@
     "label_de": "Gesundheitszustand letzte 4 Wochen (Frage 34)"
   },
   "parhlt15": {
+    "study": "pairfam",
     "name": "parhlt15",
     "name_cs": "parhlt15",
     "variable": "parhlt15",
@@ -17277,6 +17454,7 @@
     "label_de": "NA"
   },
   "parhlt16": {
+    "study": "pairfam",
     "name": "parhlt16",
     "name_cs": "parhlt16",
     "variable": "parhlt16",
@@ -17361,6 +17539,7 @@
     "label_de": "NA"
   },
   "parhlt17i1": {
+    "study": "pairfam",
     "name": "parhlt17i1",
     "name_cs": "parhlt17i1",
     "variable": "parhlt17i1",
@@ -17450,6 +17629,7 @@
     "label_de": "NA"
   },
   "parper2i9": {
+    "study": "pairfam",
     "name": "parper2i9",
     "name_cs": "parper2i9",
     "variable": "parper2i9",
@@ -17539,6 +17719,7 @@
     "label_de": "NA"
   },
   "parper4i4": {
+    "study": "pairfam",
     "name": "parper4i4",
     "name_cs": "parper4i4",
     "variable": "parper4i4",
@@ -17628,6 +17809,7 @@
     "label_de": "NA"
   },
   "parhlt17i2": {
+    "study": "pairfam",
     "name": "parhlt17i2",
     "name_cs": "parhlt17i2",
     "variable": "parhlt17i2",
@@ -17717,6 +17899,7 @@
     "label_de": "NA"
   },
   "parhlt17i3": {
+    "study": "pairfam",
     "name": "parhlt17i3",
     "name_cs": "parhlt17i3",
     "variable": "parhlt17i3",
@@ -17806,6 +17989,7 @@
     "label_de": "NA"
   },
   "parhlt17i4": {
+    "study": "pairfam",
     "name": "parhlt17i4",
     "name_cs": "parhlt17i4",
     "variable": "parhlt17i4",
@@ -17895,6 +18079,7 @@
     "label_de": "NA"
   },
   "parhlt17i5": {
+    "study": "pairfam",
     "name": "parhlt17i5",
     "name_cs": "parhlt17i5",
     "variable": "parhlt17i5",
@@ -17984,6 +18169,7 @@
     "label_de": "NA"
   },
   "parhlt17i6": {
+    "study": "pairfam",
     "name": "parhlt17i6",
     "name_cs": "parhlt17i6",
     "variable": "parhlt17i6",
@@ -18073,6 +18259,7 @@
     "label_de": "NA"
   },
   "parhlt17i7": {
+    "study": "pairfam",
     "name": "parhlt17i7",
     "name_cs": "parhlt17i7",
     "variable": "parhlt17i7",
@@ -18162,6 +18349,7 @@
     "label_de": "NA"
   },
   "parsd30": {
+    "study": "pairfam",
     "name": "parsd30",
     "name_cs": "parsd30",
     "variable": "parsd30",
@@ -18266,6 +18454,7 @@
     "label_de": "NA"
   },
   "parsd31": {
+    "study": "pairfam",
     "name": "parsd31",
     "name_cs": "parsd31",
     "variable": "parsd31",
@@ -18365,6 +18554,7 @@
     "label_de": "NA"
   },
   "parsd23i10": {
+    "study": "pairfam",
     "name": "parsd23i10",
     "name_cs": "parsd23i10",
     "variable": "parsd23i10",
@@ -18444,6 +18634,7 @@
     "label_de": "NA"
   },
   "parsd23i11": {
+    "study": "pairfam",
     "name": "parsd23i11",
     "name_cs": "parsd23i11",
     "variable": "parsd23i11",
@@ -18523,6 +18714,7 @@
     "label_de": "NA"
   },
   "parsd23i12": {
+    "study": "pairfam",
     "name": "parsd23i12",
     "name_cs": "parsd23i12",
     "variable": "parsd23i12",
@@ -18602,6 +18794,7 @@
     "label_de": "NA"
   },
   "parsd23i13": {
+    "study": "pairfam",
     "name": "parsd23i13",
     "name_cs": "parsd23i13",
     "variable": "parsd23i13",
@@ -18681,6 +18874,7 @@
     "label_de": "Aktuell: Praktika, Trainee, Volontariat (Frage 40)"
   },
   "parsd23i14": {
+    "study": "pairfam",
     "name": "parsd23i14",
     "name_cs": "parsd23i14",
     "variable": "parsd23i14",
@@ -18760,6 +18954,7 @@
     "label_de": "NA"
   },
   "parsd23i15": {
+    "study": "pairfam",
     "name": "parsd23i15",
     "name_cs": "parsd23i15",
     "variable": "parsd23i15",
@@ -18839,6 +19034,7 @@
     "label_de": "NA"
   },
   "parsd23i16": {
+    "study": "pairfam",
     "name": "parsd23i16",
     "name_cs": "parsd23i16",
     "variable": "parsd23i16",
@@ -18918,6 +19114,7 @@
     "label_de": "NA"
   },
   "parsd23i17": {
+    "study": "pairfam",
     "name": "parsd23i17",
     "name_cs": "parsd23i17",
     "variable": "parsd23i17",
@@ -18997,6 +19194,7 @@
     "label_de": "Aktuell: Mutterschutz, Elternzeit, sonstige Beurlaubung (Frage 40)"
   },
   "parsd23i18": {
+    "study": "pairfam",
     "name": "parsd23i18",
     "name_cs": "parsd23i18",
     "variable": "parsd23i18",
@@ -19076,6 +19274,7 @@
     "label_de": "Aktuell: Bundesfreiwilligendienst (Frage 40)"
   },
   "parsd23i19": {
+    "study": "pairfam",
     "name": "parsd23i19",
     "name_cs": "parsd23i19",
     "variable": "parsd23i19",
@@ -19155,6 +19354,7 @@
     "label_de": "Aktuell: Arbeitslos, arbeitsuchend (Frage 40)"
   },
   "parsd23i20": {
+    "study": "pairfam",
     "name": "parsd23i20",
     "name_cs": "parsd23i20",
     "variable": "parsd23i20",
@@ -19234,6 +19434,7 @@
     "label_de": "Aktuell: Hausfrau/Hausmann (Frage 40)"
   },
   "parsd23i21": {
+    "study": "pairfam",
     "name": "parsd23i21",
     "name_cs": "parsd23i21",
     "variable": "parsd23i21",
@@ -19313,6 +19514,7 @@
     "label_de": "NA"
   },
   "parsd23i22": {
+    "study": "pairfam",
     "name": "parsd23i22",
     "name_cs": "parsd23i22",
     "variable": "parsd23i22",
@@ -19392,6 +19594,7 @@
     "label_de": "NA"
   },
   "parsd23i24": {
+    "study": "pairfam",
     "name": "parsd23i24",
     "name_cs": "parsd23i24",
     "variable": "parsd23i24",
@@ -19471,6 +19674,7 @@
     "label_de": "Aktuell: In Ausbildung (z. B. Abendschule, 2. Bildungsweg, etc.) (Frage 40)"
   },
   "parsd37": {
+    "study": "pairfam",
     "name": "parsd37",
     "name_cs": "parsd37",
     "variable": "parsd37",
@@ -19550,6 +19754,7 @@
     "label_de": "NA"
   },
   "parsd38": {
+    "study": "pairfam",
     "name": "parsd38",
     "name_cs": "parsd38",
     "variable": "parsd38",
@@ -19650,6 +19855,7 @@
     "label_de": "NA"
   },
   "parigr1y": {
+    "study": "pairfam",
     "name": "parigr1y",
     "name_cs": "parigr1y",
     "variable": "parigr1y",
@@ -19970,6 +20176,7 @@
     "label_de": "Jahr Geburt Mutter (Frage 43)"
   },
   "parigr2y": {
+    "study": "pairfam",
     "name": "parigr2y",
     "name_cs": "parigr2y",
     "variable": "parigr2y",
@@ -20315,6 +20522,7 @@
     "label_de": "Jahr Geburt Vater (Frage 43)"
   },
   "parnet17i2": {
+    "study": "pairfam",
     "name": "parnet17i2",
     "name_cs": "parnet17i2",
     "variable": "parnet17i2",
@@ -20425,6 +20633,7 @@
     "label_de": "NA"
   },
   "parnet17i1": {
+    "study": "pairfam",
     "name": "parnet17i1",
     "name_cs": "parnet17i1",
     "variable": "parnet17i1",
@@ -20535,6 +20744,7 @@
     "label_de": "Wie viele lebende Schwestern haben Sie? (Frage 44)"
   },
   "parigr9y": {
+    "study": "pairfam",
     "name": "parigr9y",
     "name_cs": "parigr9y",
     "variable": "parigr9y",
@@ -20814,6 +21024,7 @@
     "label_de": "Jahr Auszug Elternhaus (Frage 45)"
   },
   "parigr9f": {
+    "study": "pairfam",
     "name": "parigr9f",
     "name_cs": "parigr9f",
     "variable": "parigr9f",
@@ -20913,6 +21124,7 @@
     "label_de": "Ort des Aufwachsens bis 16. Lebensjahr (Frage 46)"
   },
   "parsd27": {
+    "study": "pairfam",
     "name": "parsd27",
     "name_cs": "parsd27",
     "variable": "parsd27",
@@ -21022,6 +21234,7 @@
     "label_de": "NA"
   },
   "parsd27n": {
+    "study": "pairfam",
     "name": "parsd27n",
     "name_cs": "parsd27n",
     "variable": "parsd27n",
@@ -21157,6 +21370,7 @@
     "label_de": "Anzahl Jahre Schulbesuch (Frage 48)"
   },
   "parsd29i8": {
+    "study": "pairfam",
     "name": "parsd29i8",
     "name_cs": "parsd29i8",
     "variable": "parsd29i8",
@@ -21236,6 +21450,7 @@
     "label_de": "Kein Berufsabschluss (Frage 49)"
   },
   "parsd29i1": {
+    "study": "pairfam",
     "name": "parsd29i1",
     "name_cs": "parsd29i1",
     "variable": "parsd29i1",
@@ -21315,6 +21530,7 @@
     "label_de": "Lehre (DDR: Facharbeiterabschluss) (Frage 49)"
   },
   "parsd29i2": {
+    "study": "pairfam",
     "name": "parsd29i2",
     "name_cs": "parsd29i2",
     "variable": "parsd29i2",
@@ -21394,6 +21610,7 @@
     "label_de": "Berufsfachschule/Handelsschule/Schule des Gesundheitswesens (Frage 49)"
   },
   "parsd29i3": {
+    "study": "pairfam",
     "name": "parsd29i3",
     "name_cs": "parsd29i3",
     "variable": "parsd29i3",
@@ -21473,6 +21690,7 @@
     "label_de": "Fachschule (Frage 49)"
   },
   "parsd29i4": {
+    "study": "pairfam",
     "name": "parsd29i4",
     "name_cs": "parsd29i4",
     "variable": "parsd29i4",
@@ -21552,6 +21770,7 @@
     "label_de": "Beamtenausbildung  (Frage 49)"
   },
   "parsd29i5": {
+    "study": "pairfam",
     "name": "parsd29i5",
     "name_cs": "parsd29i5",
     "variable": "parsd29i5",
@@ -21631,6 +21850,7 @@
     "label_de": "Fachhochschule/Berufsakademie  (Frage 49)"
   },
   "parsd29i6": {
+    "study": "pairfam",
     "name": "parsd29i6",
     "name_cs": "parsd29i6",
     "variable": "parsd29i6",
@@ -21710,6 +21930,7 @@
     "label_de": "NA"
   },
   "parsd29i7": {
+    "study": "pairfam",
     "name": "parsd29i7",
     "name_cs": "parsd29i7",
     "variable": "parsd29i7",
@@ -21789,6 +22010,7 @@
     "label_de": "NA"
   },
   "parflag1": {
+    "study": "pairfam",
     "name": "parflag1",
     "name_cs": "parflag1",
     "variable": "parflag1",
@@ -21830,6 +22052,7 @@
     "label_de": "Kinderzahl"
   },
   "parflag2": {
+    "study": "pairfam",
     "name": "parflag2",
     "name_cs": "parflag2",
     "variable": "parflag2",
@@ -21875,6 +22098,7 @@
     "label_de": "Ankerinformation"
   },
   "parflag7": {
+    "study": "pairfam",
     "name": "parflag7",
     "name_cs": "parflag7",
     "variable": "parflag7",
@@ -21916,6 +22140,7 @@
     "label_de": "Anzahl Enkel"
   },
   "parflag11": {
+    "study": "pairfam",
     "name": "parflag11",
     "name_cs": "parflag11",
     "variable": "parflag11",
@@ -21957,6 +22182,7 @@
     "label_de": "Auszug"
   },
   "parflag13": {
+    "study": "pairfam",
     "name": "parflag13",
     "name_cs": "parflag13",
     "variable": "parflag13",
@@ -21998,6 +22224,7 @@
     "label_de": "Berufsabschluss"
   },
   "partype": {
+    "study": "pairfam",
     "name": "partype",
     "name_cs": "partype",
     "variable": "partype",
@@ -22069,6 +22296,7 @@
     "label_de": "Typ Befragter"
   },
   "parposition": {
+    "study": "pairfam",
     "name": "parposition",
     "name_cs": "parposition",
     "variable": "parposition",
@@ -22110,6 +22338,7 @@
     "label_de": "Position Befragter"
   },
   "parsexparent": {
+    "study": "pairfam",
     "name": "parsexparent",
     "name_cs": "parsexparent",
     "variable": "parsexparent",
@@ -22151,6 +22380,7 @@
     "label_de": "Geschlecht Befragter"
   },
   "parcohort": {
+    "study": "pairfam",
     "name": "parcohort",
     "name_cs": "parcohort",
     "variable": "parcohort",
@@ -22202,6 +22432,7 @@
     "label_de": "Geburtskohorte Anker"
   },
   "parageanchor": {
+    "study": "pairfam",
     "name": "parageanchor",
     "name_cs": "parageanchor",
     "variable": "parageanchor",
@@ -22239,6 +22470,7 @@
     "label_de": "Geburtsjahr Anker basierend auf Ankerinterview"
   },
   "parintd": {
+    "study": "pairfam",
     "name": "parintd",
     "name_cs": "parintd",
     "variable": "parintd",
@@ -22435,6 +22667,7 @@
     "label_de": "Befragungstag"
   },
   "parintm": {
+    "study": "pairfam",
     "name": "parintm",
     "name_cs": "parintm",
     "variable": "parintm",
@@ -22531,6 +22764,7 @@
     "label_de": "Befragungsmonat"
   },
   "parinty": {
+    "study": "pairfam",
     "name": "parinty",
     "name_cs": "parinty",
     "variable": "parinty",
@@ -22582,6 +22816,7 @@
     "label_de": "Befragungsjahr"
   },
   "parkids": {
+    "study": "pairfam",
     "name": "parkids",
     "name_cs": "parkids",
     "variable": "parkids",
@@ -22668,6 +22903,7 @@
     "label_de": "Kinderzahl des Befragten, korrigiert"
   },
   "pargrandkids": {
+    "study": "pairfam",
     "name": "pargrandkids",
     "name_cs": "pargrandkids",
     "variable": "pargrandkids",
@@ -22774,6 +23010,7 @@
     "label_de": "Enkelzahl des Befragten, korrigiert"
   },
   "parw7ne": {
+    "study": "pairfam",
     "name": "parw7ne",
     "name_cs": "parw7ne",
     "variable": "parw7ne",
@@ -22815,6 +23052,7 @@
     "label_de": "Neue Eltern in Welle 7"
   },
   "parcorgc": {
+    "study": "pairfam",
     "name": "parcorgc",
     "name_cs": "parcorgc",
     "variable": "parcorgc",
@@ -22861,6 +23099,7 @@
     "label_de": "Angaben zum korrekten Enkel"
   },
   "parbula": {
+    "study": "pairfam",
     "name": "parbula",
     "name_cs": "parbula",
     "variable": "parbula",
@@ -22964,7 +23203,7 @@
         "12 Brandenburg",
         "13 Mecklenburg-Vorpommern",
         "14 Sachsen",
-        "15 Sachsen-Anhalt ",
+        "15 Sachsen-Anhalt",
         ""
       ]
     },
@@ -22982,6 +23221,7 @@
     "label_de": "Bundesland"
   },
   "parbik": {
+    "study": "pairfam",
     "name": "parbik",
     "name_cs": "parbik",
     "variable": "parbik",
@@ -23068,6 +23308,7 @@
     "label_de": "BIK-Gemeindetyp"
   },
   "pargkpol": {
+    "study": "pairfam",
     "name": "pargkpol",
     "name_cs": "pargkpol",
     "variable": "pargkpol",
@@ -23139,6 +23380,7 @@
     "label_de": "NA"
   },
   "parage": {
+    "study": "pairfam",
     "name": "parage",
     "name_cs": "parage",
     "variable": "parage",
@@ -23415,6 +23657,7 @@
     "label_de": "Alter Befragter"
   },
   "parage2": {
+    "study": "pairfam",
     "name": "parage2",
     "name_cs": "parage2",
     "variable": "parage2",
@@ -23691,6 +23934,7 @@
     "label_de": "Alter Befragter, jahresgenau"
   },
   "parmage": {
+    "study": "pairfam",
     "name": "parmage",
     "name_cs": "parmage",
     "variable": "parmage",
@@ -23912,6 +24156,7 @@
     "label_de": "Alter Mutter des Befragten (wenn lebend)"
   },
   "parmage2": {
+    "study": "pairfam",
     "name": "parmage2",
     "name_cs": "parmage2",
     "variable": "parmage2",
@@ -24128,6 +24373,7 @@
     "label_de": "Alter Mutter des Befragten (wenn lebend) jahresgenau"
   },
   "parfage": {
+    "study": "pairfam",
     "name": "parfage",
     "name_cs": "parfage",
     "variable": "parfage",
@@ -24339,6 +24585,7 @@
     "label_de": "Alter Vater des Befragten (wenn lebend)"
   },
   "parfage2": {
+    "study": "pairfam",
     "name": "parfage2",
     "name_cs": "parfage2",
     "variable": "parfage2",
@@ -24560,6 +24807,7 @@
     "label_de": "Alter Vater des Befragten (wenn lebend) jahresgenau"
   },
   "parcasprim": {
+    "study": "pairfam",
     "name": "parcasprim",
     "name_cs": "parcasprim",
     "variable": "parcasprim",
@@ -24659,7 +24907,7 @@
         "",
         "17 Mutterschutz, Elternzeit, sonstige Beurlaubung",
         "18 Bundesfreiwilligendienst, freiwilliges soziales Jahr",
-        "19 Arbeitslos, arbeitsuchend ",
+        "19 Arbeitslos, arbeitsuchend",
         "20 Hausfrau/Hausmann",
         "",
         "22 Sonstiges",
@@ -24680,6 +24928,7 @@
     "label_de": "NA"
   },
   "parcassec": {
+    "study": "pairfam",
     "name": "parcassec",
     "name_cs": "parcassec",
     "variable": "parcassec",
@@ -24779,7 +25028,7 @@
         "",
         "17 Mutterschutz, Elternzeit, sonstige Beurlaubung",
         "18 Bundesfreiwilligendienst, freiwilliges soziales Jahr",
-        "19 Arbeitslos, arbeitsuchend ",
+        "19 Arbeitslos, arbeitsuchend",
         "20 Hausfrau/Hausmann",
         "",
         "22 Sonstiges",
@@ -24800,6 +25049,7 @@
     "label_de": "NA"
   },
   "parflag_cas": {
+    "study": "pairfam",
     "name": "parflag_cas",
     "name_cs": "parflag_cas",
     "variable": "parflag_cas",
@@ -24861,6 +25111,7 @@
     "label_de": "NA"
   },
   "park1type": {
+    "study": "pairfam",
     "name": "park1type",
     "name_cs": "park1type",
     "variable": "park1type",
@@ -24952,6 +25203,7 @@
     "label_de": "Typ Kind des Befragten 1"
   },
   "park2type": {
+    "study": "pairfam",
     "name": "park2type",
     "name_cs": "park2type",
     "variable": "park2type",
@@ -25043,6 +25295,7 @@
     "label_de": "Typ Kind des Befragten 2"
   },
   "park3type": {
+    "study": "pairfam",
     "name": "park3type",
     "name_cs": "park3type",
     "variable": "park3type",
@@ -25134,6 +25387,7 @@
     "label_de": "Typ Kind des Befragten 3"
   },
   "park4type": {
+    "study": "pairfam",
     "name": "park4type",
     "name_cs": "park4type",
     "variable": "park4type",
@@ -25225,6 +25479,7 @@
     "label_de": "Typ Kind des Befragten 4"
   },
   "parlfs": {
+    "study": "pairfam",
     "name": "parlfs",
     "name_cs": "parlfs",
     "variable": "parlfs",
@@ -25330,6 +25585,7 @@
     "label_de": "Erwerbsstatus Befragter"
   },
   "parigr27": {
+    "study": "pairfam",
     "name": "parigr27",
     "name_cs": "parigr27",
     "variable": "parigr27",
@@ -25376,6 +25632,7 @@
     "label_de": "Eltern des Befragten in gemeinsamen Haushalt"
   },
   "parigr28": {
+    "study": "pairfam",
     "name": "parigr28",
     "name_cs": "parigr28",
     "variable": "parigr28",
@@ -25422,6 +25679,7 @@
     "label_de": "Eltern des Befragten miteinander verheiratet"
   },
   "parpcs": {
+    "study": "pairfam",
     "name": "parpcs",
     "name_cs": "parpcs",
     "variable": "parpcs",
@@ -33008,6 +33266,7 @@
     "label_de": "Physical health composite scale"
   },
   "parmcs": {
+    "study": "pairfam",
     "name": "parmcs",
     "name_cs": "parmcs",
     "variable": "parmcs",
@@ -40594,6 +40853,7 @@
     "label_de": "Mental health composite scale"
   },
   "parschool": {
+    "study": "pairfam",
     "name": "parschool",
     "name_cs": "parschool",
     "variable": "parschool",
@@ -40601,16 +40861,16 @@
     "label": "Highest school degree",
     "categories": {
       "frequencies": [
-        3,
+        2,
         109,
-        30,
-        523,
-        651,
-        50,
-        381,
-        229,
+        31,
+        524,
+        660,
+        45,
+        378,
+        225,
         727,
-        16
+        18
       ],
       "labels": [
         "-7 Incomplete data",
@@ -40667,14 +40927,15 @@
         "invalid"
       ],
       "values": [
-        "2607",
-        "112"
+        "2608",
+        "111"
       ]
     },
     "scale": "cat",
     "label_de": "Highest school degree"
   },
   "parvocat": {
+    "study": "pairfam",
     "name": "parvocat",
     "name_cs": "parvocat",
     "variable": "parvocat",
@@ -40684,12 +40945,12 @@
       "frequencies": [
         4,
         109,
-        193,
-        928,
-        594,
-        174,
-        74,
-        248,
+        194,
+        931,
+        593,
+        175,
+        75,
+        243,
         357,
         38
       ],
@@ -40756,6 +41017,7 @@
     "label_de": "Highest vocational degree"
   },
   "parcasmin": {
+    "study": "pairfam",
     "name": "parcasmin",
     "name_cs": "parcasmin",
     "variable": "parcasmin",
@@ -40763,16 +41025,16 @@
     "label": "CASMIN classification of education",
     "categories": {
       "frequencies": [
-        5,
+        4,
         109,
         25,
         107,
-        433,
+        435,
         984,
-        36,
+        38,
         24,
-        353,
-        248,
+        355,
+        243,
         395
       ],
       "labels": [
@@ -40834,14 +41096,15 @@
         "invalid"
       ],
       "values": [
-        "2605",
-        "114"
+        "2606",
+        "113"
       ]
     },
     "scale": "cat",
     "label_de": "CASMIN classification of education"
   },
   "parisced": {
+    "study": "pairfam",
     "name": "parisced",
     "name_cs": "parisced",
     "variable": "parisced",
@@ -40849,15 +41112,15 @@
     "label": "ISCED-97 classification of education",
     "categories": {
       "frequencies": [
-        5,
+        4,
         109,
-        29,
-        103,
-        36,
-        1304,
+        27,
+        105,
+        38,
+        1307,
         24,
-        267,
-        804,
+        266,
+        801,
         38
       ],
       "labels": [
@@ -40915,14 +41178,15 @@
         "invalid"
       ],
       "values": [
-        "2605",
-        "114"
+        "2606",
+        "113"
       ]
     },
     "scale": "cat",
     "label_de": "ISCED-97 classification of education"
   },
   "paryeduc": {
+    "study": "pairfam",
     "name": "paryeduc",
     "name_cs": "paryeduc",
     "variable": "paryeduc",
@@ -40930,22 +41194,22 @@
     "label": "Years of education",
     "categories": {
       "frequencies": [
-        35,
-        306,
-        140,
-        543,
-        332,
-        118,
-        47,
+        38,
+        305,
+        135,
+        548,
+        337,
+        115,
+        46,
         105,
-        101,
-        131,
-        112,
-        121,
-        339,
+        102,
+        132,
+        114,
+        113,
+        341,
         37,
         109,
-        5,
+        4,
         25,
         108,
         5
@@ -41041,8 +41305,8 @@
         "invalid"
       ],
       "values": [
-        "2605",
-        "114"
+        "2606",
+        "113"
       ]
     },
     "scale": "cat",

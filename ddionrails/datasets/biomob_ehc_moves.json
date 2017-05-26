@@ -1,5 +1,6 @@
 {
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -37,6 +38,7 @@
     "label_de": "Person number anchor"
   },
   "demodiff": {
+    "study": "pairfam",
     "name": "demodiff",
     "name_cs": "demodiff",
     "variable": "demodiff",
@@ -78,6 +80,7 @@
     "label_de": "DemoDiff sample"
   },
   "cohort": {
+    "study": "pairfam",
     "name": "cohort",
     "name_cs": "cohort",
     "variable": "cohort",
@@ -129,6 +132,7 @@
     "label_de": "Birth cohort"
   },
   "dob": {
+    "study": "pairfam",
     "name": "dob",
     "name_cs": "dob",
     "variable": "dob",
@@ -725,6 +729,7 @@
     "label_de": "Date of birth anchor"
   },
   "sex": {
+    "study": "pairfam",
     "name": "sex",
     "name_cs": "sex",
     "variable": "sex",
@@ -786,6 +791,7 @@
     "label_de": "Sex anchor"
   },
   "intdatw1": {
+    "study": "pairfam",
     "name": "intdatw1",
     "name_cs": "intdatw1",
     "variable": "intdatw1",
@@ -892,6 +898,7 @@
     "label_de": "Date of interview wave 1"
   },
   "intdatw2": {
+    "study": "pairfam",
     "name": "intdatw2",
     "name_cs": "intdatw2",
     "variable": "intdatw2",
@@ -963,6 +970,7 @@
     "label_de": "Date of interview wave 2"
   },
   "intdatw3": {
+    "study": "pairfam",
     "name": "intdatw3",
     "name_cs": "intdatw3",
     "variable": "intdatw3",
@@ -1034,6 +1042,7 @@
     "label_de": "Date of interview wave 3"
   },
   "intdatw4": {
+    "study": "pairfam",
     "name": "intdatw4",
     "name_cs": "intdatw4",
     "variable": "intdatw4",
@@ -1110,6 +1119,7 @@
     "label_de": "Date of interview wave 4"
   },
   "intdatw5": {
+    "study": "pairfam",
     "name": "intdatw5",
     "name_cs": "intdatw5",
     "variable": "intdatw5",
@@ -1186,6 +1196,7 @@
     "label_de": "Date of interview wave 5"
   },
   "intdatw6": {
+    "study": "pairfam",
     "name": "intdatw6",
     "name_cs": "intdatw6",
     "variable": "intdatw6",
@@ -1262,6 +1273,7 @@
     "label_de": "Date of interview wave 6"
   },
   "intdatw7": {
+    "study": "pairfam",
     "name": "intdatw7",
     "name_cs": "intdatw7",
     "variable": "intdatw7",
@@ -1337,7 +1349,80 @@
     "scale": "cat",
     "label_de": "Date of interview wave 7"
   },
+  "intdatw8": {
+    "study": "pairfam",
+    "name": "intdatw8",
+    "name_cs": "intdatw8",
+    "variable": "intdatw8",
+    "dataset": "biomob_ehc_moves",
+    "label": "Date of interview wave 8",
+    "categories": {
+      "frequencies": [
+        276,
+        1730,
+        1349,
+        1305,
+        511,
+        267,
+        23,
+        5366
+      ],
+      "labels": [
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "1393",
+        "1394",
+        "1395",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "1393",
+        "1394",
+        "1395",
+        "-3"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5461",
+        "5366"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Date of interview wave 8"
+  },
   "mig0_w1_w2_mr": {
+    "study": "pairfam",
     "name": "mig0_w1_w2_mr",
     "name_cs": "mig0_w1_w2_mr",
     "variable": "mig0_w1_w2_mr",
@@ -1414,6 +1499,7 @@
     "label_de": "No. of moves (resdis=0) w1 to w2: Main residence"
   },
   "mig0_w1_w3_mr": {
+    "study": "pairfam",
     "name": "mig0_w1_w3_mr",
     "name_cs": "mig0_w1_w3_mr",
     "variable": "mig0_w1_w3_mr",
@@ -1460,6 +1546,7 @@
     "label_de": "No. of moves (resdis=0) w1 to w3: Main residence"
   },
   "mig0_w2_w3_mr": {
+    "study": "pairfam",
     "name": "mig0_w2_w3_mr",
     "name_cs": "mig0_w2_w3_mr",
     "variable": "mig0_w2_w3_mr",
@@ -1511,6 +1598,7 @@
     "label_de": "No. of moves (resdis=0) w2 to w3: Main residence"
   },
   "mig0_w2_w4_mr": {
+    "study": "pairfam",
     "name": "mig0_w2_w4_mr",
     "name_cs": "mig0_w2_w4_mr",
     "variable": "mig0_w2_w4_mr",
@@ -1557,6 +1645,7 @@
     "label_de": "No. of moves (resdis=0) w2 to w4: Main residence"
   },
   "mig0_w3_w4_mr": {
+    "study": "pairfam",
     "name": "mig0_w3_w4_mr",
     "name_cs": "mig0_w3_w4_mr",
     "variable": "mig0_w3_w4_mr",
@@ -1603,6 +1692,7 @@
     "label_de": "No. of moves (resdis=0) w3 to w4: Main residence"
   },
   "mig0_w3_w5_mr": {
+    "study": "pairfam",
     "name": "mig0_w3_w5_mr",
     "name_cs": "mig0_w3_w5_mr",
     "variable": "mig0_w3_w5_mr",
@@ -1649,6 +1739,7 @@
     "label_de": "No. of moves (resdis=0) w3 to w5: Main residence"
   },
   "mig0_w4_w5_mr": {
+    "study": "pairfam",
     "name": "mig0_w4_w5_mr",
     "name_cs": "mig0_w4_w5_mr",
     "variable": "mig0_w4_w5_mr",
@@ -1694,53 +1785,8 @@
     "scale": "cat",
     "label_de": "No. of moves (resdis=0) w4 to w5: Main residence"
   },
-  "mig0_w5_w6_mr": {
-    "name": "mig0_w5_w6_mr",
-    "name_cs": "mig0_w5_w6_mr",
-    "variable": "mig0_w5_w6_mr",
-    "dataset": "biomob_ehc_moves",
-    "label": "No. of moves (resdis=0) w5 to w6: Main residence",
-    "categories": {
-      "frequencies": [
-        6567,
-        7,
-        4253
-      ],
-      "labels": [
-        "0",
-        "1",
-        "-3 does not apply"
-      ],
-      "missings": [
-        false,
-        false,
-        true
-      ],
-      "values": [
-        "0",
-        "1",
-        "-3"
-      ],
-      "labels_de": [
-        "",
-        "",
-        "-3 does not apply"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "6574",
-        "4253"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "No. of moves (resdis=0) w5 to w6: Main residence"
-  },
   "mig0_w4_w6_mr": {
+    "study": "pairfam",
     "name": "mig0_w4_w6_mr",
     "name_cs": "mig0_w4_w6_mr",
     "variable": "mig0_w4_w6_mr",
@@ -1786,7 +1832,238 @@
     "scale": "cat",
     "label_de": "No. of moves (resdis=0) w4 to w6: Main residence"
   },
+  "mig0_w5_w6_mr": {
+    "study": "pairfam",
+    "name": "mig0_w5_w6_mr",
+    "name_cs": "mig0_w5_w6_mr",
+    "variable": "mig0_w5_w6_mr",
+    "dataset": "biomob_ehc_moves",
+    "label": "No. of moves (resdis=0) w5 to w6: Main residence",
+    "categories": {
+      "frequencies": [
+        6567,
+        7,
+        4253
+      ],
+      "labels": [
+        "0",
+        "1",
+        "-3 does not apply"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "0",
+        "1",
+        "-3"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "-3 does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "6574",
+        "4253"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "No. of moves (resdis=0) w5 to w6: Main residence"
+  },
+  "mig0_w5_w7_mr": {
+    "study": "pairfam",
+    "name": "mig0_w5_w7_mr",
+    "name_cs": "mig0_w5_w7_mr",
+    "variable": "mig0_w5_w7_mr",
+    "dataset": "biomob_ehc_moves",
+    "label": "No. of moves (resdis=0) w5 to w7: Main residence",
+    "categories": {
+      "frequencies": [
+        5919,
+        4908
+      ],
+      "labels": [
+        "0",
+        "-3 does not apply"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "0",
+        "-3"
+      ],
+      "labels_de": [
+        "",
+        "-3 does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5919",
+        "4908"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "No. of moves (resdis=0) w5 to w7: Main residence"
+  },
+  "mig0_w6_w7_mr": {
+    "study": "pairfam",
+    "name": "mig0_w6_w7_mr",
+    "name_cs": "mig0_w6_w7_mr",
+    "variable": "mig0_w6_w7_mr",
+    "dataset": "biomob_ehc_moves",
+    "label": "No. of moves (resdis=0) w6 to w7: Main residence",
+    "categories": {
+      "frequencies": [
+        5915,
+        3,
+        1,
+        4908
+      ],
+      "labels": [
+        "0",
+        "1",
+        "2",
+        "-3 does not apply"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "0",
+        "1",
+        "2",
+        "-3"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "-3 does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5919",
+        "4908"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "No. of moves (resdis=0) w6 to w7: Main residence"
+  },
+  "mig0_w6_w8_mr": {
+    "study": "pairfam",
+    "name": "mig0_w6_w8_mr",
+    "name_cs": "mig0_w6_w8_mr",
+    "variable": "mig0_w6_w8_mr",
+    "dataset": "biomob_ehc_moves",
+    "label": "No. of moves (resdis=0) w6 to w8: Main residence",
+    "categories": {
+      "frequencies": [
+        5461,
+        5366
+      ],
+      "labels": [
+        "0",
+        "-3 does not apply"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "0",
+        "-3"
+      ],
+      "labels_de": [
+        "",
+        "-3 does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5461",
+        "5366"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "No. of moves (resdis=0) w6 to w8: Main residence"
+  },
+  "mig0_w7_w8_mr": {
+    "study": "pairfam",
+    "name": "mig0_w7_w8_mr",
+    "name_cs": "mig0_w7_w8_mr",
+    "variable": "mig0_w7_w8_mr",
+    "dataset": "biomob_ehc_moves",
+    "label": "No. of moves (resdis=0) w7 to w8: Main residence",
+    "categories": {
+      "frequencies": [
+        5905,
+        14,
+        4908
+      ],
+      "labels": [
+        "0",
+        "1",
+        "-3 does not apply"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "0",
+        "1",
+        "-3"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "-3 does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5919",
+        "4908"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "No. of moves (resdis=0) w7 to w8: Main residence"
+  },
   "mig0_w1_w2_sr": {
+    "study": "pairfam",
     "name": "mig0_w1_w2_sr",
     "name_cs": "mig0_w1_w2_sr",
     "variable": "mig0_w1_w2_sr",
@@ -1863,6 +2140,7 @@
     "label_de": "No. of moves (resdis=0) w1 to w2: 2nd residence"
   },
   "mig0_w1_w3_sr": {
+    "study": "pairfam",
     "name": "mig0_w1_w3_sr",
     "name_cs": "mig0_w1_w3_sr",
     "variable": "mig0_w1_w3_sr",
@@ -1904,6 +2182,7 @@
     "label_de": "No. of moves (resdis=0) w1 to w3: 2nd residence"
   },
   "mig0_w2_w3_sr": {
+    "study": "pairfam",
     "name": "mig0_w2_w3_sr",
     "name_cs": "mig0_w2_w3_sr",
     "variable": "mig0_w2_w3_sr",
@@ -1950,6 +2229,7 @@
     "label_de": "No. of moves (resdis=0) w2 to w3: 2nd residence"
   },
   "within_w1_w2_mr": {
+    "study": "pairfam",
     "name": "within_w1_w2_mr",
     "name_cs": "within_w1_w2_mr",
     "variable": "within_w1_w2_mr",
@@ -1996,6 +2276,7 @@
     "label_de": "Within city (ehc18) w1 to w2: Main residence"
   },
   "within_w1_w3_mr": {
+    "study": "pairfam",
     "name": "within_w1_w3_mr",
     "name_cs": "within_w1_w3_mr",
     "variable": "within_w1_w3_mr",
@@ -2042,6 +2323,7 @@
     "label_de": "Within city (ehc29) w1 to w3: Main residence"
   },
   "within_w2_w3_mr": {
+    "study": "pairfam",
     "name": "within_w2_w3_mr",
     "name_cs": "within_w2_w3_mr",
     "variable": "within_w2_w3_mr",
@@ -2088,11 +2370,12 @@
     "label_de": "Within city (ehc29) w2 to w3: Main residence"
   },
   "within_w2_w4_mr": {
+    "study": "pairfam",
     "name": "within_w2_w4_mr",
     "name_cs": "within_w2_w4_mr",
     "variable": "within_w2_w4_mr",
     "dataset": "biomob_ehc_moves",
-    "label": "Within city (ehc29) w2 to w3: Main residence",
+    "label": "Within city (ehc29) w2 to w4: Main residence",
     "categories": {
       "frequencies": [
         10439,
@@ -2131,14 +2414,15 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Within city (ehc29) w2 to w3: Main residence"
+    "label_de": "Within city (ehc29) w2 to w4: Main residence"
   },
   "within_w3_w4_mr": {
+    "study": "pairfam",
     "name": "within_w3_w4_mr",
     "name_cs": "within_w3_w4_mr",
     "variable": "within_w3_w4_mr",
     "dataset": "biomob_ehc_moves",
-    "label": "Within city (ehc29) w3 to w3: Main residence",
+    "label": "Within city (ehc29) w3 to w4: Main residence",
     "categories": {
       "frequencies": [
         3142,
@@ -2177,14 +2461,15 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Within city (ehc29) w3 to w3: Main residence"
+    "label_de": "Within city (ehc29) w3 to w4: Main residence"
   },
   "within_w3_w5_mr": {
+    "study": "pairfam",
     "name": "within_w3_w5_mr",
     "name_cs": "within_w3_w5_mr",
     "variable": "within_w3_w5_mr",
     "dataset": "biomob_ehc_moves",
-    "label": "Within city (ehc29) w3 to w3: Main residence",
+    "label": "Within city (ehc29) w3 to w5: Main residence",
     "categories": {
       "frequencies": [
         10512,
@@ -2223,14 +2508,15 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Within city (ehc29) w3 to w3: Main residence"
+    "label_de": "Within city (ehc29) w3 to w5: Main residence"
   },
   "within_w4_w5_mr": {
+    "study": "pairfam",
     "name": "within_w4_w5_mr",
     "name_cs": "within_w4_w5_mr",
     "variable": "within_w4_w5_mr",
     "dataset": "biomob_ehc_moves",
-    "label": "Within city (ehc29) w4 to w3: Main residence",
+    "label": "Within city (ehc29) w4 to w5: Main residence",
     "categories": {
       "frequencies": [
         3894,
@@ -2269,14 +2555,15 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Within city (ehc29) w4 to w3: Main residence"
+    "label_de": "Within city (ehc29) w4 to w5: Main residence"
   },
   "within_w4_w6_mr": {
+    "study": "pairfam",
     "name": "within_w4_w6_mr",
     "name_cs": "within_w4_w6_mr",
     "variable": "within_w4_w6_mr",
     "dataset": "biomob_ehc_moves",
-    "label": "Within city (ehc29) w4 to w3: Main residence",
+    "label": "Within city (ehc29) w4 to w6: Main residence",
     "categories": {
       "frequencies": [
         10570,
@@ -2315,14 +2602,15 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Within city (ehc29) w4 to w3: Main residence"
+    "label_de": "Within city (ehc29) w4 to w6: Main residence"
   },
   "within_w5_w6_mr": {
+    "study": "pairfam",
     "name": "within_w5_w6_mr",
     "name_cs": "within_w5_w6_mr",
     "variable": "within_w5_w6_mr",
     "dataset": "biomob_ehc_moves",
-    "label": "Within city (ehc29) w5 to w3: Main residence",
+    "label": "Within city (ehc29) w5 to w6: Main residence",
     "categories": {
       "frequencies": [
         4510,
@@ -2361,14 +2649,15 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Within city (ehc29) w5 to w3: Main residence"
+    "label_de": "Within city (ehc29) w5 to w6: Main residence"
   },
   "within_w5_w7_mr": {
+    "study": "pairfam",
     "name": "within_w5_w7_mr",
     "name_cs": "within_w5_w7_mr",
     "variable": "within_w5_w7_mr",
     "dataset": "biomob_ehc_moves",
-    "label": "Within city (ehc29) w5 to w3: Main residence",
+    "label": "Within city (ehc29) w5 to w7: Main residence",
     "categories": {
       "frequencies": [
         10635,
@@ -2407,14 +2696,15 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Within city (ehc29) w5 to w3: Main residence"
+    "label_de": "Within city (ehc29) w5 to w7: Main residence"
   },
   "within_w6_w7_mr": {
+    "study": "pairfam",
     "name": "within_w6_w7_mr",
     "name_cs": "within_w6_w7_mr",
     "variable": "within_w6_w7_mr",
     "dataset": "biomob_ehc_moves",
-    "label": "Within city (ehc29) w6 to w3: Main residence",
+    "label": "Within city (ehc29) w6 to w7: Main residence",
     "categories": {
       "frequencies": [
         5100,
@@ -2453,9 +2743,104 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Within city (ehc29) w6 to w3: Main residence"
+    "label_de": "Within city (ehc29) w6 to w7: Main residence"
+  },
+  "within_w6_w8_mr": {
+    "study": "pairfam",
+    "name": "within_w6_w8_mr",
+    "name_cs": "within_w6_w8_mr",
+    "variable": "within_w6_w8_mr",
+    "dataset": "biomob_ehc_moves",
+    "label": "Within city (ehc29) w6 to w8: Main residence",
+    "categories": {
+      "frequencies": [
+        10630,
+        166,
+        31
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "197",
+        "10630"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Within city (ehc29) w6 to w8: Main residence"
+  },
+  "within_w7_w8_mr": {
+    "study": "pairfam",
+    "name": "within_w7_w8_mr",
+    "name_cs": "within_w7_w8_mr",
+    "variable": "within_w7_w8_mr",
+    "dataset": "biomob_ehc_moves",
+    "label": "Within city (ehc29) w7 to w8: Main residence",
+    "categories": {
+      "frequencies": [
+        5563,
+        4837,
+        427
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5264",
+        "5563"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Within city (ehc29) w7 to w8: Main residence"
   },
   "within_w1_w2_sr": {
+    "study": "pairfam",
     "name": "within_w1_w2_sr",
     "name_cs": "within_w1_w2_sr",
     "variable": "within_w1_w2_sr",
@@ -2502,6 +2887,7 @@
     "label_de": "Within city (ehc18) w1 to w2: 2nd residence"
   },
   "within_w1_w3_sr": {
+    "study": "pairfam",
     "name": "within_w1_w3_sr",
     "name_cs": "within_w1_w3_sr",
     "variable": "within_w1_w3_sr",
@@ -2510,8 +2896,8 @@
     "categories": {
       "frequencies": [
         9136,
-        1683,
-        8
+        1517,
+        174
       ],
       "labels": [
         "-3 Does not apply",
@@ -2548,6 +2934,7 @@
     "label_de": "Within city (ehc29) w1 to w3: 2nd residence"
   },
   "within_w2_w3_sr": {
+    "study": "pairfam",
     "name": "within_w2_w3_sr",
     "name_cs": "within_w2_w3_sr",
     "variable": "within_w2_w3_sr",
@@ -2556,8 +2943,8 @@
     "categories": {
       "frequencies": [
         3444,
-        7373,
-        10
+        6829,
+        554
       ],
       "labels": [
         "-3 Does not apply",
@@ -2592,97 +2979,5 @@
     },
     "scale": "cat",
     "label_de": "Within city (ehc29) w2 to w3: 2nd residence"
-  },
-  "mig0_w6_w7_mr": {
-    "name": "mig0_w6_w7_mr",
-    "name_cs": "mig0_w6_w7_mr",
-    "variable": "mig0_w6_w7_mr",
-    "dataset": "biomob_ehc_moves",
-    "label": "No. of moves (resdis=0) w6 to w7: Main residence",
-    "categories": {
-      "frequencies": [
-        5915,
-        3,
-        1,
-        4908
-      ],
-      "labels": [
-        "0",
-        "1",
-        "2",
-        "-3 does not apply"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        true
-      ],
-      "values": [
-        "0",
-        "1",
-        "2",
-        "-3"
-      ],
-      "labels_de": [
-        "",
-        "",
-        "",
-        "-3 does not apply"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5919",
-        "4908"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "No. of moves (resdis=0) w6 to w7: Main residence"
-  },
-  "mig0_w5_w7_mr": {
-    "name": "mig0_w5_w7_mr",
-    "name_cs": "mig0_w5_w7_mr",
-    "variable": "mig0_w5_w7_mr",
-    "dataset": "biomob_ehc_moves",
-    "label": "No. of moves (resdis=0) w5 to w7: Main residence",
-    "categories": {
-      "frequencies": [
-        5919,
-        4908
-      ],
-      "labels": [
-        "0",
-        "-3 does not apply"
-      ],
-      "missings": [
-        false,
-        true
-      ],
-      "values": [
-        "0",
-        "-3"
-      ],
-      "labels_de": [
-        "",
-        "-3 does not apply"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5919",
-        "4908"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "No. of moves (resdis=0) w5 to w7: Main residence"
   }
 }

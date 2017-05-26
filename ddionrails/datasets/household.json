@@ -1,5 +1,6 @@
 {
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -37,6 +38,7 @@
     "label_de": "Person number anchor"
   },
   "wave": {
+    "study": "pairfam",
     "name": "wave",
     "name_cs": "wave",
     "variable": "wave",
@@ -83,6 +85,7 @@
     "label_de": "Survey year"
   },
   "pid": {
+    "study": "pairfam",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -122,6 +125,7 @@
     "label_de": "Person number partner"
   },
   "mid": {
+    "study": "pairfam",
     "name": "mid",
     "name_cs": "mid",
     "variable": "mid",
@@ -161,6 +165,7 @@
     "label_de": "Person number mother"
   },
   "smid": {
+    "study": "pairfam",
     "name": "smid",
     "name_cs": "smid",
     "variable": "smid",
@@ -200,6 +205,7 @@
     "label_de": "Person number stepmother"
   },
   "fid": {
+    "study": "pairfam",
     "name": "fid",
     "name_cs": "fid",
     "variable": "fid",
@@ -239,6 +245,7 @@
     "label_de": "Person number father"
   },
   "cid": {
+    "study": "pairfam",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -278,6 +285,7 @@
     "label_de": "Personennummer CAPI-Kind"
   },
   "intm": {
+    "study": "pairfam",
     "name": "intm",
     "name_cs": "intm",
     "variable": "intm",
@@ -315,6 +323,7 @@
     "label_de": "Date of interview: Month"
   },
   "inty": {
+    "study": "pairfam",
     "name": "inty",
     "name_cs": "inty",
     "variable": "inty",
@@ -352,6 +361,7 @@
     "label_de": "Date of interview: Year"
   },
   "sex_gen": {
+    "study": "pairfam",
     "name": "sex_gen",
     "name_cs": "sex_gen",
     "variable": "sex_gen",
@@ -403,6 +413,7 @@
     "label_de": "Generated sex anchor"
   },
   "doby_gen": {
+    "study": "pairfam",
     "name": "doby_gen",
     "name_cs": "doby_gen",
     "variable": "doby_gen",
@@ -504,6 +515,7 @@
     "label_de": "Generated year of birth anchor"
   },
   "dobm_gen": {
+    "study": "pairfam",
     "name": "dobm_gen",
     "name_cs": "dobm_gen",
     "variable": "dobm_gen",
@@ -630,6 +642,7 @@
     "label_de": "Generated month of birth anchor"
   },
   "pmrd": {
+    "study": "pairfam",
     "name": "pmrd",
     "name_cs": "pmrd",
     "variable": "pmrd",
@@ -676,6 +689,7 @@
     "label_de": "Partner lives in household main residence"
   },
   "mmrd": {
+    "study": "pairfam",
     "name": "mmrd",
     "name_cs": "mmrd",
     "variable": "mmrd",
@@ -722,6 +736,7 @@
     "label_de": "Mother lives in household main residence"
   },
   "fmrd": {
+    "study": "pairfam",
     "name": "fmrd",
     "name_cs": "fmrd",
     "variable": "fmrd",
@@ -768,6 +783,7 @@
     "label_de": "Father lives in household main residence"
   },
   "childmrd": {
+    "study": "pairfam",
     "name": "childmrd",
     "name_cs": "childmrd",
     "variable": "childmrd",
@@ -849,6 +865,7 @@
     "label_de": "Number of children in household main residence"
   },
   "othmrd": {
+    "study": "pairfam",
     "name": "othmrd",
     "name_cs": "othmrd",
     "variable": "othmrd",
@@ -955,6 +972,7 @@
     "label_de": "Number of other hh members main residence"
   },
   "hhsizemrd": {
+    "study": "pairfam",
     "name": "hhsizemrd",
     "name_cs": "hhsizemrd",
     "variable": "hhsizemrd",
@@ -1066,6 +1084,7 @@
     "label_de": "Number of hh members main residence"
   },
   "dwtype": {
+    "study": "pairfam",
     "name": "dwtype",
     "name_cs": "dwtype",
     "variable": "dwtype",
@@ -1132,6 +1151,7 @@
     "label_de": "Type of household (own, parental, shared, dorm., other)"
   },
   "owner": {
+    "study": "pairfam",
     "name": "owner",
     "name_cs": "owner",
     "variable": "owner",
@@ -1213,6 +1233,7 @@
     "label_de": "Home-ownership"
   },
   "nights": {
+    "study": "pairfam",
     "name": "nights",
     "name_cs": "nights",
     "variable": "nights",
@@ -1284,6 +1305,7 @@
     "label_de": "Nights spent at residence"
   },
   "rent": {
+    "study": "pairfam",
     "name": "rent",
     "name_cs": "rent",
     "variable": "rent",
@@ -3400,6 +3422,7 @@
     "label_de": "Monthly rent for dwelling (euros)"
   },
   "expown": {
+    "study": "pairfam",
     "name": "expown",
     "name_cs": "expown",
     "variable": "expown",
@@ -4206,6 +4229,7 @@
     "label_de": "Monthly expenditures for self-owned apartment / house (euros)"
   },
   "dwsize": {
+    "study": "pairfam",
     "name": "dwsize",
     "name_cs": "dwsize",
     "variable": "dwsize",
@@ -5347,6 +5371,7 @@
     "label_de": "Size of dwelling (square meters)"
   },
   "rooms": {
+    "study": "pairfam",
     "name": "rooms",
     "name_cs": "rooms",
     "variable": "rooms",
@@ -5493,6 +5518,7 @@
     "label_de": "Number of rooms of dwelling"
   },
   "res2nd": {
+    "study": "pairfam",
     "name": "res2nd",
     "name_cs": "res2nd",
     "variable": "res2nd",
@@ -5539,6 +5565,7 @@
     "label_de": "Respondent has 2nd residence"
   },
   "hhincnet": {
+    "study": "pairfam",
     "name": "hhincnet",
     "name_cs": "hhincnet",
     "variable": "hhincnet",
@@ -10045,6 +10072,7 @@
     "label_de": "Household net income (open and estimated information combined)"
   },
   "hhcomp": {
+    "study": "pairfam",
     "name": "hhcomp",
     "name_cs": "hhcomp",
     "variable": "hhcomp",
@@ -10161,6 +10189,7 @@
     "label_de": "Household Composition (partner, kid(s), parent(s), others)"
   },
   "hhincgcee": {
+    "study": "pairfam",
     "name": "hhincgcee",
     "name_cs": "hhincgcee",
     "variable": "hhincgcee",
@@ -18617,6 +18646,7 @@
     "label_de": "Net equivalence income (GCEE)"
   },
   "p1_rel": {
+    "study": "pairfam",
     "name": "p1_rel",
     "name_cs": "p1_rel",
     "variable": "p1_rel",
@@ -18763,6 +18793,7 @@
     "label_de": "Anchor's relation to partner 1"
   },
   "p1_sex": {
+    "study": "pairfam",
     "name": "p1_sex",
     "name_cs": "p1_sex",
     "variable": "p1_sex",
@@ -18814,6 +18845,7 @@
     "label_de": "Sex of partner 1"
   },
   "p1_byear": {
+    "study": "pairfam",
     "name": "p1_byear",
     "name_cs": "p1_byear",
     "variable": "p1_byear",
@@ -19140,6 +19172,7 @@
     "label_de": "Year of birth of partner 1"
   },
   "p1_bmonth": {
+    "study": "pairfam",
     "name": "p1_bmonth",
     "name_cs": "p1_bmonth",
     "variable": "p1_bmonth",
@@ -19266,6 +19299,7 @@
     "label_de": "Month of birth of partner 1"
   },
   "p1_id": {
+    "study": "pairfam",
     "name": "p1_id",
     "name_cs": "p1_id",
     "variable": "p1_id",
@@ -47622,6 +47656,7 @@
     "label_de": "Person number of partner 1"
   },
   "p2_rel": {
+    "study": "pairfam",
     "name": "p2_rel",
     "name_cs": "p2_rel",
     "variable": "p2_rel",
@@ -47768,6 +47803,7 @@
     "label_de": "Anchor's relation to partner 2"
   },
   "p2_sex": {
+    "study": "pairfam",
     "name": "p2_sex",
     "name_cs": "p2_sex",
     "variable": "p2_sex",
@@ -47819,6 +47855,7 @@
     "label_de": "Sex of partner 2"
   },
   "p2_byear": {
+    "study": "pairfam",
     "name": "p2_byear",
     "name_cs": "p2_byear",
     "variable": "p2_byear",
@@ -47955,6 +47992,7 @@
     "label_de": "Year of birth of partner 2"
   },
   "p2_bmonth": {
+    "study": "pairfam",
     "name": "p2_bmonth",
     "name_cs": "p2_bmonth",
     "variable": "p2_bmonth",
@@ -48056,6 +48094,7 @@
     "label_de": "Month of birth of partner 2"
   },
   "p2_id": {
+    "study": "pairfam",
     "name": "p2_id",
     "name_cs": "p2_id",
     "variable": "p2_id",
@@ -48397,6 +48436,7 @@
     "label_de": "Person number of partner 2"
   },
   "c1_rel": {
+    "study": "pairfam",
     "name": "c1_rel",
     "name_cs": "c1_rel",
     "variable": "c1_rel",
@@ -48543,6 +48583,7 @@
     "label_de": "Anchor's relation to child 1"
   },
   "c1_sex": {
+    "study": "pairfam",
     "name": "c1_sex",
     "name_cs": "c1_sex",
     "variable": "c1_sex",
@@ -48594,6 +48635,7 @@
     "label_de": "Sex of child 1"
   },
   "c1_byear": {
+    "study": "pairfam",
     "name": "c1_byear",
     "name_cs": "c1_byear",
     "variable": "c1_byear",
@@ -48775,6 +48817,7 @@
     "label_de": "Year of birth of child 1"
   },
   "c1_bmonth": {
+    "study": "pairfam",
     "name": "c1_bmonth",
     "name_cs": "c1_bmonth",
     "variable": "c1_bmonth",
@@ -48886,6 +48929,7 @@
     "label_de": "Month of birth of child 1"
   },
   "c1_id": {
+    "study": "pairfam",
     "name": "c1_id",
     "name_cs": "c1_id",
     "variable": "c1_id",
@@ -53612,6 +53656,7 @@
     "label_de": "Person number of child 1"
   },
   "c2_rel": {
+    "study": "pairfam",
     "name": "c2_rel",
     "name_cs": "c2_rel",
     "variable": "c2_rel",
@@ -53758,6 +53803,7 @@
     "label_de": "Anchor's relation to child 2"
   },
   "c2_sex": {
+    "study": "pairfam",
     "name": "c2_sex",
     "name_cs": "c2_sex",
     "variable": "c2_sex",
@@ -53809,6 +53855,7 @@
     "label_de": "Sex of child 2"
   },
   "c2_byear": {
+    "study": "pairfam",
     "name": "c2_byear",
     "name_cs": "c2_byear",
     "variable": "c2_byear",
@@ -53970,6 +54017,7 @@
     "label_de": "Year of birth of child 2"
   },
   "c2_bmonth": {
+    "study": "pairfam",
     "name": "c2_bmonth",
     "name_cs": "c2_bmonth",
     "variable": "c2_bmonth",
@@ -54076,6 +54124,7 @@
     "label_de": "Month of birth of child 2"
   },
   "c2_id": {
+    "study": "pairfam",
     "name": "c2_id",
     "name_cs": "c2_id",
     "variable": "c2_id",
@@ -57202,6 +57251,7 @@
     "label_de": "Person number of child 2"
   },
   "c3_rel": {
+    "study": "pairfam",
     "name": "c3_rel",
     "name_cs": "c3_rel",
     "variable": "c3_rel",
@@ -57348,6 +57398,7 @@
     "label_de": "Anchor's relation to child 3"
   },
   "c3_sex": {
+    "study": "pairfam",
     "name": "c3_sex",
     "name_cs": "c3_sex",
     "variable": "c3_sex",
@@ -57399,6 +57450,7 @@
     "label_de": "Sex of child 3"
   },
   "c3_byear": {
+    "study": "pairfam",
     "name": "c3_byear",
     "name_cs": "c3_byear",
     "variable": "c3_byear",
@@ -57550,6 +57602,7 @@
     "label_de": "Year of birth of child 3"
   },
   "c3_bmonth": {
+    "study": "pairfam",
     "name": "c3_bmonth",
     "name_cs": "c3_bmonth",
     "variable": "c3_bmonth",
@@ -57656,6 +57709,7 @@
     "label_de": "Month of birth of child 3"
   },
   "c3_id": {
+    "study": "pairfam",
     "name": "c3_id",
     "name_cs": "c3_id",
     "variable": "c3_id",
@@ -58347,6 +58401,7 @@
     "label_de": "Person number of child 3"
   },
   "c4_rel": {
+    "study": "pairfam",
     "name": "c4_rel",
     "name_cs": "c4_rel",
     "variable": "c4_rel",
@@ -58493,6 +58548,7 @@
     "label_de": "Anchor's relation to child 4"
   },
   "c4_sex": {
+    "study": "pairfam",
     "name": "c4_sex",
     "name_cs": "c4_sex",
     "variable": "c4_sex",
@@ -58544,6 +58600,7 @@
     "label_de": "Sex of child 4"
   },
   "c4_byear": {
+    "study": "pairfam",
     "name": "c4_byear",
     "name_cs": "c4_byear",
     "variable": "c4_byear",
@@ -58700,6 +58757,7 @@
     "label_de": "Year of birth of child 4"
   },
   "c4_bmonth": {
+    "study": "pairfam",
     "name": "c4_bmonth",
     "name_cs": "c4_bmonth",
     "variable": "c4_bmonth",
@@ -58806,6 +58864,7 @@
     "label_de": "Month of birth of child 4"
   },
   "c4_id": {
+    "study": "pairfam",
     "name": "c4_id",
     "name_cs": "c4_id",
     "variable": "c4_id",
@@ -59047,6 +59106,7 @@
     "label_de": "Person number of child 4"
   },
   "c5_rel": {
+    "study": "pairfam",
     "name": "c5_rel",
     "name_cs": "c5_rel",
     "variable": "c5_rel",
@@ -59193,6 +59253,7 @@
     "label_de": "Anchor's relation to child 5"
   },
   "c5_sex": {
+    "study": "pairfam",
     "name": "c5_sex",
     "name_cs": "c5_sex",
     "variable": "c5_sex",
@@ -59244,6 +59305,7 @@
     "label_de": "Sex of child 5"
   },
   "c5_byear": {
+    "study": "pairfam",
     "name": "c5_byear",
     "name_cs": "c5_byear",
     "variable": "c5_byear",
@@ -59380,6 +59442,7 @@
     "label_de": "Year of birth of child 5"
   },
   "c5_bmonth": {
+    "study": "pairfam",
     "name": "c5_bmonth",
     "name_cs": "c5_bmonth",
     "variable": "c5_bmonth",
@@ -59481,6 +59544,7 @@
     "label_de": "Month of birth of child 5"
   },
   "c5_id": {
+    "study": "pairfam",
     "name": "c5_id",
     "name_cs": "c5_id",
     "variable": "c5_id",
@@ -59542,6 +59606,7 @@
     "label_de": "Person number of child 5"
   },
   "c6_rel": {
+    "study": "pairfam",
     "name": "c6_rel",
     "name_cs": "c6_rel",
     "variable": "c6_rel",
@@ -59688,6 +59753,7 @@
     "label_de": "Anchor's relation to child 6"
   },
   "c6_sex": {
+    "study": "pairfam",
     "name": "c6_sex",
     "name_cs": "c6_sex",
     "variable": "c6_sex",
@@ -59739,6 +59805,7 @@
     "label_de": "Sex of child 6"
   },
   "c6_byear": {
+    "study": "pairfam",
     "name": "c6_byear",
     "name_cs": "c6_byear",
     "variable": "c6_byear",
@@ -59820,6 +59887,7 @@
     "label_de": "Year of birth of child 6"
   },
   "c6_bmonth": {
+    "study": "pairfam",
     "name": "c6_bmonth",
     "name_cs": "c6_bmonth",
     "variable": "c6_bmonth",
@@ -59901,6 +59969,7 @@
     "label_de": "Month of birth of child 6"
   },
   "c6_id": {
+    "study": "pairfam",
     "name": "c6_id",
     "name_cs": "c6_id",
     "variable": "c6_id",
@@ -59952,6 +60021,7 @@
     "label_de": "Person number of child 6"
   },
   "c7_rel": {
+    "study": "pairfam",
     "name": "c7_rel",
     "name_cs": "c7_rel",
     "variable": "c7_rel",
@@ -60098,6 +60168,7 @@
     "label_de": "Anchor's relation to child 7"
   },
   "c7_sex": {
+    "study": "pairfam",
     "name": "c7_sex",
     "name_cs": "c7_sex",
     "variable": "c7_sex",
@@ -60149,6 +60220,7 @@
     "label_de": "Sex of child 7"
   },
   "c7_byear": {
+    "study": "pairfam",
     "name": "c7_byear",
     "name_cs": "c7_byear",
     "variable": "c7_byear",
@@ -60210,6 +60282,7 @@
     "label_de": "Year of birth of child 7"
   },
   "c7_bmonth": {
+    "study": "pairfam",
     "name": "c7_bmonth",
     "name_cs": "c7_bmonth",
     "variable": "c7_bmonth",
@@ -60271,6 +60344,7 @@
     "label_de": "Month of birth of child 7"
   },
   "c7_id": {
+    "study": "pairfam",
     "name": "c7_id",
     "name_cs": "c7_id",
     "variable": "c7_id",
@@ -60317,6 +60391,7 @@
     "label_de": "Person number of child 7"
   },
   "c8_rel": {
+    "study": "pairfam",
     "name": "c8_rel",
     "name_cs": "c8_rel",
     "variable": "c8_rel",
@@ -60463,6 +60538,7 @@
     "label_de": "Anchor's relation to child 8"
   },
   "c8_sex": {
+    "study": "pairfam",
     "name": "c8_sex",
     "name_cs": "c8_sex",
     "variable": "c8_sex",
@@ -60514,6 +60590,7 @@
     "label_de": "Sex of child 8"
   },
   "c8_byear": {
+    "study": "pairfam",
     "name": "c8_byear",
     "name_cs": "c8_byear",
     "variable": "c8_byear",
@@ -60565,6 +60642,7 @@
     "label_de": "Year of birth of child 8"
   },
   "c8_bmonth": {
+    "study": "pairfam",
     "name": "c8_bmonth",
     "name_cs": "c8_bmonth",
     "variable": "c8_bmonth",
@@ -60616,6 +60694,7 @@
     "label_de": "Month of birth of child 8"
   },
   "c8_id": {
+    "study": "pairfam",
     "name": "c8_id",
     "name_cs": "c8_id",
     "variable": "c8_id",
@@ -60657,6 +60736,7 @@
     "label_de": "Person number of child 8"
   },
   "c9_rel": {
+    "study": "pairfam",
     "name": "c9_rel",
     "name_cs": "c9_rel",
     "variable": "c9_rel",
@@ -60803,6 +60883,7 @@
     "label_de": "Anchor's relation to child 9"
   },
   "c9_sex": {
+    "study": "pairfam",
     "name": "c9_sex",
     "name_cs": "c9_sex",
     "variable": "c9_sex",
@@ -60854,6 +60935,7 @@
     "label_de": "Sex of child 9"
   },
   "c9_byear": {
+    "study": "pairfam",
     "name": "c9_byear",
     "name_cs": "c9_byear",
     "variable": "c9_byear",
@@ -60905,6 +60987,7 @@
     "label_de": "Year of birth of child 9"
   },
   "c9_bmonth": {
+    "study": "pairfam",
     "name": "c9_bmonth",
     "name_cs": "c9_bmonth",
     "variable": "c9_bmonth",
@@ -60956,6 +61039,7 @@
     "label_de": "Month of birth of child 9"
   },
   "c9_id": {
+    "study": "pairfam",
     "name": "c9_id",
     "name_cs": "c9_id",
     "variable": "c9_id",
@@ -60997,6 +61081,7 @@
     "label_de": "Person number of child 9"
   },
   "c10_rel": {
+    "study": "pairfam",
     "name": "c10_rel",
     "name_cs": "c10_rel",
     "variable": "c10_rel",
@@ -61143,6 +61228,7 @@
     "label_de": "Anchor's relation to child 10"
   },
   "c10_sex": {
+    "study": "pairfam",
     "name": "c10_sex",
     "name_cs": "c10_sex",
     "variable": "c10_sex",
@@ -61194,6 +61280,7 @@
     "label_de": "Sex of child 10"
   },
   "c10_byear": {
+    "study": "pairfam",
     "name": "c10_byear",
     "name_cs": "c10_byear",
     "variable": "c10_byear",
@@ -61245,6 +61332,7 @@
     "label_de": "Year of birth of child 10"
   },
   "c10_bmonth": {
+    "study": "pairfam",
     "name": "c10_bmonth",
     "name_cs": "c10_bmonth",
     "variable": "c10_bmonth",
@@ -61291,6 +61379,7 @@
     "label_de": "Month of birth of child 10"
   },
   "c10_id": {
+    "study": "pairfam",
     "name": "c10_id",
     "name_cs": "c10_id",
     "variable": "c10_id",
@@ -61332,6 +61421,7 @@
     "label_de": "Person number of child 10"
   },
   "pa1_rel": {
+    "study": "pairfam",
     "name": "pa1_rel",
     "name_cs": "pa1_rel",
     "variable": "pa1_rel",
@@ -61478,6 +61568,7 @@
     "label_de": "Anchor's relation to parent 1"
   },
   "pa1_sex": {
+    "study": "pairfam",
     "name": "pa1_sex",
     "name_cs": "pa1_sex",
     "variable": "pa1_sex",
@@ -61529,6 +61620,7 @@
     "label_de": "Sex of parent 1"
   },
   "pa1_byear": {
+    "study": "pairfam",
     "name": "pa1_byear",
     "name_cs": "pa1_byear",
     "variable": "pa1_byear",
@@ -61830,6 +61922,7 @@
     "label_de": "Year of birth of parent 1"
   },
   "pa1_bmonth": {
+    "study": "pairfam",
     "name": "pa1_bmonth",
     "name_cs": "pa1_bmonth",
     "variable": "pa1_bmonth",
@@ -61956,6 +62049,7 @@
     "label_de": "Month of birth of parent 1"
   },
   "pa1_id": {
+    "study": "pairfam",
     "name": "pa1_id",
     "name_cs": "pa1_id",
     "variable": "pa1_id",
@@ -82627,6 +82721,7 @@
     "label_de": "Person number of parent 1"
   },
   "pa2_rel": {
+    "study": "pairfam",
     "name": "pa2_rel",
     "name_cs": "pa2_rel",
     "variable": "pa2_rel",
@@ -82773,6 +82868,7 @@
     "label_de": "Anchor's relation to parent 2"
   },
   "pa2_sex": {
+    "study": "pairfam",
     "name": "pa2_sex",
     "name_cs": "pa2_sex",
     "variable": "pa2_sex",
@@ -82824,6 +82920,7 @@
     "label_de": "Sex of parent 2"
   },
   "pa2_byear": {
+    "study": "pairfam",
     "name": "pa2_byear",
     "name_cs": "pa2_byear",
     "variable": "pa2_byear",
@@ -83140,6 +83237,7 @@
     "label_de": "Year of birth of parent 2"
   },
   "pa2_bmonth": {
+    "study": "pairfam",
     "name": "pa2_bmonth",
     "name_cs": "pa2_bmonth",
     "variable": "pa2_bmonth",
@@ -83266,6 +83364,7 @@
     "label_de": "Month of birth of parent 2"
   },
   "pa2_id": {
+    "study": "pairfam",
     "name": "pa2_id",
     "name_cs": "pa2_id",
     "variable": "pa2_id",
@@ -100197,6 +100296,7 @@
     "label_de": "Person number of parent 2"
   },
   "pa3_rel": {
+    "study": "pairfam",
     "name": "pa3_rel",
     "name_cs": "pa3_rel",
     "variable": "pa3_rel",
@@ -100343,6 +100443,7 @@
     "label_de": "Anchor's relation to parent 3"
   },
   "pa3_sex": {
+    "study": "pairfam",
     "name": "pa3_sex",
     "name_cs": "pa3_sex",
     "variable": "pa3_sex",
@@ -100394,6 +100495,7 @@
     "label_de": "Sex of parent 3"
   },
   "pa3_byear": {
+    "study": "pairfam",
     "name": "pa3_byear",
     "name_cs": "pa3_byear",
     "variable": "pa3_byear",
@@ -100505,6 +100607,7 @@
     "label_de": "Year of birth of parent 3"
   },
   "pa3_bmonth": {
+    "study": "pairfam",
     "name": "pa3_bmonth",
     "name_cs": "pa3_bmonth",
     "variable": "pa3_bmonth",
@@ -100601,6 +100704,7 @@
     "label_de": "Month of birth of parent 3"
   },
   "pa3_id": {
+    "study": "pairfam",
     "name": "pa3_id",
     "name_cs": "pa3_id",
     "variable": "pa3_id",
@@ -100792,6 +100896,7 @@
     "label_de": "Person number of parent 3"
   },
   "pa4_rel": {
+    "study": "pairfam",
     "name": "pa4_rel",
     "name_cs": "pa4_rel",
     "variable": "pa4_rel",
@@ -100938,6 +101043,7 @@
     "label_de": "Anchor's relation to parent 4"
   },
   "pa4_sex": {
+    "study": "pairfam",
     "name": "pa4_sex",
     "name_cs": "pa4_sex",
     "variable": "pa4_sex",
@@ -100989,6 +101095,7 @@
     "label_de": "Sex of parent 4"
   },
   "pa4_byear": {
+    "study": "pairfam",
     "name": "pa4_byear",
     "name_cs": "pa4_byear",
     "variable": "pa4_byear",
@@ -101040,6 +101147,7 @@
     "label_de": "Year of birth of parent 4"
   },
   "pa4_bmonth": {
+    "study": "pairfam",
     "name": "pa4_bmonth",
     "name_cs": "pa4_bmonth",
     "variable": "pa4_bmonth",
@@ -101096,6 +101204,7 @@
     "label_de": "Month of birth of parent 4"
   },
   "pa4_id": {
+    "study": "pairfam",
     "name": "pa4_id",
     "name_cs": "pa4_id",
     "variable": "pa4_id",
@@ -101162,6 +101271,7 @@
     "label_de": "Person number of parent 4"
   },
   "other1_rel": {
+    "study": "pairfam",
     "name": "other1_rel",
     "name_cs": "other1_rel",
     "variable": "other1_rel",
@@ -101308,6 +101418,7 @@
     "label_de": "Anchor's relation to hh member 1"
   },
   "other1_sex": {
+    "study": "pairfam",
     "name": "other1_sex",
     "name_cs": "other1_sex",
     "variable": "other1_sex",
@@ -101359,6 +101470,7 @@
     "label_de": "Sex of hh member 1"
   },
   "other1_byear": {
+    "study": "pairfam",
     "name": "other1_byear",
     "name_cs": "other1_byear",
     "variable": "other1_byear",
@@ -101870,6 +101982,7 @@
     "label_de": "Year of birth of hh member 1"
   },
   "other1_bmonth": {
+    "study": "pairfam",
     "name": "other1_bmonth",
     "name_cs": "other1_bmonth",
     "variable": "other1_bmonth",
@@ -101971,6 +102084,7 @@
     "label_de": "Month of birth of hh member 1"
   },
   "other2_rel": {
+    "study": "pairfam",
     "name": "other2_rel",
     "name_cs": "other2_rel",
     "variable": "other2_rel",
@@ -102117,6 +102231,7 @@
     "label_de": "Anchor's relation to hh member 2"
   },
   "other2_sex": {
+    "study": "pairfam",
     "name": "other2_sex",
     "name_cs": "other2_sex",
     "variable": "other2_sex",
@@ -102168,6 +102283,7 @@
     "label_de": "Sex of hh member 2"
   },
   "other2_byear": {
+    "study": "pairfam",
     "name": "other2_byear",
     "name_cs": "other2_byear",
     "variable": "other2_byear",
@@ -102629,6 +102745,7 @@
     "label_de": "Year of birth of hh member 2"
   },
   "other2_bmonth": {
+    "study": "pairfam",
     "name": "other2_bmonth",
     "name_cs": "other2_bmonth",
     "variable": "other2_bmonth",
@@ -102730,6 +102847,7 @@
     "label_de": "Month of birth of hh member 2"
   },
   "other3_rel": {
+    "study": "pairfam",
     "name": "other3_rel",
     "name_cs": "other3_rel",
     "variable": "other3_rel",
@@ -102876,6 +102994,7 @@
     "label_de": "Anchor's relation to hh member 3"
   },
   "other3_sex": {
+    "study": "pairfam",
     "name": "other3_sex",
     "name_cs": "other3_sex",
     "variable": "other3_sex",
@@ -102927,6 +103046,7 @@
     "label_de": "Sex of hh member 3"
   },
   "other3_byear": {
+    "study": "pairfam",
     "name": "other3_byear",
     "name_cs": "other3_byear",
     "variable": "other3_byear",
@@ -103268,6 +103388,7 @@
     "label_de": "Year of birth of hh member 3"
   },
   "other3_bmonth": {
+    "study": "pairfam",
     "name": "other3_bmonth",
     "name_cs": "other3_bmonth",
     "variable": "other3_bmonth",
@@ -103369,6 +103490,7 @@
     "label_de": "Month of birth of hh member 3"
   },
   "other4_rel": {
+    "study": "pairfam",
     "name": "other4_rel",
     "name_cs": "other4_rel",
     "variable": "other4_rel",
@@ -103515,6 +103637,7 @@
     "label_de": "Anchor's relation to hh member 4"
   },
   "other4_sex": {
+    "study": "pairfam",
     "name": "other4_sex",
     "name_cs": "other4_sex",
     "variable": "other4_sex",
@@ -103566,6 +103689,7 @@
     "label_de": "Sex of hh member 4"
   },
   "other4_byear": {
+    "study": "pairfam",
     "name": "other4_byear",
     "name_cs": "other4_byear",
     "variable": "other4_byear",
@@ -103842,6 +103966,7 @@
     "label_de": "Year of birth of hh member 4"
   },
   "other4_bmonth": {
+    "study": "pairfam",
     "name": "other4_bmonth",
     "name_cs": "other4_bmonth",
     "variable": "other4_bmonth",
@@ -103943,6 +104068,7 @@
     "label_de": "Month of birth of hh member 4"
   },
   "other5_rel": {
+    "study": "pairfam",
     "name": "other5_rel",
     "name_cs": "other5_rel",
     "variable": "other5_rel",
@@ -104089,6 +104215,7 @@
     "label_de": "Anchor's relation to hh member 5"
   },
   "other5_sex": {
+    "study": "pairfam",
     "name": "other5_sex",
     "name_cs": "other5_sex",
     "variable": "other5_sex",
@@ -104140,6 +104267,7 @@
     "label_de": "Sex of hh member 5"
   },
   "other5_byear": {
+    "study": "pairfam",
     "name": "other5_byear",
     "name_cs": "other5_byear",
     "variable": "other5_byear",
@@ -104356,6 +104484,7 @@
     "label_de": "Year of birth of hh member 5"
   },
   "other5_bmonth": {
+    "study": "pairfam",
     "name": "other5_bmonth",
     "name_cs": "other5_bmonth",
     "variable": "other5_bmonth",
@@ -104457,6 +104586,7 @@
     "label_de": "Month of birth of hh member 5"
   },
   "other6_rel": {
+    "study": "pairfam",
     "name": "other6_rel",
     "name_cs": "other6_rel",
     "variable": "other6_rel",
@@ -104603,6 +104733,7 @@
     "label_de": "Anchor's relation to hh member 6"
   },
   "other6_sex": {
+    "study": "pairfam",
     "name": "other6_sex",
     "name_cs": "other6_sex",
     "variable": "other6_sex",
@@ -104654,6 +104785,7 @@
     "label_de": "Sex of hh member 6"
   },
   "other6_byear": {
+    "study": "pairfam",
     "name": "other6_byear",
     "name_cs": "other6_byear",
     "variable": "other6_byear",
@@ -104810,6 +104942,7 @@
     "label_de": "Year of birth of hh member 6"
   },
   "other6_bmonth": {
+    "study": "pairfam",
     "name": "other6_bmonth",
     "name_cs": "other6_bmonth",
     "variable": "other6_bmonth",
@@ -104911,6 +105044,7 @@
     "label_de": "Month of birth of hh member 6"
   },
   "other7_rel": {
+    "study": "pairfam",
     "name": "other7_rel",
     "name_cs": "other7_rel",
     "variable": "other7_rel",
@@ -105057,6 +105191,7 @@
     "label_de": "Anchor's relation to hh member 7"
   },
   "other7_sex": {
+    "study": "pairfam",
     "name": "other7_sex",
     "name_cs": "other7_sex",
     "variable": "other7_sex",
@@ -105108,6 +105243,7 @@
     "label_de": "Sex of hh member 7"
   },
   "other7_byear": {
+    "study": "pairfam",
     "name": "other7_byear",
     "name_cs": "other7_byear",
     "variable": "other7_byear",
@@ -105219,6 +105355,7 @@
     "label_de": "Year of birth of hh member 7"
   },
   "other7_bmonth": {
+    "study": "pairfam",
     "name": "other7_bmonth",
     "name_cs": "other7_bmonth",
     "variable": "other7_bmonth",
@@ -105315,6 +105452,7 @@
     "label_de": "Month of birth of hh member 7"
   },
   "other8_rel": {
+    "study": "pairfam",
     "name": "other8_rel",
     "name_cs": "other8_rel",
     "variable": "other8_rel",
@@ -105461,6 +105599,7 @@
     "label_de": "Anchor's relation to hh member 8"
   },
   "other8_sex": {
+    "study": "pairfam",
     "name": "other8_sex",
     "name_cs": "other8_sex",
     "variable": "other8_sex",
@@ -105512,6 +105651,7 @@
     "label_de": "Sex of hh member 8"
   },
   "other8_byear": {
+    "study": "pairfam",
     "name": "other8_byear",
     "name_cs": "other8_byear",
     "variable": "other8_byear",
@@ -105628,6 +105768,7 @@
     "label_de": "Year of birth of hh member 8"
   },
   "other8_bmonth": {
+    "study": "pairfam",
     "name": "other8_bmonth",
     "name_cs": "other8_bmonth",
     "variable": "other8_bmonth",
@@ -105729,6 +105870,7 @@
     "label_de": "Month of birth of hh member 8"
   },
   "other9_rel": {
+    "study": "pairfam",
     "name": "other9_rel",
     "name_cs": "other9_rel",
     "variable": "other9_rel",
@@ -105875,6 +106017,7 @@
     "label_de": "Anchor's relation to hh member 9"
   },
   "other9_sex": {
+    "study": "pairfam",
     "name": "other9_sex",
     "name_cs": "other9_sex",
     "variable": "other9_sex",
@@ -105926,6 +106069,7 @@
     "label_de": "Sex of hh member 9"
   },
   "other9_byear": {
+    "study": "pairfam",
     "name": "other9_byear",
     "name_cs": "other9_byear",
     "variable": "other9_byear",
@@ -105992,6 +106136,7 @@
     "label_de": "Year of birth of hh member 9"
   },
   "other9_bmonth": {
+    "study": "pairfam",
     "name": "other9_bmonth",
     "name_cs": "other9_bmonth",
     "variable": "other9_bmonth",
@@ -106068,6 +106213,7 @@
     "label_de": "Month of birth of hh member 9"
   },
   "other10_rel": {
+    "study": "pairfam",
     "name": "other10_rel",
     "name_cs": "other10_rel",
     "variable": "other10_rel",
@@ -106214,6 +106360,7 @@
     "label_de": "Anchor's relation to hh member 10"
   },
   "other10_sex": {
+    "study": "pairfam",
     "name": "other10_sex",
     "name_cs": "other10_sex",
     "variable": "other10_sex",
@@ -106265,6 +106412,7 @@
     "label_de": "Sex of hh member 10"
   },
   "other10_byear": {
+    "study": "pairfam",
     "name": "other10_byear",
     "name_cs": "other10_byear",
     "variable": "other10_byear",
@@ -106336,6 +106484,7 @@
     "label_de": "Year of birth of hh member 10"
   },
   "other10_bmonth": {
+    "study": "pairfam",
     "name": "other10_bmonth",
     "name_cs": "other10_bmonth",
     "variable": "other10_bmonth",
@@ -106392,6 +106541,7 @@
     "label_de": "Month of birth of hh member 10"
   },
   "other11_rel": {
+    "study": "pairfam",
     "name": "other11_rel",
     "name_cs": "other11_rel",
     "variable": "other11_rel",
@@ -106538,6 +106688,7 @@
     "label_de": "Anchor's relation to hh member 11"
   },
   "other11_sex": {
+    "study": "pairfam",
     "name": "other11_sex",
     "name_cs": "other11_sex",
     "variable": "other11_sex",
@@ -106589,6 +106740,7 @@
     "label_de": "Sex of hh member 11"
   },
   "other11_byear": {
+    "study": "pairfam",
     "name": "other11_byear",
     "name_cs": "other11_byear",
     "variable": "other11_byear",
@@ -106645,6 +106797,7 @@
     "label_de": "Year of birth of hh member 11"
   },
   "other11_bmonth": {
+    "study": "pairfam",
     "name": "other11_bmonth",
     "name_cs": "other11_bmonth",
     "variable": "other11_bmonth",
@@ -106691,6 +106844,7 @@
     "label_de": "Month of birth of hh member 11"
   },
   "other12_rel": {
+    "study": "pairfam",
     "name": "other12_rel",
     "name_cs": "other12_rel",
     "variable": "other12_rel",
@@ -106837,6 +106991,7 @@
     "label_de": "Anchor's relation to hh member 12"
   },
   "other12_sex": {
+    "study": "pairfam",
     "name": "other12_sex",
     "name_cs": "other12_sex",
     "variable": "other12_sex",
@@ -106888,6 +107043,7 @@
     "label_de": "Sex of hh member 12"
   },
   "other12_byear": {
+    "study": "pairfam",
     "name": "other12_byear",
     "name_cs": "other12_byear",
     "variable": "other12_byear",
@@ -106939,6 +107095,7 @@
     "label_de": "Year of birth of hh member 12"
   },
   "other12_bmonth": {
+    "study": "pairfam",
     "name": "other12_bmonth",
     "name_cs": "other12_bmonth",
     "variable": "other12_bmonth",
@@ -106990,6 +107147,7 @@
     "label_de": "Month of birth of hh member 12"
   },
   "other13_rel": {
+    "study": "pairfam",
     "name": "other13_rel",
     "name_cs": "other13_rel",
     "variable": "other13_rel",
@@ -107136,6 +107294,7 @@
     "label_de": "Anchor's relation to hh member 13"
   },
   "other13_sex": {
+    "study": "pairfam",
     "name": "other13_sex",
     "name_cs": "other13_sex",
     "variable": "other13_sex",
@@ -107187,6 +107346,7 @@
     "label_de": "Sex of hh member 13"
   },
   "other13_byear": {
+    "study": "pairfam",
     "name": "other13_byear",
     "name_cs": "other13_byear",
     "variable": "other13_byear",
@@ -107222,6 +107382,7 @@
     "label_de": "Year of birth of hh member 13"
   },
   "other13_bmonth": {
+    "study": "pairfam",
     "name": "other13_bmonth",
     "name_cs": "other13_bmonth",
     "variable": "other13_bmonth",
@@ -107257,6 +107418,7 @@
     "label_de": "Month of birth of hh member 13"
   },
   "other14_rel": {
+    "study": "pairfam",
     "name": "other14_rel",
     "name_cs": "other14_rel",
     "variable": "other14_rel",
@@ -107403,6 +107565,7 @@
     "label_de": "Anchor's relation to hh member 14"
   },
   "other14_sex": {
+    "study": "pairfam",
     "name": "other14_sex",
     "name_cs": "other14_sex",
     "variable": "other14_sex",
@@ -107454,6 +107617,7 @@
     "label_de": "Sex of hh member 14"
   },
   "other14_byear": {
+    "study": "pairfam",
     "name": "other14_byear",
     "name_cs": "other14_byear",
     "variable": "other14_byear",
@@ -107489,6 +107653,7 @@
     "label_de": "Year of birth of hh member 14"
   },
   "other14_bmonth": {
+    "study": "pairfam",
     "name": "other14_bmonth",
     "name_cs": "other14_bmonth",
     "variable": "other14_bmonth",
@@ -107524,6 +107689,7 @@
     "label_de": "Month of birth of hh member 14"
   },
   "other15_rel": {
+    "study": "pairfam",
     "name": "other15_rel",
     "name_cs": "other15_rel",
     "variable": "other15_rel",
@@ -107670,6 +107836,7 @@
     "label_de": "Anchor's relation to hh member 15"
   },
   "other15_sex": {
+    "study": "pairfam",
     "name": "other15_sex",
     "name_cs": "other15_sex",
     "variable": "other15_sex",
@@ -107721,6 +107888,7 @@
     "label_de": "Sex of hh member 15"
   },
   "other15_byear": {
+    "study": "pairfam",
     "name": "other15_byear",
     "name_cs": "other15_byear",
     "variable": "other15_byear",
@@ -107756,6 +107924,7 @@
     "label_de": "Year of birth of hh member 15"
   },
   "other15_bmonth": {
+    "study": "pairfam",
     "name": "other15_bmonth",
     "name_cs": "other15_bmonth",
     "variable": "other15_bmonth",
@@ -107791,6 +107960,7 @@
     "label_de": "Month of birth of hh member 15"
   },
   "other16_rel": {
+    "study": "pairfam",
     "name": "other16_rel",
     "name_cs": "other16_rel",
     "variable": "other16_rel",
@@ -107937,6 +108107,7 @@
     "label_de": "Anchor's relation to hh member 16"
   },
   "other16_sex": {
+    "study": "pairfam",
     "name": "other16_sex",
     "name_cs": "other16_sex",
     "variable": "other16_sex",
@@ -107988,6 +108159,7 @@
     "label_de": "Sex of hh member 16"
   },
   "other16_byear": {
+    "study": "pairfam",
     "name": "other16_byear",
     "name_cs": "other16_byear",
     "variable": "other16_byear",
@@ -108023,6 +108195,7 @@
     "label_de": "Year of birth of hh member 16"
   },
   "other16_bmonth": {
+    "study": "pairfam",
     "name": "other16_bmonth",
     "name_cs": "other16_bmonth",
     "variable": "other16_bmonth",
@@ -108058,6 +108231,7 @@
     "label_de": "Month of birth of hh member 16"
   },
   "other17_rel": {
+    "study": "pairfam",
     "name": "other17_rel",
     "name_cs": "other17_rel",
     "variable": "other17_rel",
@@ -108204,6 +108378,7 @@
     "label_de": "Anchor's relation to hh member 17"
   },
   "other17_sex": {
+    "study": "pairfam",
     "name": "other17_sex",
     "name_cs": "other17_sex",
     "variable": "other17_sex",
@@ -108255,6 +108430,7 @@
     "label_de": "Sex of hh member 17"
   },
   "other17_byear": {
+    "study": "pairfam",
     "name": "other17_byear",
     "name_cs": "other17_byear",
     "variable": "other17_byear",
@@ -108290,6 +108466,7 @@
     "label_de": "Year of birth of hh member 17"
   },
   "other17_bmonth": {
+    "study": "pairfam",
     "name": "other17_bmonth",
     "name_cs": "other17_bmonth",
     "variable": "other17_bmonth",
@@ -108325,6 +108502,7 @@
     "label_de": "Month of birth of hh member 17"
   },
   "other18_rel": {
+    "study": "pairfam",
     "name": "other18_rel",
     "name_cs": "other18_rel",
     "variable": "other18_rel",
@@ -108471,6 +108649,7 @@
     "label_de": "Anchor's relation to hh member 18"
   },
   "other18_sex": {
+    "study": "pairfam",
     "name": "other18_sex",
     "name_cs": "other18_sex",
     "variable": "other18_sex",
@@ -108522,6 +108701,7 @@
     "label_de": "Sex of hh member 18"
   },
   "other18_byear": {
+    "study": "pairfam",
     "name": "other18_byear",
     "name_cs": "other18_byear",
     "variable": "other18_byear",
@@ -108557,6 +108737,7 @@
     "label_de": "Year of birth of hh member 18"
   },
   "other18_bmonth": {
+    "study": "pairfam",
     "name": "other18_bmonth",
     "name_cs": "other18_bmonth",
     "variable": "other18_bmonth",
@@ -108592,6 +108773,7 @@
     "label_de": "Month of birth of hh member 18"
   },
   "other19_rel": {
+    "study": "pairfam",
     "name": "other19_rel",
     "name_cs": "other19_rel",
     "variable": "other19_rel",
@@ -108738,6 +108920,7 @@
     "label_de": "Anchor's relation to hh member 19"
   },
   "other19_sex": {
+    "study": "pairfam",
     "name": "other19_sex",
     "name_cs": "other19_sex",
     "variable": "other19_sex",
@@ -108789,6 +108972,7 @@
     "label_de": "Sex of hh member 19"
   },
   "other19_byear": {
+    "study": "pairfam",
     "name": "other19_byear",
     "name_cs": "other19_byear",
     "variable": "other19_byear",
@@ -108824,6 +109008,7 @@
     "label_de": "Year of birth of hh member 19"
   },
   "other19_bmonth": {
+    "study": "pairfam",
     "name": "other19_bmonth",
     "name_cs": "other19_bmonth",
     "variable": "other19_bmonth",

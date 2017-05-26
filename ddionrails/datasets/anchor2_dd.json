@@ -1,5 +1,6 @@
 {
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -37,6 +38,7 @@
     "label_de": "Personennummer Anker"
   },
   "demodiff": {
+    "study": "pairfam",
     "name": "demodiff",
     "name_cs": "demodiff",
     "variable": "demodiff",
@@ -78,6 +80,7 @@
     "label_de": "DemoDiff Stichprobe"
   },
   "cla1": {
+    "study": "pairfam",
     "name": "cla1",
     "name_cs": "cla1",
     "variable": "cla1",
@@ -214,6 +217,7 @@
     "label_de": "Bundesland bei Geburt (Frage 1)"
   },
   "cla2": {
+    "study": "pairfam",
     "name": "cla2",
     "name_cs": "cla2",
     "variable": "cla2",
@@ -330,6 +334,7 @@
     "label_de": "NA"
   },
   "cla8": {
+    "study": "pairfam",
     "name": "cla8",
     "name_cs": "cla8",
     "variable": "cla8",
@@ -431,6 +436,7 @@
     "label_de": "NA"
   },
   "cla3": {
+    "study": "pairfam",
     "name": "cla3",
     "name_cs": "cla3",
     "variable": "cla3",
@@ -487,6 +493,7 @@
     "label_de": "Nach Geburt bei leiblichen Eltern gelebt (Frage 4)"
   },
   "cla4": {
+    "study": "pairfam",
     "name": "cla4",
     "name_cs": "cla4",
     "variable": "cla4",
@@ -588,6 +595,7 @@
     "label_de": "Bei wem nach Geburt gelebt? (Frage 5)"
   },
   "cla5e1": {
+    "study": "pairfam",
     "name": "cla5e1",
     "name_cs": "cla5e1",
     "variable": "cla5e1",
@@ -644,6 +652,7 @@
     "label_de": "NA"
   },
   "cla5e2": {
+    "study": "pairfam",
     "name": "cla5e2",
     "name_cs": "cla5e2",
     "variable": "cla5e2",
@@ -700,6 +709,7 @@
     "label_de": "NA"
   },
   "cla5e3": {
+    "study": "pairfam",
     "name": "cla5e3",
     "name_cs": "cla5e3",
     "variable": "cla5e3",
@@ -756,6 +766,7 @@
     "label_de": "NA"
   },
   "cla5e4": {
+    "study": "pairfam",
     "name": "cla5e4",
     "name_cs": "cla5e4",
     "variable": "cla5e4",
@@ -812,6 +823,7 @@
     "label_de": "NA"
   },
   "cla5e5": {
+    "study": "pairfam",
     "name": "cla5e5",
     "name_cs": "cla5e5",
     "variable": "cla5e5",
@@ -868,6 +880,7 @@
     "label_de": "NA"
   },
   "cla5e6": {
+    "study": "pairfam",
     "name": "cla5e6",
     "name_cs": "cla5e6",
     "variable": "cla5e6",
@@ -924,6 +937,7 @@
     "label_de": "NA"
   },
   "cla5e7": {
+    "study": "pairfam",
     "name": "cla5e7",
     "name_cs": "cla5e7",
     "variable": "cla5e7",
@@ -980,6 +994,7 @@
     "label_de": "NA"
   },
   "cla5e8": {
+    "study": "pairfam",
     "name": "cla5e8",
     "name_cs": "cla5e8",
     "variable": "cla5e8",
@@ -1036,6 +1051,7 @@
     "label_de": "NA"
   },
   "intd": {
+    "study": "pairfam",
     "name": "intd",
     "name_cs": "intd",
     "variable": "intd",
@@ -1073,6 +1089,7 @@
     "label_de": "Interviewdatum: Tag"
   },
   "intm": {
+    "study": "pairfam",
     "name": "intm",
     "name_cs": "intm",
     "variable": "intm",
@@ -1110,6 +1127,7 @@
     "label_de": "Interviewdatum: Monat"
   },
   "inty": {
+    "study": "pairfam",
     "name": "inty",
     "name_cs": "inty",
     "variable": "inty",

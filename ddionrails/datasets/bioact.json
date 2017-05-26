@@ -1,5 +1,6 @@
 {
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -24,12 +25,12 @@
       ],
       "values": [
         "111000",
-        "209900000",
-        "420400000",
-        "424600000",
-        "624200000",
+        "209400000",
+        "419900000",
+        "424200000",
+        "623700000",
         "920300000",
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -37,6 +38,7 @@
     "label_de": "Person number anchor"
   },
   "demodiff": {
+    "study": "pairfam",
     "name": "demodiff",
     "name_cs": "demodiff",
     "variable": "demodiff",
@@ -44,8 +46,8 @@
     "label": "DemoDiff sample",
     "categories": {
       "frequencies": [
-        29375,
-        3210
+        31164,
+        3408
       ],
       "labels": [
         "0 pairfam",
@@ -70,7 +72,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -78,6 +80,7 @@
     "label_de": "DemoDiff sample"
   },
   "cohort": {
+    "study": "pairfam",
     "name": "cohort",
     "name_cs": "cohort",
     "variable": "cohort",
@@ -86,9 +89,9 @@
     "categories": {
       "frequencies": [
         0,
-        13777,
-        10397,
-        8411
+        14754,
+        11040,
+        8778
       ],
       "labels": [
         "-7 Incomplete data",
@@ -121,7 +124,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -129,6 +132,7 @@
     "label_de": "Birth cohort"
   },
   "dob": {
+    "study": "pairfam",
     "name": "dob",
     "name_cs": "dob",
     "variable": "dob",
@@ -137,118 +141,118 @@
     "categories": {
       "frequencies": [
         0,
-        297,
-        352,
-        327,
-        239,
-        290,
-        271,
-        306,
-        325,
-        446,
-        324,
-        384,
-        438,
-        383,
-        394,
-        393,
-        345,
-        455,
-        453,
-        431,
-        357,
-        371,
-        468,
-        382,
-        311,
-        373,
-        336,
-        361,
-        337,
-        420,
-        497,
-        339,
-        323,
-        470,
-        345,
-        367,
-        386,
-        409,
-        370,
-        435,
-        416,
-        380,
-        325,
-        297,
-        256,
-        0,
-        0,
-        230,
-        229,
-        298,
-        285,
-        252,
-        315,
-        221,
-        232,
-        294,
-        214,
-        240,
-        265,
-        265,
-        218,
-        244,
-        222,
-        311,
-        248,
-        247,
-        190,
-        202,
-        246,
-        210,
-        207,
-        224,
-        201,
-        223,
-        180,
+        319,
+        377,
+        343,
         250,
-        281,
-        206,
-        188,
-        222,
-        191,
-        185,
-        174,
-        1,
-        1,
-        307,
-        251,
-        232,
-        235,
-        287,
-        228,
-        320,
-        353,
-        284,
-        256,
-        244,
+        304,
         292,
-        276,
-        216,
-        299,
-        274,
-        341,
-        336,
-        389,
-        237,
-        302,
-        249,
+        329,
+        348,
+        470,
+        337,
+        407,
+        463,
+        417,
+        426,
+        418,
+        367,
+        491,
+        483,
+        464,
+        377,
+        401,
+        493,
+        398,
+        322,
+        402,
+        362,
+        400,
+        351,
+        450,
+        530,
+        364,
+        342,
+        495,
+        370,
+        401,
+        417,
+        439,
+        395,
+        470,
+        453,
+        414,
+        356,
+        327,
+        282,
+        0,
+        0,
+        242,
+        240,
+        307,
+        297,
+        258,
+        328,
+        226,
+        240,
         309,
-        365,
-        316,
+        222,
+        248,
+        280,
+        279,
+        230,
+        248,
+        231,
+        323,
+        260,
+        260,
+        197,
         211,
-        331,
-        249
+        260,
+        221,
+        221,
+        239,
+        209,
+        233,
+        185,
+        263,
+        292,
+        219,
+        192,
+        231,
+        199,
+        192,
+        185,
+        1,
+        1,
+        326,
+        267,
+        247,
+        248,
+        300,
+        245,
+        341,
+        375,
+        302,
+        268,
+        252,
+        308,
+        296,
+        231,
+        316,
+        299,
+        360,
+        352,
+        404,
+        260,
+        320,
+        261,
+        325,
+        392,
+        346,
+        229,
+        348,
+        259
       ],
       "labels": [
         "-10 not in demodiff",
@@ -717,7 +721,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -725,6 +729,7 @@
     "label_de": "Date of birth"
   },
   "sex_gen": {
+    "study": "pairfam",
     "name": "sex_gen",
     "name_cs": "sex_gen",
     "variable": "sex_gen",
@@ -736,8 +741,8 @@
         0,
         10,
         0,
-        14344,
-        18231
+        15173,
+        19389
       ],
       "labels": [
         "-10 not in demodiff",
@@ -778,7 +783,7 @@
         "invalid"
       ],
       "values": [
-        "32575",
+        "34562",
         "10"
       ]
     },
@@ -786,6 +791,7 @@
     "label_de": "Sex anchor"
   },
   "wave1": {
+    "study": "pairfam",
     "name": "wave1",
     "name_cs": "wave1",
     "variable": "wave1",
@@ -794,7 +800,8 @@
     "categories": {
       "frequencies": [
         0,
-        32585,
+        34572,
+        0,
         0,
         0,
         0,
@@ -810,10 +817,12 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ],
       "missings": [
         true,
+        false,
         false,
         false,
         false,
@@ -830,7 +839,8 @@
         "4",
         "5",
         "6",
-        "7"
+        "7",
+        "8"
       ],
       "labels_de": [
         "-3 Does not apply",
@@ -840,7 +850,8 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ]
     },
     "statistics": {
@@ -849,7 +860,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -857,6 +868,7 @@
     "label_de": "Survey year wave 1"
   },
   "wave2": {
+    "study": "pairfam",
     "name": "wave2",
     "name_cs": "wave2",
     "variable": "wave2",
@@ -864,9 +876,10 @@
     "label": "Survey year wave 2",
     "categories": {
       "frequencies": [
-        4732,
+        5010,
         0,
-        27853,
+        29562,
+        0,
         0,
         0,
         0,
@@ -881,10 +894,12 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ],
       "missings": [
         true,
+        false,
         false,
         false,
         false,
@@ -901,7 +916,8 @@
         "4",
         "5",
         "6",
-        "7"
+        "7",
+        "8"
       ],
       "labels_de": [
         "-3 Does not apply",
@@ -911,7 +927,8 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ]
     },
     "statistics": {
@@ -920,14 +937,15 @@
         "invalid"
       ],
       "values": [
-        "27853",
-        "4732"
+        "29562",
+        "5010"
       ]
     },
     "scale": "cat",
     "label_de": "Survey year wave 2"
   },
   "wave3": {
+    "study": "pairfam",
     "name": "wave3",
     "name_cs": "wave3",
     "variable": "wave3",
@@ -935,10 +953,11 @@
     "label": "Survey year wave 3",
     "categories": {
       "frequencies": [
-        3196,
+        3256,
         0,
         0,
-        29389,
+        31316,
+        0,
         0,
         0,
         0,
@@ -952,10 +971,12 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ],
       "missings": [
         true,
+        false,
         false,
         false,
         false,
@@ -972,7 +993,8 @@
         "4",
         "5",
         "6",
-        "7"
+        "7",
+        "8"
       ],
       "labels_de": [
         "-3 Does not apply",
@@ -982,7 +1004,8 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ]
     },
     "statistics": {
@@ -991,14 +1014,15 @@
         "invalid"
       ],
       "values": [
-        "29389",
-        "3196"
+        "31316",
+        "3256"
       ]
     },
     "scale": "cat",
     "label_de": "Survey year wave 3"
   },
   "wave4": {
+    "study": "pairfam",
     "name": "wave4",
     "name_cs": "wave4",
     "variable": "wave4",
@@ -1006,11 +1030,12 @@
     "label": "Survey year wave 4",
     "categories": {
       "frequencies": [
-        5202,
+        5276,
         0,
         0,
         0,
-        27383,
+        29296,
+        0,
         0,
         0,
         0
@@ -1023,10 +1048,12 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ],
       "missings": [
         true,
+        false,
         false,
         false,
         false,
@@ -1043,7 +1070,8 @@
         "4",
         "5",
         "6",
-        "7"
+        "7",
+        "8"
       ],
       "labels_de": [
         "-3 Does not apply",
@@ -1053,7 +1081,8 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ]
     },
     "statistics": {
@@ -1062,14 +1091,15 @@
         "invalid"
       ],
       "values": [
-        "27383",
-        "5202"
+        "29296",
+        "5276"
       ]
     },
     "scale": "cat",
     "label_de": "Survey year wave 4"
   },
   "wave5": {
+    "study": "pairfam",
     "name": "wave5",
     "name_cs": "wave5",
     "variable": "wave5",
@@ -1077,12 +1107,13 @@
     "label": "Survey year wave 5",
     "categories": {
       "frequencies": [
-        6995,
+        7059,
         0,
         0,
         0,
         0,
-        25590,
+        27513,
+        0,
         0,
         0
       ],
@@ -1094,10 +1125,12 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ],
       "missings": [
         true,
+        false,
         false,
         false,
         false,
@@ -1114,7 +1147,8 @@
         "4",
         "5",
         "6",
-        "7"
+        "7",
+        "8"
       ],
       "labels_de": [
         "-3 Does not apply",
@@ -1124,7 +1158,8 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ]
     },
     "statistics": {
@@ -1133,14 +1168,15 @@
         "invalid"
       ],
       "values": [
-        "25590",
-        "6995"
+        "27513",
+        "7059"
       ]
     },
     "scale": "cat",
     "label_de": "Survey year wave 5"
   },
   "wave6": {
+    "study": "pairfam",
     "name": "wave6",
     "name_cs": "wave6",
     "variable": "wave6",
@@ -1148,13 +1184,14 @@
     "label": "Survey year wave 6",
     "categories": {
       "frequencies": [
-        8926,
+        8992,
         0,
         0,
         0,
         0,
         0,
-        23659,
+        25580,
+        0,
         0
       ],
       "labels": [
@@ -1165,10 +1202,12 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ],
       "missings": [
         true,
+        false,
         false,
         false,
         false,
@@ -1185,7 +1224,8 @@
         "4",
         "5",
         "6",
-        "7"
+        "7",
+        "8"
       ],
       "labels_de": [
         "-3 Does not apply",
@@ -1195,7 +1235,8 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ]
     },
     "statistics": {
@@ -1204,14 +1245,15 @@
         "invalid"
       ],
       "values": [
-        "23659",
-        "8926"
+        "25580",
+        "8992"
       ]
     },
     "scale": "cat",
     "label_de": "Survey year wave 6"
   },
   "wave7": {
+    "study": "pairfam",
     "name": "wave7",
     "name_cs": "wave7",
     "variable": "wave7",
@@ -1219,14 +1261,15 @@
     "label": "Survey year wave 7",
     "categories": {
       "frequencies": [
-        11010,
+        11170,
         0,
         0,
         0,
         0,
         0,
         0,
-        21575
+        23402,
+        0
       ],
       "labels": [
         "-3 Does not apply",
@@ -1236,10 +1279,12 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ],
       "missings": [
         true,
+        false,
         false,
         false,
         false,
@@ -1256,7 +1301,8 @@
         "4",
         "5",
         "6",
-        "7"
+        "7",
+        "8"
       ],
       "labels_de": [
         "-3 Does not apply",
@@ -1266,7 +1312,8 @@
         "4 2011/12",
         "5 2012/13",
         "6 2013/2014",
-        "7 2014/2015"
+        "7 2014/2015",
+        "8 2015/2016"
       ]
     },
     "statistics": {
@@ -1275,14 +1322,92 @@
         "invalid"
       ],
       "values": [
-        "21575",
-        "11010"
+        "23402",
+        "11170"
       ]
     },
     "scale": "cat",
     "label_de": "Survey year wave 7"
   },
+  "wave8": {
+    "study": "pairfam",
+    "name": "wave8",
+    "name_cs": "wave8",
+    "variable": "wave8",
+    "dataset": "bioact",
+    "label": "Survey year wave 8",
+    "categories": {
+      "frequencies": [
+        12844,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        21728
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/2014",
+        "7 2014/2015",
+        "8 2015/2016"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "labels_de": [
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/2014",
+        "7 2014/2015",
+        "8 2015/2016"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "21728",
+        "12844"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Survey year wave 8"
+  },
   "respw2": {
+    "study": "pairfam",
     "name": "respw2",
     "name_cs": "respw2",
     "variable": "respw2",
@@ -1290,9 +1415,9 @@
     "label": "Respondent in wave 2",
     "categories": {
       "frequencies": [
-        3210,
-        1522,
-        27853
+        3408,
+        1602,
+        29562
       ],
       "labels": [
         "-10 Not in demodiff",
@@ -1321,7 +1446,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -1329,6 +1454,7 @@
     "label_de": "Respondent in wave 2"
   },
   "respw3": {
+    "study": "pairfam",
     "name": "respw3",
     "name_cs": "respw3",
     "variable": "respw3",
@@ -1337,8 +1463,8 @@
     "categories": {
       "frequencies": [
         0,
-        3196,
-        29389
+        3256,
+        31316
       ],
       "labels": [
         "-10 Not in demodiff",
@@ -1367,7 +1493,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -1375,6 +1501,7 @@
     "label_de": "Respondent in wave 3"
   },
   "respw4": {
+    "study": "pairfam",
     "name": "respw4",
     "name_cs": "respw4",
     "variable": "respw4",
@@ -1383,8 +1510,8 @@
     "categories": {
       "frequencies": [
         0,
-        5202,
-        27383
+        5276,
+        29296
       ],
       "labels": [
         "-10 Not in demodiff",
@@ -1413,7 +1540,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -1421,6 +1548,7 @@
     "label_de": "Respondent in wave 4"
   },
   "respw5": {
+    "study": "pairfam",
     "name": "respw5",
     "name_cs": "respw5",
     "variable": "respw5",
@@ -1429,8 +1557,8 @@
     "categories": {
       "frequencies": [
         0,
-        6995,
-        25590
+        7059,
+        27513
       ],
       "labels": [
         "-10 Not in demodiff",
@@ -1459,7 +1587,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -1467,6 +1595,7 @@
     "label_de": "Respondent in wave 5"
   },
   "respw6": {
+    "study": "pairfam",
     "name": "respw6",
     "name_cs": "respw6",
     "variable": "respw6",
@@ -1475,8 +1604,8 @@
     "categories": {
       "frequencies": [
         0,
-        8926,
-        23659
+        8992,
+        25580
       ],
       "labels": [
         "-10 Not in demodiff",
@@ -1505,7 +1634,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -1513,6 +1642,7 @@
     "label_de": "Respondent in wave 6"
   },
   "respw7": {
+    "study": "pairfam",
     "name": "respw7",
     "name_cs": "respw7",
     "variable": "respw7",
@@ -1521,8 +1651,8 @@
     "categories": {
       "frequencies": [
         0,
-        11010,
-        21575
+        11170,
+        23402
       ],
       "labels": [
         "-10 Not in demodiff",
@@ -1551,14 +1681,62 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
     "scale": "cat",
     "label_de": "Respondent in wave 7"
   },
+  "respw8": {
+    "study": "pairfam",
+    "name": "respw8",
+    "name_cs": "respw8",
+    "variable": "respw8",
+    "dataset": "bioact",
+    "label": "Respondent in wave 8",
+    "categories": {
+      "frequencies": [
+        0,
+        12844,
+        21728
+      ],
+      "labels": [
+        "-10 Not in demodiff",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-10 Not in demodiff",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "34572",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Respondent in wave 8"
+  },
   "intdatw1": {
+    "study": "pairfam",
     "name": "intdatw1",
     "name_cs": "intdatw1",
     "variable": "intdatw1",
@@ -1567,20 +1745,20 @@
     "categories": {
       "frequencies": [
         0,
-        180,
-        5550,
-        6856,
-        3457,
-        3810,
-        2649,
-        4881,
-        1900,
-        92,
-        405,
-        379,
-        245,
-        839,
-        1342,
+        187,
+        5885,
+        7284,
+        3684,
+        4015,
+        2806,
+        5188,
+        2022,
+        93,
+        447,
+        397,
+        256,
+        882,
+        1426,
         0
       ],
       "labels": [
@@ -1662,7 +1840,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -1670,6 +1848,7 @@
     "label_de": "Date of interview wave 1"
   },
   "intdatw2": {
+    "study": "pairfam",
     "name": "intdatw2",
     "name_cs": "intdatw2",
     "variable": "intdatw2",
@@ -1677,15 +1856,15 @@
     "label": "Date of interview wave 2",
     "categories": {
       "frequencies": [
-        3210,
-        760,
-        7681,
-        4210,
-        5391,
-        5244,
-        3613,
-        954,
-        1522
+        3408,
+        805,
+        8175,
+        4460,
+        5710,
+        5580,
+        3817,
+        1015,
+        1602
       ],
       "labels": [
         "-10 not in demodiff",
@@ -1738,14 +1917,15 @@
         "invalid"
       ],
       "values": [
-        "31063",
-        "1522"
+        "32970",
+        "1602"
       ]
     },
     "scale": "cat",
     "label_de": "Date of interview wave 2"
   },
   "intdatw3": {
+    "study": "pairfam",
     "name": "intdatw3",
     "name_cs": "intdatw3",
     "variable": "intdatw3",
@@ -1754,14 +1934,14 @@
     "categories": {
       "frequencies": [
         0,
-        38,
-        7544,
-        4440,
-        8239,
-        5144,
-        2855,
-        1129,
-        3196
+        39,
+        8045,
+        4762,
+        8799,
+        5452,
+        3013,
+        1206,
+        3256
       ],
       "labels": [
         "-10 not in demodiff",
@@ -1814,14 +1994,15 @@
         "invalid"
       ],
       "values": [
-        "29389",
-        "3196"
+        "31316",
+        "3256"
       ]
     },
     "scale": "cat",
     "label_de": "Date of interview wave 3"
   },
   "intdatw4": {
+    "study": "pairfam",
     "name": "intdatw4",
     "name_cs": "intdatw4",
     "variable": "intdatw4",
@@ -1830,15 +2011,15 @@
     "categories": {
       "frequencies": [
         0,
-        119,
-        8573,
-        4389,
-        7989,
-        3569,
-        1892,
-        829,
-        23,
-        5202
+        127,
+        9192,
+        4705,
+        8548,
+        3796,
+        2021,
+        882,
+        25,
+        5276
       ],
       "labels": [
         "-10 not in demodiff",
@@ -1895,14 +2076,15 @@
         "invalid"
       ],
       "values": [
-        "27383",
-        "5202"
+        "29296",
+        "5276"
       ]
     },
     "scale": "cat",
     "label_de": "Date of interview wave 4"
   },
   "intdatw5": {
+    "study": "pairfam",
     "name": "intdatw5",
     "name_cs": "intdatw5",
     "variable": "intdatw5",
@@ -1911,15 +2093,15 @@
     "categories": {
       "frequencies": [
         0,
-        4032,
-        6415,
-        3784,
-        6406,
-        3062,
-        1281,
-        541,
-        69,
-        6995
+        4349,
+        6885,
+        4093,
+        6865,
+        3286,
+        1388,
+        574,
+        73,
+        7059
       ],
       "labels": [
         "-10 not in demodiff",
@@ -1976,14 +2158,15 @@
         "invalid"
       ],
       "values": [
-        "25590",
-        "6995"
+        "27513",
+        "7059"
       ]
     },
     "scale": "cat",
     "label_de": "Date of interview wave 5"
   },
   "intdatw6": {
+    "study": "pairfam",
     "name": "intdatw6",
     "name_cs": "intdatw6",
     "variable": "intdatw6",
@@ -1992,15 +2175,15 @@
     "categories": {
       "frequencies": [
         0,
-        2050,
-        7110,
-        3711,
-        5774,
-        3232,
-        1149,
-        606,
-        27,
-        8926
+        2234,
+        7675,
+        4024,
+        6243,
+        3470,
+        1238,
+        668,
+        28,
+        8992
       ],
       "labels": [
         "-10 not in demodiff",
@@ -2057,14 +2240,15 @@
         "invalid"
       ],
       "values": [
-        "23659",
-        "8926"
+        "25580",
+        "8992"
       ]
     },
     "scale": "cat",
     "label_de": "Date of interview wave 6"
   },
   "intdatw7": {
+    "study": "pairfam",
     "name": "intdatw7",
     "name_cs": "intdatw7",
     "variable": "intdatw7",
@@ -2073,15 +2257,15 @@
     "categories": {
       "frequencies": [
         0,
-        2813,
-        5738,
-        4075,
-        4573,
-        2339,
-        1271,
-        634,
-        132,
-        11010
+        3075,
+        6236,
+        4414,
+        4990,
+        2509,
+        1362,
+        675,
+        141,
+        11170
       ],
       "labels": [
         "-10 not in demodiff",
@@ -2138,14 +2322,92 @@
         "invalid"
       ],
       "values": [
-        "21575",
-        "11010"
+        "23402",
+        "11170"
       ]
     },
     "scale": "cat",
     "label_de": "Date of interview wave 7"
   },
+  "intdatw8": {
+    "study": "pairfam",
+    "name": "intdatw8",
+    "name_cs": "intdatw8",
+    "variable": "intdatw8",
+    "dataset": "bioact",
+    "label": "Date of interview wave 8",
+    "categories": {
+      "frequencies": [
+        0,
+        1095,
+        6858,
+        5505,
+        5199,
+        1884,
+        1108,
+        79,
+        12844
+      ],
+      "labels": [
+        "-10 not in demodiff",
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "1393",
+        "1394",
+        "1395",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "-10",
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "1393",
+        "1394",
+        "1395",
+        "-3"
+      ],
+      "labels_de": [
+        "-10 not in demodiff",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "21728",
+        "12844"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Date of interview wave 8"
+  },
   "activity": {
+    "study": "pairfam",
     "name": "activity",
     "name_cs": "activity",
     "variable": "activity",
@@ -2153,29 +2415,29 @@
     "label": "Type of activity",
     "categories": {
       "frequencies": [
-        3265,
-        473,
-        2469,
-        671,
-        112,
-        2206,
-        377,
-        176,
-        158,
-        6768,
-        961,
-        3082,
-        985,
-        2062,
-        710,
-        186,
-        1640,
-        336,
-        3009,
-        1220,
-        124,
-        1035,
-        560
+        3270,
+        480,
+        2555,
+        762,
+        118,
+        2310,
+        384,
+        185,
+        166,
+        7240,
+        1008,
+        3353,
+        1069,
+        2261,
+        749,
+        204,
+        1766,
+        348,
+        3248,
+        1291,
+        135,
+        1094,
+        576
       ],
       "labels": [
         "1 General secondary school (first education)",
@@ -2284,7 +2546,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -2292,6 +2554,7 @@
     "label_de": "Type of activity"
   },
   "spell": {
+    "study": "pairfam",
     "name": "spell",
     "name_cs": "spell",
     "variable": "spell",
@@ -2318,10 +2581,10 @@
         "1",
         "1",
         "1",
-        "1.203",
+        "1.23",
         "1",
         "8",
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -2329,6 +2592,7 @@
     "label_de": "Counter - Number of episodes per activity"
   },
   "actbeg": {
+    "study": "pairfam",
     "name": "actbeg",
     "name_cs": "actbeg",
     "variable": "actbeg",
@@ -2353,12 +2617,12 @@
       ],
       "values": [
         "1304",
-        "1309",
-        "1322",
-        "1329",
-        "1346",
-        "1384",
-        "32585",
+        "1310",
+        "1326",
+        "1332",
+        "1351",
+        "1394",
+        "34572",
         "0"
       ]
     },
@@ -2366,6 +2630,7 @@
     "label_de": "Beginning of episode"
   },
   "actend": {
+    "study": "pairfam",
     "name": "actend",
     "name_cs": "actend",
     "variable": "actend",
@@ -2434,25 +2699,37 @@
         343,
         359,
         304,
+        182,
+        194,
+        210,
+        258,
         181,
-        191,
-        201,
-        252,
-        167,
-        136,
-        117,
-        107,
-        181,
-        234,
-        252,
-        212,
+        144,
+        120,
+        110,
+        190,
+        251,
+        258,
+        221,
+        155,
+        155,
+        174,
+        188,
+        140,
+        172,
+        105,
         101,
-        50,
+        146,
+        188,
+        204,
+        184,
+        108,
         53,
-        29,
-        13,
-        8,
-        12488
+        50,
+        12,
+        6,
+        2,
+        12498
       ],
       "labels": [
         "1304",
@@ -2534,9 +2811,33 @@
         "1380",
         "1381",
         "1382",
+        "1383",
+        "1384",
+        "1385",
+        "1386",
+        "1387",
+        "1388",
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "1393",
+        "1394",
         "97 ongoing"
       ],
       "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2698,6 +2999,18 @@
         "1380",
         "1381",
         "1382",
+        "1383",
+        "1384",
+        "1385",
+        "1386",
+        "1387",
+        "1388",
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "1393",
+        "1394",
         "97"
       ],
       "labels_de": [
@@ -2780,6 +3093,18 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
         "97 ongoing"
       ]
     },
@@ -2789,7 +3114,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -2797,6 +3122,7 @@
     "label_de": "End of episode"
   },
   "actcensor": {
+    "study": "pairfam",
     "name": "actcensor",
     "name_cs": "actcensor",
     "variable": "actcensor",
@@ -2804,15 +3130,15 @@
     "label": "Censor",
     "categories": {
       "frequencies": [
-        560,
-        11638,
-        7222,
-        150,
-        7617,
-        273,
-        4711,
-        254,
-        160
+        576,
+        13452,
+        7329,
+        159,
+        7754,
+        274,
+        4603,
+        284,
+        141
       ],
       "labels": [
         "-3 No censoring (only for ehc19i23*)",
@@ -2865,14 +3191,15 @@
         "invalid"
       ],
       "values": [
-        "32025",
-        "560"
+        "33996",
+        "576"
       ]
     },
     "scale": "cat",
     "label_de": "Censor"
   },
   "actcurrw1": {
+    "study": "pairfam",
     "name": "actcurrw1",
     "name_cs": "actcurrw1",
     "variable": "actcurrw1",
@@ -2881,8 +3208,8 @@
     "categories": {
       "frequencies": [
         0,
-        19121,
-        13464
+        20913,
+        13659
       ],
       "labels": [
         "-3 Does not apply",
@@ -2911,7 +3238,7 @@
         "invalid"
       ],
       "values": [
-        "32585",
+        "34572",
         "0"
       ]
     },
@@ -2919,6 +3246,7 @@
     "label_de": "Current activity in wave 1"
   },
   "actcurrw2": {
+    "study": "pairfam",
     "name": "actcurrw2",
     "name_cs": "actcurrw2",
     "variable": "actcurrw2",
@@ -2926,9 +3254,9 @@
     "label": "Current activity in wave 2",
     "categories": {
       "frequencies": [
-        4732,
-        16082,
-        11771
+        5010,
+        17595,
+        11967
       ],
       "labels": [
         "-3 Does not apply",
@@ -2957,14 +3285,15 @@
         "invalid"
       ],
       "values": [
-        "27853",
-        "4732"
+        "29562",
+        "5010"
       ]
     },
     "scale": "cat",
     "label_de": "Current activity in wave 2"
   },
   "actcurrw3": {
+    "study": "pairfam",
     "name": "actcurrw3",
     "name_cs": "actcurrw3",
     "variable": "actcurrw3",
@@ -2972,9 +3301,9 @@
     "label": "Current activity in wave 3",
     "categories": {
       "frequencies": [
-        3196,
-        17271,
-        12118
+        3256,
+        18954,
+        12362
       ],
       "labels": [
         "-3 Does not apply",
@@ -3003,14 +3332,15 @@
         "invalid"
       ],
       "values": [
-        "29389",
-        "3196"
+        "31316",
+        "3256"
       ]
     },
     "scale": "cat",
     "label_de": "Current activity in wave 3"
   },
   "actcurrw4": {
+    "study": "pairfam",
     "name": "actcurrw4",
     "name_cs": "actcurrw4",
     "variable": "actcurrw4",
@@ -3018,9 +3348,9 @@
     "label": "Current activity in wave 4",
     "categories": {
       "frequencies": [
-        5202,
-        16195,
-        11188
+        5276,
+        17805,
+        11491
       ],
       "labels": [
         "-3 Does not apply",
@@ -3049,14 +3379,15 @@
         "invalid"
       ],
       "values": [
-        "27383",
-        "5202"
+        "29296",
+        "5276"
       ]
     },
     "scale": "cat",
     "label_de": "Current activity in wave 4"
   },
   "actcurrw5": {
+    "study": "pairfam",
     "name": "actcurrw5",
     "name_cs": "actcurrw5",
     "variable": "actcurrw5",
@@ -3064,9 +3395,9 @@
     "label": "Current activity in wave 5",
     "categories": {
       "frequencies": [
-        6995,
-        15182,
-        10408
+        7059,
+        16790,
+        10723
       ],
       "labels": [
         "-3 Does not apply",
@@ -3095,14 +3426,15 @@
         "invalid"
       ],
       "values": [
-        "25590",
-        "6995"
+        "27513",
+        "7059"
       ]
     },
     "scale": "cat",
     "label_de": "Current activity in wave 5"
   },
   "actcurrw6": {
+    "study": "pairfam",
     "name": "actcurrw6",
     "name_cs": "actcurrw6",
     "variable": "actcurrw6",
@@ -3110,9 +3442,9 @@
     "label": "Current activity in wave 6",
     "categories": {
       "frequencies": [
-        8926,
-        14030,
-        9629
+        8992,
+        15653,
+        9927
       ],
       "labels": [
         "-3 Does not apply",
@@ -3141,14 +3473,15 @@
         "invalid"
       ],
       "values": [
-        "23659",
-        "8926"
+        "25580",
+        "8992"
       ]
     },
     "scale": "cat",
     "label_de": "Current activity in wave 6"
   },
   "actcurrw7": {
+    "study": "pairfam",
     "name": "actcurrw7",
     "name_cs": "actcurrw7",
     "variable": "actcurrw7",
@@ -3156,9 +3489,9 @@
     "label": "Current activity in wave 7",
     "categories": {
       "frequencies": [
-        11010,
-        12553,
-        9022
+        11170,
+        14231,
+        9171
       ],
       "labels": [
         "-3 Does not apply",
@@ -3187,11 +3520,58 @@
         "invalid"
       ],
       "values": [
-        "21575",
-        "11010"
+        "23402",
+        "11170"
       ]
     },
     "scale": "cat",
     "label_de": "Current activity in wave 7"
+  },
+  "actcurrw8": {
+    "study": "pairfam",
+    "name": "actcurrw8",
+    "name_cs": "actcurrw8",
+    "variable": "actcurrw8",
+    "dataset": "bioact",
+    "label": "Current activity in wave 8",
+    "categories": {
+      "frequencies": [
+        12844,
+        13099,
+        8629
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "21728",
+        "12844"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Current activity in wave 8"
   }
 }

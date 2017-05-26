@@ -7,8 +7,8 @@ from ddi.onrails.repos import merge_instruments, dor1, copy, extract_variables, 
 
 def main():
     copy.f("study.md")
-    extract_variables.XmlParser("r2ddi/v7/en", "pairfam").run()
-    convert_r2ddi.Parser(version="v7").write_json()
+    extract_variables.XmlParser("r2ddi/v8/en", "pairfam").run()
+    convert_r2ddi.Parser("pairfam", version="v8").write_json()
     copy.f("datasets.csv")
 
 if __name__ == "__main__":

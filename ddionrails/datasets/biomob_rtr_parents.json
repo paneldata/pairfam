@@ -1,5 +1,6 @@
 {
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -37,6 +38,7 @@
     "label_de": "Person number anchor"
   },
   "demodiff": {
+    "study": "pairfam",
     "name": "demodiff",
     "name_cs": "demodiff",
     "variable": "demodiff",
@@ -78,6 +80,7 @@
     "label_de": "DemoDiff sample"
   },
   "cohort": {
+    "study": "pairfam",
     "name": "cohort",
     "name_cs": "cohort",
     "variable": "cohort",
@@ -129,6 +132,7 @@
     "label_de": "Birth cohort"
   },
   "dob": {
+    "study": "pairfam",
     "name": "dob",
     "name_cs": "dob",
     "variable": "dob",
@@ -665,6 +669,7 @@
     "label_de": "Date of birth"
   },
   "sex": {
+    "study": "pairfam",
     "name": "sex",
     "name_cs": "sex",
     "variable": "sex",
@@ -726,6 +731,7 @@
     "label_de": "Sex anchor"
   },
   "wave1": {
+    "study": "pairfam",
     "name": "wave1",
     "name_cs": "wave1",
     "variable": "wave1",
@@ -797,6 +803,7 @@
     "label_de": "Survey year wave1"
   },
   "wave2": {
+    "study": "pairfam",
     "name": "wave2",
     "name_cs": "wave2",
     "variable": "wave2",
@@ -868,6 +875,7 @@
     "label_de": "Survey year wave2"
   },
   "wave3": {
+    "study": "pairfam",
     "name": "wave3",
     "name_cs": "wave3",
     "variable": "wave3",
@@ -939,6 +947,7 @@
     "label_de": "Survey year wave3"
   },
   "intdatw1": {
+    "study": "pairfam",
     "name": "intdatw1",
     "name_cs": "intdatw1",
     "variable": "intdatw1",
@@ -1050,6 +1059,7 @@
     "label_de": "Date of interview wave1"
   },
   "intdatw2": {
+    "study": "pairfam",
     "name": "intdatw2",
     "name_cs": "intdatw2",
     "variable": "intdatw2",
@@ -1126,6 +1136,7 @@
     "label_de": "Date of interview wave2"
   },
   "intdatw3": {
+    "study": "pairfam",
     "name": "intdatw3",
     "name_cs": "intdatw3",
     "variable": "intdatw3",
@@ -1202,6 +1213,7 @@
     "label_de": "Date of interview wave3"
   },
   "respw2": {
+    "study": "pairfam",
     "name": "respw2",
     "name_cs": "respw2",
     "variable": "respw2",
@@ -1248,6 +1260,7 @@
     "label_de": "Respondent in wave 2"
   },
   "respw3": {
+    "study": "pairfam",
     "name": "respw3",
     "name_cs": "respw3",
     "variable": "respw3",
@@ -1294,6 +1307,7 @@
     "label_de": "Respondent in wave 3"
   },
   "presindex": {
+    "study": "pairfam",
     "name": "presindex",
     "name_cs": "presindex",
     "variable": "presindex",
@@ -1350,6 +1364,7 @@
     "label_de": "Number of episode at parental household"
   },
   "presbeg": {
+    "study": "pairfam",
     "name": "presbeg",
     "name_cs": "presbeg",
     "variable": "presbeg",
@@ -2991,6 +3006,7 @@
     "label_de": "Begin of episode at parental household"
   },
   "presend": {
+    "study": "pairfam",
     "name": "presend",
     "name_cs": "presend",
     "variable": "presend",
@@ -4637,6 +4653,7 @@
     "label_de": "End of episode at parental household"
   },
   "prescensor": {
+    "study": "pairfam",
     "name": "prescensor",
     "name_cs": "prescensor",
     "variable": "prescensor",
@@ -4698,6 +4715,7 @@
     "label_de": "Censor"
   },
   "presflag1": {
+    "study": "pairfam",
     "name": "presflag1",
     "name_cs": "presflag1",
     "variable": "presflag1",
@@ -4769,6 +4787,7 @@
     "label_de": "Ambigious information on month (Begin)"
   },
   "presflag2": {
+    "study": "pairfam",
     "name": "presflag2",
     "name_cs": "presflag2",
     "variable": "presflag2",
@@ -4840,6 +4859,7 @@
     "label_de": "Ambigious information on month (End)"
   },
   "presflag3": {
+    "study": "pairfam",
     "name": "presflag3",
     "name_cs": "presflag3",
     "variable": "presflag3",
@@ -4905,6 +4925,7 @@
     "label_de": "Unknown information on month (Begin)"
   },
   "presflag4": {
+    "study": "pairfam",
     "name": "presflag4",
     "name_cs": "presflag4",
     "variable": "presflag4",

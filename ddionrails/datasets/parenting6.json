@@ -1,5 +1,6 @@
 {
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -37,6 +38,7 @@
     "label_de": "Personennummer Anker"
   },
   "pid": {
+    "study": "pairfam",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -76,6 +78,7 @@
     "label_de": "Personennummer Partner"
   },
   "cid": {
+    "study": "pairfam",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -112,7 +115,50 @@
     "scale": "",
     "label_de": "Personennummer Kind"
   },
+  "demodiff": {
+    "study": "pairfam",
+    "name": "demodiff",
+    "name_cs": "demodiff",
+    "variable": "demodiff",
+    "dataset": "parenting6",
+    "label": "DemoDiff sample",
+    "categories": {
+      "frequencies": [
+        1869,
+        382
+      ],
+      "labels": [
+        "0 pairfam",
+        "1 demodiff"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "0 pairfam",
+        "1 demodiff"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2251",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "DemoDiff Stichprobe"
+  },
   "wave": {
+    "study": "pairfam",
     "name": "wave",
     "name_cs": "wave",
     "variable": "wave",
@@ -133,7 +179,7 @@
         "3 2010/11",
         "4 2011/12",
         "5 2012/13",
-        "6"
+        "6 2013/14"
       ],
       "missings": [
         false,
@@ -157,7 +203,7 @@
         "3 2010/11",
         "4 2011/12",
         "5 2012/13",
-        ""
+        "6 2013/14"
       ]
     },
     "statistics": {
@@ -174,6 +220,7 @@
     "label_de": "Erhebungsjahr"
   },
   "dropoffvers": {
+    "study": "pairfam",
     "name": "dropoffvers",
     "name_cs": "dropoffvers",
     "variable": "dropoffvers",
@@ -230,6 +277,7 @@
     "label_de": "Drop-Off Version: Befragte Person?"
   },
   "pcr1i1": {
+    "study": "pairfam",
     "name": "pcr1i1",
     "name_cs": "pcr1i1",
     "variable": "pcr1i1",
@@ -306,6 +354,7 @@
     "label_de": "Sie zeigen Ihrem Kind mit Worten und Gesten, dass Sie es gerne haben (Frage 1)"
   },
   "pcr1i2": {
+    "study": "pairfam",
     "name": "pcr1i2",
     "name_cs": "pcr1i2",
     "variable": "pcr1i2",
@@ -382,6 +431,7 @@
     "label_de": "NA"
   },
   "pcr1i3": {
+    "study": "pairfam",
     "name": "pcr1i3",
     "name_cs": "pcr1i3",
     "variable": "pcr1i3",
@@ -458,6 +508,7 @@
     "label_de": "Sie kritisieren Ihr Kind (Frage 1)"
   },
   "pcr1i4": {
+    "study": "pairfam",
     "name": "pcr1i4",
     "name_cs": "pcr1i4",
     "variable": "pcr1i4",
@@ -534,6 +585,7 @@
     "label_de": "NA"
   },
   "pcr1i5": {
+    "study": "pairfam",
     "name": "pcr1i5",
     "name_cs": "pcr1i5",
     "variable": "pcr1i5",
@@ -610,6 +662,7 @@
     "label_de": "NA"
   },
   "pcr1i6": {
+    "study": "pairfam",
     "name": "pcr1i6",
     "name_cs": "pcr1i6",
     "variable": "pcr1i6",
@@ -686,6 +739,7 @@
     "label_de": "NA"
   },
   "pcr1i7": {
+    "study": "pairfam",
     "name": "pcr1i7",
     "name_cs": "pcr1i7",
     "variable": "pcr1i7",
@@ -762,6 +816,7 @@
     "label_de": "NA"
   },
   "pcr1i8": {
+    "study": "pairfam",
     "name": "pcr1i8",
     "name_cs": "pcr1i8",
     "variable": "pcr1i8",
@@ -838,6 +893,7 @@
     "label_de": "Sie schreien Ihr Kind an, wenn es etwas falsch gemacht hat (Frage 1)"
   },
   "pcr1i9": {
+    "study": "pairfam",
     "name": "pcr1i9",
     "name_cs": "pcr1i9",
     "variable": "pcr1i9",
@@ -914,6 +970,7 @@
     "label_de": "Wenn Kind unterwegs war, fragen Sie nach, was es getan und erlebt hat (Frage 1)"
   },
   "pcr1i10": {
+    "study": "pairfam",
     "name": "pcr1i10",
     "name_cs": "pcr1i10",
     "variable": "pcr1i10",
@@ -990,6 +1047,7 @@
     "label_de": "Es gibt Tage, an denen Sie strenger sind als an anderen (Frage 1)"
   },
   "pcr1i11": {
+    "study": "pairfam",
     "name": "pcr1i11",
     "name_cs": "pcr1i11",
     "variable": "pcr1i11",
@@ -1066,6 +1124,7 @@
     "label_de": "NA"
   },
   "pcr1i12": {
+    "study": "pairfam",
     "name": "pcr1i12",
     "name_cs": "pcr1i12",
     "variable": "pcr1i12",
@@ -1142,6 +1201,7 @@
     "label_de": "Wenn Ihr Kind neue Freunde hat, lernen Sie sie auch bald kennen (Frage 1)"
   },
   "pcr1i13": {
+    "study": "pairfam",
     "name": "pcr1i13",
     "name_cs": "pcr1i13",
     "variable": "pcr1i13",
@@ -1218,6 +1278,7 @@
     "label_de": "Sie drohen Ihrem Kind eine Strafe an, strafen es dann aber doch nicht (Frage 1)"
   },
   "pcr1i14": {
+    "study": "pairfam",
     "name": "pcr1i14",
     "name_cs": "pcr1i14",
     "variable": "pcr1i14",
@@ -1294,6 +1355,7 @@
     "label_de": "Sie loben Ihr Kind (Frage 1)"
   },
   "sdqpi1": {
+    "study": "pairfam",
     "name": "sdqpi1",
     "name_cs": "sdqpi1",
     "variable": "sdqpi1",
@@ -1360,6 +1422,7 @@
     "label_de": "NA"
   },
   "sdqpi3": {
+    "study": "pairfam",
     "name": "sdqpi3",
     "name_cs": "sdqpi3",
     "variable": "sdqpi3",
@@ -1426,6 +1489,7 @@
     "label_de": "NA"
   },
   "sdqpi4": {
+    "study": "pairfam",
     "name": "sdqpi4",
     "name_cs": "sdqpi4",
     "variable": "sdqpi4",
@@ -1492,6 +1556,7 @@
     "label_de": "NA"
   },
   "sdqpi5": {
+    "study": "pairfam",
     "name": "sdqpi5",
     "name_cs": "sdqpi5",
     "variable": "sdqpi5",
@@ -1558,6 +1623,7 @@
     "label_de": "NA"
   },
   "sdqpi7": {
+    "study": "pairfam",
     "name": "sdqpi7",
     "name_cs": "sdqpi7",
     "variable": "sdqpi7",
@@ -1624,6 +1690,7 @@
     "label_de": "SDQ: Im Allgemeinen folgsam; macht meist, was Erwachsene verlangen (Frage 2)"
   },
   "sdqpi8": {
+    "study": "pairfam",
     "name": "sdqpi8",
     "name_cs": "sdqpi8",
     "variable": "sdqpi8",
@@ -1690,6 +1757,7 @@
     "label_de": "NA"
   },
   "sdqpi9": {
+    "study": "pairfam",
     "name": "sdqpi9",
     "name_cs": "sdqpi9",
     "variable": "sdqpi9",
@@ -1756,6 +1824,7 @@
     "label_de": "NA"
   },
   "sdqpi12": {
+    "study": "pairfam",
     "name": "sdqpi12",
     "name_cs": "sdqpi12",
     "variable": "sdqpi12",
@@ -1822,6 +1891,7 @@
     "label_de": "SDQ: Streitet sich oft mit anderen Kindern oder schikaniert sie (Frage 2)"
   },
   "sdqpi13": {
+    "study": "pairfam",
     "name": "sdqpi13",
     "name_cs": "sdqpi13",
     "variable": "sdqpi13",
@@ -1888,6 +1958,7 @@
     "label_de": "NA"
   },
   "sdqpi16": {
+    "study": "pairfam",
     "name": "sdqpi16",
     "name_cs": "sdqpi16",
     "variable": "sdqpi16",
@@ -1954,6 +2025,7 @@
     "label_de": "NA"
   },
   "sdqpi17": {
+    "study": "pairfam",
     "name": "sdqpi17",
     "name_cs": "sdqpi17",
     "variable": "sdqpi17",
@@ -2020,6 +2092,7 @@
     "label_de": "NA"
   },
   "sdqpi18": {
+    "study": "pairfam",
     "name": "sdqpi18",
     "name_cs": "sdqpi18",
     "variable": "sdqpi18",
@@ -2086,6 +2159,7 @@
     "label_de": "NA"
   },
   "sdqpi20": {
+    "study": "pairfam",
     "name": "sdqpi20",
     "name_cs": "sdqpi20",
     "variable": "sdqpi20",
@@ -2152,6 +2226,7 @@
     "label_de": "SDQ: Hilft anderen oft freiwillig (Eltern, Lehrern, anderen Kindern) (Frage 2)"
   },
   "sdqpi22": {
+    "study": "pairfam",
     "name": "sdqpi22",
     "name_cs": "sdqpi22",
     "variable": "sdqpi22",
@@ -2218,6 +2293,7 @@
     "label_de": "SDQ: Stiehlt zu Hause, in der Schule oder anderswo (Frage 2)"
   },
   "sdqpi24": {
+    "study": "pairfam",
     "name": "sdqpi24",
     "name_cs": "sdqpi24",
     "variable": "sdqpi24",
@@ -2284,6 +2360,7 @@
     "label_de": "NA"
   },
   "pcr2i1": {
+    "study": "pairfam",
     "name": "pcr2i1",
     "name_cs": "pcr2i1",
     "variable": "pcr2i1",
@@ -2360,6 +2437,7 @@
     "label_de": "NA"
   },
   "pcr2i2": {
+    "study": "pairfam",
     "name": "pcr2i2",
     "name_cs": "pcr2i2",
     "variable": "pcr2i2",
@@ -2436,6 +2514,7 @@
     "label_de": "Wenn es Probleme in der Erziehung gibt, liegt das an meinem Kind (Frage 3)"
   },
   "pcr2i3": {
+    "study": "pairfam",
     "name": "pcr2i3",
     "name_cs": "pcr2i3",
     "variable": "pcr2i3",
@@ -2512,6 +2591,7 @@
     "label_de": "NA"
   },
   "act1i91": {
+    "study": "pairfam",
     "name": "act1i91",
     "name_cs": "act1i91",
     "variable": "act1i91",
@@ -2588,6 +2668,7 @@
     "label_de": "NA"
   },
   "act1i2": {
+    "study": "pairfam",
     "name": "act1i2",
     "name_cs": "act1i2",
     "variable": "act1i2",
@@ -2664,6 +2745,7 @@
     "label_de": "NA"
   },
   "act1i3": {
+    "study": "pairfam",
     "name": "act1i3",
     "name_cs": "act1i3",
     "variable": "act1i3",
@@ -2740,6 +2822,7 @@
     "label_de": "NA"
   },
   "act1i4": {
+    "study": "pairfam",
     "name": "act1i4",
     "name_cs": "act1i4",
     "variable": "act1i4",
@@ -2816,6 +2899,7 @@
     "label_de": "NA"
   },
   "act1i5": {
+    "study": "pairfam",
     "name": "act1i5",
     "name_cs": "act1i5",
     "variable": "act1i5",
@@ -2892,6 +2976,7 @@
     "label_de": "NA"
   },
   "act1i96": {
+    "study": "pairfam",
     "name": "act1i96",
     "name_cs": "act1i96",
     "variable": "act1i96",
@@ -2968,6 +3053,7 @@
     "label_de": "NA"
   },
   "act1i7": {
+    "study": "pairfam",
     "name": "act1i7",
     "name_cs": "act1i7",
     "variable": "act1i7",
@@ -3044,6 +3130,7 @@
     "label_de": "NA"
   },
   "act1i8": {
+    "study": "pairfam",
     "name": "act1i8",
     "name_cs": "act1i8",
     "variable": "act1i8",
@@ -3120,6 +3207,7 @@
     "label_de": "NA"
   },
   "act1i99": {
+    "study": "pairfam",
     "name": "act1i99",
     "name_cs": "act1i99",
     "variable": "act1i99",
@@ -3196,6 +3284,7 @@
     "label_de": "NA"
   },
   "act1i10": {
+    "study": "pairfam",
     "name": "act1i10",
     "name_cs": "act1i10",
     "variable": "act1i10",
@@ -3272,6 +3361,7 @@
     "label_de": "NA"
   },
   "act1i11": {
+    "study": "pairfam",
     "name": "act1i11",
     "name_cs": "act1i11",
     "variable": "act1i11",
@@ -3348,6 +3438,7 @@
     "label_de": "NA"
   },
   "act1i12": {
+    "study": "pairfam",
     "name": "act1i12",
     "name_cs": "act1i12",
     "variable": "act1i12",
@@ -3424,6 +3515,7 @@
     "label_de": "NA"
   },
   "pcr3i1": {
+    "study": "pairfam",
     "name": "pcr3i1",
     "name_cs": "pcr3i1",
     "variable": "pcr3i1",
@@ -3500,6 +3592,7 @@
     "label_de": "NA"
   },
   "pcr3i2": {
+    "study": "pairfam",
     "name": "pcr3i2",
     "name_cs": "pcr3i2",
     "variable": "pcr3i2",
@@ -3576,6 +3669,7 @@
     "label_de": "Die Dinge, die Ihr Kind tut, werden von Ihnen anerkannt (Frage 5)"
   },
   "pcr3i3": {
+    "study": "pairfam",
     "name": "pcr3i3",
     "name_cs": "pcr3i3",
     "variable": "pcr3i3",
@@ -3652,6 +3746,7 @@
     "label_de": "Ihr Kind bringt Sie dazu, dass Sie sich nach ihm richten (Frage 5)"
   },
   "pcr3i4": {
+    "study": "pairfam",
     "name": "pcr3i4",
     "name_cs": "pcr3i4",
     "variable": "pcr3i4",
@@ -3728,6 +3823,7 @@
     "label_de": "NA"
   },
   "pcr3i5": {
+    "study": "pairfam",
     "name": "pcr3i5",
     "name_cs": "pcr3i5",
     "variable": "pcr3i5",
@@ -3804,6 +3900,7 @@
     "label_de": "Sie zeigen Ihrem Kind, dass Sie es gut finden (Frage 5)"
   },
   "pcr3i6": {
+    "study": "pairfam",
     "name": "pcr3i6",
     "name_cs": "pcr3i6",
     "variable": "pcr3i6",
@@ -3880,6 +3977,7 @@
     "label_de": "Sie und Ihr Kind sind unterschiedlicher Meinung und streiten sich (Frage 5)"
   },
   "pcr3i7": {
+    "study": "pairfam",
     "name": "pcr3i7",
     "name_cs": "pcr3i7",
     "variable": "pcr3i7",
@@ -3956,6 +4054,7 @@
     "label_de": "NA"
   },
   "pcr3i8": {
+    "study": "pairfam",
     "name": "pcr3i8",
     "name_cs": "pcr3i8",
     "variable": "pcr3i8",
@@ -4032,6 +4131,7 @@
     "label_de": "NA"
   },
   "edu5i1": {
+    "study": "pairfam",
     "name": "edu5i1",
     "name_cs": "edu5i1",
     "variable": "edu5i1",
@@ -4093,6 +4193,7 @@
     "label_de": "Zusatz- oder Nachhilfestunden in Mathe (Frage 6)"
   },
   "edu5i2": {
+    "study": "pairfam",
     "name": "edu5i2",
     "name_cs": "edu5i2",
     "variable": "edu5i2",
@@ -4154,6 +4255,7 @@
     "label_de": "Zusatz- oder Nachhilfestunden in Deutsch (Frage 6)"
   },
   "edu5i3": {
+    "study": "pairfam",
     "name": "edu5i3",
     "name_cs": "edu5i3",
     "variable": "edu5i3",
@@ -4215,6 +4317,7 @@
     "label_de": "Zusatz- oder Nachhilfestunden in Fremdsprachen (Frage 6)"
   },
   "edu5i4": {
+    "study": "pairfam",
     "name": "edu5i4",
     "name_cs": "edu5i4",
     "variable": "edu5i4",
@@ -4276,11 +4379,12 @@
     "label_de": "Zusatz- oder Nachhilfestunden in anderem Fach (Frage 6)"
   },
   "edu6": {
+    "study": "pairfam",
     "name": "edu6",
     "name_cs": "edu6",
     "variable": "edu6",
     "dataset": "parenting6",
-    "label": "Average cost for extra lessons or classes (Qu. 9)",
+    "label": "Average cost for extra lessons or classes (Qu. 6)",
     "categories": {
       "frequencies": [
         170,

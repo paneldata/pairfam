@@ -1,5 +1,6 @@
 {
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -37,6 +38,7 @@
     "label_de": "Personennummer Anker"
   },
   "pid": {
+    "study": "pairfam",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -76,6 +78,7 @@
     "label_de": "Personennummer Partner"
   },
   "cid": {
+    "study": "pairfam",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -113,6 +116,7 @@
     "label_de": "Personennummer Kind"
   },
   "wave": {
+    "study": "pairfam",
     "name": "wave",
     "name_cs": "wave",
     "variable": "wave",
@@ -154,6 +158,7 @@
     "label_de": "Erhebungsjahr"
   },
   "dropoffvers": {
+    "study": "pairfam",
     "name": "dropoffvers",
     "name_cs": "dropoffvers",
     "variable": "dropoffvers",
@@ -210,6 +215,7 @@
     "label_de": "Drop-Off Version: Befragte Person?"
   },
   "pcr2i4": {
+    "study": "pairfam",
     "name": "pcr2i4",
     "name_cs": "pcr2i4",
     "variable": "pcr2i4",
@@ -282,6 +288,7 @@
     "label_de": "NA"
   },
   "pcr2i1": {
+    "study": "pairfam",
     "name": "pcr2i1",
     "name_cs": "pcr2i1",
     "variable": "pcr2i1",
@@ -354,6 +361,7 @@
     "label_de": "NA"
   },
   "pcr2i7": {
+    "study": "pairfam",
     "name": "pcr2i7",
     "name_cs": "pcr2i7",
     "variable": "pcr2i7",
@@ -426,6 +434,7 @@
     "label_de": "NA"
   },
   "pcr2i8": {
+    "study": "pairfam",
     "name": "pcr2i8",
     "name_cs": "pcr2i8",
     "variable": "pcr2i8",
@@ -498,6 +507,7 @@
     "label_de": "NA"
   },
   "pcr2i2": {
+    "study": "pairfam",
     "name": "pcr2i2",
     "name_cs": "pcr2i2",
     "variable": "pcr2i2",
@@ -570,6 +580,7 @@
     "label_de": "Wenn es Probleme in der Erziehung gibt, liegt das an meinem Kind (Frage 1)"
   },
   "pcr2i9": {
+    "study": "pairfam",
     "name": "pcr2i9",
     "name_cs": "pcr2i9",
     "variable": "pcr2i9",
@@ -642,6 +653,7 @@
     "label_de": "NA"
   },
   "pcr2i5": {
+    "study": "pairfam",
     "name": "pcr2i5",
     "name_cs": "pcr2i5",
     "variable": "pcr2i5",
@@ -714,6 +726,7 @@
     "label_de": "NA"
   },
   "pcr2i3": {
+    "study": "pairfam",
     "name": "pcr2i3",
     "name_cs": "pcr2i3",
     "variable": "pcr2i3",
@@ -786,6 +799,7 @@
     "label_de": "NA"
   },
   "pcr2i6": {
+    "study": "pairfam",
     "name": "pcr2i6",
     "name_cs": "pcr2i6",
     "variable": "pcr2i6",
@@ -858,6 +872,7 @@
     "label_de": "NA"
   },
   "pcr2i10": {
+    "study": "pairfam",
     "name": "pcr2i10",
     "name_cs": "pcr2i10",
     "variable": "pcr2i10",
@@ -930,6 +945,7 @@
     "label_de": "Ich freue mich darauf, mit meinem Kind zusammen zu sein (Frage 1)"
   },
   "pcr1i1": {
+    "study": "pairfam",
     "name": "pcr1i1",
     "name_cs": "pcr1i1",
     "variable": "pcr1i1",
@@ -1002,6 +1018,7 @@
     "label_de": "Sie zeigen Ihrem Kind mit Worten und Gesten, dass Sie es gerne haben (Frage 2)"
   },
   "pcr1i15": {
+    "study": "pairfam",
     "name": "pcr1i15",
     "name_cs": "pcr1i15",
     "variable": "pcr1i15",
@@ -1074,6 +1091,7 @@
     "label_de": "NA"
   },
   "pcr1i3": {
+    "study": "pairfam",
     "name": "pcr1i3",
     "name_cs": "pcr1i3",
     "variable": "pcr1i3",
@@ -1146,6 +1164,7 @@
     "label_de": "Sie kritisieren Ihr Kind (Frage 2)"
   },
   "pcr1i5": {
+    "study": "pairfam",
     "name": "pcr1i5",
     "name_cs": "pcr1i5",
     "variable": "pcr1i5",
@@ -1218,6 +1237,7 @@
     "label_de": "NA"
   },
   "pcr1i16": {
+    "study": "pairfam",
     "name": "pcr1i16",
     "name_cs": "pcr1i16",
     "variable": "pcr1i16",
@@ -1290,6 +1310,7 @@
     "label_de": "NA"
   },
   "pcr1i8": {
+    "study": "pairfam",
     "name": "pcr1i8",
     "name_cs": "pcr1i8",
     "variable": "pcr1i8",
@@ -1362,6 +1383,7 @@
     "label_de": "Sie schreien Ihr Kind an, wenn es etwas falsch gemacht hat (Frage 2)"
   },
   "pcr1i17": {
+    "study": "pairfam",
     "name": "pcr1i17",
     "name_cs": "pcr1i17",
     "variable": "pcr1i17",
@@ -1434,6 +1456,7 @@
     "label_de": "Ich rede eine Zeit lang nicht mit Kind, wenn es etwas angestellt hat (Frage 2)"
   },
   "pcr1i11": {
+    "study": "pairfam",
     "name": "pcr1i11",
     "name_cs": "pcr1i11",
     "variable": "pcr1i11",
@@ -1506,6 +1529,7 @@
     "label_de": "NA"
   },
   "pcr1i14": {
+    "study": "pairfam",
     "name": "pcr1i14",
     "name_cs": "pcr1i14",
     "variable": "pcr1i14",
@@ -1578,6 +1602,7 @@
     "label_de": "Sie loben Ihr Kind (Frage 2)"
   },
   "act1i1": {
+    "study": "pairfam",
     "name": "act1i1",
     "name_cs": "act1i1",
     "variable": "act1i1",
@@ -1650,6 +1675,7 @@
     "label_de": "NA"
   },
   "act1i2": {
+    "study": "pairfam",
     "name": "act1i2",
     "name_cs": "act1i2",
     "variable": "act1i2",
@@ -1722,6 +1748,7 @@
     "label_de": "NA"
   },
   "act1i3": {
+    "study": "pairfam",
     "name": "act1i3",
     "name_cs": "act1i3",
     "variable": "act1i3",
@@ -1794,6 +1821,7 @@
     "label_de": "NA"
   },
   "act1i4": {
+    "study": "pairfam",
     "name": "act1i4",
     "name_cs": "act1i4",
     "variable": "act1i4",
@@ -1866,6 +1894,7 @@
     "label_de": "NA"
   },
   "act1i5": {
+    "study": "pairfam",
     "name": "act1i5",
     "name_cs": "act1i5",
     "variable": "act1i5",
@@ -1938,6 +1967,7 @@
     "label_de": "NA"
   },
   "act1i6": {
+    "study": "pairfam",
     "name": "act1i6",
     "name_cs": "act1i6",
     "variable": "act1i6",
@@ -2010,6 +2040,7 @@
     "label_de": "NA"
   },
   "act1i7": {
+    "study": "pairfam",
     "name": "act1i7",
     "name_cs": "act1i7",
     "variable": "act1i7",
@@ -2082,6 +2113,7 @@
     "label_de": "NA"
   },
   "act1i8": {
+    "study": "pairfam",
     "name": "act1i8",
     "name_cs": "act1i8",
     "variable": "act1i8",
@@ -2154,6 +2186,7 @@
     "label_de": "NA"
   },
   "act1i9": {
+    "study": "pairfam",
     "name": "act1i9",
     "name_cs": "act1i9",
     "variable": "act1i9",
@@ -2226,6 +2259,7 @@
     "label_de": "NA"
   },
   "act1i10": {
+    "study": "pairfam",
     "name": "act1i10",
     "name_cs": "act1i10",
     "variable": "act1i10",
@@ -2298,6 +2332,7 @@
     "label_de": "NA"
   },
   "sdqpi1": {
+    "study": "pairfam",
     "name": "sdqpi1",
     "name_cs": "sdqpi1",
     "variable": "sdqpi1",
@@ -2360,6 +2395,7 @@
     "label_de": "NA"
   },
   "sdqpi2": {
+    "study": "pairfam",
     "name": "sdqpi2",
     "name_cs": "sdqpi2",
     "variable": "sdqpi2",
@@ -2422,6 +2458,7 @@
     "label_de": "NA"
   },
   "sdqpi3": {
+    "study": "pairfam",
     "name": "sdqpi3",
     "name_cs": "sdqpi3",
     "variable": "sdqpi3",
@@ -2484,6 +2521,7 @@
     "label_de": "NA"
   },
   "sdqpi4": {
+    "study": "pairfam",
     "name": "sdqpi4",
     "name_cs": "sdqpi4",
     "variable": "sdqpi4",
@@ -2546,6 +2584,7 @@
     "label_de": "NA"
   },
   "sdqpi5": {
+    "study": "pairfam",
     "name": "sdqpi5",
     "name_cs": "sdqpi5",
     "variable": "sdqpi5",
@@ -2608,6 +2647,7 @@
     "label_de": "NA"
   },
   "sdqpi6": {
+    "study": "pairfam",
     "name": "sdqpi6",
     "name_cs": "sdqpi6",
     "variable": "sdqpi6",
@@ -2670,6 +2710,7 @@
     "label_de": "NA"
   },
   "sdqpi7": {
+    "study": "pairfam",
     "name": "sdqpi7",
     "name_cs": "sdqpi7",
     "variable": "sdqpi7",
@@ -2732,6 +2773,7 @@
     "label_de": "SDQ: Im Allgemeinen folgsam; macht meist, was Erwachsene verlangen (Frage 4)"
   },
   "sdqpi8": {
+    "study": "pairfam",
     "name": "sdqpi8",
     "name_cs": "sdqpi8",
     "variable": "sdqpi8",
@@ -2794,6 +2836,7 @@
     "label_de": "NA"
   },
   "sdqpi9": {
+    "study": "pairfam",
     "name": "sdqpi9",
     "name_cs": "sdqpi9",
     "variable": "sdqpi9",
@@ -2856,6 +2899,7 @@
     "label_de": "NA"
   },
   "sdqpi10": {
+    "study": "pairfam",
     "name": "sdqpi10",
     "name_cs": "sdqpi10",
     "variable": "sdqpi10",
@@ -2918,6 +2962,7 @@
     "label_de": "NA"
   },
   "sdqpi11": {
+    "study": "pairfam",
     "name": "sdqpi11",
     "name_cs": "sdqpi11",
     "variable": "sdqpi11",
@@ -2980,6 +3025,7 @@
     "label_de": "SDQ: Hat wenigstens einen guten Freund oder eine gute Freundin (Frage 4)"
   },
   "sdqpi12": {
+    "study": "pairfam",
     "name": "sdqpi12",
     "name_cs": "sdqpi12",
     "variable": "sdqpi12",
@@ -3042,6 +3088,7 @@
     "label_de": "SDQ: Streitet sich oft mit anderen Kindern oder schikaniert sie (Frage 4)"
   },
   "sdqpi13": {
+    "study": "pairfam",
     "name": "sdqpi13",
     "name_cs": "sdqpi13",
     "variable": "sdqpi13",
@@ -3104,6 +3151,7 @@
     "label_de": "NA"
   },
   "sdqpi14": {
+    "study": "pairfam",
     "name": "sdqpi14",
     "name_cs": "sdqpi14",
     "variable": "sdqpi14",
@@ -3166,6 +3214,7 @@
     "label_de": "SDQ: Im Allgemeinen bei anderen Kindern beliebt (Frage 4)"
   },
   "sdqpi15": {
+    "study": "pairfam",
     "name": "sdqpi15",
     "name_cs": "sdqpi15",
     "variable": "sdqpi15",
@@ -3228,6 +3277,7 @@
     "label_de": "SDQ: Leicht ablenkbar, unkonzentriert (Frage 4)"
   },
   "sdqpi16": {
+    "study": "pairfam",
     "name": "sdqpi16",
     "name_cs": "sdqpi16",
     "variable": "sdqpi16",
@@ -3290,6 +3340,7 @@
     "label_de": "NA"
   },
   "sdqpi17": {
+    "study": "pairfam",
     "name": "sdqpi17",
     "name_cs": "sdqpi17",
     "variable": "sdqpi17",
@@ -3352,6 +3403,7 @@
     "label_de": "NA"
   },
   "sdqpi18": {
+    "study": "pairfam",
     "name": "sdqpi18",
     "name_cs": "sdqpi18",
     "variable": "sdqpi18",
@@ -3414,6 +3466,7 @@
     "label_de": "NA"
   },
   "sdqpi19": {
+    "study": "pairfam",
     "name": "sdqpi19",
     "name_cs": "sdqpi19",
     "variable": "sdqpi19",
@@ -3476,6 +3529,7 @@
     "label_de": "NA"
   },
   "sdqpi20": {
+    "study": "pairfam",
     "name": "sdqpi20",
     "name_cs": "sdqpi20",
     "variable": "sdqpi20",
@@ -3538,6 +3592,7 @@
     "label_de": "SDQ: Hilft anderen oft freiwillig (Eltern, Lehrern, anderen Kindern) (Frage 4)"
   },
   "sdqpi21": {
+    "study": "pairfam",
     "name": "sdqpi21",
     "name_cs": "sdqpi21",
     "variable": "sdqpi21",
@@ -3600,6 +3655,7 @@
     "label_de": "SDQ: Denkt nach, bevor er/sie handelt (Frage 4)"
   },
   "sdqpi22": {
+    "study": "pairfam",
     "name": "sdqpi22",
     "name_cs": "sdqpi22",
     "variable": "sdqpi22",
@@ -3662,6 +3718,7 @@
     "label_de": "SDQ: Stiehlt zu Hause, in der Schule oder anderswo (Frage 4)"
   },
   "sdqpi23": {
+    "study": "pairfam",
     "name": "sdqpi23",
     "name_cs": "sdqpi23",
     "variable": "sdqpi23",
@@ -3724,6 +3781,7 @@
     "label_de": "SDQ: Kommt besser mit Erwachsenen aus als mit anderen Kindern (Frage 4)"
   },
   "sdqpi24": {
+    "study": "pairfam",
     "name": "sdqpi24",
     "name_cs": "sdqpi24",
     "variable": "sdqpi24",
@@ -3786,6 +3844,7 @@
     "label_de": "NA"
   },
   "sdqpi25": {
+    "study": "pairfam",
     "name": "sdqpi25",
     "name_cs": "sdqpi25",
     "variable": "sdqpi25",
@@ -3848,6 +3907,7 @@
     "label_de": "NA"
   },
   "hltc0": {
+    "study": "pairfam",
     "name": "hltc0",
     "name_cs": "hltc0",
     "variable": "hltc0",
@@ -3920,6 +3980,7 @@
     "label_de": "NA"
   },
   "pcr3i1": {
+    "study": "pairfam",
     "name": "pcr3i1",
     "name_cs": "pcr3i1",
     "variable": "pcr3i1",
@@ -3992,6 +4053,7 @@
     "label_de": "NA"
   },
   "pcr3i2": {
+    "study": "pairfam",
     "name": "pcr3i2",
     "name_cs": "pcr3i2",
     "variable": "pcr3i2",
@@ -4064,6 +4126,7 @@
     "label_de": "Die Dinge, die Ihr Kind tut, werden von Ihnen anerkannt (Frage 6)"
   },
   "pcr3i3": {
+    "study": "pairfam",
     "name": "pcr3i3",
     "name_cs": "pcr3i3",
     "variable": "pcr3i3",
@@ -4136,6 +4199,7 @@
     "label_de": "Wie oft bringt Ihr Kind Sie dazu, dass Sie sich nach ihm richten? (Frage 6)"
   },
   "pcr3i4": {
+    "study": "pairfam",
     "name": "pcr3i4",
     "name_cs": "pcr3i4",
     "variable": "pcr3i4",
@@ -4208,6 +4272,7 @@
     "label_de": "NA"
   },
   "pcr3i5": {
+    "study": "pairfam",
     "name": "pcr3i5",
     "name_cs": "pcr3i5",
     "variable": "pcr3i5",
@@ -4280,6 +4345,7 @@
     "label_de": "Sie zeigen Ihrem Kind, dass Sie es gut finden (Frage 6)"
   },
   "pcr3i6": {
+    "study": "pairfam",
     "name": "pcr3i6",
     "name_cs": "pcr3i6",
     "variable": "pcr3i6",
@@ -4352,6 +4418,7 @@
     "label_de": "Sie und Ihr Kind sind unterschiedlicher Meinung und streiten sich (Frage 6)"
   },
   "pcr3i7": {
+    "study": "pairfam",
     "name": "pcr3i7",
     "name_cs": "pcr3i7",
     "variable": "pcr3i7",
@@ -4424,6 +4491,7 @@
     "label_de": "NA"
   },
   "pcr3i8": {
+    "study": "pairfam",
     "name": "pcr3i8",
     "name_cs": "pcr3i8",
     "variable": "pcr3i8",
@@ -4496,6 +4564,7 @@
     "label_de": "NA"
   },
   "pcr1i2": {
+    "study": "pairfam",
     "name": "pcr1i2",
     "name_cs": "pcr1i2",
     "variable": "pcr1i2",
@@ -4568,6 +4637,7 @@
     "label_de": "NA"
   },
   "pcr1i4": {
+    "study": "pairfam",
     "name": "pcr1i4",
     "name_cs": "pcr1i4",
     "variable": "pcr1i4",
@@ -4640,6 +4710,7 @@
     "label_de": "NA"
   },
   "pcr1i18": {
+    "study": "pairfam",
     "name": "pcr1i18",
     "name_cs": "pcr1i18",
     "variable": "pcr1i18",
@@ -4712,6 +4783,7 @@
     "label_de": "Sie lassen sich nicht von Ihren Regeln und Verboten abbringen (Frage 7)"
   },
   "pcr1i19": {
+    "study": "pairfam",
     "name": "pcr1i19",
     "name_cs": "pcr1i19",
     "variable": "pcr1i19",
@@ -4784,6 +4856,7 @@
     "label_de": "Wenn Ihr Kind etwas gegen Ihren Willen tut, bestrafen Sie es (Frage 7)"
   },
   "pcr1i9": {
+    "study": "pairfam",
     "name": "pcr1i9",
     "name_cs": "pcr1i9",
     "variable": "pcr1i9",
@@ -4856,6 +4929,7 @@
     "label_de": "Wenn Kind unterwegs war, fragen Sie nach, was es getan und erlebt hat (Frage 7)"
   },
   "pcr1i10": {
+    "study": "pairfam",
     "name": "pcr1i10",
     "name_cs": "pcr1i10",
     "variable": "pcr1i10",
@@ -4928,6 +5002,7 @@
     "label_de": "Es gibt Tage, an denen Sie strenger sind als an anderen (Frage 7)"
   },
   "pcr1i20": {
+    "study": "pairfam",
     "name": "pcr1i20",
     "name_cs": "pcr1i20",
     "variable": "pcr1i20",
@@ -5000,6 +5075,7 @@
     "label_de": "Sie geben Kind zu verstehen, dass es sich nicht widersetzen soll (Frage 7)"
   },
   "pcr1i13": {
+    "study": "pairfam",
     "name": "pcr1i13",
     "name_cs": "pcr1i13",
     "variable": "pcr1i13",
@@ -5072,6 +5148,7 @@
     "label_de": "Sie drohen Ihrem Kind eine Strafe an, strafen es dann aber doch nicht (Frage 7)"
   },
   "pcr1i6": {
+    "study": "pairfam",
     "name": "pcr1i6",
     "name_cs": "pcr1i6",
     "variable": "pcr1i6",
@@ -5144,6 +5221,7 @@
     "label_de": "NA"
   },
   "pcr1i7": {
+    "study": "pairfam",
     "name": "pcr1i7",
     "name_cs": "pcr1i7",
     "variable": "pcr1i7",
@@ -5216,6 +5294,7 @@
     "label_de": "NA"
   },
   "pcr1i21": {
+    "study": "pairfam",
     "name": "pcr1i21",
     "name_cs": "pcr1i21",
     "variable": "pcr1i21",
@@ -5288,6 +5367,7 @@
     "label_de": "Sie sind eher streng (Frage 7)"
   },
   "pcr1i12": {
+    "study": "pairfam",
     "name": "pcr1i12",
     "name_cs": "pcr1i12",
     "variable": "pcr1i12",

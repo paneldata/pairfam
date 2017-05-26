@@ -1,5 +1,6 @@
 {
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -37,6 +38,7 @@
     "label_de": "Personennummer Anker"
   },
   "pid": {
+    "study": "pairfam",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -4266,6 +4268,7 @@
     "label_de": "Personennummer Partner"
   },
   "cid": {
+    "study": "pairfam",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -4303,6 +4306,7 @@
     "label_de": "Personennummer Kind"
   },
   "demodiff": {
+    "study": "pairfam",
     "name": "demodiff",
     "name_cs": "demodiff",
     "variable": "demodiff",
@@ -4314,8 +4318,8 @@
         233
       ],
       "labels": [
-        "0 pairfam",
-        "1 demodiff"
+        "pairfam",
+        "demodiff"
       ],
       "missings": [
         false,
@@ -4344,6 +4348,7 @@
     "label_de": "DemoDiff Stichprobe"
   },
   "wave": {
+    "study": "pairfam",
     "name": "wave",
     "name_cs": "wave",
     "variable": "wave",
@@ -4400,6 +4405,7 @@
     "label_de": "Erhebungsjahr"
   },
   "cnr": {
+    "study": "pairfam",
     "name": "cnr",
     "name_cs": "cnr",
     "variable": "cnr",
@@ -4541,6 +4547,7 @@
     "label_de": "Kinder-Nummer, d h CAPI-Kind ist Kind mit Nummer  "
   },
   "csex": {
+    "study": "pairfam",
     "name": "csex",
     "name_cs": "csex",
     "variable": "csex",
@@ -4617,6 +4624,7 @@
     "label_de": "Geschlecht Kind"
   },
   "cdobd": {
+    "study": "pairfam",
     "name": "cdobd",
     "name_cs": "cdobd",
     "variable": "cdobd",
@@ -4688,6 +4696,7 @@
     "label_de": "Tag Geburt (Frage 1)"
   },
   "cdobm": {
+    "study": "pairfam",
     "name": "cdobm",
     "name_cs": "cdobm",
     "variable": "cdobm",
@@ -4814,6 +4823,7 @@
     "label_de": "Monat Geburt Kind (Frage 1)"
   },
   "cdoby": {
+    "study": "pairfam",
     "name": "cdoby",
     "name_cs": "cdoby",
     "variable": "cdoby",
@@ -4851,6 +4861,7 @@
     "label_de": "Jahr Geburt Kind (Frage 1)"
   },
   "cedu9": {
+    "study": "pairfam",
     "name": "cedu9",
     "name_cs": "cedu9",
     "variable": "cedu9",
@@ -4927,6 +4938,7 @@
     "label_de": "Gehst Du denn noch zur Schule? (Frage 2)"
   },
   "cedu1a": {
+    "study": "pairfam",
     "name": "cedu1a",
     "name_cs": "cedu1a",
     "variable": "cedu1a",
@@ -5073,6 +5085,7 @@
     "label_de": "NA"
   },
   "cedu1ao": {
+    "study": "pairfam",
     "name": "cedu1ao",
     "name_cs": "cedu1ao",
     "variable": "cedu1ao",
@@ -5144,6 +5157,7 @@
     "label_de": "Sonstige Schulart"
   },
   "cedu2": {
+    "study": "pairfam",
     "name": "cedu2",
     "name_cs": "cedu2",
     "variable": "cedu2",
@@ -5265,6 +5279,7 @@
     "label_de": "Und in welcher Klasse bist Du? (Frage 4)"
   },
   "cedu10": {
+    "study": "pairfam",
     "name": "cedu10",
     "name_cs": "cedu10",
     "variable": "cedu10",
@@ -5355,6 +5370,7 @@
     "label_de": "NA"
   },
   "cedu11": {
+    "study": "pairfam",
     "name": "cedu11",
     "name_cs": "cedu11",
     "variable": "cedu11",
@@ -5415,6 +5431,7 @@
     "label_de": "Welche Durchschnittsnote hast Du bei Deinem Schulabschluss erreicht? (Frage 6)"
   },
   "cedu12i1": {
+    "study": "pairfam",
     "name": "cedu12i1",
     "name_cs": "cedu12i1",
     "variable": "cedu12i1",
@@ -5512,9 +5529,10 @@
       "values": []
     },
     "scale": "",
-    "label_de": "NA"
+    "label_de": "Letztes Zeugnis: Note - Mathe (Frage 7)"
   },
   "cedu12i2": {
+    "study": "pairfam",
     "name": "cedu12i2",
     "name_cs": "cedu12i2",
     "variable": "cedu12i2",
@@ -5612,9 +5630,10 @@
       "values": []
     },
     "scale": "",
-    "label_de": "NA"
+    "label_de": "Letztes Zeugnis: Note - Deutsch (Frage 7)"
   },
   "cedu13i1": {
+    "study": "pairfam",
     "name": "cedu13i1",
     "name_cs": "cedu13i1",
     "variable": "cedu13i1",
@@ -5685,6 +5704,7 @@
     "label_de": "NA"
   },
   "cedu13i2": {
+    "study": "pairfam",
     "name": "cedu13i2",
     "name_cs": "cedu13i2",
     "variable": "cedu13i2",
@@ -5755,6 +5775,7 @@
     "label_de": "NA"
   },
   "cedu13i3": {
+    "study": "pairfam",
     "name": "cedu13i3",
     "name_cs": "cedu13i3",
     "variable": "cedu13i3",
@@ -5825,6 +5846,7 @@
     "label_de": "NA"
   },
   "cedu13i4": {
+    "study": "pairfam",
     "name": "cedu13i4",
     "name_cs": "cedu13i4",
     "variable": "cedu13i4",
@@ -5895,6 +5917,7 @@
     "label_de": "NA"
   },
   "cedu13i5": {
+    "study": "pairfam",
     "name": "cedu13i5",
     "name_cs": "cedu13i5",
     "variable": "cedu13i5",
@@ -5965,6 +5988,7 @@
     "label_de": "NA"
   },
   "cedu13i6": {
+    "study": "pairfam",
     "name": "cedu13i6",
     "name_cs": "cedu13i6",
     "variable": "cedu13i6",
@@ -6035,6 +6059,7 @@
     "label_de": "NA"
   },
   "cedu13i7": {
+    "study": "pairfam",
     "name": "cedu13i7",
     "name_cs": "cedu13i7",
     "variable": "cedu13i7",
@@ -6105,6 +6130,7 @@
     "label_de": "NA"
   },
   "cedu13i8": {
+    "study": "pairfam",
     "name": "cedu13i8",
     "name_cs": "cedu13i8",
     "variable": "cedu13i8",
@@ -6175,6 +6201,7 @@
     "label_de": "NA"
   },
   "cedu13i9": {
+    "study": "pairfam",
     "name": "cedu13i9",
     "name_cs": "cedu13i9",
     "variable": "cedu13i9",
@@ -6245,6 +6272,7 @@
     "label_de": "NA"
   },
   "cedu13i10": {
+    "study": "pairfam",
     "name": "cedu13i10",
     "name_cs": "cedu13i10",
     "variable": "cedu13i10",
@@ -6315,6 +6343,7 @@
     "label_de": "NA"
   },
   "cedu13i11": {
+    "study": "pairfam",
     "name": "cedu13i11",
     "name_cs": "cedu13i11",
     "variable": "cedu13i11",
@@ -6385,6 +6414,7 @@
     "label_de": "NA"
   },
   "cedu13i12": {
+    "study": "pairfam",
     "name": "cedu13i12",
     "name_cs": "cedu13i12",
     "variable": "cedu13i12",
@@ -6455,6 +6485,7 @@
     "label_de": "NA"
   },
   "cedu13i13": {
+    "study": "pairfam",
     "name": "cedu13i13",
     "name_cs": "cedu13i13",
     "variable": "cedu13i13",
@@ -6525,6 +6556,7 @@
     "label_de": "NA"
   },
   "cedu13i14": {
+    "study": "pairfam",
     "name": "cedu13i14",
     "name_cs": "cedu13i14",
     "variable": "cedu13i14",
@@ -6595,6 +6627,7 @@
     "label_de": "NA"
   },
   "cedu13i15": {
+    "study": "pairfam",
     "name": "cedu13i15",
     "name_cs": "cedu13i15",
     "variable": "cedu13i15",
@@ -6665,6 +6698,7 @@
     "label_de": "NA"
   },
   "cedu13i16": {
+    "study": "pairfam",
     "name": "cedu13i16",
     "name_cs": "cedu13i16",
     "variable": "cedu13i16",
@@ -6735,6 +6769,7 @@
     "label_de": "NA"
   },
   "cedu6i1": {
+    "study": "pairfam",
     "name": "cedu6i1",
     "name_cs": "cedu6i1",
     "variable": "cedu6i1",
@@ -6826,6 +6861,7 @@
     "label_de": "Die meisten in meiner Klasse sind nett und hilfsbereit (Frage 9)"
   },
   "cedu6i2": {
+    "study": "pairfam",
     "name": "cedu6i2",
     "name_cs": "cedu6i2",
     "variable": "cedu6i2",
@@ -6917,6 +6953,7 @@
     "label_de": "NA"
   },
   "cedu6i3": {
+    "study": "pairfam",
     "name": "cedu6i3",
     "name_cs": "cedu6i3",
     "variable": "cedu6i3",
@@ -7008,6 +7045,7 @@
     "label_de": "NA"
   },
   "cedu6i4": {
+    "study": "pairfam",
     "name": "cedu6i4",
     "name_cs": "cedu6i4",
     "variable": "cedu6i4",
@@ -7099,6 +7137,7 @@
     "label_de": "NA"
   },
   "cinc25i1": {
+    "study": "pairfam",
     "name": "cinc25i1",
     "name_cs": "cinc25i1",
     "variable": "cinc25i1",
@@ -7190,6 +7229,7 @@
     "label_de": "NA"
   },
   "cinc25i2": {
+    "study": "pairfam",
     "name": "cinc25i2",
     "name_cs": "cinc25i2",
     "variable": "cinc25i2",
@@ -7281,6 +7321,7 @@
     "label_de": "NA"
   },
   "cinc25i3": {
+    "study": "pairfam",
     "name": "cinc25i3",
     "name_cs": "cinc25i3",
     "variable": "cinc25i3",
@@ -7372,6 +7413,7 @@
     "label_de": "In meiner Familie ist das Geld meistens knapp (Frage 10)"
   },
   "chlt0a": {
+    "study": "pairfam",
     "name": "chlt0a",
     "name_cs": "chlt0a",
     "variable": "chlt0a",
@@ -7463,6 +7505,7 @@
     "label_de": "NA"
   },
   "cedu7i1": {
+    "study": "pairfam",
     "name": "cedu7i1",
     "name_cs": "cedu7i1",
     "variable": "cedu7i1",
@@ -7554,6 +7597,7 @@
     "label_de": "Ich bin lieber allein als mit anderen zusammen (Frage 12)"
   },
   "cedu7i2": {
+    "study": "pairfam",
     "name": "cedu7i2",
     "name_cs": "cedu7i2",
     "variable": "cedu7i2",
@@ -7645,6 +7689,7 @@
     "label_de": "Ich habe viele Freunde (Frage 12)"
   },
   "cedu7i3": {
+    "study": "pairfam",
     "name": "cedu7i3",
     "name_cs": "cedu7i3",
     "variable": "cedu7i3",
@@ -7736,6 +7781,7 @@
     "label_de": "NA"
   },
   "cedu7i4": {
+    "study": "pairfam",
     "name": "cedu7i4",
     "name_cs": "cedu7i4",
     "variable": "cedu7i4",
@@ -7827,6 +7873,7 @@
     "label_de": "Andere sind gemein zu mir (Frage 12)"
   },
   "cedu7i5": {
+    "study": "pairfam",
     "name": "cedu7i5",
     "name_cs": "cedu7i5",
     "variable": "cedu7i5",
@@ -7918,6 +7965,7 @@
     "label_de": "Die anderen lassen mich oft nicht mitmachen (Frage 12)"
   },
   "cedu7i6": {
+    "study": "pairfam",
     "name": "cedu7i6",
     "name_cs": "cedu7i6",
     "variable": "cedu7i6",
@@ -8009,6 +8057,7 @@
     "label_de": "NA"
   },
   "cbf0": {
+    "study": "pairfam",
     "name": "cbf0",
     "name_cs": "cbf0",
     "variable": "cbf0",
@@ -8085,6 +8134,7 @@
     "label_de": "Angabe, dass kein Freund/Freundin (Frage 13)"
   },
   "cbf1i1": {
+    "study": "pairfam",
     "name": "cbf1i1",
     "name_cs": "cbf1i1",
     "variable": "cbf1i1",
@@ -8176,6 +8226,7 @@
     "label_de": "NA"
   },
   "cbf1i2": {
+    "study": "pairfam",
     "name": "cbf1i2",
     "name_cs": "cbf1i2",
     "variable": "cbf1i2",
@@ -8267,6 +8318,7 @@
     "label_de": "NA"
   },
   "cbf1i3": {
+    "study": "pairfam",
     "name": "cbf1i3",
     "name_cs": "cbf1i3",
     "variable": "cbf1i3",
@@ -8358,6 +8410,7 @@
     "label_de": "NA"
   },
   "cbf1i4": {
+    "study": "pairfam",
     "name": "cbf1i4",
     "name_cs": "cbf1i4",
     "variable": "cbf1i4",
@@ -8449,6 +8502,7 @@
     "label_de": "NA"
   },
   "cpcr1": {
+    "study": "pairfam",
     "name": "cpcr1",
     "name_cs": "cpcr1",
     "variable": "cpcr1",
@@ -8525,6 +8579,7 @@
     "label_de": "Du lebst hier mit [alle Personen im gleichen Haushalt]. Richtig? (Frage 15)"
   },
   "cpcr2": {
+    "study": "pairfam",
     "name": "cpcr2",
     "name_cs": "cpcr2",
     "variable": "cpcr2",
@@ -8601,6 +8656,7 @@
     "label_de": "Kennst Du [Name Ankerperson]? (Frage 16)"
   },
   "cpcr3": {
+    "study": "pairfam",
     "name": "cpcr3",
     "name_cs": "cpcr3",
     "variable": "cpcr3",
@@ -8677,6 +8733,7 @@
     "label_de": "Kennst Du [Name Partner von Ankerperson]? (Frage 17)"
   },
   "cpcr4": {
+    "study": "pairfam",
     "name": "cpcr4",
     "name_cs": "cpcr4",
     "variable": "cpcr4",
@@ -8748,11 +8805,12 @@
     "label_de": "Name Ankerperson (Frage 18)"
   },
   "cpcr5": {
+    "study": "pairfam",
     "name": "cpcr5",
     "name_cs": "cpcr5",
     "variable": "cpcr5",
     "dataset": "child5",
-    "label": "NA",
+    "label": "Anonymized: Name anchor's partner in household (Qu. 19)",
     "categories": {
       "frequencies": [
         0,
@@ -8819,6 +8877,7 @@
     "label_de": "Name Partner der Ankerperson (Frage 19)"
   },
   "cpcr6i1": {
+    "study": "pairfam",
     "name": "cpcr6i1",
     "name_cs": "cpcr6i1",
     "variable": "cpcr6i1",
@@ -8910,6 +8969,7 @@
     "label_de": "[Anker] zeigt Dir, dass er/sie Dich gerne hat (Frage 20)"
   },
   "cpcr6i10": {
+    "study": "pairfam",
     "name": "cpcr6i10",
     "name_cs": "cpcr6i10",
     "variable": "cpcr6i10",
@@ -9001,6 +9061,7 @@
     "label_de": "NA"
   },
   "cpcr6i3": {
+    "study": "pairfam",
     "name": "cpcr6i3",
     "name_cs": "cpcr6i3",
     "variable": "cpcr6i3",
@@ -9092,6 +9153,7 @@
     "label_de": "NA"
   },
   "cpcr6i5": {
+    "study": "pairfam",
     "name": "cpcr6i5",
     "name_cs": "cpcr6i5",
     "variable": "cpcr6i5",
@@ -9183,6 +9245,7 @@
     "label_de": "NA"
   },
   "cpcr6i11": {
+    "study": "pairfam",
     "name": "cpcr6i11",
     "name_cs": "cpcr6i11",
     "variable": "cpcr6i11",
@@ -9274,6 +9337,7 @@
     "label_de": "[Anker] schreit Dich an, wenn etwas falsch gemacht (Frage 20)"
   },
   "cpcr6i7": {
+    "study": "pairfam",
     "name": "cpcr6i7",
     "name_cs": "cpcr6i7",
     "variable": "cpcr6i7",
@@ -9365,6 +9429,7 @@
     "label_de": "NA"
   },
   "cpcr6i12": {
+    "study": "pairfam",
     "name": "cpcr6i12",
     "name_cs": "cpcr6i12",
     "variable": "cpcr6i12",
@@ -9456,6 +9521,7 @@
     "label_de": "NA"
   },
   "cpcr6i9": {
+    "study": "pairfam",
     "name": "cpcr6i9",
     "name_cs": "cpcr6i9",
     "variable": "cpcr6i9",
@@ -9547,6 +9613,7 @@
     "label_de": "[Anker] lobt Dich (Frage 20)"
   },
   "cpcr10i1": {
+    "study": "pairfam",
     "name": "cpcr10i1",
     "name_cs": "cpcr10i1",
     "variable": "cpcr10i1",
@@ -9638,6 +9705,7 @@
     "label_de": "NA"
   },
   "cpcr10i2": {
+    "study": "pairfam",
     "name": "cpcr10i2",
     "name_cs": "cpcr10i2",
     "variable": "cpcr10i2",
@@ -9729,6 +9797,7 @@
     "label_de": "NA"
   },
   "cpcr10i3": {
+    "study": "pairfam",
     "name": "cpcr10i3",
     "name_cs": "cpcr10i3",
     "variable": "cpcr10i3",
@@ -9820,6 +9889,7 @@
     "label_de": "Wenn Fehler gemacht, fragst, ob [Anker] Dich mag (Frage 21)"
   },
   "cpcr7i1": {
+    "study": "pairfam",
     "name": "cpcr7i1",
     "name_cs": "cpcr7i1",
     "variable": "cpcr7i1",
@@ -9911,6 +9981,7 @@
     "label_de": "NA"
   },
   "cpcr7i2": {
+    "study": "pairfam",
     "name": "cpcr7i2",
     "name_cs": "cpcr7i2",
     "variable": "cpcr7i2",
@@ -10002,6 +10073,7 @@
     "label_de": "Die Dinge, die Du tust, werden von [Anker] anerkannt (Frage 22)"
   },
   "cpcr7i4": {
+    "study": "pairfam",
     "name": "cpcr7i4",
     "name_cs": "cpcr7i4",
     "variable": "cpcr7i4",
@@ -10093,6 +10165,7 @@
     "label_de": "NA"
   },
   "cpcr7i5": {
+    "study": "pairfam",
     "name": "cpcr7i5",
     "name_cs": "cpcr7i5",
     "variable": "cpcr7i5",
@@ -10184,6 +10257,7 @@
     "label_de": "[Anker] zeigt Dir, dass er/sie Dich gut findet (Frage 22)"
   },
   "cpcr7i6": {
+    "study": "pairfam",
     "name": "cpcr7i6",
     "name_cs": "cpcr7i6",
     "variable": "cpcr7i6",
@@ -10275,6 +10349,7 @@
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 22)"
   },
   "cpcr7i8": {
+    "study": "pairfam",
     "name": "cpcr7i8",
     "name_cs": "cpcr7i8",
     "variable": "cpcr7i8",
@@ -10366,6 +10441,7 @@
     "label_de": "NA"
   },
   "cpcr8i1": {
+    "study": "pairfam",
     "name": "cpcr8i1",
     "name_cs": "cpcr8i1",
     "variable": "cpcr8i1",
@@ -10457,6 +10533,7 @@
     "label_de": "NA"
   },
   "cpcr8i2": {
+    "study": "pairfam",
     "name": "cpcr8i2",
     "name_cs": "cpcr8i2",
     "variable": "cpcr8i2",
@@ -10548,6 +10625,7 @@
     "label_de": "Dinge, die Du tust, werden von [Partner d. Ankers] anerkannt (Frage 23)"
   },
   "cpcr8i4": {
+    "study": "pairfam",
     "name": "cpcr8i4",
     "name_cs": "cpcr8i4",
     "variable": "cpcr8i4",
@@ -10639,6 +10717,7 @@
     "label_de": "NA"
   },
   "cpcr8i5": {
+    "study": "pairfam",
     "name": "cpcr8i5",
     "name_cs": "cpcr8i5",
     "variable": "cpcr8i5",
@@ -10730,6 +10809,7 @@
     "label_de": "[Partner d. Ankers] zeigt Dir, dass er/sie Dich gut findet (Frage 23)"
   },
   "cpcr8i6": {
+    "study": "pairfam",
     "name": "cpcr8i6",
     "name_cs": "cpcr8i6",
     "variable": "cpcr8i6",
@@ -10821,6 +10901,7 @@
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 23)"
   },
   "cpcr8i8": {
+    "study": "pairfam",
     "name": "cpcr8i8",
     "name_cs": "cpcr8i8",
     "variable": "cpcr8i8",
@@ -10912,6 +10993,7 @@
     "label_de": "NA"
   },
   "cpcr11i1": {
+    "study": "pairfam",
     "name": "cpcr11i1",
     "name_cs": "cpcr11i1",
     "variable": "cpcr11i1",
@@ -11003,6 +11085,7 @@
     "label_de": "NA"
   },
   "cpcr11i2": {
+    "study": "pairfam",
     "name": "cpcr11i2",
     "name_cs": "cpcr11i2",
     "variable": "cpcr11i2",
@@ -11094,6 +11177,7 @@
     "label_de": "NA"
   },
   "cpcr11i3": {
+    "study": "pairfam",
     "name": "cpcr11i3",
     "name_cs": "cpcr11i3",
     "variable": "cpcr11i3",
@@ -11185,6 +11269,7 @@
     "label_de": "Wenn Fehler gemacht, fragst, ob [Partner d. Ankers] Dich mag (Frage 24)"
   },
   "cpcr9i1": {
+    "study": "pairfam",
     "name": "cpcr9i1",
     "name_cs": "cpcr9i1",
     "variable": "cpcr9i1",
@@ -11276,6 +11361,7 @@
     "label_de": "[Partner d. Ankers] zeigt Dir, dass er/sie Dich gerne hat (Frage 25)"
   },
   "cpcr9i10": {
+    "study": "pairfam",
     "name": "cpcr9i10",
     "name_cs": "cpcr9i10",
     "variable": "cpcr9i10",
@@ -11367,6 +11453,7 @@
     "label_de": "NA"
   },
   "cpcr9i3": {
+    "study": "pairfam",
     "name": "cpcr9i3",
     "name_cs": "cpcr9i3",
     "variable": "cpcr9i3",
@@ -11458,6 +11545,7 @@
     "label_de": "NA"
   },
   "cpcr9i5": {
+    "study": "pairfam",
     "name": "cpcr9i5",
     "name_cs": "cpcr9i5",
     "variable": "cpcr9i5",
@@ -11549,6 +11637,7 @@
     "label_de": "NA"
   },
   "cpcr9i11": {
+    "study": "pairfam",
     "name": "cpcr9i11",
     "name_cs": "cpcr9i11",
     "variable": "cpcr9i11",
@@ -11640,6 +11729,7 @@
     "label_de": "[Partner d. Ankers] schreit Dich an, wenn etwas falsch gemacht (Frage 25)"
   },
   "cpcr9i7": {
+    "study": "pairfam",
     "name": "cpcr9i7",
     "name_cs": "cpcr9i7",
     "variable": "cpcr9i7",
@@ -11731,6 +11821,7 @@
     "label_de": "NA"
   },
   "cpcr9i12": {
+    "study": "pairfam",
     "name": "cpcr9i12",
     "name_cs": "cpcr9i12",
     "variable": "cpcr9i12",
@@ -11822,6 +11913,7 @@
     "label_de": "NA"
   },
   "cpcr9i9": {
+    "study": "pairfam",
     "name": "cpcr9i9",
     "name_cs": "cpcr9i9",
     "variable": "cpcr9i9",
@@ -11913,6 +12005,7 @@
     "label_de": "[Partner d. Ankers] lobt Dich (Frage 25)"
   },
   "cpcr12": {
+    "study": "pairfam",
     "name": "cpcr12",
     "name_cs": "cpcr12",
     "variable": "cpcr12",
@@ -11989,6 +12082,7 @@
     "label_de": "Hast Du leiblichen Vater/ Mutter, der/die nicht hier mit Dir lebt? (Frage 26)"
   },
   "cpcr13": {
+    "study": "pairfam",
     "name": "cpcr13",
     "name_cs": "cpcr13",
     "variable": "cpcr13",
@@ -12060,6 +12154,7 @@
     "label_de": "NA"
   },
   "cpcr14": {
+    "study": "pairfam",
     "name": "cpcr14",
     "name_cs": "cpcr14",
     "variable": "cpcr14",
@@ -12166,6 +12261,7 @@
     "label_de": "Wie oft siehst Du [anderer Elternteil extern]? (Frage 28)"
   },
   "cpcr15": {
+    "study": "pairfam",
     "name": "cpcr15",
     "name_cs": "cpcr15",
     "variable": "cpcr15",
@@ -12272,6 +12368,7 @@
     "label_de": "NA"
   },
   "cpcr16i1": {
+    "study": "pairfam",
     "name": "cpcr16i1",
     "name_cs": "cpcr16i1",
     "variable": "cpcr16i1",
@@ -12363,6 +12460,7 @@
     "label_de": "NA"
   },
   "cpcr16i2": {
+    "study": "pairfam",
     "name": "cpcr16i2",
     "name_cs": "cpcr16i2",
     "variable": "cpcr16i2",
@@ -12454,6 +12552,7 @@
     "label_de": "Dinge, die Du tust, werden von [anderer Elternteil ext.] anerkannt (Frage 30)"
   },
   "cpcr16i4": {
+    "study": "pairfam",
     "name": "cpcr16i4",
     "name_cs": "cpcr16i4",
     "variable": "cpcr16i4",
@@ -12545,6 +12644,7 @@
     "label_de": "NA"
   },
   "cpcr16i5": {
+    "study": "pairfam",
     "name": "cpcr16i5",
     "name_cs": "cpcr16i5",
     "variable": "cpcr16i5",
@@ -12636,6 +12736,7 @@
     "label_de": "[Anderer Elternteil ext.] zeigt Dir, dass er/sie Dich gut findet (Frage 30)"
   },
   "cpcr16i6": {
+    "study": "pairfam",
     "name": "cpcr16i6",
     "name_cs": "cpcr16i6",
     "variable": "cpcr16i6",
@@ -12727,6 +12828,7 @@
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 30)"
   },
   "cpcr16i8": {
+    "study": "pairfam",
     "name": "cpcr16i8",
     "name_cs": "cpcr16i8",
     "variable": "cpcr16i8",
@@ -12818,6 +12920,7 @@
     "label_de": "NA"
   },
   "cpcr17i1": {
+    "study": "pairfam",
     "name": "cpcr17i1",
     "name_cs": "cpcr17i1",
     "variable": "cpcr17i1",
@@ -12909,6 +13012,7 @@
     "label_de": "NA"
   },
   "cpcr17i2": {
+    "study": "pairfam",
     "name": "cpcr17i2",
     "name_cs": "cpcr17i2",
     "variable": "cpcr17i2",
@@ -13000,6 +13104,7 @@
     "label_de": "NA"
   },
   "cpcr17i3": {
+    "study": "pairfam",
     "name": "cpcr17i3",
     "name_cs": "cpcr17i3",
     "variable": "cpcr17i3",
@@ -13091,6 +13196,7 @@
     "label_de": "Wenn Fehler gemacht, fragst, ob [anderer Elternteil ext.] Dich mag (Frage 31)"
   },
   "cpcr18i1": {
+    "study": "pairfam",
     "name": "cpcr18i1",
     "name_cs": "cpcr18i1",
     "variable": "cpcr18i1",
@@ -13182,6 +13288,7 @@
     "label_de": "[Anderer Elternteil ext.] zeigt Dir, dass er/sie Dich gerne hat (Frage 32)"
   },
   "cpcr18i2": {
+    "study": "pairfam",
     "name": "cpcr18i2",
     "name_cs": "cpcr18i2",
     "variable": "cpcr18i2",
@@ -13273,6 +13380,7 @@
     "label_de": "[Anderer Elternteil ext.] ist sehr streng (Frage 32)"
   },
   "cpcr18i3": {
+    "study": "pairfam",
     "name": "cpcr18i3",
     "name_cs": "cpcr18i3",
     "variable": "cpcr18i3",
@@ -13364,6 +13472,7 @@
     "label_de": "NA"
   },
   "cpcr18i4": {
+    "study": "pairfam",
     "name": "cpcr18i4",
     "name_cs": "cpcr18i4",
     "variable": "cpcr18i4",
@@ -13455,6 +13564,7 @@
     "label_de": "[Anderer Elternteil ext.] bestraft Dich, wenn Du gegen Willen tust (Frage 32)"
   },
   "cpcr18i6": {
+    "study": "pairfam",
     "name": "cpcr18i6",
     "name_cs": "cpcr18i6",
     "variable": "cpcr18i6",
@@ -13546,6 +13656,7 @@
     "label_de": "[Anderer Elternteil ext.] meint, immer Recht & Du nicht widersprechen (Frage 32)"
   },
   "cpcr18i8": {
+    "study": "pairfam",
     "name": "cpcr18i8",
     "name_cs": "cpcr18i8",
     "variable": "cpcr18i8",
@@ -13637,6 +13748,7 @@
     "label_de": "NA"
   },
   "cpcr18i9": {
+    "study": "pairfam",
     "name": "cpcr18i9",
     "name_cs": "cpcr18i9",
     "variable": "cpcr18i9",
@@ -13728,6 +13840,7 @@
     "label_de": "[Anderer Elternteil ext.] lobt Dich (Frage 32)"
   },
   "crom1": {
+    "study": "pairfam",
     "name": "crom1",
     "name_cs": "crom1",
     "variable": "crom1",
@@ -13804,6 +13917,7 @@
     "label_de": "Hattest Du schon einmal einen/eine festen Freund/feste Freundin? (Frage 33)"
   },
   "crom2": {
+    "study": "pairfam",
     "name": "crom2",
     "name_cs": "crom2",
     "variable": "crom2",
@@ -13925,6 +14039,7 @@
     "label_de": "Alter zum ersten Mal einen/eine festen Freund/feste Freundin? (Frage 34)"
   },
   "crom3": {
+    "study": "pairfam",
     "name": "crom3",
     "name_cs": "crom3",
     "variable": "crom3",
@@ -14001,6 +14116,7 @@
     "label_de": "Hattest Du schon einmal Liebeskummer? (Frage 35)"
   },
   "crom4": {
+    "study": "pairfam",
     "name": "crom4",
     "name_cs": "crom4",
     "variable": "crom4",
@@ -14030,9 +14146,9 @@
         "-2 No answer",
         "-1 Don`t know",
         "1 Not bad at all",
-        "2 2",
-        "3 3",
-        "4 4",
+        "2",
+        "3",
+        "4",
         "5 Very bad"
       ],
       "missings": [
@@ -14072,9 +14188,9 @@
         "-2 Keine Angabe",
         "",
         "",
-        "2 2",
-        "3 3",
-        "4 4",
+        "2",
+        "3",
+        "4",
         "5 Sehr schlimm"
       ]
     },
@@ -14092,6 +14208,7 @@
     "label_de": "NA"
   },
   "crom5": {
+    "study": "pairfam",
     "name": "crom5",
     "name_cs": "crom5",
     "variable": "crom5",
@@ -14173,6 +14290,7 @@
     "label_de": "Wie lange hat dieser Liebeskummer gedauert? (Frage 37)"
   },
   "crom6": {
+    "study": "pairfam",
     "name": "crom6",
     "name_cs": "crom6",
     "variable": "crom6",
@@ -14249,6 +14367,7 @@
     "label_de": "Hast Du aktuell einen festen Freund/eine feste Freundin? (Frage 38)"
   },
   "crom7": {
+    "study": "pairfam",
     "name": "crom7",
     "name_cs": "crom7",
     "variable": "crom7",
@@ -14325,6 +14444,7 @@
     "label_de": "NA"
   },
   "crom8": {
+    "study": "pairfam",
     "name": "crom8",
     "name_cs": "crom8",
     "variable": "crom8",
@@ -14446,11 +14566,12 @@
     "label_de": "Wie alt ist [Name fester Freund/feste Freundin]? (Frage 40)"
   },
   "csexff": {
+    "study": "pairfam",
     "name": "csexff",
     "name_cs": "csexff",
     "variable": "csexff",
     "dataset": "child5",
-    "label": "NA",
+    "label": "Girlfriend's/boyfriend's gender (Text 9)",
     "categories": {
       "frequencies": [
         0,
@@ -14522,6 +14643,7 @@
     "label_de": "NA"
   },
   "crom9": {
+    "study": "pairfam",
     "name": "crom9",
     "name_cs": "crom9",
     "variable": "crom9",
@@ -14728,6 +14850,7 @@
     "label_de": "Wie lange seid Ihr schon zusammen (in Monaten)? (Frage 41)"
   },
   "crom10": {
+    "study": "pairfam",
     "name": "crom10",
     "name_cs": "crom10",
     "variable": "crom10",
@@ -14839,11 +14962,12 @@
     "label_de": "Wie habt Ihr Euch kennengelernt? (Frage 42)"
   },
   "crom11i1": {
+    "study": "pairfam",
     "name": "crom11i1",
     "name_cs": "crom11i1",
     "variable": "crom11i1",
     "dataset": "child5",
-    "label": "NA",
+    "label": "You tell him/her, what you're thinking (Qu. 43)",
     "categories": {
       "frequencies": [
         0,
@@ -14930,6 +15054,7 @@
     "label_de": "NA"
   },
   "crom11i2": {
+    "study": "pairfam",
     "name": "crom11i2",
     "name_cs": "crom11i2",
     "variable": "crom11i2",
@@ -15021,6 +15146,7 @@
     "label_de": "Die Dinge, die Du tust, werden von ihm/ihr anerkannt (Frage 43)"
   },
   "crom11i3": {
+    "study": "pairfam",
     "name": "crom11i3",
     "name_cs": "crom11i3",
     "variable": "crom11i3",
@@ -15112,6 +15238,7 @@
     "label_de": "NA"
   },
   "crom11i4": {
+    "study": "pairfam",
     "name": "crom11i4",
     "name_cs": "crom11i4",
     "variable": "crom11i4",
@@ -15203,6 +15330,7 @@
     "label_de": "NA"
   },
   "crom11i5": {
+    "study": "pairfam",
     "name": "crom11i5",
     "name_cs": "crom11i5",
     "variable": "crom11i5",
@@ -15294,6 +15422,7 @@
     "label_de": "Er/Sie zeigt Dir, dass er/sie Dich gut findet (Frage 43)"
   },
   "crom11i6": {
+    "study": "pairfam",
     "name": "crom11i6",
     "name_cs": "crom11i6",
     "variable": "crom11i6",
@@ -15385,6 +15514,7 @@
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 43)"
   },
   "crom11i7": {
+    "study": "pairfam",
     "name": "crom11i7",
     "name_cs": "crom11i7",
     "variable": "crom11i7",
@@ -15476,6 +15606,7 @@
     "label_de": "NA"
   },
   "crom11i8": {
+    "study": "pairfam",
     "name": "crom11i8",
     "name_cs": "crom11i8",
     "variable": "crom11i8",
@@ -15567,6 +15698,7 @@
     "label_de": "NA"
   },
   "crom11i9": {
+    "study": "pairfam",
     "name": "crom11i9",
     "name_cs": "crom11i9",
     "variable": "crom11i9",
@@ -15658,6 +15790,7 @@
     "label_de": "Du bist unzufrieden in dieser Beziehung (Frage 43)"
   },
   "crom12i1": {
+    "study": "pairfam",
     "name": "crom12i1",
     "name_cs": "crom12i1",
     "variable": "crom12i1",
@@ -15749,6 +15882,7 @@
     "label_de": "Angst er/sie lieber mit anderen Leuten zusammen und nicht mit Dir (Frage 44)"
   },
   "crom12i2": {
+    "study": "pairfam",
     "name": "crom12i2",
     "name_cs": "crom12i2",
     "variable": "crom12i2",
@@ -15840,6 +15974,7 @@
     "label_de": "NA"
   },
   "crom12i3": {
+    "study": "pairfam",
     "name": "crom12i3",
     "name_cs": "crom12i3",
     "variable": "crom12i3",
@@ -15931,6 +16066,7 @@
     "label_de": "Nicht sicher ob er/sie so gern mit Dir zusammen, wie Du mit ihm/ihr (Frage 44)"
   },
   "crom12i4": {
+    "study": "pairfam",
     "name": "crom12i4",
     "name_cs": "crom12i4",
     "variable": "crom12i4",
@@ -16022,11 +16158,12 @@
     "label_de": "NA"
   },
   "crom12i5": {
+    "study": "pairfam",
     "name": "crom12i5",
     "name_cs": "crom12i5",
     "variable": "crom12i5",
     "dataset": "child5",
-    "label": "NA",
+    "label": "When disappoint him/her you afraid that he/she won't like you anymore (Qu. 44)",
     "categories": {
       "frequencies": [
         0,
@@ -16113,6 +16250,7 @@
     "label_de": "NA"
   },
   "chlt1": {
+    "study": "pairfam",
     "name": "chlt1",
     "name_cs": "chlt1",
     "variable": "chlt1",
@@ -16189,6 +16327,7 @@
     "label_de": "Hast Du schon einmal Alkohol getrunken? (Frage 45)"
   },
   "chlt2": {
+    "study": "pairfam",
     "name": "chlt2",
     "name_cs": "chlt2",
     "variable": "chlt2",
@@ -16290,6 +16429,7 @@
     "label_de": "NA"
   },
   "chlt3": {
+    "study": "pairfam",
     "name": "chlt3",
     "name_cs": "chlt3",
     "variable": "chlt3",
@@ -16406,6 +16546,7 @@
     "label_de": "Anzahl Zigaretten (pro Woche)? (Frage 47)"
   },
   "csdq1i1": {
+    "study": "pairfam",
     "name": "csdq1i1",
     "name_cs": "csdq1i1",
     "variable": "csdq1i1",
@@ -16487,6 +16628,7 @@
     "label_de": "NA"
   },
   "csdq1i16": {
+    "study": "pairfam",
     "name": "csdq1i16",
     "name_cs": "csdq1i16",
     "variable": "csdq1i16",
@@ -16568,6 +16710,7 @@
     "label_de": "NA"
   },
   "csdq1i2": {
+    "study": "pairfam",
     "name": "csdq1i2",
     "name_cs": "csdq1i2",
     "variable": "csdq1i2",
@@ -16649,6 +16792,7 @@
     "label_de": "SDQ: Ich bin oft unruhig; ich kann lange nicht stillsitzen (Frage 49)"
   },
   "csdq1i3": {
+    "study": "pairfam",
     "name": "csdq1i3",
     "name_cs": "csdq1i3",
     "variable": "csdq1i3",
@@ -16730,6 +16874,7 @@
     "label_de": "NA"
   },
   "csdq1i4": {
+    "study": "pairfam",
     "name": "csdq1i4",
     "name_cs": "csdq1i4",
     "variable": "csdq1i4",
@@ -16811,6 +16956,7 @@
     "label_de": "NA"
   },
   "csdq1i17": {
+    "study": "pairfam",
     "name": "csdq1i17",
     "name_cs": "csdq1i17",
     "variable": "csdq1i17",
@@ -16892,6 +17038,7 @@
     "label_de": "NA"
   },
   "csdq1i5": {
+    "study": "pairfam",
     "name": "csdq1i5",
     "name_cs": "csdq1i5",
     "variable": "csdq1i5",
@@ -16973,6 +17120,7 @@
     "label_de": "NA"
   },
   "csdq1i22": {
+    "study": "pairfam",
     "name": "csdq1i22",
     "name_cs": "csdq1i22",
     "variable": "csdq1i22",
@@ -17054,6 +17202,7 @@
     "label_de": "NA"
   },
   "csdq1i7": {
+    "study": "pairfam",
     "name": "csdq1i7",
     "name_cs": "csdq1i7",
     "variable": "csdq1i7",
@@ -17135,6 +17284,7 @@
     "label_de": "SDQ: Normalerweise tue ich, was man mir sagt (Frage 49)"
   },
   "csdq1i8": {
+    "study": "pairfam",
     "name": "csdq1i8",
     "name_cs": "csdq1i8",
     "variable": "csdq1i8",
@@ -17216,6 +17366,7 @@
     "label_de": "NA"
   },
   "csdq1i9": {
+    "study": "pairfam",
     "name": "csdq1i9",
     "name_cs": "csdq1i9",
     "variable": "csdq1i9",
@@ -17297,6 +17448,7 @@
     "label_de": "SDQ: Ich bin hilfsbereit, wenn andere verletzt oder traurig sind (Frage 49)"
   },
   "csdq1i18": {
+    "study": "pairfam",
     "name": "csdq1i18",
     "name_cs": "csdq1i18",
     "variable": "csdq1i18",
@@ -17378,6 +17530,7 @@
     "label_de": "NA"
   },
   "csdq1i10": {
+    "study": "pairfam",
     "name": "csdq1i10",
     "name_cs": "csdq1i10",
     "variable": "csdq1i10",
@@ -17459,6 +17612,7 @@
     "label_de": "SDQ: Ich bin dauernd in Bewegung und zappelig (Frage 49)"
   },
   "csdq1i21": {
+    "study": "pairfam",
     "name": "csdq1i21",
     "name_cs": "csdq1i21",
     "variable": "csdq1i21",
@@ -17540,6 +17694,7 @@
     "label_de": "SDQ: Ich denke nach, bevor ich handle (Frage 49)"
   },
   "csdq1i12": {
+    "study": "pairfam",
     "name": "csdq1i12",
     "name_cs": "csdq1i12",
     "variable": "csdq1i12",
@@ -17621,11 +17776,12 @@
     "label_de": "NA"
   },
   "csdq1i25": {
+    "study": "pairfam",
     "name": "csdq1i25",
     "name_cs": "csdq1i25",
     "variable": "csdq1i25",
     "dataset": "child5",
-    "label": "NA",
+    "label": "SDQ: I finish the work I'm doing. My attention is good (Qu. 49)",
     "categories": {
       "frequencies": [
         0,
@@ -17702,6 +17858,7 @@
     "label_de": "SDQ: Was angefangen habe, mache zu Ende; kann lange konzentrieren (Frage 49)"
   },
   "csdq1i13": {
+    "study": "pairfam",
     "name": "csdq1i13",
     "name_cs": "csdq1i13",
     "variable": "csdq1i13",
@@ -17783,6 +17940,7 @@
     "label_de": "NA"
   },
   "csdq1i24": {
+    "study": "pairfam",
     "name": "csdq1i24",
     "name_cs": "csdq1i24",
     "variable": "csdq1i24",
@@ -17864,6 +18022,7 @@
     "label_de": "NA"
   },
   "csdq1i15": {
+    "study": "pairfam",
     "name": "csdq1i15",
     "name_cs": "csdq1i15",
     "variable": "csdq1i15",
@@ -17945,6 +18104,7 @@
     "label_de": "SDQ: Lasse mich leicht ablenken; finde es schwer, zu konzentrieren (Frage 49)"
   },
   "csdq1i20": {
+    "study": "pairfam",
     "name": "csdq1i20",
     "name_cs": "csdq1i20",
     "variable": "csdq1i20",
@@ -18026,6 +18186,7 @@
     "label_de": "SDQ: Helfe anderen oft freiwillig (Eltern, Lehrern o. Gleichaltrigen) (Frage 49)"
   },
   "clsr1i3": {
+    "study": "pairfam",
     "name": "clsr1i3",
     "name_cs": "clsr1i3",
     "variable": "clsr1i3",
@@ -18117,6 +18278,7 @@
     "label_de": "Freizeit: Dich mit Freunden treffen (Frage 48)"
   },
   "clsr1i9": {
+    "study": "pairfam",
     "name": "clsr1i9",
     "name_cs": "clsr1i9",
     "variable": "clsr1i9",
@@ -18208,6 +18370,7 @@
     "label_de": "Freizeit: Unternehmungen mit der Familie (Frage 48)"
   },
   "clsr1i15": {
+    "study": "pairfam",
     "name": "clsr1i15",
     "name_cs": "clsr1i15",
     "variable": "clsr1i15",
@@ -18299,6 +18462,7 @@
     "label_de": "Freizeit: Dinge alleine machen (Frage 48)"
   },
   "ccp1": {
+    "study": "pairfam",
     "name": "ccp1",
     "name_cs": "ccp1",
     "variable": "ccp1",
@@ -18370,6 +18534,7 @@
     "label_de": "Wiederbefragungsbereitschaft im Rahmen des Ankercapis (Frage 50)"
   },
   "ccp2": {
+    "study": "pairfam",
     "name": "ccp2",
     "name_cs": "ccp2",
     "variable": "ccp2",
@@ -18436,6 +18601,7 @@
     "label_de": "NA"
   },
   "cint1i1": {
+    "study": "pairfam",
     "name": "cint1i1",
     "name_cs": "cint1i1",
     "variable": "cint1i1",
@@ -18502,6 +18668,7 @@
     "label_de": "NA"
   },
   "cint1i2": {
+    "study": "pairfam",
     "name": "cint1i2",
     "name_cs": "cint1i2",
     "variable": "cint1i2",
@@ -18568,6 +18735,7 @@
     "label_de": "Ankerperson/Partner der Ankerperson anwesend (Text 10)"
   },
   "cint1i3": {
+    "study": "pairfam",
     "name": "cint1i3",
     "name_cs": "cint1i3",
     "variable": "cint1i3",
@@ -18634,6 +18802,7 @@
     "label_de": "Kinder anwesend (Text 10)"
   },
   "cint1i4": {
+    "study": "pairfam",
     "name": "cint1i4",
     "name_cs": "cint1i4",
     "variable": "cint1i4",
@@ -18700,6 +18869,7 @@
     "label_de": "NA"
   },
   "cint1i5": {
+    "study": "pairfam",
     "name": "cint1i5",
     "name_cs": "cint1i5",
     "variable": "cint1i5",
@@ -18766,6 +18936,7 @@
     "label_de": "Sonstige Personen anwesend (Text 10)"
   },
   "cint2": {
+    "study": "pairfam",
     "name": "cint2",
     "name_cs": "cint2",
     "variable": "cint2",
@@ -18837,6 +19008,7 @@
     "label_de": "Hat jemand von den anwesenden Personen in das Interview eingegriffen? (Text 11)"
   },
   "duration": {
+    "study": "pairfam",
     "name": "duration",
     "name_cs": "duration",
     "variable": "duration",
@@ -18876,6 +19048,7 @@
     "label_de": "Dauer des Interviews"
   },
   "relstatac": {
+    "study": "pairfam",
     "name": "relstatac",
     "name_cs": "relstatac",
     "variable": "relstatac",
@@ -18982,6 +19155,7 @@
     "label_de": "Beziehungsstatus der Ankerperson zum befragten Kind"
   },
   "cinty": {
+    "study": "pairfam",
     "name": "cinty",
     "name_cs": "cinty",
     "variable": "cinty",
@@ -19019,6 +19193,7 @@
     "label_de": "Jahr Interview"
   },
   "cintm": {
+    "study": "pairfam",
     "name": "cintm",
     "name_cs": "cintm",
     "variable": "cintm",
@@ -19056,6 +19231,7 @@
     "label_de": "Monat Interview"
   },
   "cintd": {
+    "study": "pairfam",
     "name": "cintd",
     "name_cs": "cintd",
     "variable": "cintd",
@@ -19093,6 +19269,7 @@
     "label_de": "Tag Interview"
   },
   "cagey": {
+    "study": "pairfam",
     "name": "cagey",
     "name_cs": "cagey",
     "variable": "cagey",
@@ -19130,6 +19307,7 @@
     "label_de": "Alter des Kindes in Jahren"
   },
   "cagem": {
+    "study": "pairfam",
     "name": "cagem",
     "name_cs": "cagem",
     "variable": "cagem",
@@ -19167,6 +19345,7 @@
     "label_de": "Alter des Kindes in Monaten"
   },
   "ctitlea": {
+    "study": "pairfam",
     "name": "ctitlea",
     "name_cs": "ctitlea",
     "variable": "ctitlea",
@@ -19248,6 +19427,7 @@
     "label_de": "Benennung der Ankerperson durch das Kind"
   },
   "ctitlep": {
+    "study": "pairfam",
     "name": "ctitlep",
     "name_cs": "ctitlep",
     "variable": "ctitlep",
@@ -19329,6 +19509,7 @@
     "label_de": "Benennung des Partners der Ankerperson durch das Kind"
   },
   "ctitleop": {
+    "study": "pairfam",
     "name": "ctitleop",
     "name_cs": "ctitleop",
     "variable": "ctitleop",
@@ -19410,6 +19591,7 @@
     "label_de": "NA"
   },
   "sex": {
+    "study": "pairfam",
     "name": "sex",
     "name_cs": "sex",
     "variable": "sex",
@@ -19486,6 +19668,7 @@
     "label_de": "Geschlecht Ankerperson"
   },
   "cflag1": {
+    "study": "pairfam",
     "name": "cflag1",
     "name_cs": "cflag1",
     "variable": "cflag1",
@@ -19527,6 +19710,7 @@
     "label_de": "Inconsistency sex of child between statement of interviewer and anchor"
   },
   "cflag2": {
+    "study": "pairfam",
     "name": "cflag2",
     "name_cs": "cflag2",
     "variable": "cflag2",
@@ -19568,6 +19752,7 @@
     "label_de": "Inconsistency year of child`s birth between statement of anchor and child"
   },
   "tag_csex": {
+    "study": "pairfam",
     "name": "tag_csex",
     "name_cs": "tag_csex",
     "variable": "tag_csex",
@@ -19614,6 +19799,7 @@
     "label_de": "Inconsistency between waves: child`s sex"
   },
   "tag_cdoby": {
+    "study": "pairfam",
     "name": "tag_cdoby",
     "name_cs": "tag_cdoby",
     "variable": "tag_cdoby",
@@ -19660,6 +19846,7 @@
     "label_de": "Inconsistency between waves: child`s year of birth"
   },
   "tag_cdobm": {
+    "study": "pairfam",
     "name": "tag_cdobm",
     "name_cs": "tag_cdobm",
     "variable": "tag_cdobm",
@@ -19706,6 +19893,7 @@
     "label_de": "Inconsistency between waves: child`s month of birth"
   },
   "l391s": {
+    "study": "pairfam",
     "name": "l391s",
     "name_cs": "l391s",
     "variable": "l391s",

@@ -1,5 +1,6 @@
 {
   "pid": {
+    "study": "pairfam",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -37,6 +38,7 @@
     "label_de": "Personennummer Partner"
   },
   "demodiff": {
+    "study": "pairfam",
     "name": "demodiff",
     "name_cs": "demodiff",
     "variable": "demodiff",
@@ -78,6 +80,7 @@
     "label_de": "DemoDiff Stichprobe"
   },
   "wave": {
+    "study": "pairfam",
     "name": "wave",
     "name_cs": "wave",
     "variable": "wave",
@@ -114,6 +117,7 @@
     "label_de": "Welle"
   },
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -151,6 +155,7 @@
     "label_de": "Personennummer Anker"
   },
   "pval1i1": {
+    "study": "pairfam",
     "name": "pval1i1",
     "name_cs": "pval1i1",
     "variable": "pval1i1",
@@ -232,6 +237,7 @@
     "label_de": "NA"
   },
   "pval1i2": {
+    "study": "pairfam",
     "name": "pval1i2",
     "name_cs": "pval1i2",
     "variable": "pval1i2",
@@ -313,6 +319,7 @@
     "label_de": "Man sollte heiraten, wenn man mit Partner auf Dauer zusammen lebt (Frage 1)"
   },
   "pval1i3": {
+    "study": "pairfam",
     "name": "pval1i3",
     "name_cs": "pval1i3",
     "variable": "pval1i3",
@@ -394,6 +401,7 @@
     "label_de": "NA"
   },
   "pval1i4": {
+    "study": "pairfam",
     "name": "pval1i4",
     "name_cs": "pval1i4",
     "variable": "pval1i4",
@@ -475,6 +483,7 @@
     "label_de": "NA"
   },
   "pval1i5": {
+    "study": "pairfam",
     "name": "pval1i5",
     "name_cs": "pval1i5",
     "variable": "pval1i5",
@@ -556,6 +565,7 @@
     "label_de": "Ein Kind unter 6 Jahr. wird darunter leiden,wenn seine Mutter arbeitet (Frage 1)"
   },
   "pval1i6": {
+    "study": "pairfam",
     "name": "pval1i6",
     "name_cs": "pval1i6",
     "variable": "pval1i6",
@@ -637,6 +647,7 @@
     "label_de": "NA"
   },
   "pval1i7": {
+    "study": "pairfam",
     "name": "pval1i7",
     "name_cs": "pval1i7",
     "variable": "pval1i7",
@@ -718,6 +729,7 @@
     "label_de": "Die Ehe ist eine lebenslange Verbindung u. sollte nicht beendet werden (Frage 1)"
   },
   "pval1i8": {
+    "study": "pairfam",
     "name": "pval1i8",
     "name_cs": "pval1i8",
     "variable": "pval1i8",
@@ -799,6 +811,7 @@
     "label_de": "NA"
   },
   "psat1i1": {
+    "study": "pairfam",
     "name": "psat1i1",
     "name_cs": "psat1i1",
     "variable": "psat1i1",
@@ -910,6 +923,7 @@
     "label_de": "Zufriedenheit mit Schule, Ausbildung, Beruf (Frage 2)"
   },
   "psat1i2": {
+    "study": "pairfam",
     "name": "psat1i2",
     "name_cs": "psat1i2",
     "variable": "psat1i2",
@@ -1021,6 +1035,7 @@
     "label_de": "Zufriedenheit mit Freizeitgestaltung, Hobbys, Interessen (Frage 2)"
   },
   "psat1i3": {
+    "study": "pairfam",
     "name": "psat1i3",
     "name_cs": "psat1i3",
     "variable": "psat1i3",
@@ -1132,6 +1147,7 @@
     "label_de": "Zufriedenheit mit Freunde, Bekannte, soziale Kontakte (Frage 2)"
   },
   "psat1i4": {
+    "study": "pairfam",
     "name": "psat1i4",
     "name_cs": "psat1i4",
     "variable": "psat1i4",
@@ -1243,6 +1259,7 @@
     "label_de": "Zufriedenheit mit Familie (Frage 2)"
   },
   "psrs1i1": {
+    "study": "pairfam",
     "name": "psrs1i1",
     "name_cs": "psrs1i1",
     "variable": "psrs1i1",
@@ -1379,6 +1396,7 @@
     "label_de": "Wichtigkeit Lebensbereich Ausbildung bzw. berufl. Interessen verfolgen (Frage 3)"
   },
   "psrs1i2": {
+    "study": "pairfam",
     "name": "psrs1i2",
     "name_cs": "psrs1i2",
     "variable": "psrs1i2",
@@ -1505,6 +1523,7 @@
     "label_de": "Wichtigkeit Lebensbereich Hobbys und Interessen nachgehen (Frage 3)"
   },
   "psrs1i3": {
+    "study": "pairfam",
     "name": "psrs1i3",
     "name_cs": "psrs1i3",
     "variable": "psrs1i3",
@@ -1641,6 +1660,7 @@
     "label_de": "Wichtigkeit Lebensbereich Kontakte zu Freunden pflegen (Frage 3)"
   },
   "psrs1i4": {
+    "study": "pairfam",
     "name": "psrs1i4",
     "name_cs": "psrs1i4",
     "variable": "psrs1i4",
@@ -1777,6 +1797,7 @@
     "label_de": "Wichtigkeit Lebensbereich in einer Partnerschaft leben (Frage 3)"
   },
   "psrs1i5": {
+    "study": "pairfam",
     "name": "psrs1i5",
     "name_cs": "psrs1i5",
     "variable": "psrs1i5",
@@ -1903,6 +1924,7 @@
     "label_de": "Wichtigkeit Lebensbereich Kind bzw. weitere Kinder bekommen (Frage 3)"
   },
   "pbce1i1": {
+    "study": "pairfam",
     "name": "pbce1i1",
     "name_cs": "pbce1i1",
     "variable": "pbce1i1",
@@ -1989,6 +2011,7 @@
     "label_de": "VOP+: Gemeinsame Unternehmungen mit Partner (Frage 4)"
   },
   "pbce1i2": {
+    "study": "pairfam",
     "name": "pbce1i2",
     "name_cs": "pbce1i2",
     "variable": "pbce1i2",
@@ -2075,6 +2098,7 @@
     "label_de": "NA"
   },
   "pbce1i3": {
+    "study": "pairfam",
     "name": "pbce1i3",
     "name_cs": "pbce1i3",
     "variable": "pbce1i3",
@@ -2161,6 +2185,7 @@
     "label_de": "VOP+: Durch Partner steigt Ansehen bei anderen (Frage 4)"
   },
   "pbce1i4": {
+    "study": "pairfam",
     "name": "pbce1i4",
     "name_cs": "pbce1i4",
     "variable": "pbce1i4",
@@ -2247,6 +2272,7 @@
     "label_de": "VOP+: Finanzielle Vorteile durch Partnerschaft (Frage 4)"
   },
   "pbce1i5": {
+    "study": "pairfam",
     "name": "pbce1i5",
     "name_cs": "pbce1i5",
     "variable": "pbce1i5",
@@ -2333,6 +2359,7 @@
     "label_de": "VOP+: Zuneigung und Geborgenheit in Partnerschaft (Frage 4)"
   },
   "pbce1i6": {
+    "study": "pairfam",
     "name": "pbce1i6",
     "name_cs": "pbce1i6",
     "variable": "pbce1i6",
@@ -2419,6 +2446,7 @@
     "label_de": "NA"
   },
   "pbce1i7": {
+    "study": "pairfam",
     "name": "pbce1i7",
     "name_cs": "pbce1i7",
     "variable": "pbce1i7",
@@ -2505,6 +2533,7 @@
     "label_de": "VOP-: Stress in der Partnerschaft (Frage 4)"
   },
   "pbce1i8": {
+    "study": "pairfam",
     "name": "pbce1i8",
     "name_cs": "pbce1i8",
     "variable": "pbce1i8",
@@ -2591,6 +2620,7 @@
     "label_de": "NA"
   },
   "pbce1i9": {
+    "study": "pairfam",
     "name": "pbce1i9",
     "name_cs": "pbce1i9",
     "variable": "pbce1i9",
@@ -2677,6 +2707,7 @@
     "label_de": "VOP-: Ablehnung des Partners durch Familie und Freunde (Frage 4)"
   },
   "pbce1i10": {
+    "study": "pairfam",
     "name": "pbce1i10",
     "name_cs": "pbce1i10",
     "variable": "pbce1i10",
@@ -2763,6 +2794,7 @@
     "label_de": "NA"
   },
   "psat3": {
+    "study": "pairfam",
     "name": "psat3",
     "name_cs": "psat3",
     "variable": "psat3",
@@ -2874,6 +2906,7 @@
     "label_de": "Zufriedenheit mit Beziehung (Frage 5)"
   },
   "psat4": {
+    "study": "pairfam",
     "name": "psat4",
     "name_cs": "psat4",
     "variable": "psat4",
@@ -2985,6 +3018,7 @@
     "label_de": "NA"
   },
   "ppa9": {
+    "study": "pairfam",
     "name": "ppa9",
     "name_cs": "ppa9",
     "variable": "ppa9",
@@ -3071,6 +3105,7 @@
     "label_de": "NA"
   },
   "ppa11": {
+    "study": "pairfam",
     "name": "ppa11",
     "name_cs": "ppa11",
     "variable": "ppa11",
@@ -3157,6 +3192,7 @@
     "label_de": "NA"
   },
   "ppa13": {
+    "study": "pairfam",
     "name": "ppa13",
     "name_cs": "ppa13",
     "variable": "ppa13",
@@ -3228,6 +3264,7 @@
     "label_de": "NA"
   },
   "ppa14i1": {
+    "study": "pairfam",
     "name": "ppa14i1",
     "name_cs": "ppa14i1",
     "variable": "ppa14i1",
@@ -3319,6 +3356,7 @@
     "label_de": "Arbeitsteilung: Hausarbeit (Frage 10)"
   },
   "ppa14i2": {
+    "study": "pairfam",
     "name": "ppa14i2",
     "name_cs": "ppa14i2",
     "variable": "ppa14i2",
@@ -3410,6 +3448,7 @@
     "label_de": "Arbeitsteilung: Einkaufen (Frage 10)"
   },
   "ppa14i3": {
+    "study": "pairfam",
     "name": "ppa14i3",
     "name_cs": "ppa14i3",
     "variable": "ppa14i3",
@@ -3501,6 +3540,7 @@
     "label_de": "Arbeitsteilung: Reparaturen (Frage 10)"
   },
   "ppa14i4": {
+    "study": "pairfam",
     "name": "ppa14i4",
     "name_cs": "ppa14i4",
     "variable": "ppa14i4",
@@ -3592,6 +3632,7 @@
     "label_de": "NA"
   },
   "ppa14i5": {
+    "study": "pairfam",
     "name": "ppa14i5",
     "name_cs": "ppa14i5",
     "variable": "ppa14i5",
@@ -3683,6 +3724,7 @@
     "label_de": "Arbeitsteilung: Kinderbetreuung (Frage 10)"
   },
   "ppa15": {
+    "study": "pairfam",
     "name": "ppa15",
     "name_cs": "ppa15",
     "variable": "ppa15",
@@ -3769,6 +3811,7 @@
     "label_de": "NA"
   },
   "ppa19i1": {
+    "study": "pairfam",
     "name": "ppa19i1",
     "name_cs": "ppa19i1",
     "variable": "ppa19i1",
@@ -3850,6 +3893,7 @@
     "label_de": "NA"
   },
   "ppa19i3": {
+    "study": "pairfam",
     "name": "ppa19i3",
     "name_cs": "ppa19i3",
     "variable": "ppa19i3",
@@ -3931,6 +3975,7 @@
     "label_de": "Achte darauf, ob Partner sich erkenntlich zeigt (Frage 12)"
   },
   "ppa19i5": {
+    "study": "pairfam",
     "name": "ppa19i5",
     "name_cs": "ppa19i5",
     "variable": "ppa19i5",
@@ -4012,6 +4057,7 @@
     "label_de": "NA"
   },
   "ppa19i6": {
+    "study": "pairfam",
     "name": "ppa19i6",
     "name_cs": "ppa19i6",
     "variable": "ppa19i6",
@@ -4093,6 +4139,7 @@
     "label_de": "NA"
   },
   "ppa19i7": {
+    "study": "pairfam",
     "name": "ppa19i7",
     "name_cs": "ppa19i7",
     "variable": "ppa19i7",
@@ -4174,6 +4221,7 @@
     "label_de": "NA"
   },
   "ppa19i8": {
+    "study": "pairfam",
     "name": "ppa19i8",
     "name_cs": "ppa19i8",
     "variable": "ppa19i8",
@@ -4255,6 +4303,7 @@
     "label_de": "Rechne mit langfristiger gemeinsamer Zukunft (Frage 12)"
   },
   "ppa16i1": {
+    "study": "pairfam",
     "name": "ppa16i1",
     "name_cs": "ppa16i1",
     "variable": "ppa16i1",
@@ -4336,6 +4385,7 @@
     "label_de": "NA"
   },
   "ppa16i2": {
+    "study": "pairfam",
     "name": "ppa16i2",
     "name_cs": "ppa16i2",
     "variable": "ppa16i2",
@@ -4417,6 +4467,7 @@
     "label_de": "NA"
   },
   "ppa16i3": {
+    "study": "pairfam",
     "name": "ppa16i3",
     "name_cs": "ppa16i3",
     "variable": "ppa16i3",
@@ -4498,6 +4549,7 @@
     "label_de": "NA"
   },
   "ppa16i4": {
+    "study": "pairfam",
     "name": "ppa16i4",
     "name_cs": "ppa16i4",
     "variable": "ppa16i4",
@@ -4579,6 +4631,7 @@
     "label_de": "NA"
   },
   "ppa16i5": {
+    "study": "pairfam",
     "name": "ppa16i5",
     "name_cs": "ppa16i5",
     "variable": "ppa16i5",
@@ -4660,6 +4713,7 @@
     "label_de": "NA"
   },
   "ppa16i6": {
+    "study": "pairfam",
     "name": "ppa16i6",
     "name_cs": "ppa16i6",
     "variable": "ppa16i6",
@@ -4741,6 +4795,7 @@
     "label_de": "NA"
   },
   "ppa21i1": {
+    "study": "pairfam",
     "name": "ppa21i1",
     "name_cs": "ppa21i1",
     "variable": "ppa21i1",
@@ -4827,6 +4882,7 @@
     "label_de": "Meinungsverschiedenheit: Gestaltung der Freizeit (Frage 14)"
   },
   "ppa21i2": {
+    "study": "pairfam",
     "name": "ppa21i2",
     "name_cs": "ppa21i2",
     "variable": "ppa21i2",
@@ -4913,6 +4969,7 @@
     "label_de": "Meinungsverschiedenheit: Aufteilung der Arbeiten (Frage 14)"
   },
   "ppa21i3": {
+    "study": "pairfam",
     "name": "ppa21i3",
     "name_cs": "ppa21i3",
     "variable": "ppa21i3",
@@ -4999,6 +5056,7 @@
     "label_de": "Meinungsverschiedenheit: Finanzielle Dinge (Frage 14)"
   },
   "ppa21i4": {
+    "study": "pairfam",
     "name": "ppa21i4",
     "name_cs": "ppa21i4",
     "variable": "ppa21i4",
@@ -5085,6 +5143,7 @@
     "label_de": "Meinungsverschiedenheit: Engagement in Beruf/Ausbildung/Schule (Frage 14)"
   },
   "ppa21i5": {
+    "study": "pairfam",
     "name": "ppa21i5",
     "name_cs": "ppa21i5",
     "variable": "ppa21i5",
@@ -5171,6 +5230,7 @@
     "label_de": "Meinungsverschiedenheit: Umgang miteinander (Frage 14)"
   },
   "ppa21i6": {
+    "study": "pairfam",
     "name": "ppa21i6",
     "name_cs": "ppa21i6",
     "variable": "ppa21i6",
@@ -5257,6 +5317,7 @@
     "label_de": "Meinungsverschiedenheit: Kindererziehung (Frage 14)"
   },
   "ppa22pi1": {
+    "study": "pairfam",
     "name": "ppa22pi1",
     "name_cs": "ppa22pi1",
     "variable": "ppa22pi1",
@@ -5343,6 +5404,7 @@
     "label_de": "Fremdbeurteilung: Partner beleidigen oder beschimpfen (Frage 15)"
   },
   "ppa22pi2": {
+    "study": "pairfam",
     "name": "ppa22pi2",
     "name_cs": "ppa22pi2",
     "variable": "ppa22pi2",
@@ -5429,6 +5491,7 @@
     "label_de": "Fremdbeurteilung: In Schweigen verfallen (Frage 15)"
   },
   "ppa22pi3": {
+    "study": "pairfam",
     "name": "ppa22pi3",
     "name_cs": "ppa22pi3",
     "variable": "ppa22pi3",
@@ -5515,6 +5578,7 @@
     "label_de": "Fremdbeurteilung: Partner anschreien (Frage 15)"
   },
   "ppa22pi4": {
+    "study": "pairfam",
     "name": "ppa22pi4",
     "name_cs": "ppa22pi4",
     "variable": "ppa22pi4",
@@ -5601,6 +5665,7 @@
     "label_de": "NA"
   },
   "ppa22pi5": {
+    "study": "pairfam",
     "name": "ppa22pi5",
     "name_cs": "ppa22pi5",
     "variable": "ppa22pi5",
@@ -5687,6 +5752,7 @@
     "label_de": "NA"
   },
   "ppa22pi6": {
+    "study": "pairfam",
     "name": "ppa22pi6",
     "name_cs": "ppa22pi6",
     "variable": "ppa22pi6",
@@ -5773,6 +5839,7 @@
     "label_de": "Fremdbeurteilung: Schnell beleidigt sein (Frage 15)"
   },
   "ppa22pi7": {
+    "study": "pairfam",
     "name": "ppa22pi7",
     "name_cs": "ppa22pi7",
     "variable": "ppa22pi7",
@@ -5859,6 +5926,7 @@
     "label_de": "NA"
   },
   "ppa22pi8": {
+    "study": "pairfam",
     "name": "ppa22pi8",
     "name_cs": "ppa22pi8",
     "variable": "ppa22pi8",
@@ -5945,6 +6013,7 @@
     "label_de": "NA"
   },
   "ppa22ri1": {
+    "study": "pairfam",
     "name": "ppa22ri1",
     "name_cs": "ppa22ri1",
     "variable": "ppa22ri1",
@@ -6031,6 +6100,7 @@
     "label_de": "Selbstbeurteilung: Partner beleidigen oder beschimpfen (Frage 15)"
   },
   "ppa22ri2": {
+    "study": "pairfam",
     "name": "ppa22ri2",
     "name_cs": "ppa22ri2",
     "variable": "ppa22ri2",
@@ -6117,6 +6187,7 @@
     "label_de": "Selbstbeurteilung: In Schweigen verfallen (Frage 15)"
   },
   "ppa22ri3": {
+    "study": "pairfam",
     "name": "ppa22ri3",
     "name_cs": "ppa22ri3",
     "variable": "ppa22ri3",
@@ -6203,6 +6274,7 @@
     "label_de": "Selbstbeurteilung: Partner anschreien (Frage 15)"
   },
   "ppa22ri4": {
+    "study": "pairfam",
     "name": "ppa22ri4",
     "name_cs": "ppa22ri4",
     "variable": "ppa22ri4",
@@ -6289,6 +6361,7 @@
     "label_de": "NA"
   },
   "ppa22ri5": {
+    "study": "pairfam",
     "name": "ppa22ri5",
     "name_cs": "ppa22ri5",
     "variable": "ppa22ri5",
@@ -6375,6 +6448,7 @@
     "label_de": "NA"
   },
   "ppa22ri6": {
+    "study": "pairfam",
     "name": "ppa22ri6",
     "name_cs": "ppa22ri6",
     "variable": "ppa22ri6",
@@ -6461,6 +6535,7 @@
     "label_de": "Selbstbeurteilung: Schnell beleidigt sein (Frage 15)"
   },
   "ppa22ri7": {
+    "study": "pairfam",
     "name": "ppa22ri7",
     "name_cs": "ppa22ri7",
     "variable": "ppa22ri7",
@@ -6547,6 +6622,7 @@
     "label_de": "NA"
   },
   "ppa22ri8": {
+    "study": "pairfam",
     "name": "ppa22ri8",
     "name_cs": "ppa22ri8",
     "variable": "ppa22ri8",
@@ -6633,6 +6709,7 @@
     "label_de": "NA"
   },
   "ppa17i1": {
+    "study": "pairfam",
     "name": "ppa17i1",
     "name_cs": "ppa17i1",
     "variable": "ppa17i1",
@@ -6714,6 +6791,7 @@
     "label_de": "NA"
   },
   "ppa17i2": {
+    "study": "pairfam",
     "name": "ppa17i2",
     "name_cs": "ppa17i2",
     "variable": "ppa17i2",
@@ -6795,6 +6873,7 @@
     "label_de": "NA"
   },
   "ppa17i3": {
+    "study": "pairfam",
     "name": "ppa17i3",
     "name_cs": "ppa17i3",
     "variable": "ppa17i3",
@@ -6876,6 +6955,7 @@
     "label_de": "NA"
   },
   "ppa17i4": {
+    "study": "pairfam",
     "name": "ppa17i4",
     "name_cs": "ppa17i4",
     "variable": "ppa17i4",
@@ -6957,6 +7037,7 @@
     "label_de": "NA"
   },
   "ppa17i5": {
+    "study": "pairfam",
     "name": "ppa17i5",
     "name_cs": "ppa17i5",
     "variable": "ppa17i5",
@@ -7038,6 +7119,7 @@
     "label_de": "NA"
   },
   "ppa17i6": {
+    "study": "pairfam",
     "name": "ppa17i6",
     "name_cs": "ppa17i6",
     "variable": "ppa17i6",
@@ -7119,6 +7201,7 @@
     "label_de": "NA"
   },
   "ppa17i7": {
+    "study": "pairfam",
     "name": "ppa17i7",
     "name_cs": "ppa17i7",
     "variable": "ppa17i7",
@@ -7200,6 +7283,7 @@
     "label_de": "NA"
   },
   "ppa17i8": {
+    "study": "pairfam",
     "name": "ppa17i8",
     "name_cs": "ppa17i8",
     "variable": "ppa17i8",
@@ -7281,6 +7365,7 @@
     "label_de": "NA"
   },
   "ppa18i1": {
+    "study": "pairfam",
     "name": "ppa18i1",
     "name_cs": "ppa18i1",
     "variable": "ppa18i1",
@@ -7362,6 +7447,7 @@
     "label_de": "Partner findet es in Ordnung, wenn ich eigene Interessen vertrete (Frage 17)"
   },
   "ppa18i2": {
+    "study": "pairfam",
     "name": "ppa18i2",
     "name_cs": "ppa18i2",
     "variable": "ppa18i2",
@@ -7443,6 +7529,7 @@
     "label_de": "NA"
   },
   "ppa18i4": {
+    "study": "pairfam",
     "name": "ppa18i4",
     "name_cs": "ppa18i4",
     "variable": "ppa18i4",
@@ -7524,6 +7611,7 @@
     "label_de": "NA"
   },
   "ppa18i6": {
+    "study": "pairfam",
     "name": "ppa18i6",
     "name_cs": "ppa18i6",
     "variable": "ppa18i6",
@@ -7605,6 +7693,7 @@
     "label_de": "NA"
   },
   "ppa18i7": {
+    "study": "pairfam",
     "name": "ppa18i7",
     "name_cs": "ppa18i7",
     "variable": "ppa18i7",
@@ -7686,6 +7775,7 @@
     "label_de": "NA"
   },
   "ppa18i9": {
+    "study": "pairfam",
     "name": "ppa18i9",
     "name_cs": "ppa18i9",
     "variable": "ppa18i9",
@@ -7767,6 +7857,7 @@
     "label_de": "NA"
   },
   "ppa18i10": {
+    "study": "pairfam",
     "name": "ppa18i10",
     "name_cs": "ppa18i10",
     "variable": "ppa18i10",
@@ -7848,6 +7939,7 @@
     "label_de": "Bin oft nicht sicher, ob Partner genauso gern mit mir zusammen ist (Frage 17)"
   },
   "ppa18i11": {
+    "study": "pairfam",
     "name": "ppa18i11",
     "name_cs": "ppa18i11",
     "variable": "ppa18i11",
@@ -7929,6 +8021,7 @@
     "label_de": "NA"
   },
   "ppa18i12": {
+    "study": "pairfam",
     "name": "ppa18i12",
     "name_cs": "ppa18i12",
     "variable": "ppa18i12",
@@ -8010,6 +8103,7 @@
     "label_de": "NA"
   },
   "ppa18i14": {
+    "study": "pairfam",
     "name": "ppa18i14",
     "name_cs": "ppa18i14",
     "variable": "ppa18i14",
@@ -8091,6 +8185,7 @@
     "label_de": "NA"
   },
   "ppa18i15": {
+    "study": "pairfam",
     "name": "ppa18i15",
     "name_cs": "ppa18i15",
     "variable": "ppa18i15",
@@ -8172,6 +8267,7 @@
     "label_de": "NA"
   },
   "ppa18i16": {
+    "study": "pairfam",
     "name": "ppa18i16",
     "name_cs": "ppa18i16",
     "variable": "ppa18i16",
@@ -8253,6 +8349,7 @@
     "label_de": "Kann eigenen Interessen nachgehen, ohne dass Partner sauer ist (Frage 17)"
   },
   "ppa18i18": {
+    "study": "pairfam",
     "name": "ppa18i18",
     "name_cs": "ppa18i18",
     "variable": "ppa18i18",
@@ -8334,6 +8431,7 @@
     "label_de": "NA"
   },
   "ppa26": {
+    "study": "pairfam",
     "name": "ppa26",
     "name_cs": "ppa26",
     "variable": "ppa26",
@@ -8400,6 +8498,7 @@
     "label_de": "Gedacht, dass Partnerschaft in Schwierigkeiten (im letzten Jahr) (Frage 18)"
   },
   "ppa27": {
+    "study": "pairfam",
     "name": "ppa27",
     "name_cs": "ppa27",
     "variable": "ppa27",
@@ -8466,6 +8565,7 @@
     "label_de": "Ernsthaft an Trennung oder Scheidung gedacht (im letzten Jahr) (Frage 19)"
   },
   "ppa28": {
+    "study": "pairfam",
     "name": "ppa28",
     "name_cs": "ppa28",
     "variable": "ppa28",
@@ -8532,6 +8632,7 @@
     "label_de": "Ernsthaft Trennung oder Scheidung vorgeschlagen (im letzten Jahr) (Frage 20)"
   },
   "pbce2i1": {
+    "study": "pairfam",
     "name": "pbce2i1",
     "name_cs": "pbce2i1",
     "variable": "pbce2i1",
@@ -8618,6 +8719,7 @@
     "label_de": "NA"
   },
   "pbce2i2": {
+    "study": "pairfam",
     "name": "pbce2i2",
     "name_cs": "pbce2i2",
     "variable": "pbce2i2",
@@ -8704,6 +8806,7 @@
     "label_de": "VOC+: Besonders enge emotionale Beziehung zu Kindern (Frage 21)"
   },
   "pbce2i3": {
+    "study": "pairfam",
     "name": "pbce2i3",
     "name_cs": "pbce2i3",
     "variable": "pbce2i3",
@@ -8790,6 +8893,7 @@
     "label_de": "NA"
   },
   "pbce2i4": {
+    "study": "pairfam",
     "name": "pbce2i4",
     "name_cs": "pbce2i4",
     "variable": "pbce2i4",
@@ -8876,6 +8980,7 @@
     "label_de": "NA"
   },
   "pbce2i5": {
+    "study": "pairfam",
     "name": "pbce2i5",
     "name_cs": "pbce2i5",
     "variable": "pbce2i5",
@@ -8962,6 +9067,7 @@
     "label_de": "VOC+: Neue Anregungen von erwachsenen Kindern (Frage 21)"
   },
   "pbce2i6": {
+    "study": "pairfam",
     "name": "pbce2i6",
     "name_cs": "pbce2i6",
     "variable": "pbce2i6",
@@ -9048,6 +9154,7 @@
     "label_de": "NA"
   },
   "pbce2i7": {
+    "study": "pairfam",
     "name": "pbce2i7",
     "name_cs": "pbce2i7",
     "variable": "pbce2i7",
@@ -9134,6 +9241,7 @@
     "label_de": "VOC-: Kinder sind nervliche Belastung (Frage 21)"
   },
   "pbce2i8": {
+    "study": "pairfam",
     "name": "pbce2i8",
     "name_cs": "pbce2i8",
     "variable": "pbce2i8",
@@ -9220,6 +9328,7 @@
     "label_de": "VOC-: Berufliche Ziele mit Kindern nicht erreichen (Frage 21)"
   },
   "pbce2i9": {
+    "study": "pairfam",
     "name": "pbce2i9",
     "name_cs": "pbce2i9",
     "variable": "pbce2i9",
@@ -9306,6 +9415,7 @@
     "label_de": "NA"
   },
   "pbce2i10": {
+    "study": "pairfam",
     "name": "pbce2i10",
     "name_cs": "pbce2i10",
     "variable": "pbce2i10",
@@ -9392,6 +9502,7 @@
     "label_de": "NA"
   },
   "psd9": {
+    "study": "pairfam",
     "name": "psd9",
     "name_cs": "psd9",
     "variable": "psd9",
@@ -9458,6 +9569,7 @@
     "label_de": "Haben Sie leibliche oder adoptierte Kinder (Frage 22)"
   },
   "psd19k1m": {
+    "study": "pairfam",
     "name": "psd19k1m",
     "name_cs": "psd19k1m",
     "variable": "psd19k1m",
@@ -9574,6 +9686,7 @@
     "label_de": "Monat Geburt Kind 1 (Frage 23)"
   },
   "psd19k1y": {
+    "study": "pairfam",
     "name": "psd19k1y",
     "name_cs": "psd19k1y",
     "variable": "psd19k1y",
@@ -9820,6 +9933,7 @@
     "label_de": "Jahr Geburt Kind 1 (Frage 23)"
   },
   "psd14k1g": {
+    "study": "pairfam",
     "name": "psd14k1g",
     "name_cs": "psd14k1g",
     "variable": "psd14k1g",
@@ -9886,6 +10000,7 @@
     "label_de": "Geschlecht Kind 1 (Frage 23)"
   },
   "psd15k1": {
+    "study": "pairfam",
     "name": "psd15k1",
     "name_cs": "psd15k1",
     "variable": "psd15k1",
@@ -9960,6 +10075,7 @@
     "label_de": "Status Kind 1 (Frage 23)"
   },
   "psd19k2m": {
+    "study": "pairfam",
     "name": "psd19k2m",
     "name_cs": "psd19k2m",
     "variable": "psd19k2m",
@@ -10076,6 +10192,7 @@
     "label_de": "Monat Geburt Kind 2 (Frage 23)"
   },
   "psd19k2y": {
+    "study": "pairfam",
     "name": "psd19k2y",
     "name_cs": "psd19k2y",
     "variable": "psd19k2y",
@@ -10287,6 +10404,7 @@
     "label_de": "Jahr Geburt Kind 2 (Frage 23)"
   },
   "psd14k2g": {
+    "study": "pairfam",
     "name": "psd14k2g",
     "name_cs": "psd14k2g",
     "variable": "psd14k2g",
@@ -10353,6 +10471,7 @@
     "label_de": "Geschlecht Kind 2 (Frage 23)"
   },
   "psd15k2": {
+    "study": "pairfam",
     "name": "psd15k2",
     "name_cs": "psd15k2",
     "variable": "psd15k2",
@@ -10427,6 +10546,7 @@
     "label_de": "Status Kind 2 (Frage 23)"
   },
   "psd19k3m": {
+    "study": "pairfam",
     "name": "psd19k3m",
     "name_cs": "psd19k3m",
     "variable": "psd19k3m",
@@ -10543,6 +10663,7 @@
     "label_de": "Monat Geburt Kind 3 (Frage 23)"
   },
   "psd19k3y": {
+    "study": "pairfam",
     "name": "psd19k3y",
     "name_cs": "psd19k3y",
     "variable": "psd19k3y",
@@ -10719,6 +10840,7 @@
     "label_de": "Jahr Geburt Kind 3 (Frage 23)"
   },
   "psd14k3g": {
+    "study": "pairfam",
     "name": "psd14k3g",
     "name_cs": "psd14k3g",
     "variable": "psd14k3g",
@@ -10785,6 +10907,7 @@
     "label_de": "Geschlecht Kind 3 (Frage 23)"
   },
   "psd15k3": {
+    "study": "pairfam",
     "name": "psd15k3",
     "name_cs": "psd15k3",
     "variable": "psd15k3",
@@ -10859,6 +10982,7 @@
     "label_de": "Status Kind 3 (Frage 23)"
   },
   "psd19k4m": {
+    "study": "pairfam",
     "name": "psd19k4m",
     "name_cs": "psd19k4m",
     "variable": "psd19k4m",
@@ -10975,6 +11099,7 @@
     "label_de": "Monat Geburt Kind 4 (Frage 23)"
   },
   "psd19k4y": {
+    "study": "pairfam",
     "name": "psd19k4y",
     "name_cs": "psd19k4y",
     "variable": "psd19k4y",
@@ -11111,6 +11236,7 @@
     "label_de": "Jahr Geburt Kind 4 (Frage 23)"
   },
   "psd14k4g": {
+    "study": "pairfam",
     "name": "psd14k4g",
     "name_cs": "psd14k4g",
     "variable": "psd14k4g",
@@ -11177,6 +11303,7 @@
     "label_de": "Geschlecht Kind 4 (Frage 23)"
   },
   "psd15k4": {
+    "study": "pairfam",
     "name": "psd15k4",
     "name_cs": "psd15k4",
     "variable": "psd15k4",
@@ -11251,6 +11378,7 @@
     "label_de": "Status Kind 4 (Frage 23)"
   },
   "psex5": {
+    "study": "pairfam",
     "name": "psex5",
     "name_cs": "psex5",
     "variable": "psex5",
@@ -11322,6 +11450,7 @@
     "label_de": "NA"
   },
   "psex6i1": {
+    "study": "pairfam",
     "name": "psex6i1",
     "name_cs": "psex6i1",
     "variable": "psex6i1",
@@ -11388,6 +11517,7 @@
     "label_de": "NA"
   },
   "psex6i2": {
+    "study": "pairfam",
     "name": "psex6i2",
     "name_cs": "psex6i2",
     "variable": "psex6i2",
@@ -11454,6 +11584,7 @@
     "label_de": "NA"
   },
   "psex6i3": {
+    "study": "pairfam",
     "name": "psex6i3",
     "name_cs": "psex6i3",
     "variable": "psex6i3",
@@ -11520,6 +11651,7 @@
     "label_de": "NA"
   },
   "psex6i4": {
+    "study": "pairfam",
     "name": "psex6i4",
     "name_cs": "psex6i4",
     "variable": "psex6i4",
@@ -11586,6 +11718,7 @@
     "label_de": "NA"
   },
   "psex6i5": {
+    "study": "pairfam",
     "name": "psex6i5",
     "name_cs": "psex6i5",
     "variable": "psex6i5",
@@ -11652,6 +11785,7 @@
     "label_de": "NA"
   },
   "psex6i6": {
+    "study": "pairfam",
     "name": "psex6i6",
     "name_cs": "psex6i6",
     "variable": "psex6i6",
@@ -11718,6 +11852,7 @@
     "label_de": "NA"
   },
   "psex6i7": {
+    "study": "pairfam",
     "name": "psex6i7",
     "name_cs": "psex6i7",
     "variable": "psex6i7",
@@ -11784,6 +11919,7 @@
     "label_de": "NA"
   },
   "psex6i8": {
+    "study": "pairfam",
     "name": "psex6i8",
     "name_cs": "psex6i8",
     "variable": "psex6i8",
@@ -11850,6 +11986,7 @@
     "label_de": "NA"
   },
   "psex6i9": {
+    "study": "pairfam",
     "name": "psex6i9",
     "name_cs": "psex6i9",
     "variable": "psex6i9",
@@ -11916,6 +12053,7 @@
     "label_de": "NA"
   },
   "psex6i10": {
+    "study": "pairfam",
     "name": "psex6i10",
     "name_cs": "psex6i10",
     "variable": "psex6i10",
@@ -11982,6 +12120,7 @@
     "label_de": "NA"
   },
   "psex6i11": {
+    "study": "pairfam",
     "name": "psex6i11",
     "name_cs": "psex6i11",
     "variable": "psex6i11",
@@ -12048,6 +12187,7 @@
     "label_de": "NA"
   },
   "psex7": {
+    "study": "pairfam",
     "name": "psex7",
     "name_cs": "psex7",
     "variable": "psex7",
@@ -12129,6 +12269,7 @@
     "label_de": "NA"
   },
   "pfrt1": {
+    "study": "pairfam",
     "name": "pfrt1",
     "name_cs": "pfrt1",
     "variable": "pfrt1",
@@ -12205,6 +12346,7 @@
     "label_de": "NA"
   },
   "psat5": {
+    "study": "pairfam",
     "name": "psat5",
     "name_cs": "psat5",
     "variable": "psat5",
@@ -12316,6 +12458,7 @@
     "label_de": "Zufriedenheit mit Sexualleben (Frage 28)"
   },
   "pfrt5": {
+    "study": "pairfam",
     "name": "pfrt5",
     "name_cs": "pfrt5",
     "variable": "pfrt5",
@@ -12437,6 +12580,7 @@
     "label_de": "Ideale Kinderzahl (Frage 29)"
   },
   "pfrt6": {
+    "study": "pairfam",
     "name": "pfrt6",
     "name_cs": "pfrt6",
     "variable": "pfrt6",
@@ -12527,6 +12671,7 @@
     "label_de": "Realistische Kinderzahl (Frage 30)"
   },
   "pfrt13i1": {
+    "study": "pairfam",
     "name": "pfrt13i1",
     "name_cs": "pfrt13i1",
     "variable": "pfrt13i1",
@@ -12593,6 +12738,7 @@
     "label_de": "NA"
   },
   "pfrt13i2": {
+    "study": "pairfam",
     "name": "pfrt13i2",
     "name_cs": "pfrt13i2",
     "variable": "pfrt13i2",
@@ -12659,6 +12805,7 @@
     "label_de": "NA"
   },
   "pfrt13i3": {
+    "study": "pairfam",
     "name": "pfrt13i3",
     "name_cs": "pfrt13i3",
     "variable": "pfrt13i3",
@@ -12725,6 +12872,7 @@
     "label_de": "NA"
   },
   "pfrt13i4": {
+    "study": "pairfam",
     "name": "pfrt13i4",
     "name_cs": "pfrt13i4",
     "variable": "pfrt13i4",
@@ -12791,6 +12939,7 @@
     "label_de": "NA"
   },
   "pfrt13i5": {
+    "study": "pairfam",
     "name": "pfrt13i5",
     "name_cs": "pfrt13i5",
     "variable": "pfrt13i5",
@@ -12857,6 +13006,7 @@
     "label_de": "NA"
   },
   "pfrt13i6": {
+    "study": "pairfam",
     "name": "pfrt13i6",
     "name_cs": "pfrt13i6",
     "variable": "pfrt13i6",
@@ -12923,6 +13073,7 @@
     "label_de": "NA"
   },
   "pfrt13i7": {
+    "study": "pairfam",
     "name": "pfrt13i7",
     "name_cs": "pfrt13i7",
     "variable": "pfrt13i7",
@@ -12989,6 +13140,7 @@
     "label_de": "NA"
   },
   "pfrt13i8": {
+    "study": "pairfam",
     "name": "pfrt13i8",
     "name_cs": "pfrt13i8",
     "variable": "pfrt13i8",
@@ -13055,6 +13207,7 @@
     "label_de": "NA"
   },
   "pfrt13i9": {
+    "study": "pairfam",
     "name": "pfrt13i9",
     "name_cs": "pfrt13i9",
     "variable": "pfrt13i9",
@@ -13121,6 +13274,7 @@
     "label_de": "NA"
   },
   "pfrt13i10": {
+    "study": "pairfam",
     "name": "pfrt13i10",
     "name_cs": "pfrt13i10",
     "variable": "pfrt13i10",
@@ -13187,6 +13341,7 @@
     "label_de": "NA"
   },
   "pfrt13i11": {
+    "study": "pairfam",
     "name": "pfrt13i11",
     "name_cs": "pfrt13i11",
     "variable": "pfrt13i11",
@@ -13253,6 +13408,7 @@
     "label_de": "NA"
   },
   "pfrt13i12": {
+    "study": "pairfam",
     "name": "pfrt13i12",
     "name_cs": "pfrt13i12",
     "variable": "pfrt13i12",
@@ -13319,6 +13475,7 @@
     "label_de": "NA"
   },
   "pfrt13i13": {
+    "study": "pairfam",
     "name": "pfrt13i13",
     "name_cs": "pfrt13i13",
     "variable": "pfrt13i13",
@@ -13385,6 +13542,7 @@
     "label_de": "NA"
   },
   "pfrt13i14": {
+    "study": "pairfam",
     "name": "pfrt13i14",
     "name_cs": "pfrt13i14",
     "variable": "pfrt13i14",
@@ -13451,6 +13609,7 @@
     "label_de": "NA"
   },
   "pfrt13i14o": {
+    "study": "pairfam",
     "name": "pfrt13i14o",
     "name_cs": "pfrt13i14o",
     "variable": "pfrt13i14o",
@@ -13502,6 +13661,7 @@
     "label_de": "NA"
   },
   "pfrt7": {
+    "study": "pairfam",
     "name": "pfrt7",
     "name_cs": "pfrt7",
     "variable": "pfrt7",
@@ -13583,6 +13743,7 @@
     "label_de": "NA"
   },
   "pfrt9": {
+    "study": "pairfam",
     "name": "pfrt9",
     "name_cs": "pfrt9",
     "variable": "pfrt9",
@@ -13844,6 +14005,7 @@
     "label_de": "NA"
   },
   "pfrt10i1": {
+    "study": "pairfam",
     "name": "pfrt10i1",
     "name_cs": "pfrt10i1",
     "variable": "pfrt10i1",
@@ -13925,6 +14087,7 @@
     "label_de": "Freunde finden, dass ich Kind bekommen sollte (Frage 34)"
   },
   "pfrt10i2": {
+    "study": "pairfam",
     "name": "pfrt10i2",
     "name_cs": "pfrt10i2",
     "variable": "pfrt10i2",
@@ -14006,6 +14169,7 @@
     "label_de": "Eltern finden, dass ich Kind bekommen sollte (Frage 34)"
   },
   "pfrt12i1": {
+    "study": "pairfam",
     "name": "pfrt12i1",
     "name_cs": "pfrt12i1",
     "variable": "pfrt12i1",
@@ -14092,6 +14256,7 @@
     "label_de": "NA"
   },
   "pfrt12i2": {
+    "study": "pairfam",
     "name": "pfrt12i2",
     "name_cs": "pfrt12i2",
     "variable": "pfrt12i2",
@@ -14178,6 +14343,7 @@
     "label_de": "NA"
   },
   "pfrt12i3": {
+    "study": "pairfam",
     "name": "pfrt12i3",
     "name_cs": "pfrt12i3",
     "variable": "pfrt12i3",
@@ -14264,6 +14430,7 @@
     "label_de": "NA"
   },
   "pfrt12i4": {
+    "study": "pairfam",
     "name": "pfrt12i4",
     "name_cs": "pfrt12i4",
     "variable": "pfrt12i4",
@@ -14350,6 +14517,7 @@
     "label_de": "NA"
   },
   "plsr1i1": {
+    "study": "pairfam",
     "name": "plsr1i1",
     "name_cs": "plsr1i1",
     "variable": "plsr1i1",
@@ -14431,6 +14599,7 @@
     "label_de": "NA"
   },
   "plsr1i2": {
+    "study": "pairfam",
     "name": "plsr1i2",
     "name_cs": "plsr1i2",
     "variable": "plsr1i2",
@@ -14512,6 +14681,7 @@
     "label_de": "NA"
   },
   "plsr1i3": {
+    "study": "pairfam",
     "name": "plsr1i3",
     "name_cs": "plsr1i3",
     "variable": "plsr1i3",
@@ -14593,6 +14763,7 @@
     "label_de": "Freizeit: In die Disko gehen (Frage 36)"
   },
   "plsr1i4": {
+    "study": "pairfam",
     "name": "plsr1i4",
     "name_cs": "plsr1i4",
     "variable": "plsr1i4",
@@ -14674,6 +14845,7 @@
     "label_de": "Freizeit: Mit Freunden treffen (Frage 36)"
   },
   "plsr2": {
+    "study": "pairfam",
     "name": "plsr2",
     "name_cs": "plsr2",
     "variable": "plsr2",
@@ -15000,6 +15172,7 @@
     "label_de": "Stunden Fernsehen letzte Woche (Frage 36)"
   },
   "plsr3": {
+    "study": "pairfam",
     "name": "plsr3",
     "name_cs": "plsr3",
     "variable": "plsr3",
@@ -15291,6 +15464,7 @@
     "label_de": "Stunden private Internetnutzung letzte Woche (Frage 36)"
   },
   "plsr4": {
+    "study": "pairfam",
     "name": "plsr4",
     "name_cs": "plsr4",
     "variable": "plsr4",
@@ -15442,6 +15616,7 @@
     "label_de": "Wochen Urlaub letztes Jahr (Frage 36)"
   },
   "pper1i1": {
+    "study": "pairfam",
     "name": "pper1i1",
     "name_cs": "pper1i1",
     "variable": "pper1i1",
@@ -15523,6 +15698,7 @@
     "label_de": "Ich stimme anderen oft zu, selbst wenn ich nicht sicher bin (Frage 37)"
   },
   "pper1i2": {
+    "study": "pairfam",
     "name": "pper1i2",
     "name_cs": "pper1i2",
     "variable": "pper1i2",
@@ -15604,6 +15780,7 @@
     "label_de": "Manchmal denke ich, dass ich wertlos bin (Frage 37)"
   },
   "pper1i3": {
+    "study": "pairfam",
     "name": "pper1i3",
     "name_cs": "pper1i3",
     "variable": "pper1i3",
@@ -15685,6 +15862,7 @@
     "label_de": "Ich gerate schnell in Wut (Frage 37)"
   },
   "pper1i4": {
+    "study": "pairfam",
     "name": "pper1i4",
     "name_cs": "pper1i4",
     "variable": "pper1i4",
@@ -15766,6 +15944,7 @@
     "label_de": "NA"
   },
   "pper1i5": {
+    "study": "pairfam",
     "name": "pper1i5",
     "name_cs": "pper1i5",
     "variable": "pper1i5",
@@ -15847,6 +16026,7 @@
     "label_de": "NA"
   },
   "pper1i6": {
+    "study": "pairfam",
     "name": "pper1i6",
     "name_cs": "pper1i6",
     "variable": "pper1i6",
@@ -15928,6 +16108,7 @@
     "label_de": "NA"
   },
   "pper1i7": {
+    "study": "pairfam",
     "name": "pper1i7",
     "name_cs": "pper1i7",
     "variable": "pper1i7",
@@ -16009,6 +16190,7 @@
     "label_de": "Ich mag mich so wie ich bin (Frage 37)"
   },
   "pper1i8": {
+    "study": "pairfam",
     "name": "pper1i8",
     "name_cs": "pper1i8",
     "variable": "pper1i8",
@@ -16090,6 +16272,7 @@
     "label_de": "Ich steigere mich leicht in einen Streit hinein (Frage 37)"
   },
   "pper1i9": {
+    "study": "pairfam",
     "name": "pper1i9",
     "name_cs": "pper1i9",
     "variable": "pper1i9",
@@ -16171,6 +16354,7 @@
     "label_de": "NA"
   },
   "pper1i10": {
+    "study": "pairfam",
     "name": "pper1i10",
     "name_cs": "pper1i10",
     "variable": "pper1i10",
@@ -16252,6 +16436,7 @@
     "label_de": "NA"
   },
   "pper1i11": {
+    "study": "pairfam",
     "name": "pper1i11",
     "name_cs": "pper1i11",
     "variable": "pper1i11",
@@ -16333,6 +16518,7 @@
     "label_de": "NA"
   },
   "pper1i12": {
+    "study": "pairfam",
     "name": "pper1i12",
     "name_cs": "pper1i12",
     "variable": "pper1i12",
@@ -16414,6 +16600,7 @@
     "label_de": "Ich gehe ungezwungen auf andere Menschen zu (Frage 37)"
   },
   "pper1i13": {
+    "study": "pairfam",
     "name": "pper1i13",
     "name_cs": "pper1i13",
     "variable": "pper1i13",
@@ -16495,6 +16682,7 @@
     "label_de": "Alles in allem bin ich mit mir selbst zufrieden (Frage 37)"
   },
   "pdobd": {
+    "study": "pairfam",
     "name": "pdobd",
     "name_cs": "pdobd",
     "variable": "pdobd",
@@ -16536,6 +16724,7 @@
     "label_de": "Tag Geburt (Frage 38)"
   },
   "pdobm": {
+    "study": "pairfam",
     "name": "pdobm",
     "name_cs": "pdobm",
     "variable": "pdobm",
@@ -16652,6 +16841,7 @@
     "label_de": "Monat Geburt (Frage 38)"
   },
   "pdoby": {
+    "study": "pairfam",
     "name": "pdoby",
     "name_cs": "pdoby",
     "variable": "pdoby",
@@ -16973,6 +17163,7 @@
     "label_de": "Jahr Geburt (Frage 38)"
   },
   "psex": {
+    "study": "pairfam",
     "name": "psex",
     "name_cs": "psex",
     "variable": "psex",
@@ -17039,6 +17230,7 @@
     "label_de": "Geschlecht (Frage 39)"
   },
   "psd10": {
+    "study": "pairfam",
     "name": "psd10",
     "name_cs": "psd10",
     "variable": "psd10",
@@ -17120,6 +17312,7 @@
     "label_de": "Aktueller Familienstand (Frage 40)"
   },
   "psd27": {
+    "study": "pairfam",
     "name": "psd27",
     "name_cs": "psd27",
     "variable": "psd27",
@@ -17253,13 +17446,13 @@
         "7 Allgemeine oder fachgebundene Hochschulreife/Abitur (Gymnasium bzw. EOS, auch EOS mit Lehre)",
         "8 Einen anderen Schulabschluss und zwar",
         "19 Antwort 9, russ. Fragebogen",
-        "20 Antwort 10, russ. Fragebogen ",
-        "21 Antwort 11, russ. Fragebogen ",
-        "22 Antwort 12, russ. Fragebogen ",
-        "23 Antwort 13, russ. Fragebogen ",
-        "24 Antwort 14, russ. Fragebogen ",
-        "25 Antwort 15, russ. Fragebogen ",
-        "26 Antwort 16, russ. Fragebogen ",
+        "20 Antwort 10, russ. Fragebogen",
+        "21 Antwort 11, russ. Fragebogen",
+        "22 Antwort 12, russ. Fragebogen",
+        "23 Antwort 13, russ. Fragebogen",
+        "24 Antwort 14, russ. Fragebogen",
+        "25 Antwort 15, russ. Fragebogen",
+        "26 Antwort 16, russ. Fragebogen",
         "",
         "",
         "",
@@ -17281,6 +17474,7 @@
     "label_de": "NA"
   },
   "psd27o": {
+    "study": "pairfam",
     "name": "psd27o",
     "name_cs": "psd27o",
     "variable": "psd27o",
@@ -17332,6 +17526,7 @@
     "label_de": "Nennung sonstiger Abschluss (Frage 41)"
   },
   "psd23i2": {
+    "study": "pairfam",
     "name": "psd23i2",
     "name_cs": "psd23i2",
     "variable": "psd23i2",
@@ -17398,6 +17593,7 @@
     "label_de": "Aktuell: Abendschule, Kolleg (2. Bildungsweg) (Frage 42)"
   },
   "psd23i3": {
+    "study": "pairfam",
     "name": "psd23i3",
     "name_cs": "psd23i3",
     "variable": "psd23i3",
@@ -17464,6 +17660,7 @@
     "label_de": "Aktuell: Berufliche Ausbildung (Frage 42)"
   },
   "psd23i4": {
+    "study": "pairfam",
     "name": "psd23i4",
     "name_cs": "psd23i4",
     "variable": "psd23i4",
@@ -17530,6 +17727,7 @@
     "label_de": "Aktuell: Umschulung/Weiterbildung (Frage 42)"
   },
   "psd23i5": {
+    "study": "pairfam",
     "name": "psd23i5",
     "name_cs": "psd23i5",
     "variable": "psd23i5",
@@ -17596,6 +17794,7 @@
     "label_de": "Aktuell: Berufsakademie (Frage 42)"
   },
   "psd23i6": {
+    "study": "pairfam",
     "name": "psd23i6",
     "name_cs": "psd23i6",
     "variable": "psd23i6",
@@ -17662,6 +17861,7 @@
     "label_de": "NA"
   },
   "psd23i7": {
+    "study": "pairfam",
     "name": "psd23i7",
     "name_cs": "psd23i7",
     "variable": "psd23i7",
@@ -17728,6 +17928,7 @@
     "label_de": "NA"
   },
   "psd23i8": {
+    "study": "pairfam",
     "name": "psd23i8",
     "name_cs": "psd23i8",
     "variable": "psd23i8",
@@ -17794,6 +17995,7 @@
     "label_de": "Aktuell: Fachschulen (z.B. Meister-, Technikerschule) (Frage 42)"
   },
   "psd23i9": {
+    "study": "pairfam",
     "name": "psd23i9",
     "name_cs": "psd23i9",
     "variable": "psd23i9",
@@ -17860,6 +18062,7 @@
     "label_de": "Aktuell: Sonstige Ausbildung (Frage 42)"
   },
   "psd23i10": {
+    "study": "pairfam",
     "name": "psd23i10",
     "name_cs": "psd23i10",
     "variable": "psd23i10",
@@ -17926,6 +18129,7 @@
     "label_de": "NA"
   },
   "psd23i11": {
+    "study": "pairfam",
     "name": "psd23i11",
     "name_cs": "psd23i11",
     "variable": "psd23i11",
@@ -17992,6 +18196,7 @@
     "label_de": "NA"
   },
   "psd23i12": {
+    "study": "pairfam",
     "name": "psd23i12",
     "name_cs": "psd23i12",
     "variable": "psd23i12",
@@ -18058,6 +18263,7 @@
     "label_de": "NA"
   },
   "psd23i13": {
+    "study": "pairfam",
     "name": "psd23i13",
     "name_cs": "psd23i13",
     "variable": "psd23i13",
@@ -18124,6 +18330,7 @@
     "label_de": "NA"
   },
   "psd23i14": {
+    "study": "pairfam",
     "name": "psd23i14",
     "name_cs": "psd23i14",
     "variable": "psd23i14",
@@ -18190,6 +18397,7 @@
     "label_de": "NA"
   },
   "psd23i15": {
+    "study": "pairfam",
     "name": "psd23i15",
     "name_cs": "psd23i15",
     "variable": "psd23i15",
@@ -18256,6 +18464,7 @@
     "label_de": "NA"
   },
   "psd23i16": {
+    "study": "pairfam",
     "name": "psd23i16",
     "name_cs": "psd23i16",
     "variable": "psd23i16",
@@ -18322,6 +18531,7 @@
     "label_de": "NA"
   },
   "psd23i17": {
+    "study": "pairfam",
     "name": "psd23i17",
     "name_cs": "psd23i17",
     "variable": "psd23i17",
@@ -18388,6 +18598,7 @@
     "label_de": "Aktuell: Mutterschutz, Elternzeit, sonstige Beurlaubung (Frage 42)"
   },
   "psd23i18": {
+    "study": "pairfam",
     "name": "psd23i18",
     "name_cs": "psd23i18",
     "variable": "psd23i18",
@@ -18454,6 +18665,7 @@
     "label_de": "Aktuell: Wehrdienst/Zivildienst, freiwilliges soziales Jahr (Frage 42)"
   },
   "psd23i19": {
+    "study": "pairfam",
     "name": "psd23i19",
     "name_cs": "psd23i19",
     "variable": "psd23i19",
@@ -18520,6 +18732,7 @@
     "label_de": "Aktuell: Arbeitslos, arbeitsuchend (Frage 42)"
   },
   "psd23i20": {
+    "study": "pairfam",
     "name": "psd23i20",
     "name_cs": "psd23i20",
     "variable": "psd23i20",
@@ -18586,6 +18799,7 @@
     "label_de": "Aktuell: Hausfrau/Hausmann (Frage 42)"
   },
   "psd23i21": {
+    "study": "pairfam",
     "name": "psd23i21",
     "name_cs": "psd23i21",
     "variable": "psd23i21",
@@ -18652,6 +18866,7 @@
     "label_de": "NA"
   },
   "psd23i22": {
+    "study": "pairfam",
     "name": "psd23i22",
     "name_cs": "psd23i22",
     "variable": "psd23i22",
@@ -18718,6 +18933,7 @@
     "label_de": "NA"
   },
   "pjob2": {
+    "study": "pairfam",
     "name": "pjob2",
     "name_cs": "pjob2",
     "variable": "pjob2",
@@ -18923,6 +19139,7 @@
     "label_de": "Aktuelle berufliche Stellung (Frage 43)"
   },
   "pinc2": {
+    "study": "pairfam",
     "name": "pinc2",
     "name_cs": "pinc2",
     "variable": "pinc2",
@@ -21039,6 +21256,7 @@
     "label_de": "Nettoverdienst im letzten Monat (Frage 44)"
   },
   "pinc2c": {
+    "study": "pairfam",
     "name": "pinc2c",
     "name_cs": "pinc2c",
     "variable": "pinc2c",
@@ -21150,6 +21368,7 @@
     "label_de": "Nettoverdienst im letzten Monat kategorisiert (Frage 44)"
   },
   "phlt1": {
+    "study": "pairfam",
     "name": "phlt1",
     "name_cs": "phlt1",
     "variable": "phlt1",
@@ -21231,6 +21450,7 @@
     "label_de": "Gesundheitszustand letzte 4 Wochen (Frage 45)"
   },
   "phlt2": {
+    "study": "pairfam",
     "name": "phlt2",
     "name_cs": "phlt2",
     "variable": "phlt2",
@@ -21312,6 +21532,7 @@
     "label_de": "NA"
   },
   "phlt3": {
+    "study": "pairfam",
     "name": "phlt3",
     "name_cs": "phlt3",
     "variable": "phlt3",
@@ -21723,6 +21944,7 @@
     "label_de": "NA"
   },
   "phlt4": {
+    "study": "pairfam",
     "name": "phlt4",
     "name_cs": "phlt4",
     "variable": "phlt4",
@@ -22269,6 +22491,7 @@
     "label_de": "Gewicht in kg (Frage 48)"
   },
   "phlt7": {
+    "study": "pairfam",
     "name": "phlt7",
     "name_cs": "phlt7",
     "variable": "phlt7",
@@ -22395,6 +22618,7 @@
     "label_de": "Stunden Schlaf pro Nacht unter der Woche (Frage 49)"
   },
   "phlt5": {
+    "study": "pairfam",
     "name": "phlt5",
     "name_cs": "phlt5",
     "variable": "phlt5",
@@ -22461,6 +22685,7 @@
     "label_de": "Erwerbsgemindert oder schwerbehindert (Frage 50)"
   },
   "phlt6": {
+    "study": "pairfam",
     "name": "phlt6",
     "name_cs": "phlt6",
     "variable": "phlt6",
@@ -22567,6 +22792,7 @@
     "label_de": "NA"
   },
   "psd30": {
+    "study": "pairfam",
     "name": "psd30",
     "name_cs": "psd30",
     "variable": "psd30",
@@ -22658,6 +22884,7 @@
     "label_de": "NA"
   },
   "psd31": {
+    "study": "pairfam",
     "name": "psd31",
     "name_cs": "psd31",
     "variable": "psd31",
@@ -22744,6 +22971,7 @@
     "label_de": "NA"
   },
   "psat6": {
+    "study": "pairfam",
     "name": "psat6",
     "name_cs": "psat6",
     "variable": "psat6",
@@ -22855,6 +23083,7 @@
     "label_de": "Zufriedenheit mit Leben insgesamt (Frage 54)"
   },
   "pintd": {
+    "study": "pairfam",
     "name": "pintd",
     "name_cs": "pintd",
     "variable": "pintd",
@@ -23066,6 +23295,7 @@
     "label_de": "Interviewdatum: Tag"
   },
   "pintm": {
+    "study": "pairfam",
     "name": "pintm",
     "name_cs": "pintm",
     "variable": "pintm",
@@ -23182,6 +23412,7 @@
     "label_de": "Interviewdatum: Monat"
   },
   "pinty": {
+    "study": "pairfam",
     "name": "pinty",
     "name_cs": "pinty",
     "variable": "pinty",
@@ -23248,6 +23479,7 @@
     "label_de": "Interviewdatum: Jahr"
   },
   "plng": {
+    "study": "pairfam",
     "name": "plng",
     "name_cs": "plng",
     "variable": "plng",

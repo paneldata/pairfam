@@ -7,7 +7,7 @@ from ddi.onrails.repos import convert_r2ddi
 
 def main():
     print("[INFO] Read datasets...")
-    data = convert_r2ddi.Parser(version="v7")
+    data = convert_r2ddi.Parser("pairfam", version="v8")
     print("[INFO] Write JSON file...")
     data.write_json()
     print("[INFO] Write YAML file...")

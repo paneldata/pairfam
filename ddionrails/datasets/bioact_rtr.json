@@ -1,5 +1,6 @@
 {
   "id": {
+    "study": "pairfam",
     "name": "id",
     "name_cs": "id",
     "variable": "id",
@@ -37,6 +38,7 @@
     "label_de": "Person number anchor"
   },
   "demodiff": {
+    "study": "pairfam",
     "name": "demodiff",
     "name_cs": "demodiff",
     "variable": "demodiff",
@@ -78,6 +80,7 @@
     "label_de": "DemoDiff sample"
   },
   "cohort": {
+    "study": "pairfam",
     "name": "cohort",
     "name_cs": "cohort",
     "variable": "cohort",
@@ -129,6 +132,7 @@
     "label_de": "Birth cohort"
   },
   "dob": {
+    "study": "pairfam",
     "name": "dob",
     "name_cs": "dob",
     "variable": "dob",
@@ -665,6 +669,7 @@
     "label_de": "Date of birth"
   },
   "sex": {
+    "study": "pairfam",
     "name": "sex",
     "name_cs": "sex",
     "variable": "sex",
@@ -726,6 +731,7 @@
     "label_de": "Generated sex anchor"
   },
   "wave1": {
+    "study": "pairfam",
     "name": "wave1",
     "name_cs": "wave1",
     "variable": "wave1",
@@ -797,6 +803,7 @@
     "label_de": "Survey year wave1"
   },
   "wave2": {
+    "study": "pairfam",
     "name": "wave2",
     "name_cs": "wave2",
     "variable": "wave2",
@@ -868,6 +875,7 @@
     "label_de": "Survey year wave2"
   },
   "wave3": {
+    "study": "pairfam",
     "name": "wave3",
     "name_cs": "wave3",
     "variable": "wave3",
@@ -939,6 +947,7 @@
     "label_de": "Survey year wave3"
   },
   "respw2": {
+    "study": "pairfam",
     "name": "respw2",
     "name_cs": "respw2",
     "variable": "respw2",
@@ -985,6 +994,7 @@
     "label_de": "Respondent in wave2"
   },
   "respw3": {
+    "study": "pairfam",
     "name": "respw3",
     "name_cs": "respw3",
     "variable": "respw3",
@@ -1031,6 +1041,7 @@
     "label_de": "Respondent in wave3"
   },
   "intdatw1": {
+    "study": "pairfam",
     "name": "intdatw1",
     "name_cs": "intdatw1",
     "variable": "intdatw1",
@@ -1142,6 +1153,7 @@
     "label_de": "Date of interview wave1"
   },
   "intdatw2": {
+    "study": "pairfam",
     "name": "intdatw2",
     "name_cs": "intdatw2",
     "variable": "intdatw2",
@@ -1218,6 +1230,7 @@
     "label_de": "Date of interview wave2"
   },
   "intdatw3": {
+    "study": "pairfam",
     "name": "intdatw3",
     "name_cs": "intdatw3",
     "variable": "intdatw3",
@@ -1294,6 +1307,7 @@
     "label_de": "Date of interview wave3"
   },
   "activity_rtr": {
+    "study": "pairfam",
     "name": "activity_rtr",
     "name_cs": "activity_rtr",
     "variable": "activity_rtr",
@@ -1332,7 +1346,7 @@
         "2 Evening school, working on a school leaving certificate for adults",
         "3 Vocational training (apprenticeship, business school etc.)",
         "4 Vocational retraining / further education",
-        "5",
+        "5 University of cooperative education (also Berufsakademie)",
         "6 University of applied sciences, college, university",
         "7 Pre-vocational training",
         "8 Technical/professional school",
@@ -1341,7 +1355,7 @@
         "11 Self-employment",
         "12 Part-time employment (also multiple part-time jobs)",
         "13 Internships, traineeship, including unpaid work",
-        "14",
+        "14 Marginal part-time employment, mini-job, Ein-Euro-Job",
         "15 Occasional or irregular employment",
         "16 Other type of employment, namely",
         "17 Maternity or paternity leave or other leave of absence for childcare",
@@ -1410,7 +1424,7 @@
         "2 Evening school, working on a school leaving certificate for adults",
         "3 Vocational training (apprenticeship, business school etc.)",
         "4 Vocational retraining / further education",
-        "",
+        "5 University of cooperative education (also Berufsakademie)",
         "6 University of applied sciences, college, university",
         "7 Pre-vocational training",
         "8 Technical/professional school",
@@ -1419,7 +1433,7 @@
         "11 Self-employment",
         "12 Part-time employment (also multiple part-time jobs)",
         "13 Internships, traineeship, including unpaid work",
-        "",
+        "14 Marginal part-time employment, mini-job, Ein-Euro-Job",
         "15 Occasional or irregular employment",
         "16 Other type of employment, namely",
         "17 Maternity or paternity leave or other leave of absence for childcare",
@@ -1445,6 +1459,7 @@
     "label_de": "Type of activity"
   },
   "spell_rtr": {
+    "study": "pairfam",
     "name": "spell_rtr",
     "name_cs": "spell_rtr",
     "variable": "spell_rtr",
@@ -1482,6 +1497,7 @@
     "label_de": "Counter - Number of episodes per activity"
   },
   "actbeg_rtr": {
+    "study": "pairfam",
     "name": "actbeg_rtr",
     "name_cs": "actbeg_rtr",
     "variable": "actbeg_rtr",
@@ -3373,6 +3389,7 @@
     "label_de": "Beginning of episode"
   },
   "actend_rtr": {
+    "study": "pairfam",
     "name": "actend_rtr",
     "name_cs": "actend_rtr",
     "variable": "actend_rtr",
@@ -4764,6 +4781,7 @@
     "label_de": "End of episode"
   },
   "actcensor_rtr": {
+    "study": "pairfam",
     "name": "actcensor_rtr",
     "name_cs": "actcensor_rtr",
     "variable": "actcensor_rtr",
@@ -4840,6 +4858,7 @@
     "label_de": "Censor"
   },
   "rtr31i10": {
+    "study": "pairfam",
     "name": "rtr31i10",
     "name_cs": "rtr31i10",
     "variable": "rtr31i10",
@@ -4881,6 +4900,7 @@
     "label_de": "No Education since 18th birthday"
   },
   "rtr35i14": {
+    "study": "pairfam",
     "name": "rtr35i14",
     "name_cs": "rtr35i14",
     "variable": "rtr35i14",
@@ -4922,6 +4942,7 @@
     "label_de": "No occupation between 18th birthday and wave1"
   },
   "actflag1_rtr": {
+    "study": "pairfam",
     "name": "actflag1_rtr",
     "name_cs": "actflag1_rtr",
     "variable": "actflag1_rtr",
@@ -4983,6 +5004,7 @@
     "label_de": "Ambigious information on beginning"
   },
   "actflag2_rtr": {
+    "study": "pairfam",
     "name": "actflag2_rtr",
     "name_cs": "actflag2_rtr",
     "variable": "actflag2_rtr",
