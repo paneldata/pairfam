@@ -35,9 +35,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Person number anchor"
   },
   "demodiff": {
@@ -80,9 +80,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "DemoDiff sample"
   },
   "cohort": {
@@ -135,9 +135,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Birth cohort"
   },
   "dob": {
@@ -675,9 +675,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Date of birth"
   },
   "sex": {
@@ -740,9 +740,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Generated sex anchor"
   },
   "wave1": {
@@ -815,9 +815,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Survey year wave1"
   },
   "wave2": {
@@ -890,9 +890,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Survey year wave2"
   },
   "wave3": {
@@ -965,9 +965,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Survey year wave3"
   },
   "respw2": {
@@ -1015,9 +1015,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Respondent in wave2"
   },
   "respw3": {
@@ -1065,9 +1065,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Respondent in wave3"
   },
   "intdatw1": {
@@ -1180,9 +1180,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Date of interview wave1"
   },
   "intdatw2": {
@@ -1260,9 +1260,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Date of interview wave2"
   },
   "intdatw3": {
@@ -1340,9 +1340,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Date of interview wave3"
   },
   "activity_rtr": {
@@ -1495,9 +1495,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Type of activity"
   },
   "spell_rtr": {
@@ -1536,9 +1536,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Counter - Number of episodes per activity"
   },
   "actbeg_rtr": {
@@ -3431,9 +3431,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Beginning of episode"
   },
   "actend_rtr": {
@@ -4826,9 +4826,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "End of episode"
   },
   "actcensor_rtr": {
@@ -4906,9 +4906,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Censor"
   },
   "rtr31i10": {
@@ -4951,9 +4951,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "No Education since 18th birthday"
   },
   "rtr35i14": {
@@ -4996,9 +4996,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "No occupation between 18th birthday and wave1"
   },
   "actflag1_rtr": {
@@ -5061,9 +5061,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Ambigious information on beginning"
   },
   "actflag2_rtr": {
@@ -5126,9 +5126,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Ambigious information on ending"
   }
 }

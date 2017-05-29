@@ -35,9 +35,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "ID Anker"
   },
   "wave": {
@@ -140,9 +137,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Erhebungsjahr"
   },
   "pid": {
@@ -183,9 +177,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Personennummer Partner"
   },
   "respartner": {
@@ -258,9 +249,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Participation in partner survey"
   },
   "child1": {
@@ -308,9 +296,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 1 existing"
   },
   "cid1": {
@@ -351,9 +336,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 1: Person number"
   },
   "reschild1": {
@@ -406,9 +388,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 1: Participation in children's survey"
   },
   "parentidk1": {
@@ -23121,9 +23100,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 1: Person number second biological parent"
   },
   "resparchild1_a": {
@@ -23181,9 +23157,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 1: Participation parenting survey - anchor"
   },
   "resparchild1_p": {
@@ -23241,9 +23214,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 1: Participation parenting survey - partner"
   },
   "k1doby_gen": {
@@ -23476,9 +23446,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 1: Generated year of birth"
   },
   "k1dobm_gen": {
@@ -23611,9 +23578,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 1: Generated month of birth"
   },
   "child2": {
@@ -23661,9 +23625,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 2 existing"
   },
   "cid2": {
@@ -23704,9 +23665,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 2: Person number"
   },
   "reschild2": {
@@ -23759,9 +23717,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 2: Participation in children's survey"
   },
   "parentidk2": {
@@ -39979,9 +39934,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 2: Person number second biological parent"
   },
   "resparchild2_a": {
@@ -40039,9 +39991,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 2: Participation parenting survey - anchor"
   },
   "resparchild2_p": {
@@ -40099,9 +40048,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 2: Participation parenting survey - partner"
   },
   "k2doby_gen": {
@@ -40324,9 +40270,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 2: Generated year of birth"
   },
   "k2dobm_gen": {
@@ -40459,9 +40402,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 2: Generated month of birth"
   },
   "child3": {
@@ -40509,9 +40449,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 3 existing"
   },
   "cid3": {
@@ -40552,9 +40489,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 3: Person number"
   },
   "reschild3": {
@@ -40607,9 +40541,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 3: Participation in children's survey"
   },
   "parentidk3": {
@@ -45777,9 +45708,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 3: Person number second biological parent"
   },
   "resparchild3_a": {
@@ -45837,9 +45765,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 3: Participation parenting survey - anchor"
   },
   "resparchild3_p": {
@@ -45897,9 +45822,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 3: Participation parenting survey - partner"
   },
   "k3doby_gen": {
@@ -46097,9 +46019,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 3: Generated year of birth"
   },
   "k3dobm_gen": {
@@ -46232,9 +46151,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 3: Generated month of birth"
   },
   "child4": {
@@ -46282,9 +46198,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 4 existing"
   },
   "cid4": {
@@ -46325,9 +46238,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 4: Person number"
   },
   "reschild4": {
@@ -46380,9 +46290,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 4: Participation in children's survey"
   },
   "parentidk4": {
@@ -47795,9 +47702,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 4: Person number second biological parent"
   },
   "resparchild4_a": {
@@ -47855,9 +47759,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 4: Participation parenting survey - anchor"
   },
   "resparchild4_p": {
@@ -47915,9 +47816,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 4: Participation parenting survey - partner"
   },
   "k4doby_gen": {
@@ -48105,9 +48003,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 4: Generated year of birth"
   },
   "k4dobm_gen": {
@@ -48240,9 +48135,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 4: Generated month of birth"
   },
   "child5": {
@@ -48290,9 +48182,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 5 existing"
   },
   "cid5": {
@@ -48333,9 +48222,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 5: Person number"
   },
   "reschild5": {
@@ -48388,9 +48274,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 5: Participation in children's survey"
   },
   "parentidk5": {
@@ -48863,9 +48746,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 5: Person number second biological parent"
   },
   "resparchild5_a": {
@@ -48923,9 +48803,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 5: Participation parenting survey - anchor"
   },
   "resparchild5_p": {
@@ -48983,9 +48860,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 5: Participation parenting survey - partner"
   },
   "k5doby_gen": {
@@ -49158,9 +49032,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 5: Generated year of birth"
   },
   "k5dobm_gen": {
@@ -49293,9 +49164,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 5: Generated month of birth"
   },
   "child6": {
@@ -49343,9 +49211,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 6 existing"
   },
   "cid6": {
@@ -49386,9 +49251,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 6: Person number"
   },
   "reschild6": {
@@ -49441,9 +49303,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 6: Participation in children's survey"
   },
   "parentidk6": {
@@ -49596,9 +49455,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 6: Person number second biological parent"
   },
   "resparchild6_a": {
@@ -49656,9 +49512,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 6: Participation parenting survey - anchor"
   },
   "resparchild6_p": {
@@ -49716,9 +49569,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 6: Participation parenting survey - partner"
   },
   "k6doby_gen": {
@@ -49846,9 +49696,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 6: Generated year of birth"
   },
   "k6dobm_gen": {
@@ -49981,9 +49828,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 6: Generated month of birth"
   },
   "child7": {
@@ -50031,9 +49875,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 7 existing"
   },
   "cid7": {
@@ -50074,9 +49915,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 7: Person number"
   },
   "reschild7": {
@@ -50129,9 +49967,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 7: Participation in children's survey"
   },
   "parentidk7": {
@@ -50229,9 +50064,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 7: Person number second biological parent"
   },
   "resparchild7_a": {
@@ -50289,9 +50121,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 7: Participation parenting survey - anchor"
   },
   "resparchild7_p": {
@@ -50349,9 +50178,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 7: Participation parenting survey - partner"
   },
   "k7doby_gen": {
@@ -50464,9 +50290,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 7: Generated year of birth"
   },
   "k7dobm_gen": {
@@ -50589,9 +50412,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 7: Generated month of birth"
   },
   "child8": {
@@ -50639,9 +50459,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 8 existing"
   },
   "cid8": {
@@ -50682,9 +50499,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 8: Person number"
   },
   "reschild8": {
@@ -50737,9 +50551,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 8: Participation in children's survey"
   },
   "parentidk8": {
@@ -50817,9 +50628,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 8: Person number second biological parent"
   },
   "resparchild8_a": {
@@ -50877,9 +50685,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 8: Participation parenting survey - anchor"
   },
   "resparchild8_p": {
@@ -50937,9 +50742,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 8: Participation parenting survey - partner"
   },
   "k8doby_gen": {
@@ -51017,9 +50819,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 8: Generated year of birth"
   },
   "k8dobm_gen": {
@@ -51117,9 +50916,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 8: Generated month of birth"
   },
   "child9": {
@@ -51167,9 +50963,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 9 existing"
   },
   "cid9": {
@@ -51210,9 +51003,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 9: Person number"
   },
   "reschild9": {
@@ -51265,9 +51055,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 9: Participation in children's survey"
   },
   "parentidk9": {
@@ -51335,9 +51122,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 9: Person number second biological parent"
   },
   "resparchild9_a": {
@@ -51395,9 +51179,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 9: Participation parenting survey - anchor"
   },
   "resparchild9_p": {
@@ -51455,9 +51236,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 9: Participation parenting survey - partner"
   },
   "k9doby_gen": {
@@ -51520,9 +51298,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 9: Generated year of birth"
   },
   "k9dobm_gen": {
@@ -51610,9 +51385,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 9: Generated month of birth"
   },
   "child10": {
@@ -51660,9 +51432,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 10 existing"
   },
   "cid10": {
@@ -51703,9 +51472,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 10: Person number"
   },
   "reschild10": {
@@ -51758,9 +51524,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 10: Participation in children's survey"
   },
   "parentidk10": {
@@ -51823,9 +51586,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 10: Person number second biological parent"
   },
   "resparchild10_a": {
@@ -51883,9 +51643,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 10: Participation parenting survey - anchor"
   },
   "resparchild10_p": {
@@ -51943,9 +51700,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 10: Participation parenting survey - partner"
   },
   "k10doby_gen": {
@@ -52003,9 +51757,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 10: Generated year of birth"
   },
   "k10dobm_gen": {
@@ -52083,9 +51834,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Child 10: Generated month of birth"
   },
   "resfather": {
@@ -52158,9 +51906,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Participation in parent survey: father"
   },
   "resmother": {
@@ -52233,9 +51978,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Participation in parent survey: mother"
   },
   "resstepfather": {
@@ -52308,9 +52050,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Participation in parent survey: stepfather"
   },
   "resstepmother": {
@@ -52383,9 +52122,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Participation in parent survey: stepmother"
   },
   "cohort": {
@@ -52438,9 +52174,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Birth cohort"
   },
   "demodiff": {
@@ -52483,9 +52216,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "DemoDiff Stichprobe"
   },
   "sex_gen": {
@@ -52548,9 +52278,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
     "label_de": "Generated sex anchor"
   }
 }

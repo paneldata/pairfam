@@ -35,9 +35,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Personennummer Anker"
   },
   "pid": {
@@ -78,9 +78,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Personennummer Partner"
   },
   "cid": {
@@ -119,9 +119,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Personennummer Kind"
   },
   "demodiff": {
@@ -164,9 +164,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "DemoDiff Stichprobe"
   },
   "wave": {
@@ -224,9 +224,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Erhebungsjahr"
   },
   "dropoffvers": {
@@ -284,9 +284,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Drop-Off Version: Befragte Person?"
   },
   "pcr1i1": {
@@ -364,9 +364,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sie zeigen Ihrem Kind mit Worten und Gesten, dass Sie es gerne haben (Frage 1)"
   },
   "pcr1i2": {
@@ -444,9 +444,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr1i15": {
@@ -524,9 +524,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr1i3": {
@@ -604,9 +604,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sie kritisieren Ihr Kind (Frage 1)"
   },
   "pcr1i4": {
@@ -684,9 +684,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr1i5": {
@@ -764,9 +764,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr1i18": {
@@ -844,9 +844,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sie lassen sich nicht von Ihren Regeln und Verboten abbringen (Frage 1)"
   },
   "pcr1i19": {
@@ -924,9 +924,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wenn Ihr Kind etwas gegen Ihren Willen tut, bestrafen Sie es (Frage 1)"
   },
   "pcr1i6": {
@@ -1004,9 +1004,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr1i7": {
@@ -1084,9 +1084,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr1i8": {
@@ -1164,9 +1164,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sie schreien Ihr Kind an, wenn es etwas falsch gemacht hat (Frage 1)"
   },
   "pcr1i16": {
@@ -1244,9 +1244,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr1i9": {
@@ -1324,9 +1324,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wenn Kind unterwegs war, fragen Sie nach, was es getan und erlebt hat (Frage 1)"
   },
   "pcr1i10": {
@@ -1404,9 +1404,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Es gibt Tage, an denen Sie strenger sind als an anderen (Frage 1)"
   },
   "pcr1i20": {
@@ -1484,9 +1484,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sie geben Kind zu verstehen, dass es sich nicht widersetzen soll (Frage 1)"
   },
   "pcr1i17": {
@@ -1564,9 +1564,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sie reden eine Zeit lang nicht mit Kind, wenn es etwas angestellt hat (Frage 1)"
   },
   "pcr1i11": {
@@ -1644,9 +1644,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr1i21": {
@@ -1724,9 +1724,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sie sind eher streng (Frage 1)"
   },
   "pcr1i12": {
@@ -1804,9 +1804,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wenn Ihr Kind neue Freunde hat, lernen Sie sie auch bald kennen (Frage 1)"
   },
   "pcr1i13": {
@@ -1884,9 +1884,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sie drohen Ihrem Kind eine Strafe an, strafen es dann aber doch nicht (Frage 1)"
   },
   "pcr1i14": {
@@ -1964,9 +1964,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sie loben Ihr Kind (Frage 1)"
   },
   "sdqpi1": {
@@ -2034,9 +2034,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi2": {
@@ -2104,9 +2104,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi3": {
@@ -2174,9 +2174,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi4": {
@@ -2244,9 +2244,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi5": {
@@ -2314,9 +2314,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi6": {
@@ -2384,9 +2384,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi7": {
@@ -2454,9 +2454,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Im Allgemeinen folgsam; macht meist, was Erwachsene verlangen (Frage 2)"
   },
   "sdqpi8": {
@@ -2524,9 +2524,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi9": {
@@ -2594,9 +2594,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi10": {
@@ -2664,9 +2664,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi11": {
@@ -2734,9 +2734,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Hat wenigstens einen guten Freund oder eine gute Freundin (Frage 2)"
   },
   "sdqpi12": {
@@ -2804,9 +2804,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Streitet sich oft mit anderen Kindern oder schikaniert sie (Frage 2)"
   },
   "sdqpi13": {
@@ -2874,9 +2874,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi14": {
@@ -2944,9 +2944,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Im Allgemeinen bei anderen Kindern beliebt (Frage 2)"
   },
   "sdqpi15": {
@@ -3014,9 +3014,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Leicht ablenkbar, unkonzentriert (Frage 2)"
   },
   "sdqpi16": {
@@ -3084,9 +3084,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi17": {
@@ -3154,9 +3154,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi18": {
@@ -3224,9 +3224,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi19": {
@@ -3294,9 +3294,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi20": {
@@ -3364,9 +3364,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Hilft anderen oft freiwillig (Eltern, Lehrern, anderen Kindern) (Frage 2)"
   },
   "sdqpi21": {
@@ -3434,9 +3434,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Denkt nach, bevor er/sie handelt (Frage 2)"
   },
   "sdqpi22": {
@@ -3504,9 +3504,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Stiehlt zu Hause, in der Schule oder anderswo (Frage 2)"
   },
   "sdqpi23": {
@@ -3574,9 +3574,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Kommt besser mit Erwachsenen aus als mit anderen Kindern (Frage 2)"
   },
   "sdqpi24": {
@@ -3644,9 +3644,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sdqpi25": {
@@ -3714,9 +3714,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr2i1": {
@@ -3794,9 +3794,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr2i2": {
@@ -3874,9 +3874,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wenn es Probleme in der Erziehung gibt, liegt das an meinem Kind (Frage 3)"
   },
   "pcr2i3": {
@@ -3954,9 +3954,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr3i1": {
@@ -4034,9 +4034,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr3i2": {
@@ -4114,9 +4114,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Die Dinge, die Ihr Kind tut, werden von Ihnen anerkannt (Frage 4)"
   },
   "pcr3i3": {
@@ -4194,9 +4194,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Ihr Kind bringt Sie dazu, dass Sie sich nach ihm richten (Frage 4)"
   },
   "pcr3i4": {
@@ -4274,9 +4274,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr3i5": {
@@ -4354,9 +4354,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sie zeigen Ihrem Kind, dass Sie es gut finden (Frage 4)"
   },
   "pcr3i6": {
@@ -4434,9 +4434,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sie und Ihr Kind sind unterschiedlicher Meinung und streiten sich (Frage 4)"
   },
   "pcr3i7": {
@@ -4514,9 +4514,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "pcr3i8": {
@@ -4594,9 +4594,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "edu1": {
@@ -4669,9 +4669,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "edu2": {
@@ -4744,9 +4744,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Mit welchem Schulabschluss wird Ihr Kind die Schule verlassen? (Frage 6)"
   },
   "edu3": {
@@ -4819,9 +4819,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "edu4": {
@@ -4899,9 +4899,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "edu5i1": {
@@ -4964,9 +4964,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Zusatz- oder Nachhilfestunden in Mathe (Frage 9)"
   },
   "edu5i2": {
@@ -5029,9 +5029,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Zusatz- oder Nachhilfestunden in Deutsch (Frage 9)"
   },
   "edu5i3": {
@@ -5094,9 +5094,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Zusatz- oder Nachhilfestunden in Fremdsprachen (Frage 9)"
   },
   "edu5i4": {
@@ -5159,9 +5159,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Zusatz- oder Nachhilfestunden in anderem Fach (Frage 9)"
   },
   "edu6": {
@@ -5434,9 +5434,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "parent",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   }
 }

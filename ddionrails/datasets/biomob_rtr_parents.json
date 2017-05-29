@@ -35,9 +35,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Person number anchor"
   },
   "demodiff": {
@@ -80,9 +80,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "DemoDiff sample"
   },
   "cohort": {
@@ -135,9 +135,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Birth cohort"
   },
   "dob": {
@@ -675,9 +675,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Date of birth"
   },
   "sex": {
@@ -740,9 +740,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Sex anchor"
   },
   "wave1": {
@@ -815,9 +815,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Survey year wave1"
   },
   "wave2": {
@@ -890,9 +890,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Survey year wave2"
   },
   "wave3": {
@@ -965,9 +965,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Survey year wave3"
   },
   "intdatw1": {
@@ -1080,9 +1080,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Date of interview wave1"
   },
   "intdatw2": {
@@ -1160,9 +1160,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Date of interview wave2"
   },
   "intdatw3": {
@@ -1240,9 +1240,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Date of interview wave3"
   },
   "respw2": {
@@ -1290,9 +1290,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Respondent in wave 2"
   },
   "respw3": {
@@ -1340,9 +1340,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Respondent in wave 3"
   },
   "presindex": {
@@ -1400,9 +1400,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Number of episode at parental household"
   },
   "presbeg": {
@@ -3045,9 +3045,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Begin of episode at parental household"
   },
   "presend": {
@@ -4695,9 +4695,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "End of episode at parental household"
   },
   "prescensor": {
@@ -4760,9 +4760,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Censor"
   },
   "presflag1": {
@@ -4835,9 +4835,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Ambigious information on month (Begin)"
   },
   "presflag2": {
@@ -4910,9 +4910,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Ambigious information on month (End)"
   },
   "presflag3": {
@@ -4979,9 +4979,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Unknown information on month (Begin)"
   },
   "presflag4": {
@@ -5048,9 +5048,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "retrospective",
     "label_de": "Unknown information on month (End)"
   }
 }

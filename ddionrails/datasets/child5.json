@@ -35,9 +35,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Personennummer Anker"
   },
   "pid": {
@@ -4268,9 +4268,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Personennummer Partner"
   },
   "cid": {
@@ -4309,9 +4309,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Personennummer Kind"
   },
   "demodiff": {
@@ -4354,9 +4354,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "DemoDiff Stichprobe"
   },
   "wave": {
@@ -4414,9 +4414,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Erhebungsjahr"
   },
   "cnr": {
@@ -4559,9 +4559,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Kinder-Nummer, d h CAPI-Kind ist Kind mit Nummer  "
   },
   "csex": {
@@ -4639,9 +4639,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Geschlecht Kind"
   },
   "cdobd": {
@@ -4714,9 +4714,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Tag Geburt (Frage 1)"
   },
   "cdobm": {
@@ -4844,9 +4844,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Monat Geburt Kind (Frage 1)"
   },
   "cdoby": {
@@ -4885,9 +4885,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Jahr Geburt Kind (Frage 1)"
   },
   "cedu9": {
@@ -4965,9 +4965,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Gehst Du denn noch zur Schule? (Frage 2)"
   },
   "cedu1a": {
@@ -5115,9 +5115,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu1ao": {
@@ -5190,9 +5190,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sonstige Schulart"
   },
   "cedu2": {
@@ -5315,9 +5315,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Und in welcher Klasse bist Du? (Frage 4)"
   },
   "cedu10": {
@@ -5409,9 +5409,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu11": {
@@ -5473,9 +5473,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Welche Durchschnittsnote hast Du bei Deinem Schulabschluss erreicht? (Frage 6)"
   },
   "cedu12i1": {
@@ -5577,9 +5577,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Letztes Zeugnis: Note - Mathe (Frage 7)"
   },
   "cedu12i2": {
@@ -5681,9 +5681,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Letztes Zeugnis: Note - Deutsch (Frage 7)"
   },
   "cedu13i1": {
@@ -5755,9 +5755,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i2": {
@@ -5829,9 +5829,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i3": {
@@ -5903,9 +5903,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i4": {
@@ -5977,9 +5977,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i5": {
@@ -6051,9 +6051,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i6": {
@@ -6125,9 +6125,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i7": {
@@ -6199,9 +6199,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i8": {
@@ -6273,9 +6273,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i9": {
@@ -6347,9 +6347,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i10": {
@@ -6421,9 +6421,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i11": {
@@ -6495,9 +6495,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i12": {
@@ -6569,9 +6569,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i13": {
@@ -6643,9 +6643,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i14": {
@@ -6717,9 +6717,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i15": {
@@ -6791,9 +6791,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu13i16": {
@@ -6865,9 +6865,9 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu6i1": {
@@ -6960,9 +6960,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Die meisten in meiner Klasse sind nett und hilfsbereit (Frage 9)"
   },
   "cedu6i2": {
@@ -7055,9 +7055,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu6i3": {
@@ -7150,9 +7150,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu6i4": {
@@ -7245,9 +7245,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cinc25i1": {
@@ -7340,9 +7340,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cinc25i2": {
@@ -7435,9 +7435,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cinc25i3": {
@@ -7530,9 +7530,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "In meiner Familie ist das Geld meistens knapp (Frage 10)"
   },
   "chlt0a": {
@@ -7625,9 +7625,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu7i1": {
@@ -7720,9 +7720,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Ich bin lieber allein als mit anderen zusammen (Frage 12)"
   },
   "cedu7i2": {
@@ -7815,9 +7815,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Ich habe viele Freunde (Frage 12)"
   },
   "cedu7i3": {
@@ -7910,9 +7910,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cedu7i4": {
@@ -8005,9 +8005,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Andere sind gemein zu mir (Frage 12)"
   },
   "cedu7i5": {
@@ -8100,9 +8100,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Die anderen lassen mich oft nicht mitmachen (Frage 12)"
   },
   "cedu7i6": {
@@ -8195,9 +8195,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cbf0": {
@@ -8275,9 +8275,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Angabe, dass kein Freund/Freundin (Frage 13)"
   },
   "cbf1i1": {
@@ -8370,9 +8370,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cbf1i2": {
@@ -8465,9 +8465,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cbf1i3": {
@@ -8560,9 +8560,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cbf1i4": {
@@ -8655,9 +8655,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr1": {
@@ -8735,9 +8735,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Du lebst hier mit [alle Personen im gleichen Haushalt]. Richtig? (Frage 15)"
   },
   "cpcr2": {
@@ -8815,9 +8815,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Kennst Du [Name Ankerperson]? (Frage 16)"
   },
   "cpcr3": {
@@ -8895,9 +8895,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Kennst Du [Name Partner von Ankerperson]? (Frage 17)"
   },
   "cpcr4": {
@@ -8970,9 +8970,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Name Ankerperson (Frage 18)"
   },
   "cpcr5": {
@@ -9045,9 +9045,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Name Partner der Ankerperson (Frage 19)"
   },
   "cpcr6i1": {
@@ -9140,9 +9140,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Anker] zeigt Dir, dass er/sie Dich gerne hat (Frage 20)"
   },
   "cpcr6i10": {
@@ -9235,9 +9235,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr6i3": {
@@ -9330,9 +9330,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr6i5": {
@@ -9425,9 +9425,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr6i11": {
@@ -9520,9 +9520,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Anker] schreit Dich an, wenn etwas falsch gemacht (Frage 20)"
   },
   "cpcr6i7": {
@@ -9615,9 +9615,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr6i12": {
@@ -9710,9 +9710,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr6i9": {
@@ -9805,9 +9805,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Anker] lobt Dich (Frage 20)"
   },
   "cpcr10i1": {
@@ -9900,9 +9900,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr10i2": {
@@ -9995,9 +9995,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr10i3": {
@@ -10090,9 +10090,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wenn Fehler gemacht, fragst, ob [Anker] Dich mag (Frage 21)"
   },
   "cpcr7i1": {
@@ -10185,9 +10185,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr7i2": {
@@ -10280,9 +10280,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Die Dinge, die Du tust, werden von [Anker] anerkannt (Frage 22)"
   },
   "cpcr7i4": {
@@ -10375,9 +10375,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr7i5": {
@@ -10470,9 +10470,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Anker] zeigt Dir, dass er/sie Dich gut findet (Frage 22)"
   },
   "cpcr7i6": {
@@ -10565,9 +10565,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 22)"
   },
   "cpcr7i8": {
@@ -10660,9 +10660,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr8i1": {
@@ -10755,9 +10755,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr8i2": {
@@ -10850,9 +10850,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Dinge, die Du tust, werden von [Partner d. Ankers] anerkannt (Frage 23)"
   },
   "cpcr8i4": {
@@ -10945,9 +10945,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr8i5": {
@@ -11040,9 +11040,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Partner d. Ankers] zeigt Dir, dass er/sie Dich gut findet (Frage 23)"
   },
   "cpcr8i6": {
@@ -11135,9 +11135,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 23)"
   },
   "cpcr8i8": {
@@ -11230,9 +11230,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr11i1": {
@@ -11325,9 +11325,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr11i2": {
@@ -11420,9 +11420,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr11i3": {
@@ -11515,9 +11515,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wenn Fehler gemacht, fragst, ob [Partner d. Ankers] Dich mag (Frage 24)"
   },
   "cpcr9i1": {
@@ -11610,9 +11610,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Partner d. Ankers] zeigt Dir, dass er/sie Dich gerne hat (Frage 25)"
   },
   "cpcr9i10": {
@@ -11705,9 +11705,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr9i3": {
@@ -11800,9 +11800,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr9i5": {
@@ -11895,9 +11895,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr9i11": {
@@ -11990,9 +11990,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Partner d. Ankers] schreit Dich an, wenn etwas falsch gemacht (Frage 25)"
   },
   "cpcr9i7": {
@@ -12085,9 +12085,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr9i12": {
@@ -12180,9 +12180,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr9i9": {
@@ -12275,9 +12275,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Partner d. Ankers] lobt Dich (Frage 25)"
   },
   "cpcr12": {
@@ -12355,9 +12355,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Hast Du leiblichen Vater/ Mutter, der/die nicht hier mit Dir lebt? (Frage 26)"
   },
   "cpcr13": {
@@ -12430,9 +12430,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr14": {
@@ -12540,9 +12540,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wie oft siehst Du [anderer Elternteil extern]? (Frage 28)"
   },
   "cpcr15": {
@@ -12650,9 +12650,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr16i1": {
@@ -12745,9 +12745,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr16i2": {
@@ -12840,9 +12840,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Dinge, die Du tust, werden von [anderer Elternteil ext.] anerkannt (Frage 30)"
   },
   "cpcr16i4": {
@@ -12935,9 +12935,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr16i5": {
@@ -13030,9 +13030,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Anderer Elternteil ext.] zeigt Dir, dass er/sie Dich gut findet (Frage 30)"
   },
   "cpcr16i6": {
@@ -13125,9 +13125,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 30)"
   },
   "cpcr16i8": {
@@ -13220,9 +13220,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr17i1": {
@@ -13315,9 +13315,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr17i2": {
@@ -13410,9 +13410,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr17i3": {
@@ -13505,9 +13505,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wenn Fehler gemacht, fragst, ob [anderer Elternteil ext.] Dich mag (Frage 31)"
   },
   "cpcr18i1": {
@@ -13600,9 +13600,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Anderer Elternteil ext.] zeigt Dir, dass er/sie Dich gerne hat (Frage 32)"
   },
   "cpcr18i2": {
@@ -13695,9 +13695,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Anderer Elternteil ext.] ist sehr streng (Frage 32)"
   },
   "cpcr18i3": {
@@ -13790,9 +13790,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr18i4": {
@@ -13885,9 +13885,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Anderer Elternteil ext.] bestraft Dich, wenn Du gegen Willen tust (Frage 32)"
   },
   "cpcr18i6": {
@@ -13980,9 +13980,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Anderer Elternteil ext.] meint, immer Recht & Du nicht widersprechen (Frage 32)"
   },
   "cpcr18i8": {
@@ -14075,9 +14075,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cpcr18i9": {
@@ -14170,9 +14170,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "[Anderer Elternteil ext.] lobt Dich (Frage 32)"
   },
   "crom1": {
@@ -14250,9 +14250,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Hattest Du schon einmal einen/eine festen Freund/feste Freundin? (Frage 33)"
   },
   "crom2": {
@@ -14375,9 +14375,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Alter zum ersten Mal einen/eine festen Freund/feste Freundin? (Frage 34)"
   },
   "crom3": {
@@ -14455,9 +14455,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Hattest Du schon einmal Liebeskummer? (Frage 35)"
   },
   "crom4": {
@@ -14550,9 +14550,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "crom5": {
@@ -14635,9 +14635,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wie lange hat dieser Liebeskummer gedauert? (Frage 37)"
   },
   "crom6": {
@@ -14715,9 +14715,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Hast Du aktuell einen festen Freund/eine feste Freundin? (Frage 38)"
   },
   "crom7": {
@@ -14795,9 +14795,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "crom8": {
@@ -14920,9 +14920,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wie alt ist [Name fester Freund/feste Freundin]? (Frage 40)"
   },
   "csexff": {
@@ -15000,9 +15000,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "crom9": {
@@ -15210,9 +15210,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wie lange seid Ihr schon zusammen (in Monaten)? (Frage 41)"
   },
   "crom10": {
@@ -15325,9 +15325,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wie habt Ihr Euch kennengelernt? (Frage 42)"
   },
   "crom11i1": {
@@ -15420,9 +15420,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "crom11i2": {
@@ -15515,9 +15515,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Die Dinge, die Du tust, werden von ihm/ihr anerkannt (Frage 43)"
   },
   "crom11i3": {
@@ -15610,9 +15610,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "crom11i4": {
@@ -15705,9 +15705,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "crom11i5": {
@@ -15800,9 +15800,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Er/Sie zeigt Dir, dass er/sie Dich gut findet (Frage 43)"
   },
   "crom11i6": {
@@ -15895,9 +15895,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 43)"
   },
   "crom11i7": {
@@ -15990,9 +15990,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "crom11i8": {
@@ -16085,9 +16085,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "crom11i9": {
@@ -16180,9 +16180,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Du bist unzufrieden in dieser Beziehung (Frage 43)"
   },
   "crom12i1": {
@@ -16275,9 +16275,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Angst er/sie lieber mit anderen Leuten zusammen und nicht mit Dir (Frage 44)"
   },
   "crom12i2": {
@@ -16370,9 +16370,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "crom12i3": {
@@ -16465,9 +16465,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Nicht sicher ob er/sie so gern mit Dir zusammen, wie Du mit ihm/ihr (Frage 44)"
   },
   "crom12i4": {
@@ -16560,9 +16560,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "crom12i5": {
@@ -16655,9 +16655,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "chlt1": {
@@ -16735,9 +16735,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Hast Du schon einmal Alkohol getrunken? (Frage 45)"
   },
   "chlt2": {
@@ -16840,9 +16840,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "chlt3": {
@@ -16960,9 +16960,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Anzahl Zigaretten (pro Woche)? (Frage 47)"
   },
   "csdq1i1": {
@@ -17045,9 +17045,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i16": {
@@ -17130,9 +17130,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i2": {
@@ -17215,9 +17215,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Ich bin oft unruhig; ich kann lange nicht stillsitzen (Frage 49)"
   },
   "csdq1i3": {
@@ -17300,9 +17300,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i4": {
@@ -17385,9 +17385,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i17": {
@@ -17470,9 +17470,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i5": {
@@ -17555,9 +17555,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i22": {
@@ -17640,9 +17640,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i7": {
@@ -17725,9 +17725,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Normalerweise tue ich, was man mir sagt (Frage 49)"
   },
   "csdq1i8": {
@@ -17810,9 +17810,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i9": {
@@ -17895,9 +17895,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Ich bin hilfsbereit, wenn andere verletzt oder traurig sind (Frage 49)"
   },
   "csdq1i18": {
@@ -17980,9 +17980,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i10": {
@@ -18065,9 +18065,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Ich bin dauernd in Bewegung und zappelig (Frage 49)"
   },
   "csdq1i21": {
@@ -18150,9 +18150,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Ich denke nach, bevor ich handle (Frage 49)"
   },
   "csdq1i12": {
@@ -18235,9 +18235,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i25": {
@@ -18320,9 +18320,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Was angefangen habe, mache zu Ende; kann lange konzentrieren (Frage 49)"
   },
   "csdq1i13": {
@@ -18405,9 +18405,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i24": {
@@ -18490,9 +18490,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "csdq1i15": {
@@ -18575,9 +18575,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Lasse mich leicht ablenken; finde es schwer, zu konzentrieren (Frage 49)"
   },
   "csdq1i20": {
@@ -18660,9 +18660,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "SDQ: Helfe anderen oft freiwillig (Eltern, Lehrern o. Gleichaltrigen) (Frage 49)"
   },
   "clsr1i3": {
@@ -18755,9 +18755,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Freizeit: Dich mit Freunden treffen (Frage 48)"
   },
   "clsr1i9": {
@@ -18850,9 +18850,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Freizeit: Unternehmungen mit der Familie (Frage 48)"
   },
   "clsr1i15": {
@@ -18945,9 +18945,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Freizeit: Dinge alleine machen (Frage 48)"
   },
   "ccp1": {
@@ -19020,9 +19020,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Wiederbefragungsbereitschaft im Rahmen des Ankercapis (Frage 50)"
   },
   "ccp2": {
@@ -19090,9 +19090,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cint1i1": {
@@ -19160,9 +19160,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cint1i2": {
@@ -19230,9 +19230,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Ankerperson/Partner der Ankerperson anwesend (Text 10)"
   },
   "cint1i3": {
@@ -19300,9 +19300,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Kinder anwesend (Text 10)"
   },
   "cint1i4": {
@@ -19370,9 +19370,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "cint1i5": {
@@ -19440,9 +19440,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Sonstige Personen anwesend (Text 10)"
   },
   "cint2": {
@@ -19515,9 +19515,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Hat jemand von den anwesenden Personen in das Interview eingegriffen? (Text 11)"
   },
   "duration": {
@@ -19558,9 +19558,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Dauer des Interviews"
   },
   "relstatac": {
@@ -19668,9 +19668,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Beziehungsstatus der Ankerperson zum befragten Kind"
   },
   "cinty": {
@@ -19709,9 +19709,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Jahr Interview"
   },
   "cintm": {
@@ -19750,9 +19750,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Monat Interview"
   },
   "cintd": {
@@ -19791,9 +19791,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Tag Interview"
   },
   "cagey": {
@@ -19832,9 +19832,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Alter des Kindes in Jahren"
   },
   "cagem": {
@@ -19873,9 +19873,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Alter des Kindes in Monaten"
   },
   "ctitlea": {
@@ -19958,9 +19958,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Benennung der Ankerperson durch das Kind"
   },
   "ctitlep": {
@@ -20043,9 +20043,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Benennung des Partners der Ankerperson durch das Kind"
   },
   "ctitleop": {
@@ -20128,9 +20128,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "NA"
   },
   "sex": {
@@ -20208,9 +20208,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Geschlecht Ankerperson"
   },
   "cflag1": {
@@ -20253,9 +20253,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Inconsistency sex of child between statement of interviewer and anchor"
   },
   "cflag2": {
@@ -20298,9 +20298,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Inconsistency year of child`s birth between statement of anchor and child"
   },
   "tag_csex": {
@@ -20348,9 +20348,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Inconsistency between waves: child`s sex"
   },
   "tag_cdoby": {
@@ -20398,9 +20398,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Inconsistency between waves: child`s year of birth"
   },
   "tag_cdobm": {
@@ -20448,9 +20448,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Inconsistency between waves: child`s month of birth"
   },
   "l391s": {
@@ -20538,9 +20538,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "child",
+    "sub_type": "org/net",
+    "period": "wave5",
     "label_de": "Status Kind in Bezug auf Anker"
   }
 }

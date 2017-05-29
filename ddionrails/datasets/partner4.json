@@ -35,9 +35,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Personennummer Anker"
   },
   "pid": {
@@ -76,9 +76,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Personennummer Partner"
   },
   "demodiff": {
@@ -121,9 +121,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "DemoDiff Stichprobe"
   },
   "wave": {
@@ -161,9 +161,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Welle"
   },
   "pval2i2": {
@@ -246,9 +246,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pval2i5": {
@@ -331,9 +331,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pval2i6": {
@@ -416,9 +416,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "psat1i1": {
@@ -531,9 +531,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Zufriedenheit mit Schule, Ausbildung, Beruf (Frage 2)"
   },
   "psat1i2": {
@@ -646,9 +646,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Zufriedenheit mit Freizeitgestaltung, Hobbys, Interessen (Frage 2)"
   },
   "psat1i3": {
@@ -761,9 +761,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Zufriedenheit mit Freunde, Bekannte, soziale Kontakte (Frage 2)"
   },
   "psat1i4": {
@@ -876,9 +876,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Zufriedenheit mit Familie (Frage 2)"
   },
   "psrs1i1": {
@@ -1001,9 +1001,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Wichtigkeit Lebensbereich Ausbildung bzw. berufl. Interessen verfolgen(Frage 3)"
   },
   "psrs1i2": {
@@ -1126,9 +1126,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Wichtigkeit Lebensbereich Hobbys und Interessen nachgehen (Frage 3)"
   },
   "psrs1i3": {
@@ -1251,9 +1251,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Wichtigkeit Lebensbereich Kontakte zu Freunden pflegen (Frage 3)"
   },
   "psrs1i4": {
@@ -1391,9 +1391,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Wichtigkeit Lebensbereich in einer Partnerschaft leben (Frage 3)"
   },
   "psrs1i5": {
@@ -1521,9 +1521,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Wichtigkeit Lebensbereich Kind bzw. weitere Kinder bekommen (Frage 3)"
   },
   "psat3": {
@@ -1636,9 +1636,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Zufriedenheit mit Beziehung (Frage 4)"
   },
   "psat4": {
@@ -1751,9 +1751,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa9": {
@@ -1841,9 +1841,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa11": {
@@ -1931,9 +1931,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa13": {
@@ -2006,9 +2006,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa14i1": {
@@ -2101,9 +2101,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Arbeitsteilung: Hausarbeit (Frage 9)"
   },
   "ppa14i2": {
@@ -2196,9 +2196,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Arbeitsteilung: Einkaufen (Frage 9)"
   },
   "ppa14i3": {
@@ -2291,9 +2291,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Arbeitsteilung: Reparaturen (Frage 9)"
   },
   "ppa14i4": {
@@ -2386,9 +2386,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa14i5": {
@@ -2481,9 +2481,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Arbeitsteilung: Kinderbetreuung(Frage 9)"
   },
   "ppa22pi1": {
@@ -2566,9 +2566,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Fremdbeurteilung: Partner beleidigen oder beschimpfen (Frage 10)"
   },
   "ppa22pi2": {
@@ -2651,9 +2651,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Fremdbeurteilung: In Schweigen verfallen (Frage 10)"
   },
   "ppa22pi3": {
@@ -2736,9 +2736,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Fremdbeurteilung: Partner anschreien (Frage 10)"
   },
   "ppa22pi4": {
@@ -2821,9 +2821,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa22pi5": {
@@ -2906,9 +2906,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa22pi8": {
@@ -2991,9 +2991,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa22ri1": {
@@ -3076,9 +3076,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Selbstbeurteilung: Partner beleidigen oder beschimpfen (Frage 10)"
   },
   "ppa22ri2": {
@@ -3161,9 +3161,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Selbstbeurteilung: In Schweigen verfallen (Frage 10)"
   },
   "ppa22ri3": {
@@ -3246,9 +3246,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Selbstbeurteilung: Partner anschreien (Frage 10)"
   },
   "ppa22ri4": {
@@ -3331,9 +3331,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa22ri5": {
@@ -3416,9 +3416,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa22ri8": {
@@ -3501,9 +3501,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa17i1": {
@@ -3586,9 +3586,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa17i2": {
@@ -3671,9 +3671,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa17i3": {
@@ -3756,9 +3756,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa17i4": {
@@ -3841,9 +3841,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa17i5": {
@@ -3926,9 +3926,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa17i6": {
@@ -4011,9 +4011,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa17i7": {
@@ -4096,9 +4096,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa17i8": {
@@ -4181,9 +4181,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "ppa26": {
@@ -4251,9 +4251,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Gedacht, dass Partnerschaft in Schwierigkeiten (im letzten Jahr) (Frage 12)"
   },
   "ppa27": {
@@ -4321,9 +4321,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ernsthaft an Trennung oder Scheidung gedacht (im letzten Jahr) (Frage 13)"
   },
   "ppa28": {
@@ -4391,9 +4391,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ernsthaft Trennung oder Scheidung vorgeschlagen (im letzten Jahr) (Frage 14)"
   },
   "psex5": {
@@ -4466,9 +4466,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "psex7": {
@@ -4551,9 +4551,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "psat5": {
@@ -4666,9 +4666,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Zufriedenheit mit Sexualleben (Frage 17)"
   },
   "pbce2i1": {
@@ -4756,9 +4756,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pbce2i2": {
@@ -4846,9 +4846,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "VOC+: Besonders enge emotionale Beziehung zu Kindern (Frage 18)"
   },
   "pbce2i3": {
@@ -4936,9 +4936,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pbce2i4": {
@@ -5026,9 +5026,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pbce2i5": {
@@ -5116,9 +5116,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "VOC+: Neue Anregungen von erwachsenen Kindern (Frage 18)"
   },
   "pbce2i6": {
@@ -5206,9 +5206,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pbce2i7": {
@@ -5296,9 +5296,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "VOC-: Kinder sind nervliche Belastung (Frage 18)"
   },
   "pbce2i8": {
@@ -5386,9 +5386,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "VOC-: Berufliche Ziele mit Kindern nicht erreichen (Frage 18)"
   },
   "pbce2i9": {
@@ -5476,9 +5476,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pbce2i10": {
@@ -5566,9 +5566,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt5": {
@@ -5691,9 +5691,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ideale Kinderzahl (Frage 19)"
   },
   "pfrt27": {
@@ -5767,9 +5767,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt28": {
@@ -5853,9 +5853,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Realistische Zahl weiterer leiblicher und adoptierter Kinder (Frage 20)"
   },
   "pfrt30": {
@@ -5928,9 +5928,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt7": {
@@ -6013,9 +6013,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt9": {
@@ -6263,9 +6263,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt16": {
@@ -6503,9 +6503,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt3": {
@@ -6573,9 +6573,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Versucht, Kind zu zeugen bzw. schwanger zu werden (im letzten Jahr) (Frage 24)"
   },
   "pfrt17": {
@@ -6663,9 +6663,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Einigkeit mit Partner hinischtl. Kinderzahl (Frage 25)"
   },
   "pfrt18": {
@@ -6758,9 +6758,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Einigkeit mit Partner hinsichtl. Zeitpunkt Geburt Kinder (Frage 26)"
   },
   "pfrt10i1": {
@@ -6843,9 +6843,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Freunde finden, dass ich Kind bekommen sollte (Frage 27)"
   },
   "pfrt10i2": {
@@ -6928,9 +6928,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Eltern finden, dass ich Kind bekommen sollte (Frage 27)"
   },
   "pfrt10i3": {
@@ -7013,9 +7013,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt10i4": {
@@ -7098,9 +7098,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt20i1": {
@@ -7183,9 +7183,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt20i2": {
@@ -7268,9 +7268,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt20i3": {
@@ -7353,9 +7353,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt12i1": {
@@ -7443,9 +7443,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt12i2": {
@@ -7533,9 +7533,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt12i3": {
@@ -7623,9 +7623,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt12i4": {
@@ -7713,9 +7713,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pfrt25i1": {
@@ -7803,9 +7803,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "(Potentielle) Auswirkung Elternschaft auf: Schule, Ausbildung, Beruf (Frage 30)"
   },
   "pfrt25i2": {
@@ -7893,9 +7893,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "(Potentielle) Auswirkung Elternschaft auf: Freizeit, Hobbys, Inter. (Frage 30)"
   },
   "pfrt25i3": {
@@ -7983,9 +7983,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "(Potentielle) Auswirkung Elternschaft auf: Freunde, Bekannte, etc. (Frage 30)"
   },
   "pfrt25i4": {
@@ -8073,9 +8073,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "(Potentielle) Auswirkung Elternschaft auf: Partnerschaft (Frage 30)"
   },
   "pcrn21i1": {
@@ -8158,9 +8158,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Probleme Kindererziehung: Meinungsverschiedenheiten(Frage 31)"
   },
   "pcrn21i2": {
@@ -8243,9 +8243,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Probleme Kindererziehung: Diskussionen enden im Streit(Frage 31)"
   },
   "pcrn21i3": {
@@ -8328,9 +8328,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn20i1": {
@@ -8413,9 +8413,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn11i7": {
@@ -8498,9 +8498,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn20i2": {
@@ -8583,9 +8583,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Elternrolle: was ich mir in Erziehung vornehme, kann ich umsetzen (Frage 32)"
   },
   "pcrn11i8": {
@@ -8668,9 +8668,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn20i3": {
@@ -8753,9 +8753,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Elternrolle: selbst in der Hand, wie ich in Erziehung zurecht komme (Frage 32)"
   },
   "pcrn11i9": {
@@ -8838,9 +8838,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich freue mich darauf, mit meinem Kind zusammen zu sein (Frage 32)"
   },
   "pcrn20i4": {
@@ -8923,9 +8923,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn11i10": {
@@ -9008,9 +9008,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr22": {
@@ -9078,9 +9078,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Mutter noch (Frage 33)"
   },
   "pigr25": {
@@ -9148,9 +9148,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Vater noch (Frage 33)"
   },
   "pigr29": {
@@ -9243,9 +9243,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Familienstand der leiblichen (resp. Adoptiv-)Mutter (Frage 34)"
   },
   "pigr34": {
@@ -9338,9 +9338,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Familienstand leiblicher (resp. Adoptiv-) Vater (Frage 34)"
   },
   "pigr101i1": {
@@ -9408,9 +9408,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Mutter mit Vater in gemeinsamen Haushalt? (Frage 35)"
   },
   "pigr101i2": {
@@ -9478,9 +9478,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Mutter mit anderem Partner in gemeinsamen Haushalt? (Frage 35)"
   },
   "pigr101i3": {
@@ -9548,9 +9548,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Mutter mit jemand anderem im Haushalt? (Frage 35)"
   },
   "pigr101i4": {
@@ -9618,9 +9618,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Mutter allein im Haushalt? (Frage 35)"
   },
   "pigr101i5": {
@@ -9688,9 +9688,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Mutter in Alters- oder Pflegeheim? (Frage 35)"
   },
   "pigr101i6": {
@@ -9758,9 +9758,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Mutter sonstiges? (Frage 35)"
   },
   "pigr101i7": {
@@ -9828,9 +9828,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr102i1": {
@@ -9898,9 +9898,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Vater mit Mutter in gemeinsamen Haushalt? (Frage 35)"
   },
   "pigr102i2": {
@@ -9968,9 +9968,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Vater mit anderer Partnerin in gemeinsamen Haushalt? (Frage 35)"
   },
   "pigr102i3": {
@@ -10038,9 +10038,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Vater mit jemand anderem im Haushalt? (Frage 35)"
   },
   "pigr102i4": {
@@ -10108,9 +10108,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Vater allein im Haushalt? (Frage 35)"
   },
   "pigr102i5": {
@@ -10178,9 +10178,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Vater in Alters- oder Pflegeheim? (Frage 35)"
   },
   "pigr102i6": {
@@ -10248,9 +10248,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt Vater sonstiges? (Frage 35)"
   },
   "pigr102i7": {
@@ -10318,9 +10318,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr39p1": {
@@ -10418,9 +10418,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr39p3": {
@@ -10518,9 +10518,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr40p1": {
@@ -10603,9 +10603,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Wie eng mit Mutter heute verbunden (Frage 37)"
   },
   "pigr40p3": {
@@ -10688,9 +10688,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Wie eng mit Vater heute verbunden (Frage 38)"
   },
   "pigr41p1": {
@@ -10783,9 +10783,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Dauer um zu Mutter zu gelangen (Frage 39)"
   },
   "pigr41p3": {
@@ -10878,9 +10878,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Dauer um zu Vater zu gelangen (Frage 39)"
   },
   "pigr42p1": {
@@ -10963,9 +10963,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr42p3": {
@@ -11048,9 +11048,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr45p1": {
@@ -11133,9 +11133,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr45p3": {
@@ -11218,9 +11218,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr47p1": {
@@ -11303,9 +11303,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Wie oft verschiedene Meinung und Streit mit Ihrer Mutter?(Frage 42)"
   },
   "pigr47p3": {
@@ -11388,9 +11388,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Wie oft verschiedene Meinung und Streit mit Ihrem Vater? (Frage 42)"
   },
   "pigr49p1": {
@@ -11473,9 +11473,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr49p3": {
@@ -11558,9 +11558,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr51p1": {
@@ -11628,9 +11628,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr51p3": {
@@ -11698,9 +11698,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr51p1i1": {
@@ -11768,9 +11768,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Mutter: Hilfe von prof. Pflegedienst (Frage 45)"
   },
   "pigr51p1i2": {
@@ -11838,9 +11838,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Mutter: Hilfe von mir (Frage 45)"
   },
   "pigr51p1i3": {
@@ -11908,9 +11908,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Mutter: Hilfe von ihrem (Ehe-)Partner (Frage 45)"
   },
   "pigr51p1i4": {
@@ -11978,9 +11978,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr51p1i6": {
@@ -12048,9 +12048,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Mutter: Hilfe von sonstigen Personen (Frage 45)"
   },
   "pigr51p3i1": {
@@ -12118,9 +12118,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Vater: Hilfe von prof. Pflegedienst (Frage 45)"
   },
   "pigr51p3i2": {
@@ -12188,9 +12188,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Vater: Hilfe von mir (Frage 45)"
   },
   "pigr51p3i3": {
@@ -12258,9 +12258,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Vater: Hilfe von seiner (Ehe-)Partnerin (Frage 45)"
   },
   "pigr51p3i4": {
@@ -12328,9 +12328,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr51p3i6": {
@@ -12398,9 +12398,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Vater: Hilfe von sonstigen Personen (Frage 45)"
   },
   "pigr90": {
@@ -12468,9 +12468,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt leibliche Mutter des Partners noch? (Frage 46)"
   },
   "pigr91": {
@@ -12538,9 +12538,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Lebt leiblicher Vater des Partners noch? (Frage 46)"
   },
   "pigr39p5": {
@@ -12638,9 +12638,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr39p6": {
@@ -12738,9 +12738,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr40p5": {
@@ -12823,9 +12823,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Wie eng mit leiblicher Mutter des Partners heute verbunden (Frage 48)"
   },
   "pigr40p6": {
@@ -12908,9 +12908,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Wie eng mit leiblichem Vater des Partners heute verbunden (Frage 49)"
   },
   "pigr41p5": {
@@ -13003,9 +13003,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Dauer um zu leiblicher Mutter des Partners zu gelangen (Frage 50)"
   },
   "pigr41p6": {
@@ -13098,9 +13098,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Dauer um zu leiblichem Vater des Partners zu gelangen (Frage 50)"
   },
   "pigr52p5": {
@@ -13183,9 +13183,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr52p6": {
@@ -13268,9 +13268,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr53p5": {
@@ -13358,9 +13358,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr54p5": {
@@ -13448,9 +13448,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr57p5": {
@@ -13538,9 +13538,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr58p5": {
@@ -13628,9 +13628,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr53p6": {
@@ -13718,9 +13718,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr54p6": {
@@ -13808,9 +13808,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr57p6": {
@@ -13898,9 +13898,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr58p6": {
@@ -13988,9 +13988,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr60p5": {
@@ -14078,9 +14078,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr61p5": {
@@ -14168,9 +14168,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr64p5": {
@@ -14258,9 +14258,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr65p5": {
@@ -14348,9 +14348,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr60p6": {
@@ -14438,9 +14438,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr61p6": {
@@ -14528,9 +14528,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr64p6": {
@@ -14618,9 +14618,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr65p6": {
@@ -14708,9 +14708,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pdobd": {
@@ -14753,9 +14753,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Tag Geburt (Frage 53)"
   },
   "pdobm": {
@@ -14873,9 +14873,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Monat Geburt (Frage 53)"
   },
   "pdoby": {
@@ -15178,9 +15178,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Jahr Geburt (Frage 53)"
   },
   "psex": {
@@ -15248,9 +15248,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Geschlecht (Frage 54)"
   },
   "psd10": {
@@ -15333,9 +15333,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Aktueller Familienstand (Frage 55)"
   },
   "pinc2": {
@@ -17303,9 +17303,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Nettoverdienst im letzten Monat (Frage 56)"
   },
   "pinc21": {
@@ -17433,9 +17433,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Nettoverdienst im letzten Monat kategorisiert (Frage 57)"
   },
   "phlt1": {
@@ -17518,9 +17518,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Gesundheitszustand letzte 4 Wochen (Frage 58)"
   },
   "phlt7": {
@@ -17648,9 +17648,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Stunden Schlaf pro Nacht unter der Woche (Frage 59)"
   },
   "pper1i2": {
@@ -17733,9 +17733,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Manchmal denke ich, dass ich wertlos bin (Frage 60)"
   },
   "pper1i7": {
@@ -17818,9 +17818,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich mag mich so wie ich bin (Frage 60)"
   },
   "pper1i13": {
@@ -17903,9 +17903,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Alles in allem bin ich mit mir selbst zufrieden (Frage 60)"
   },
   "pper1i6": {
@@ -17988,9 +17988,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper2i1": {
@@ -18068,9 +18068,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper2i2": {
@@ -18148,9 +18148,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper2i3": {
@@ -18228,9 +18228,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich bin deprimiert (Frage 61)"
   },
   "pper2i4": {
@@ -18308,9 +18308,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich bin traurig (Frage 61)"
   },
   "pper2i5": {
@@ -18388,9 +18388,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich bin verzweifelt (Frage 61)"
   },
   "pper2i6": {
@@ -18468,9 +18468,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper2i7": {
@@ -18548,9 +18548,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper2i8": {
@@ -18628,9 +18628,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper2i9": {
@@ -18708,9 +18708,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich bin ruhig und gelassen (Frage 61)"
   },
   "pper2i10": {
@@ -18788,9 +18788,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "psat6": {
@@ -18903,9 +18903,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Zufriedenheit mit Leben insgesamt (Frage 62)"
   },
   "psd9": {
@@ -18973,9 +18973,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Haben sie leibliche oder adoptierte Kinder (Frage 63)"
   },
   "psd19k1m": {
@@ -19093,9 +19093,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Monat Geburt Kind 1 (Frage 64)"
   },
   "psd19k1y": {
@@ -19308,9 +19308,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Jahr Geburt Kind 1 (Frage 64)"
   },
   "psd14k1g": {
@@ -19378,9 +19378,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Geschlecht Kind 1 (Frage 64)"
   },
   "psd15k1": {
@@ -19453,9 +19453,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Status Kind 1 (Frage 64)"
   },
   "psd20k1": {
@@ -19523,9 +19523,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Zusammenleben mit Kind 1 (Frage 64)"
   },
   "psd19k2m": {
@@ -19643,9 +19643,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Monat Geburt Kind 2 (Frage 64)"
   },
   "psd19k2y": {
@@ -19828,9 +19828,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Jahr Geburt Kind 2 (Frage 64)"
   },
   "psd14k2g": {
@@ -19898,9 +19898,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Geschlecht Kind 2 (Frage 64)"
   },
   "psd15k2": {
@@ -19973,9 +19973,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Status Kind 2 (Frage 64)"
   },
   "psd20k2": {
@@ -20043,9 +20043,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Zusammenleben mit Kind 2 (Frage 64)"
   },
   "psd19k3m": {
@@ -20163,9 +20163,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Monat Geburt Kind 3 (Frage 64)"
   },
   "psd19k3y": {
@@ -20308,9 +20308,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Jahr Geburt Kind 3 (Frage 64)"
   },
   "psd14k3g": {
@@ -20378,9 +20378,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Geschlecht Kind 3 (Frage 64)"
   },
   "psd15k3": {
@@ -20453,9 +20453,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Status Kind 3 (Frage 64)"
   },
   "psd20k3": {
@@ -20523,9 +20523,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Zusammenleben mit Kind 3 (Frage 64)"
   },
   "psd19k4m": {
@@ -20613,9 +20613,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Monat Geburt Kind 4 (Frage 64)"
   },
   "psd19k4y": {
@@ -20713,9 +20713,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Jahr Geburt Kind 4 (Frage 64)"
   },
   "psd14k4g": {
@@ -20783,9 +20783,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Geschlecht Kind 4 (Frage 64)"
   },
   "psd15k4": {
@@ -20858,9 +20858,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Status Kind 4 (Frage 64)"
   },
   "psd20k4": {
@@ -20928,9 +20928,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Zusammenleben mit Kind 4 (Frage 64)"
   },
   "pcrn19i1": {
@@ -21029,9 +21029,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn19i2": {
@@ -21135,9 +21135,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Erziehung: von anderen gemocht werden, liebenswert sein (Frage 65)"
   },
   "pcrn19i3": {
@@ -21241,9 +21241,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn19i4": {
@@ -21347,9 +21347,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Erziehung: von anderen respektiert werden, angesehen sein (Frage 65)"
   },
   "pcrn19i5": {
@@ -21443,9 +21443,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn19i6": {
@@ -21549,9 +21549,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn19i7": {
@@ -21650,9 +21650,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn19i8": {
@@ -21751,9 +21751,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn19i9": {
@@ -21852,9 +21852,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Erziehung: eine hohe Bildung erhalten (Frage 65)"
   },
   "pcrn19i10": {
@@ -21948,9 +21948,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pcrn19i11": {
@@ -22044,9 +22044,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Erziehung: verantwortunsgsbewusst sein (Frage 65)"
   },
   "pcrn19i12": {
@@ -22145,9 +22145,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Erziehung: sichere Umgangsformen haben (Frage 65)"
   },
   "phlt5": {
@@ -22215,9 +22215,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Erwerbsgemindert oder schwerbehindert (Frage 66)"
   },
   "phlt6": {
@@ -22305,9 +22305,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "psd30": {
@@ -22400,9 +22400,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "psd31": {
@@ -22490,9 +22490,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pigr1y": {
@@ -22790,9 +22790,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Jahr Geburt Mutter (Frage 70)"
   },
   "pigr2y": {
@@ -23085,9 +23085,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Jahr Geburt Vater (Frage 70)"
   },
   "pper1i1": {
@@ -23170,9 +23170,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich stimme anderen oft zu, selbst wenn ich nicht sicher bin (Frage 71)"
   },
   "pper1i3": {
@@ -23255,9 +23255,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich gerate schnell in Wut (Frage 71)"
   },
   "pper1i4": {
@@ -23340,9 +23340,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper1i5": {
@@ -23425,9 +23425,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper1i8": {
@@ -23510,9 +23510,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich steigere mich leicht in einen Streit hinein (Frage 71)"
   },
   "pper1i9": {
@@ -23595,9 +23595,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper1i10": {
@@ -23680,9 +23680,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper1i11": {
@@ -23765,9 +23765,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper1i12": {
@@ -23850,9 +23850,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich gehe ungezwungen auf andere Menschen zu (Frage 71)"
   },
   "pper3i1": {
@@ -23935,9 +23935,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper3i2": {
@@ -24020,9 +24020,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich neige dazu, andere zu kritisieren (Frage 72)"
   },
   "pper3i3": {
@@ -24105,9 +24105,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper3i4": {
@@ -24190,9 +24190,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich werde leicht deprimiert, niedergeschlagen (Frage 72)"
   },
   "pper3i5": {
@@ -24275,9 +24275,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich bin vielseitig interessiert (Frage 72)"
   },
   "pper3i6": {
@@ -24360,9 +24360,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper3i7": {
@@ -24445,9 +24445,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich schenke anderen leicht Vertrauen, glaube an das Gute im Menschen (Frage 72)"
   },
   "pper3i8": {
@@ -24530,9 +24530,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich bin bequem und neige zur Faulheit (Frage 72)"
   },
   "pper3i9": {
@@ -24615,9 +24615,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich bin entspannt, lass mich durch nicht aus der Ruhe bringen (Frage 72)"
   },
   "pper3i10": {
@@ -24700,9 +24700,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper3i11": {
@@ -24785,9 +24785,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich bin eher der stille Typ, wortkarg (Frage 72)"
   },
   "pper3i12": {
@@ -24870,9 +24870,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich kann mich kalt und distanziert verhalten (Frage 72)"
   },
   "pper3i13": {
@@ -24955,9 +24955,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper3i14": {
@@ -25040,9 +25040,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich mache mir viele Sorgen (Frage 72)"
   },
   "pper3i15": {
@@ -25125,9 +25125,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich habe eine aktive Vorstellungskraft, bin phantasievoll (Frage 72)"
   },
   "pper3i16": {
@@ -25210,9 +25210,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Ich gehe aus mir heraus, bin gesellig (Frage 72)"
   },
   "pper3i17": {
@@ -25295,9 +25295,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper3i18": {
@@ -25380,9 +25380,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper3i19": {
@@ -25465,9 +25465,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper3i20": {
@@ -25550,9 +25550,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pper3i21": {
@@ -25635,9 +25635,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "NA"
   },
   "pintd": {
@@ -25850,9 +25850,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Tag (Frage 73)"
   },
   "pintm": {
@@ -25970,9 +25970,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Monat (Frage 73)"
   },
   "pinty": {
@@ -26040,9 +26040,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "partner",
+    "sub_type": "org/net",
+    "period": "wave4",
     "label_de": "Jahr (Frage 73)"
   }
 }

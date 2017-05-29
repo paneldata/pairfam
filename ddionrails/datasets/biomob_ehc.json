@@ -35,9 +35,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Personennummer Anker"
   },
   "demodiff": {
@@ -80,9 +80,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "DemoDiff Stichprobe"
   },
   "cohort": {
@@ -135,9 +135,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Birth cohort"
   },
   "dob": {
@@ -176,9 +176,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Date of birth"
   },
   "sex_gen": {
@@ -241,9 +241,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Generated sex anchor"
   },
   "wave1": {
@@ -326,9 +326,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Survey year wave1"
   },
   "wave2": {
@@ -411,9 +411,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Survey year wave2"
   },
   "wave3": {
@@ -496,9 +496,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Survey year wave3"
   },
   "wave4": {
@@ -581,9 +581,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Survey year wave4"
   },
   "wave5": {
@@ -666,9 +666,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Survey year wave5"
   },
   "wave6": {
@@ -751,9 +751,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Survey year wave6"
   },
   "wave7": {
@@ -836,9 +836,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Survey year wave7"
   },
   "wave8": {
@@ -921,9 +921,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Survey year wave8"
   },
   "respw2": {
@@ -971,9 +971,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Respondent wave2"
   },
   "respw3": {
@@ -1021,9 +1021,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Respondent wave3"
   },
   "respw4": {
@@ -1071,9 +1071,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Respondent wave4"
   },
   "respw5": {
@@ -1121,9 +1121,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Respondent wave5"
   },
   "respw6": {
@@ -1171,9 +1171,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Respondent wave6"
   },
   "respw7": {
@@ -1221,9 +1221,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Respondent wave7"
   },
   "respw8": {
@@ -1271,9 +1271,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Respondent wave8"
   },
   "intdatw1": {
@@ -1386,9 +1386,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Date of interview wave1"
   },
   "intdatw2": {
@@ -1466,9 +1466,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Date of interview wave2"
   },
   "intdatw3": {
@@ -1546,9 +1546,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Date of interview wave3"
   },
   "intdatw4": {
@@ -1631,9 +1631,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Date of interview wave4"
   },
   "intdatw5": {
@@ -1716,9 +1716,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Date of interview wave5"
   },
   "intdatw6": {
@@ -1801,9 +1801,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Date of interview wave6"
   },
   "intdatw7": {
@@ -1886,9 +1886,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Date of interview wave7"
   },
   "intdatw8": {
@@ -1966,9 +1966,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Date of interview wave8"
   },
   "residplace": {
@@ -2021,9 +2021,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "City place mentioned"
   },
   "resbeg": {
@@ -2062,9 +2062,9 @@
       ]
     },
     "scale": "",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Beginning of episode"
   },
   "resend": {
@@ -2552,9 +2552,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "End of episode"
   },
   "rescensor": {
@@ -2612,9 +2612,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Censor"
   },
   "resnumber": {
@@ -2692,9 +2692,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Identification number city"
   },
   "resid": {
@@ -2737,9 +2737,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Main or secondary residence"
   },
   "resland": {
@@ -2902,9 +2902,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Federal state (Bundesland)"
   },
   "index_mr": {
@@ -3122,9 +3122,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Index main residences"
   },
   "index_sr": {
@@ -3242,9 +3242,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Index secondary residences"
   },
   "rescurrw1": {
@@ -3292,9 +3292,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Current place of residence in wave1"
   },
   "rescurrw2": {
@@ -3342,9 +3342,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Current place of residence in wave2"
   },
   "rescurrw3": {
@@ -3392,9 +3392,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Current place of residence in wave3"
   },
   "rescurrw4": {
@@ -3442,9 +3442,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Current place of residence in wave4"
   },
   "rescurrw5": {
@@ -3492,9 +3492,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Current place of residence in wave5"
   },
   "rescurrw6": {
@@ -3542,9 +3542,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Current place of residence in wave6"
   },
   "rescurrw7": {
@@ -3592,9 +3592,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Current place of residence in wave7"
   },
   "rescurrw8": {
@@ -3642,9 +3642,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Current place of residence in wave8"
   },
   "resdis": {
@@ -6922,9 +6922,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Distance between consecutive residences (in km)"
   },
   "resbik": {
@@ -7012,9 +7012,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "BIK classification"
   },
   "resflag1": {
@@ -7057,9 +7057,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Main residence unkonwn"
   },
   "resflag2": {
@@ -7102,9 +7102,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Secondary residence unkonwn"
   },
   "resflag3": {
@@ -7147,9 +7147,9 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": null,
-    "sub_type": null,
-    "period": "None",
+    "analysis_unit": "anchor",
+    "sub_type": "org/net",
+    "period": "cumulative",
     "label_de": "Filter error/Incorrect entry"
   }
 }
