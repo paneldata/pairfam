@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number anchor"
   },
   "demodiff": {
@@ -77,6 +80,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "DemoDiff sample"
   },
   "cohort": {
@@ -129,6 +135,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Birth cohort"
   },
   "dob": {
@@ -726,6 +735,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of birth anchor"
   },
   "sex": {
@@ -788,6 +800,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex anchor"
   },
   "intdatw1": {
@@ -895,6 +910,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview wave 1"
   },
   "intdatw2": {
@@ -967,6 +985,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview wave 2"
   },
   "intdatw3": {
@@ -1039,6 +1060,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview wave 3"
   },
   "intdatw4": {
@@ -1116,6 +1140,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview wave 4"
   },
   "intdatw5": {
@@ -1193,6 +1220,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview wave 5"
   },
   "intdatw6": {
@@ -1270,6 +1300,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview wave 6"
   },
   "intdatw7": {
@@ -1347,6 +1380,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview wave 7"
   },
   "intdatw8": {
@@ -1419,6 +1455,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview wave 8"
   },
   "mig0_w1_w2_mr": {
@@ -1496,6 +1535,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w1 to w2: Main residence"
   },
   "mig0_w1_w3_mr": {
@@ -1543,6 +1585,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w1 to w3: Main residence"
   },
   "mig0_w2_w3_mr": {
@@ -1595,6 +1640,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w2 to w3: Main residence"
   },
   "mig0_w2_w4_mr": {
@@ -1642,6 +1690,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w2 to w4: Main residence"
   },
   "mig0_w3_w4_mr": {
@@ -1689,6 +1740,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w3 to w4: Main residence"
   },
   "mig0_w3_w5_mr": {
@@ -1736,6 +1790,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w3 to w5: Main residence"
   },
   "mig0_w4_w5_mr": {
@@ -1783,6 +1840,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w4 to w5: Main residence"
   },
   "mig0_w4_w6_mr": {
@@ -1830,6 +1890,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w4 to w6: Main residence"
   },
   "mig0_w5_w6_mr": {
@@ -1877,6 +1940,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w5 to w6: Main residence"
   },
   "mig0_w5_w7_mr": {
@@ -1919,6 +1985,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w5 to w7: Main residence"
   },
   "mig0_w6_w7_mr": {
@@ -1971,6 +2040,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w6 to w7: Main residence"
   },
   "mig0_w6_w8_mr": {
@@ -2013,6 +2085,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w6 to w8: Main residence"
   },
   "mig0_w7_w8_mr": {
@@ -2060,6 +2135,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w7 to w8: Main residence"
   },
   "mig0_w1_w2_sr": {
@@ -2137,6 +2215,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w1 to w2: 2nd residence"
   },
   "mig0_w1_w3_sr": {
@@ -2179,6 +2260,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w1 to w3: 2nd residence"
   },
   "mig0_w2_w3_sr": {
@@ -2226,6 +2310,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "No. of moves (resdis=0) w2 to w3: 2nd residence"
   },
   "within_w1_w2_mr": {
@@ -2273,6 +2360,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc18) w1 to w2: Main residence"
   },
   "within_w1_w3_mr": {
@@ -2320,6 +2410,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w1 to w3: Main residence"
   },
   "within_w2_w3_mr": {
@@ -2367,6 +2460,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w2 to w3: Main residence"
   },
   "within_w2_w4_mr": {
@@ -2414,6 +2510,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w2 to w4: Main residence"
   },
   "within_w3_w4_mr": {
@@ -2461,6 +2560,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w3 to w4: Main residence"
   },
   "within_w3_w5_mr": {
@@ -2508,6 +2610,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w3 to w5: Main residence"
   },
   "within_w4_w5_mr": {
@@ -2555,6 +2660,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w4 to w5: Main residence"
   },
   "within_w4_w6_mr": {
@@ -2602,6 +2710,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w4 to w6: Main residence"
   },
   "within_w5_w6_mr": {
@@ -2649,6 +2760,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w5 to w6: Main residence"
   },
   "within_w5_w7_mr": {
@@ -2696,6 +2810,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w5 to w7: Main residence"
   },
   "within_w6_w7_mr": {
@@ -2743,6 +2860,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w6 to w7: Main residence"
   },
   "within_w6_w8_mr": {
@@ -2790,6 +2910,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w6 to w8: Main residence"
   },
   "within_w7_w8_mr": {
@@ -2837,6 +2960,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w7 to w8: Main residence"
   },
   "within_w1_w2_sr": {
@@ -2884,6 +3010,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc18) w1 to w2: 2nd residence"
   },
   "within_w1_w3_sr": {
@@ -2931,6 +3060,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w1 to w3: 2nd residence"
   },
   "within_w2_w3_sr": {
@@ -2978,6 +3110,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Within city (ehc29) w2 to w3: 2nd residence"
   }
 }

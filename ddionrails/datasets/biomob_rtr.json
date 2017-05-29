@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Personennummer Anker"
   },
   "demodiff": {
@@ -77,6 +80,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "DemoDiff Stichprobe"
   },
   "cohort": {
@@ -129,6 +135,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Birth cohort"
   },
   "dob": {
@@ -666,6 +675,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of birth"
   },
   "sex_gen": {
@@ -728,6 +740,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Generated sex anchor"
   },
   "wave1": {
@@ -800,6 +815,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Survey year wave1"
   },
   "wave2": {
@@ -872,6 +890,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Survey year wave2"
   },
   "wave3": {
@@ -944,6 +965,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Survey year wave3"
   },
   "intdatw1": {
@@ -1056,6 +1080,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview wave1"
   },
   "intdatw2": {
@@ -1133,6 +1160,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview wave2"
   },
   "intdatw3": {
@@ -1210,6 +1240,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview wave3"
   },
   "respw2": {
@@ -1257,6 +1290,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Respondent in wave 2"
   },
   "respw3": {
@@ -1304,6 +1340,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Respondent in wave 3"
   },
   "resplace_rtr": {
@@ -1356,6 +1395,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Place of residence mentioned"
   },
   "resbeg_rtr": {
@@ -3728,6 +3770,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Beginning of episode"
   },
   "resend_rtr": {
@@ -6165,6 +6210,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "End od episode"
   },
   "rescensor_rtr": {
@@ -6222,6 +6270,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Censor"
   },
   "resland_rtr": {
@@ -6374,6 +6425,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Federal State (Bundesland)"
   },
   "resindex_rtr": {
@@ -6591,6 +6645,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Number of main residence"
   },
   "resdis_rtr": {
@@ -11733,6 +11790,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Distance between consecutive residences (in km)"
   },
   "resbik_rtr": {
@@ -11820,6 +11880,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "BIK classification"
   },
   "resnumber_rtr": {
@@ -11907,6 +11970,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Identification number city"
   },
   "resflag1_rtr": {
@@ -11969,6 +12035,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Inaccurate information on month"
   },
   "resflag2_rtr": {
@@ -12010,6 +12079,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Unknown information on month"
   }
 }

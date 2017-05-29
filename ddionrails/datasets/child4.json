@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Personennummer Anker"
   },
   "pid": {
@@ -75,6 +78,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Personennummer Partner"
   },
   "cid": {
@@ -113,6 +119,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Personennummer Kind"
   },
   "wave": {
@@ -165,6 +174,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Erhebungsjahr"
   },
   "cnr": {
@@ -307,6 +319,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Kinder-Nummer, d h CAPI-Kind ist Kind mit Nummer"
   },
   "csex": {
@@ -384,6 +399,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Geschlecht Kind "
   },
   "cdobd": {
@@ -456,6 +474,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Tag Geburt (Frage 1)"
   },
   "cdobm": {
@@ -583,6 +604,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Monat Geburt Kind (Frage 1)"
   },
   "cdoby": {
@@ -621,6 +645,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Jahr Geburt Kind (Frage 1)"
   },
   "cedu9": {
@@ -698,6 +725,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Gehst Du denn noch zur Schule? (Frage 2)"
   },
   "cedu1a": {
@@ -845,6 +875,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu1ao": {
@@ -917,6 +950,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sonstige Schulart genannt (Frage 3)"
   },
   "cedu2": {
@@ -1039,6 +1075,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Und in welcher Klasse bist Du? (Frage 4)"
   },
   "cedu10": {
@@ -1130,6 +1169,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu11": {
@@ -1191,6 +1233,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Welche Durchschnittsnote hast Du bei Deinem Schulabschluss erreicht? (Frage 6)"
   },
   "cedu12i1": {
@@ -1292,6 +1337,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Letztes Zeugnis: Note - Mathe (Frage 7)"
   },
   "cedu12i2": {
@@ -1393,6 +1441,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Letztes Zeugnis: Note - Deutsch (Frage 7)"
   },
   "cedu13i1": {
@@ -1464,6 +1515,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i2": {
@@ -1535,6 +1589,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i3": {
@@ -1606,6 +1663,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i4": {
@@ -1677,6 +1737,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i5": {
@@ -1748,6 +1811,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i6": {
@@ -1819,6 +1885,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i7": {
@@ -1890,6 +1959,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i8": {
@@ -1961,6 +2033,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i9": {
@@ -2032,6 +2107,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i10": {
@@ -2103,6 +2181,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i11": {
@@ -2174,6 +2255,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i12": {
@@ -2245,6 +2329,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i13": {
@@ -2316,6 +2403,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i14": {
@@ -2387,6 +2477,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i15": {
@@ -2458,6 +2551,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu13i16": {
@@ -2529,6 +2625,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu3": {
@@ -2601,6 +2700,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Note - keine Noten (Frage 9)"
   },
   "cedu4i1": {
@@ -2708,6 +2810,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Note - Rechnen/Mathematik (Frage 10)"
   },
   "cedu4i2": {
@@ -2815,6 +2920,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Note - Deutsch(Frage 10)"
   },
   "cedu4i3": {
@@ -2922,6 +3030,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Note - Sport (Frage 10)"
   },
   "cedu4i4": {
@@ -3029,6 +3140,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu5i1": {
@@ -3126,6 +3240,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Bewertung - Rechnen/Mathematik (Frage 11)"
   },
   "cedu5i2": {
@@ -3223,6 +3340,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Bewertung - Deutsch/Lesen/Schreiben (Frage 11)"
   },
   "cedu5i3": {
@@ -3320,6 +3440,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Bewertung - Sport (Frage 11)"
   },
   "cedu5i4": {
@@ -3417,6 +3540,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu6i1": {
@@ -3509,6 +3635,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Die meisten in meiner Klasse sind nett und hilfsbereit (Frage 12)"
   },
   "cedu6i2": {
@@ -3601,6 +3730,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu6i3": {
@@ -3693,6 +3825,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu6i4": {
@@ -3785,6 +3920,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cinc25i1": {
@@ -3877,6 +4015,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cinc25i2": {
@@ -3969,6 +4110,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cinc25i3": {
@@ -4061,6 +4205,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "In meiner Familie ist das Geld meistens knapp (Frage 13)"
   },
   "chlt0a": {
@@ -4153,6 +4300,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu7i1": {
@@ -4245,6 +4395,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ich bin lieber allein als mit anderen zusammen (Frage 15)"
   },
   "cedu7i2": {
@@ -4337,6 +4490,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ich habe viele Freunde (Frage 15)"
   },
   "cedu7i3": {
@@ -4429,6 +4585,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu7i4": {
@@ -4521,6 +4680,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Andere sind gemein zu mir (Frage 15)"
   },
   "cedu7i5": {
@@ -4613,6 +4775,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Die anderen lassen mich oft nicht mitmachen (Frage 15)"
   },
   "cedu7i6": {
@@ -4705,6 +4870,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu8i1": {
@@ -4797,6 +4965,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cedu8i2": {
@@ -4889,6 +5060,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Eltern achten auf Schulnoten/Beurteilungen, die ich nach Hause bringe (Frage 16)"
   },
   "cedu8i3": {
@@ -4981,6 +5155,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Meine Eltern nehmen meine Schulzeugnisse sehr ernst (Frage 16)"
   },
   "cedu8i4": {
@@ -5073,6 +5250,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Meine Eltern sind mit meinen Schulleistungen zufrieden (Frage 16)"
   },
   "cedu8i5": {
@@ -5165,6 +5345,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr1": {
@@ -5242,6 +5425,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Du lebst hier mit [alle Personen im gleichen Haushalt]. Richtig? (Frage 17)"
   },
   "cpcr2": {
@@ -5319,6 +5505,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Kennst Du [Name Ankerperson]? (Frage 18)"
   },
   "cpcr3": {
@@ -5390,6 +5579,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Kennst Du [Name Partner von Ankerperson]? (Frage 19)"
   },
   "cpcr4": {
@@ -5462,6 +5654,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Name Ankerperson (Frage 20)"
   },
   "cpcr5": {
@@ -5534,6 +5729,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Name Partner der Ankerperson (Frage 21)"
   },
   "cpcr6i1": {
@@ -5626,6 +5824,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Anker] zeigt Dir, dass er/sie Dich gerne hat (Frage 22)"
   },
   "cpcr6i2": {
@@ -5718,6 +5919,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Anker] ist sehr streng (Frage 22)"
   },
   "cpcr6i10": {
@@ -5810,6 +6014,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr6i3": {
@@ -5902,6 +6109,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr6i4": {
@@ -5994,6 +6204,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Anker] bestraft Dich, wenn Du gegen Willen tust (Frage 22)"
   },
   "cpcr6i5": {
@@ -6086,6 +6299,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr6i11": {
@@ -6178,6 +6394,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Anker] schreit Dich an, wenn etwas falsch gemacht (Frage 22)"
   },
   "cpcr6i6": {
@@ -6270,6 +6489,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Anker] meint, immer Recht & Du nicht widersprechen (Frage 22)"
   },
   "cpcr6i7": {
@@ -6362,6 +6584,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr6i12": {
@@ -6454,6 +6679,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr6i8": {
@@ -6546,6 +6774,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr6i9": {
@@ -6638,6 +6869,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Anker] lobt Dich (Frage 22)"
   },
   "cpcr10i1": {
@@ -6730,6 +6964,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr10i2": {
@@ -6822,6 +7059,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr10i3": {
@@ -6914,6 +7154,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wenn Fehler gemacht, fragst, ob [Anker] Dich mag (Frage 23)"
   },
   "cpcr7i1": {
@@ -7006,6 +7249,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr7i2": {
@@ -7098,6 +7344,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Die Dinge, die Du tust, werden von [Anker] anerkannt (Frage 24)"
   },
   "cpcr7i4": {
@@ -7190,6 +7439,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr7i5": {
@@ -7282,6 +7534,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Anker] zeigt Dir, dass er/sie Dich gut findet (Frage 24)"
   },
   "cpcr7i6": {
@@ -7374,6 +7629,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 24)"
   },
   "cpcr7i8": {
@@ -7466,6 +7724,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr8i1": {
@@ -7558,6 +7819,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr8i2": {
@@ -7650,6 +7914,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Dinge, die Du tust, werden von [Partner d. Ankers] anerkannt (Frage 25)"
   },
   "cpcr8i4": {
@@ -7742,6 +8009,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr8i5": {
@@ -7834,6 +8104,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Partner d. Ankers] zeigt Dir, dass er/sie Dich gut findet (Frage 25)"
   },
   "cpcr8i6": {
@@ -7926,6 +8199,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 25)"
   },
   "cpcr8i8": {
@@ -8018,6 +8294,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr11i1": {
@@ -8110,6 +8389,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr11i2": {
@@ -8202,6 +8484,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr11i3": {
@@ -8294,6 +8579,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wenn Fehler gemacht, fragst, ob [Partner d. Ankers] Dich mag (Frage 26)"
   },
   "cpcr9i1": {
@@ -8386,6 +8674,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Partner d. Ankers] zeigt Dir, dass er/sie Dich gerne hat (Frage 27)"
   },
   "cpcr9i2": {
@@ -8478,6 +8769,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Partner d. Ankers] ist sehr streng (Frage 27)"
   },
   "cpcr9i10": {
@@ -8570,6 +8864,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr9i3": {
@@ -8662,6 +8959,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr9i4": {
@@ -8754,6 +9054,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Partner d. Ankers] bestraft Dich, wenn Du gegen Willen tust (Frage 27)"
   },
   "cpcr9i5": {
@@ -8846,6 +9149,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr9i11": {
@@ -8938,6 +9244,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Partner d. Ankers] schreit Dich an, wenn etwas falsch gemacht (Frage 27)"
   },
   "cpcr9i6": {
@@ -9030,6 +9339,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Partner d. Ankers] meint, immer Recht & Du nicht widersprechen (Frage 27)"
   },
   "cpcr9i7": {
@@ -9122,6 +9434,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr9i12": {
@@ -9214,6 +9529,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr9i8": {
@@ -9306,6 +9624,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cpcr9i9": {
@@ -9398,6 +9719,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "[Partner d. Ankers] lobt Dich (Frage 27)"
   },
   "clsr1i1": {
@@ -9490,6 +9814,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "clsr1i2": {
@@ -9582,6 +9909,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: Fernsehen, DVD, Videos sehen (Frage 28)"
   },
   "clsr1i3": {
@@ -9674,6 +10004,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: Dich mit Freunden treffen (Frage 28)"
   },
   "clsr1i4": {
@@ -9766,6 +10099,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: Computerspiele, Playstation (Frage 28)"
   },
   "clsr1i5": {
@@ -9858,6 +10194,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: [Kinder ab 11 Jahren]: Bar, Kneipe, Disko (Frage 28)"
   },
   "clsr1i6": {
@@ -9950,6 +10289,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: Partys und Feiern (Frage 28)"
   },
   "clsr1i7": {
@@ -10042,6 +10384,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: Lesen (Frage 28)"
   },
   "clsr1i8": {
@@ -10134,6 +10479,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: Sport treiben (Frage 28)"
   },
   "clsr1i9": {
@@ -10226,6 +10574,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: Unternehmungen mit der Familie (Frage 28)"
   },
   "clsr1i10": {
@@ -10318,6 +10669,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "clsr1i11": {
@@ -10410,6 +10764,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: Mit Spielzeug spielen (Frage 28)"
   },
   "clsr1i12": {
@@ -10502,6 +10859,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "clsr1i13": {
@@ -10594,6 +10954,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: Theater, Tanzen, Ballett (Frage 28)"
   },
   "clsr1i14": {
@@ -10686,6 +11049,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i1": {
@@ -10768,6 +11134,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i3": {
@@ -10850,6 +11219,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i4": {
@@ -10932,6 +11304,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i5": {
@@ -11014,6 +11389,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i7": {
@@ -11096,6 +11474,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Normalerweise tue ich, was man mir sagt (Frage 29)"
   },
   "csdq1i8": {
@@ -11178,6 +11559,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i9": {
@@ -11260,6 +11644,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Ich bin hilfsbereit, wenn andere verletzt oder traurig sind (Frage 29)"
   },
   "csdq1i12": {
@@ -11342,6 +11729,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i13": {
@@ -11424,6 +11814,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i16": {
@@ -11506,6 +11899,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i17": {
@@ -11588,6 +11984,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i18": {
@@ -11670,6 +12069,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i20": {
@@ -11752,6 +12154,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Helfe anderen oft freiwillig (Eltern, Lehrern o. Gleichaltrigen) (Frage 29)"
   },
   "csdq1i22": {
@@ -11834,6 +12239,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "csdq1i24": {
@@ -11916,6 +12324,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cgp1": {
@@ -11973,6 +12384,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Name Mutter der Ankerperson (Frage 30)"
   },
   "cgp2": {
@@ -12030,6 +12444,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Name Vater der Ankerperson (Frage 31)"
   },
   "cgp3": {
@@ -12122,6 +12539,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wie oft siehst Du [Mutter von Anker]? (Frage 32)"
   },
   "cgp4": {
@@ -12214,6 +12634,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wie oft siehst Du [Vater von Anker]? (Frage 33)"
   },
   "cgp5": {
@@ -12296,6 +12719,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wie oft unternimmt [Mutter von Anker] Dinge, die Du gerne magst? (Frage 34)"
   },
   "cgp6": {
@@ -12378,6 +12804,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wie oft unternimmt [Vater von Anker] Dinge, die Du gerne magst? (Frage 35)"
   },
   "cgp7": {
@@ -12460,6 +12889,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wie oft gibt Dir [Mutter von Anker] Geld oder Geschenke? (Frage 36)"
   },
   "cgp8": {
@@ -12542,6 +12974,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wie oft gibt Dir [Vater von Anker] Geld oder Geschenke? (Frage 37)"
   },
   "cgp9": {
@@ -12624,6 +13059,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cgp10": {
@@ -12706,6 +13144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ccp1": {
@@ -12778,6 +13219,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wiederbefragungsbereitschaft im Rahmen des Ankercapis (Frage 40)"
   },
   "ccp2": {
@@ -12845,6 +13289,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cint1i1": {
@@ -12912,6 +13359,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cint1i2": {
@@ -12979,6 +13429,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ankerperson/Partner der Ankerperson anwesend (Text 9)"
   },
   "cint1i3": {
@@ -13046,6 +13499,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Kinder anwesend (Text 9)"
   },
   "cint1i4": {
@@ -13113,6 +13569,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cint1i5": {
@@ -13180,6 +13639,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sonstige Personen anwesend (Text 9)"
   },
   "cint2": {
@@ -13252,6 +13714,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Hat jemand von den anwesenden Personen in das Interview eingegriffen? (Text 10)"
   },
   "duration": {
@@ -13292,6 +13757,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Dauer des Interviews"
   },
   "cinty": {
@@ -13330,6 +13798,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Jahr Interview"
   },
   "cintm": {
@@ -13368,6 +13839,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Monat Interview"
   },
   "cintd": {
@@ -13406,6 +13880,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Tag Interview"
   },
   "relstatac": {
@@ -13513,6 +13990,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Beziehungsstatus des Ankers zum befragten Kind"
   },
   "cagey": {
@@ -13551,6 +14031,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Alter des Kindes in Jahren"
   },
   "cagem": {
@@ -13589,6 +14072,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Alter des Kindes in Monaten"
   },
   "ctitlea": {
@@ -13671,6 +14157,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Benennung der Ankerperson durch das Kind"
   },
   "ctitlep": {
@@ -13753,6 +14242,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Benennung des Partners der Ankerperson durch das Kind"
   },
   "sex": {
@@ -13830,6 +14322,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Geschlecht Ankerperson"
   },
   "cflag1": {
@@ -13872,6 +14367,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Inconsistency sex of child between statement of interviewer and anchor"
   },
   "cflag2": {
@@ -13914,6 +14412,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Inconsistency year of child`s birth between statement of anchor and child"
   },
   "tag_csex": {
@@ -13961,6 +14462,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Inconsistency between waves: child`s sex"
   },
   "tag_cdoby": {
@@ -14008,6 +14512,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Inconsistency between waves: child`s year of birth"
   },
   "tag_cdobm": {
@@ -14055,6 +14562,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Inconsistency between waves: child`s month of birth"
   },
   "l391s": {
@@ -14142,6 +14652,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Status Kind in Bezug auf Anker"
   }
 }

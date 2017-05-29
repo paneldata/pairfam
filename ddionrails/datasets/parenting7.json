@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Personennummer Anker"
   },
   "pid": {
@@ -75,6 +78,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Personennummer Partner"
   },
   "cid": {
@@ -113,6 +119,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Personennummer Kind"
   },
   "demodiff": {
@@ -155,6 +164,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "DemoDiff Stichprobe"
   },
   "wave": {
@@ -222,6 +234,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Erhebungsjahr"
   },
   "dropoffvers": {
@@ -279,6 +294,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Drop-Off Version: Befragte Person?"
   },
   "pcr1i1": {
@@ -356,6 +374,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sie zeigen Ihrem Kind mit Worten und Gesten, dass Sie es gerne haben (Frage 1)"
   },
   "pcr1i2": {
@@ -433,6 +454,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr1i3": {
@@ -510,6 +534,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sie kritisieren Ihr Kind (Frage 1)"
   },
   "pcr1i4": {
@@ -587,6 +614,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr1i5": {
@@ -664,6 +694,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr1i6": {
@@ -741,6 +774,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr1i7": {
@@ -818,6 +854,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr1i8": {
@@ -895,6 +934,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sie schreien Ihr Kind an, wenn es etwas falsch gemacht hat (Frage 1)"
   },
   "pcr1i9": {
@@ -972,6 +1014,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wenn Kind unterwegs war, fragen Sie nach, was es getan und erlebt hat (Frage 1)"
   },
   "pcr1i10": {
@@ -1049,6 +1094,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Es gibt Tage, an denen Sie strenger sind als an anderen (Frage 1)"
   },
   "pcr1i11": {
@@ -1126,6 +1174,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr1i12": {
@@ -1203,6 +1254,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wenn Ihr Kind neue Freunde hat, lernen Sie sie auch bald kennen (Frage 1)"
   },
   "pcr1i13": {
@@ -1280,6 +1334,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sie drohen Ihrem Kind eine Strafe an, strafen es dann aber doch nicht (Frage 1)"
   },
   "pcr1i14": {
@@ -1357,6 +1414,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sie loben Ihr Kind (Frage 1)"
   },
   "sdqpi1": {
@@ -1424,6 +1484,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi2": {
@@ -1491,6 +1554,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi3": {
@@ -1558,6 +1624,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi4": {
@@ -1625,6 +1694,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi5": {
@@ -1692,6 +1764,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi6": {
@@ -1759,6 +1834,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi7": {
@@ -1826,6 +1904,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Im Allgemeinen folgsam; macht meist, was Erwachsene verlangen (Frage 2)"
   },
   "sdqpi8": {
@@ -1893,6 +1974,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi9": {
@@ -1960,6 +2044,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi10": {
@@ -2027,6 +2114,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi11": {
@@ -2094,6 +2184,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Hat wenigstens einen guten Freund oder eine gute Freundin (Frage 2)"
   },
   "sdqpi12": {
@@ -2161,6 +2254,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Streitet sich oft mit anderen Kindern oder schikaniert sie (Frage 2)"
   },
   "sdqpi13": {
@@ -2228,6 +2324,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi14": {
@@ -2295,6 +2394,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Im Allgemeinen bei anderen Kindern beliebt (Frage 2)"
   },
   "sdqpi15": {
@@ -2362,6 +2464,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Leicht ablenkbar, unkonzentriert (Frage 2)"
   },
   "sdqpi16": {
@@ -2429,6 +2534,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi17": {
@@ -2496,6 +2604,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi18": {
@@ -2563,6 +2674,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi19": {
@@ -2630,6 +2744,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi20": {
@@ -2697,6 +2814,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Hilft anderen oft freiwillig (Eltern, Lehrern, anderen Kindern) (Frage 2)"
   },
   "sdqpi21": {
@@ -2764,6 +2884,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Denkt nach, bevor er/sie handelt (Frage 2)"
   },
   "sdqpi22": {
@@ -2831,6 +2954,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Stiehlt zu Hause, in der Schule oder anderswo (Frage 2)"
   },
   "sdqpi23": {
@@ -2898,6 +3024,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "SDQ: Kommt besser mit Erwachsenen aus als mit anderen Kindern (Frage 2)"
   },
   "sdqpi24": {
@@ -2965,6 +3094,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "sdqpi25": {
@@ -3032,6 +3164,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr2i1": {
@@ -3109,6 +3244,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr2i2": {
@@ -3186,6 +3324,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wenn es Probleme in der Erziehung gibt, liegt das an meinem Kind (Frage 3)"
   },
   "pcr2i3": {
@@ -3263,6 +3404,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr3i1": {
@@ -3340,6 +3484,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr3i2": {
@@ -3417,6 +3564,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Die Dinge, die Ihr Kind tut, werden von Ihnen anerkannt (Frage 4)"
   },
   "pcr3i3": {
@@ -3494,6 +3644,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ihr Kind bringt Sie dazu, dass Sie sich nach ihm richten (Frage 4)"
   },
   "pcr3i4": {
@@ -3571,6 +3724,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr3i5": {
@@ -3648,6 +3804,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sie zeigen Ihrem Kind, dass Sie es gut finden (Frage 4)"
   },
   "pcr3i6": {
@@ -3725,6 +3884,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sie und Ihr Kind sind unterschiedlicher Meinung und streiten sich (Frage 4)"
   },
   "pcr3i7": {
@@ -3802,6 +3964,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pcr3i8": {
@@ -3879,6 +4044,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu1": {
@@ -3951,6 +4119,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu2": {
@@ -4023,6 +4194,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Mit welchem Schulabschluss wird Ihr Kind die Schule verlassen? (Frage 6)"
   },
   "edu3": {
@@ -4095,6 +4269,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu4": {
@@ -4172,6 +4349,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu7i1": {
@@ -4244,6 +4424,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu7i2": {
@@ -4316,6 +4499,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu7i3": {
@@ -4388,6 +4574,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Bezahlte Nachhilfestunden (Frage 9)"
   },
   "edu7i4": {
@@ -4460,6 +4649,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Professionelle Hausaufgabenbetreuung (Frage 9)"
   },
   "edu7i5": {
@@ -4532,6 +4724,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu8i1": {
@@ -4599,6 +4794,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sportverein oder Sportgruppe (Frage 10)"
   },
   "edu8i2": {
@@ -4666,6 +4864,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Musikschule, Musikunterricht, Orchester oder Chor (Frage 10)"
   },
   "edu8i3": {
@@ -4733,6 +4934,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Tanzverein, Ballettschule oder Tanzgruppe (Frage 10)"
   },
   "edu8i4": {
@@ -4800,6 +5004,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Theatergruppe (Frage 10)"
   },
   "edu8i5": {
@@ -4867,6 +5074,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Foto- oder Filmgruppe (Frage 10)"
   },
   "edu8i6": {
@@ -4934,6 +5144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Computerclub oder -kurs(Frage 10)"
   },
   "edu8i7": {
@@ -5001,6 +5214,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sprachkurs oder Sprachferien (Frage 10)"
   },
   "edu8i8": {
@@ -5068,6 +5284,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Mal-, Kunst- oder Gestaltungskurs (Frage 10)"
   },
   "edu8i9": {
@@ -5135,6 +5354,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu8i10": {
@@ -5202,6 +5424,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu8i11": {
@@ -5269,6 +5494,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Heimat- oder Trachtenverein (Frage 10)"
   },
   "edu8i12": {
@@ -5336,6 +5564,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sonstiger Verein oder Gruppe (Frage 10)"
   },
   "edu8i12o": {
@@ -5398,6 +5629,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sonstiger Verein oder Gruppe, und zwar: (Frage 10)"
   },
   "edu9i1": {
@@ -5950,6 +6184,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu9i2": {
@@ -6437,6 +6674,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu9i3": {
@@ -6504,6 +6744,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Kosten: Angebote waren kostenfrei (Frage 11)"
   },
   "edu9i4": {
@@ -6571,6 +6814,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu10i1": {
@@ -6658,6 +6904,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu10i2": {
@@ -6745,6 +6994,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu10i3": {
@@ -6832,6 +7084,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu10i4": {
@@ -6919,6 +7174,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu10i5": {
@@ -7006,6 +7264,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu10i6": {
@@ -7093,6 +7354,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "edu10i9": {
@@ -7156,6 +7420,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Es gibt keine Hausaufgaben (Frage 12)"
   }
 }

@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Personennummer Anker"
   },
   "demodiff": {
@@ -77,6 +80,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "DemoDiff Stichprobe"
   },
   "cla1": {
@@ -214,6 +220,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Bundesland bei Geburt (Frage 1)"
   },
   "cla2": {
@@ -331,6 +340,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cla8": {
@@ -433,6 +445,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cla3": {
@@ -490,6 +505,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Nach Geburt bei leiblichen Eltern gelebt (Frage 4)"
   },
   "cla4": {
@@ -592,6 +610,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Bei wem nach Geburt gelebt? (Frage 5)"
   },
   "cla5e1": {
@@ -649,6 +670,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cla5e2": {
@@ -706,6 +730,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cla5e3": {
@@ -763,6 +790,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cla5e4": {
@@ -820,6 +850,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cla5e5": {
@@ -877,6 +910,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cla5e6": {
@@ -934,6 +970,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cla5e7": {
@@ -991,6 +1030,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "cla5e8": {
@@ -1048,6 +1090,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "intd": {
@@ -1086,6 +1131,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Interviewdatum: Tag"
   },
   "intm": {
@@ -1124,6 +1172,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Interviewdatum: Monat"
   },
   "inty": {
@@ -1162,6 +1213,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Interviewdatum: Jahr"
   }
 }

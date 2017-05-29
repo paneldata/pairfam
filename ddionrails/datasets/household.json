@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number anchor"
   },
   "wave": {
@@ -82,6 +85,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Survey year"
   },
   "pid": {
@@ -122,6 +128,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number partner"
   },
   "mid": {
@@ -162,6 +171,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number mother"
   },
   "smid": {
@@ -202,6 +214,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number stepmother"
   },
   "fid": {
@@ -242,6 +257,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number father"
   },
   "cid": {
@@ -282,6 +300,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Personennummer CAPI-Kind"
   },
   "intm": {
@@ -320,6 +341,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview: Month"
   },
   "inty": {
@@ -358,6 +382,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Date of interview: Year"
   },
   "sex_gen": {
@@ -410,6 +437,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Generated sex anchor"
   },
   "doby_gen": {
@@ -512,6 +542,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Generated year of birth anchor"
   },
   "dobm_gen": {
@@ -639,6 +672,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Generated month of birth anchor"
   },
   "pmrd": {
@@ -686,6 +722,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Partner lives in household main residence"
   },
   "mmrd": {
@@ -733,6 +772,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Mother lives in household main residence"
   },
   "fmrd": {
@@ -780,6 +822,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Father lives in household main residence"
   },
   "childmrd": {
@@ -862,6 +907,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Number of children in household main residence"
   },
   "othmrd": {
@@ -969,6 +1017,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Number of other hh members main residence"
   },
   "hhsizemrd": {
@@ -1081,6 +1132,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Number of hh members main residence"
   },
   "dwtype": {
@@ -1148,6 +1202,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Type of household (own, parental, shared, dorm., other)"
   },
   "owner": {
@@ -1230,6 +1287,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Home-ownership"
   },
   "nights": {
@@ -1302,6 +1362,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Nights spent at residence"
   },
   "rent": {
@@ -3419,6 +3482,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Monthly rent for dwelling (euros)"
   },
   "expown": {
@@ -4226,6 +4292,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Monthly expenditures for self-owned apartment / house (euros)"
   },
   "dwsize": {
@@ -5368,6 +5437,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Size of dwelling (square meters)"
   },
   "rooms": {
@@ -5515,6 +5587,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Number of rooms of dwelling"
   },
   "res2nd": {
@@ -5562,6 +5637,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Respondent has 2nd residence"
   },
   "hhincnet": {
@@ -10069,6 +10147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Household net income (open and estimated information combined)"
   },
   "hhcomp": {
@@ -10186,6 +10267,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Household Composition (partner, kid(s), parent(s), others)"
   },
   "hhincgcee": {
@@ -18643,6 +18727,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Net equivalence income (GCEE)"
   },
   "p1_rel": {
@@ -18790,6 +18877,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to partner 1"
   },
   "p1_sex": {
@@ -18842,6 +18932,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of partner 1"
   },
   "p1_byear": {
@@ -19169,6 +19262,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of partner 1"
   },
   "p1_bmonth": {
@@ -19296,6 +19392,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of partner 1"
   },
   "p1_id": {
@@ -47653,6 +47752,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of partner 1"
   },
   "p2_rel": {
@@ -47800,6 +47902,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to partner 2"
   },
   "p2_sex": {
@@ -47852,6 +47957,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of partner 2"
   },
   "p2_byear": {
@@ -47989,6 +48097,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of partner 2"
   },
   "p2_bmonth": {
@@ -48091,6 +48202,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of partner 2"
   },
   "p2_id": {
@@ -48433,6 +48547,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of partner 2"
   },
   "c1_rel": {
@@ -48580,6 +48697,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to child 1"
   },
   "c1_sex": {
@@ -48632,6 +48752,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of child 1"
   },
   "c1_byear": {
@@ -48814,6 +48937,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of child 1"
   },
   "c1_bmonth": {
@@ -48926,6 +49052,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of child 1"
   },
   "c1_id": {
@@ -53653,6 +53782,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of child 1"
   },
   "c2_rel": {
@@ -53800,6 +53932,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to child 2"
   },
   "c2_sex": {
@@ -53852,6 +53987,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of child 2"
   },
   "c2_byear": {
@@ -54014,6 +54152,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of child 2"
   },
   "c2_bmonth": {
@@ -54121,6 +54262,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of child 2"
   },
   "c2_id": {
@@ -57248,6 +57392,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of child 2"
   },
   "c3_rel": {
@@ -57395,6 +57542,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to child 3"
   },
   "c3_sex": {
@@ -57447,6 +57597,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of child 3"
   },
   "c3_byear": {
@@ -57599,6 +57752,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of child 3"
   },
   "c3_bmonth": {
@@ -57706,6 +57862,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of child 3"
   },
   "c3_id": {
@@ -58398,6 +58557,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of child 3"
   },
   "c4_rel": {
@@ -58545,6 +58707,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to child 4"
   },
   "c4_sex": {
@@ -58597,6 +58762,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of child 4"
   },
   "c4_byear": {
@@ -58754,6 +58922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of child 4"
   },
   "c4_bmonth": {
@@ -58861,6 +59032,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of child 4"
   },
   "c4_id": {
@@ -59103,6 +59277,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of child 4"
   },
   "c5_rel": {
@@ -59250,6 +59427,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to child 5"
   },
   "c5_sex": {
@@ -59302,6 +59482,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of child 5"
   },
   "c5_byear": {
@@ -59439,6 +59622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of child 5"
   },
   "c5_bmonth": {
@@ -59541,6 +59727,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of child 5"
   },
   "c5_id": {
@@ -59603,6 +59792,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of child 5"
   },
   "c6_rel": {
@@ -59750,6 +59942,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to child 6"
   },
   "c6_sex": {
@@ -59802,6 +59997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of child 6"
   },
   "c6_byear": {
@@ -59884,6 +60082,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of child 6"
   },
   "c6_bmonth": {
@@ -59966,6 +60167,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of child 6"
   },
   "c6_id": {
@@ -60018,6 +60222,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of child 6"
   },
   "c7_rel": {
@@ -60165,6 +60372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to child 7"
   },
   "c7_sex": {
@@ -60217,6 +60427,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of child 7"
   },
   "c7_byear": {
@@ -60279,6 +60492,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of child 7"
   },
   "c7_bmonth": {
@@ -60341,6 +60557,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of child 7"
   },
   "c7_id": {
@@ -60388,6 +60607,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of child 7"
   },
   "c8_rel": {
@@ -60535,6 +60757,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to child 8"
   },
   "c8_sex": {
@@ -60587,6 +60812,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of child 8"
   },
   "c8_byear": {
@@ -60639,6 +60867,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of child 8"
   },
   "c8_bmonth": {
@@ -60691,6 +60922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of child 8"
   },
   "c8_id": {
@@ -60733,6 +60967,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of child 8"
   },
   "c9_rel": {
@@ -60880,6 +61117,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to child 9"
   },
   "c9_sex": {
@@ -60932,6 +61172,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of child 9"
   },
   "c9_byear": {
@@ -60984,6 +61227,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of child 9"
   },
   "c9_bmonth": {
@@ -61036,6 +61282,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of child 9"
   },
   "c9_id": {
@@ -61078,6 +61327,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of child 9"
   },
   "c10_rel": {
@@ -61225,6 +61477,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to child 10"
   },
   "c10_sex": {
@@ -61277,6 +61532,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of child 10"
   },
   "c10_byear": {
@@ -61329,6 +61587,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of child 10"
   },
   "c10_bmonth": {
@@ -61376,6 +61637,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of child 10"
   },
   "c10_id": {
@@ -61418,6 +61682,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of child 10"
   },
   "pa1_rel": {
@@ -61565,6 +61832,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to parent 1"
   },
   "pa1_sex": {
@@ -61617,6 +61887,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of parent 1"
   },
   "pa1_byear": {
@@ -61919,6 +62192,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of parent 1"
   },
   "pa1_bmonth": {
@@ -62046,6 +62322,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of parent 1"
   },
   "pa1_id": {
@@ -82718,6 +82997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of parent 1"
   },
   "pa2_rel": {
@@ -82865,6 +83147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to parent 2"
   },
   "pa2_sex": {
@@ -82917,6 +83202,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of parent 2"
   },
   "pa2_byear": {
@@ -83234,6 +83522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of parent 2"
   },
   "pa2_bmonth": {
@@ -83361,6 +83652,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of parent 2"
   },
   "pa2_id": {
@@ -100293,6 +100587,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of parent 2"
   },
   "pa3_rel": {
@@ -100440,6 +100737,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to parent 3"
   },
   "pa3_sex": {
@@ -100492,6 +100792,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of parent 3"
   },
   "pa3_byear": {
@@ -100604,6 +100907,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of parent 3"
   },
   "pa3_bmonth": {
@@ -100701,6 +101007,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of parent 3"
   },
   "pa3_id": {
@@ -100893,6 +101202,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of parent 3"
   },
   "pa4_rel": {
@@ -101040,6 +101352,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to parent 4"
   },
   "pa4_sex": {
@@ -101092,6 +101407,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of parent 4"
   },
   "pa4_byear": {
@@ -101144,6 +101462,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of parent 4"
   },
   "pa4_bmonth": {
@@ -101201,6 +101522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of parent 4"
   },
   "pa4_id": {
@@ -101268,6 +101592,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Person number of parent 4"
   },
   "other1_rel": {
@@ -101415,6 +101742,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 1"
   },
   "other1_sex": {
@@ -101467,6 +101797,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 1"
   },
   "other1_byear": {
@@ -101979,6 +102312,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 1"
   },
   "other1_bmonth": {
@@ -102081,6 +102417,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 1"
   },
   "other2_rel": {
@@ -102228,6 +102567,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 2"
   },
   "other2_sex": {
@@ -102280,6 +102622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 2"
   },
   "other2_byear": {
@@ -102742,6 +103087,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 2"
   },
   "other2_bmonth": {
@@ -102844,6 +103192,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 2"
   },
   "other3_rel": {
@@ -102991,6 +103342,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 3"
   },
   "other3_sex": {
@@ -103043,6 +103397,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 3"
   },
   "other3_byear": {
@@ -103385,6 +103742,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 3"
   },
   "other3_bmonth": {
@@ -103487,6 +103847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 3"
   },
   "other4_rel": {
@@ -103634,6 +103997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 4"
   },
   "other4_sex": {
@@ -103686,6 +104052,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 4"
   },
   "other4_byear": {
@@ -103963,6 +104332,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 4"
   },
   "other4_bmonth": {
@@ -104065,6 +104437,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 4"
   },
   "other5_rel": {
@@ -104212,6 +104587,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 5"
   },
   "other5_sex": {
@@ -104264,6 +104642,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 5"
   },
   "other5_byear": {
@@ -104481,6 +104862,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 5"
   },
   "other5_bmonth": {
@@ -104583,6 +104967,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 5"
   },
   "other6_rel": {
@@ -104730,6 +105117,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 6"
   },
   "other6_sex": {
@@ -104782,6 +105172,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 6"
   },
   "other6_byear": {
@@ -104939,6 +105332,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 6"
   },
   "other6_bmonth": {
@@ -105041,6 +105437,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 6"
   },
   "other7_rel": {
@@ -105188,6 +105587,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 7"
   },
   "other7_sex": {
@@ -105240,6 +105642,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 7"
   },
   "other7_byear": {
@@ -105352,6 +105757,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 7"
   },
   "other7_bmonth": {
@@ -105449,6 +105857,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 7"
   },
   "other8_rel": {
@@ -105596,6 +106007,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 8"
   },
   "other8_sex": {
@@ -105648,6 +106062,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 8"
   },
   "other8_byear": {
@@ -105765,6 +106182,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 8"
   },
   "other8_bmonth": {
@@ -105867,6 +106287,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 8"
   },
   "other9_rel": {
@@ -106014,6 +106437,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 9"
   },
   "other9_sex": {
@@ -106066,6 +106492,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 9"
   },
   "other9_byear": {
@@ -106133,6 +106562,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 9"
   },
   "other9_bmonth": {
@@ -106210,6 +106642,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 9"
   },
   "other10_rel": {
@@ -106357,6 +106792,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 10"
   },
   "other10_sex": {
@@ -106409,6 +106847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 10"
   },
   "other10_byear": {
@@ -106481,6 +106922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 10"
   },
   "other10_bmonth": {
@@ -106538,6 +106982,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 10"
   },
   "other11_rel": {
@@ -106685,6 +107132,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 11"
   },
   "other11_sex": {
@@ -106737,6 +107187,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 11"
   },
   "other11_byear": {
@@ -106794,6 +107247,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 11"
   },
   "other11_bmonth": {
@@ -106841,6 +107297,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 11"
   },
   "other12_rel": {
@@ -106988,6 +107447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 12"
   },
   "other12_sex": {
@@ -107040,6 +107502,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 12"
   },
   "other12_byear": {
@@ -107092,6 +107557,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 12"
   },
   "other12_bmonth": {
@@ -107144,6 +107612,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 12"
   },
   "other13_rel": {
@@ -107291,6 +107762,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 13"
   },
   "other13_sex": {
@@ -107343,6 +107817,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 13"
   },
   "other13_byear": {
@@ -107379,6 +107856,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 13"
   },
   "other13_bmonth": {
@@ -107415,6 +107895,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 13"
   },
   "other14_rel": {
@@ -107562,6 +108045,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 14"
   },
   "other14_sex": {
@@ -107614,6 +108100,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 14"
   },
   "other14_byear": {
@@ -107650,6 +108139,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 14"
   },
   "other14_bmonth": {
@@ -107686,6 +108178,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 14"
   },
   "other15_rel": {
@@ -107833,6 +108328,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 15"
   },
   "other15_sex": {
@@ -107885,6 +108383,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 15"
   },
   "other15_byear": {
@@ -107921,6 +108422,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 15"
   },
   "other15_bmonth": {
@@ -107957,6 +108461,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 15"
   },
   "other16_rel": {
@@ -108104,6 +108611,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 16"
   },
   "other16_sex": {
@@ -108156,6 +108666,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 16"
   },
   "other16_byear": {
@@ -108192,6 +108705,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 16"
   },
   "other16_bmonth": {
@@ -108228,6 +108744,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 16"
   },
   "other17_rel": {
@@ -108375,6 +108894,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 17"
   },
   "other17_sex": {
@@ -108427,6 +108949,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 17"
   },
   "other17_byear": {
@@ -108463,6 +108988,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 17"
   },
   "other17_bmonth": {
@@ -108499,6 +109027,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 17"
   },
   "other18_rel": {
@@ -108646,6 +109177,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 18"
   },
   "other18_sex": {
@@ -108698,6 +109232,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 18"
   },
   "other18_byear": {
@@ -108734,6 +109271,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 18"
   },
   "other18_bmonth": {
@@ -108770,6 +109310,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 18"
   },
   "other19_rel": {
@@ -108917,6 +109460,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Anchor's relation to hh member 19"
   },
   "other19_sex": {
@@ -108969,6 +109515,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sex of hh member 19"
   },
   "other19_byear": {
@@ -109005,6 +109554,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Year of birth of hh member 19"
   },
   "other19_bmonth": {
@@ -109041,6 +109593,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Month of birth of hh member 19"
   }
 }

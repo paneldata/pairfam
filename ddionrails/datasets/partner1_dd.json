@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Personennummer Partner"
   },
   "demodiff": {
@@ -77,6 +80,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "DemoDiff Stichprobe"
   },
   "wave": {
@@ -119,6 +125,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Welle"
   },
   "id": {
@@ -157,6 +166,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Personennummer Anker"
   },
   "pval1i1": {
@@ -239,6 +251,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pval1i2": {
@@ -321,6 +336,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Man sollte heiraten, wenn man mit Partner auf Dauer zusammen lebt (Frage 1)"
   },
   "pval1i3": {
@@ -403,6 +421,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pval1i4": {
@@ -485,6 +506,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pval1i5": {
@@ -567,6 +591,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ein Kind unter 6 Jahr. wird darunter leiden,wenn seine Mutter arbeitet (Frage 1)"
   },
   "pval1i6": {
@@ -649,6 +676,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pval1i7": {
@@ -731,6 +761,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Die Ehe ist eine lebenslange Verbindung u. sollte nicht beendet werden (Frage 1)"
   },
   "pval1i8": {
@@ -813,6 +846,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psat1i1": {
@@ -926,6 +962,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Zufriedenheit mit Schule, Ausbildung, Beruf (Frage 2)"
   },
   "psat1i2": {
@@ -1039,6 +1078,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Zufriedenheit mit Freizeitgestaltung, Hobbys, Interessen (Frage 2)"
   },
   "psat1i3": {
@@ -1152,6 +1194,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Zufriedenheit mit Freunde, Bekannte, soziale Kontakte (Frage 2)"
   },
   "psat1i4": {
@@ -1265,6 +1310,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Zufriedenheit mit Familie (Frage 2)"
   },
   "psrs1i1": {
@@ -1403,6 +1451,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wichtigkeit Lebensbereich Ausbildung bzw. berufl. Interessen verfolgen (Frage 3)"
   },
   "psrs1i2": {
@@ -1531,6 +1582,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wichtigkeit Lebensbereich Hobbys und Interessen nachgehen (Frage 3)"
   },
   "psrs1i3": {
@@ -1659,6 +1713,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wichtigkeit Lebensbereich Kontakte zu Freunden pflegen (Frage 3)"
   },
   "psrs1i4": {
@@ -1787,6 +1844,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wichtigkeit Lebensbereich in einer Partnerschaft leben (Frage 3)"
   },
   "psrs1i5": {
@@ -1915,6 +1975,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wichtigkeit Lebensbereich Kind bzw. weitere Kinder bekommen (Frage 3)"
   },
   "pbce1i1": {
@@ -1952,6 +2015,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "VOP+: Gemeinsame Unternehmungen mit Partner (Frage 4)"
   },
   "pbce1i2": {
@@ -1989,6 +2055,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pbce1i3": {
@@ -2026,6 +2095,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "VOP+: Durch Partner steigt Ansehen bei anderen (Frage 4)"
   },
   "pbce1i4": {
@@ -2063,6 +2135,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "VOP+: Finanzielle Vorteile durch Partnerschaft (Frage 4)"
   },
   "pbce1i5": {
@@ -2100,6 +2175,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "VOP+: Zuneigung und Geborgenheit in Partnerschaft (Frage 4)"
   },
   "pbce1i6": {
@@ -2137,6 +2215,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pbce1i7": {
@@ -2174,6 +2255,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "VOP-: Stress in der Partnerschaft (Frage 4)"
   },
   "pbce1i8": {
@@ -2211,6 +2295,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pbce1i9": {
@@ -2248,6 +2335,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "VOP-: Ablehnung des Partners durch Familie und Freunde (Frage 4)"
   },
   "pbce1i10": {
@@ -2285,6 +2375,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psat3": {
@@ -2322,6 +2415,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Zufriedenheit mit Beziehung (Frage 5)"
   },
   "psat4": {
@@ -2359,6 +2455,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa9": {
@@ -2446,6 +2545,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa11": {
@@ -2533,6 +2635,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa13": {
@@ -2605,6 +2710,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa14i1": {
@@ -2697,6 +2805,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Arbeitsteilung: Hausarbeit (Frage 10)"
   },
   "ppa14i2": {
@@ -2789,6 +2900,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Arbeitsteilung: Einkaufen (Frage 10)"
   },
   "ppa14i3": {
@@ -2881,6 +2995,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Arbeitsteilung: Reparaturen (Frage 10)"
   },
   "ppa14i4": {
@@ -2973,6 +3090,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa14i5": {
@@ -3065,6 +3185,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Arbeitsteilung: Kinderbetreuung (Frage 10)"
   },
   "ppa15": {
@@ -3152,6 +3275,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa19i1": {
@@ -3189,6 +3315,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa19i3": {
@@ -3226,6 +3355,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Achte darauf, ob Partner sich erkenntlich zeigt (Frage 12)"
   },
   "ppa19i5": {
@@ -3263,6 +3395,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa19i6": {
@@ -3300,6 +3435,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa19i7": {
@@ -3337,6 +3475,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa19i8": {
@@ -3374,6 +3515,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Rechne mit langfristiger gemeinsamer Zukunft (Frage 12)"
   },
   "ppa16i1": {
@@ -3411,6 +3555,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa16i2": {
@@ -3448,6 +3595,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa16i3": {
@@ -3485,6 +3635,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa16i4": {
@@ -3522,6 +3675,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa16i5": {
@@ -3559,6 +3715,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa16i6": {
@@ -3596,6 +3755,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa21i1": {
@@ -3684,6 +3846,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Meinungsverschiedenheit: Gestaltung der Freizeit (Frage 14)"
   },
   "ppa21i2": {
@@ -3772,6 +3937,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Meinungsverschiedenheit: Aufteilung der Arbeiten (Frage 14)"
   },
   "ppa21i3": {
@@ -3860,6 +4028,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Meinungsverschiedenheit: Finanzielle Dinge (Frage 14)"
   },
   "ppa21i4": {
@@ -3948,6 +4119,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Meinungsverschiedenheit: Engagement in Beruf/Ausbildung/Schule (Frage 14)"
   },
   "ppa21i5": {
@@ -4036,6 +4210,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Meinungsverschiedenheit: Umgang miteinander (Frage 14)"
   },
   "ppa21i6": {
@@ -4124,6 +4301,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Meinungsverschiedenheit: Kindererziehung (Frage 14)"
   },
   "ppa22pi1": {
@@ -4161,6 +4341,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Fremdbeurteilung: Partner beleidigen oder beschimpfen (Frage 15)"
   },
   "ppa22pi2": {
@@ -4198,6 +4381,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Fremdbeurteilung: In Schweigen verfallen (Frage 15)"
   },
   "ppa22pi3": {
@@ -4235,6 +4421,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Fremdbeurteilung: Partner anschreien (Frage 15)"
   },
   "ppa22pi4": {
@@ -4272,6 +4461,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa22pi5": {
@@ -4309,6 +4501,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa22pi6": {
@@ -4346,6 +4541,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Fremdbeurteilung: Schnell beleidigt sein (Frage 15)"
   },
   "ppa22pi7": {
@@ -4383,6 +4581,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa22pi8": {
@@ -4420,6 +4621,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa22ri1": {
@@ -4457,6 +4661,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Selbstbeurteilung: Partner beleidigen oder beschimpfen (Frage 15)"
   },
   "ppa22ri2": {
@@ -4494,6 +4701,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Selbstbeurteilung: In Schweigen verfallen (Frage 15)"
   },
   "ppa22ri3": {
@@ -4531,6 +4741,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Selbstbeurteilung: Partner anschreien (Frage 15)"
   },
   "ppa22ri4": {
@@ -4568,6 +4781,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa22ri5": {
@@ -4605,6 +4821,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa22ri6": {
@@ -4642,6 +4861,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Selbstbeurteilung: Schnell beleidigt sein (Frage 15)"
   },
   "ppa22ri7": {
@@ -4679,6 +4901,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa22ri8": {
@@ -4716,6 +4941,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa17i1": {
@@ -4753,6 +4981,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa17i2": {
@@ -4790,6 +5021,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa17i3": {
@@ -4827,6 +5061,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa17i4": {
@@ -4864,6 +5101,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa17i5": {
@@ -4901,6 +5141,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa17i6": {
@@ -4938,6 +5181,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa17i7": {
@@ -4975,6 +5221,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa17i8": {
@@ -5012,6 +5261,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa18i1": {
@@ -5049,6 +5301,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Partner findet es in Ordnung, wenn ich eigene Interessen vertrete (Frage 17)"
   },
   "ppa18i2": {
@@ -5086,6 +5341,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa18i4": {
@@ -5123,6 +5381,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa18i6": {
@@ -5160,6 +5421,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa18i7": {
@@ -5197,6 +5461,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa18i9": {
@@ -5234,6 +5501,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa18i10": {
@@ -5271,6 +5541,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Bin oft nicht sicher, ob Partner genauso gern mit mir zusammen ist (Frage 17)"
   },
   "ppa18i11": {
@@ -5308,6 +5581,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa18i12": {
@@ -5345,6 +5621,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa18i14": {
@@ -5382,6 +5661,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa18i15": {
@@ -5419,6 +5701,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa18i16": {
@@ -5456,6 +5741,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Kann eigenen Interessen nachgehen, ohne dass Partner sauer ist (Frage 17)"
   },
   "ppa18i18": {
@@ -5493,6 +5781,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "ppa26": {
@@ -5560,6 +5851,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Gedacht, dass Partnerschaft in Schwierigkeiten (im letzten Jahr) (Frage 18)"
   },
   "ppa27": {
@@ -5627,6 +5921,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ernsthaft an Trennung oder Scheidung gedacht (im letzten Jahr) (Frage 19)"
   },
   "ppa28": {
@@ -5694,6 +5991,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ernsthaft Trennung oder Scheidung vorgeschlagen (im letzten Jahr) (Frage 20)"
   },
   "pbce2i1": {
@@ -5782,6 +6082,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pbce2i2": {
@@ -5870,6 +6173,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "VOC+: Besonders enge emotionale Beziehung zu Kindern (Frage 21)"
   },
   "pbce2i3": {
@@ -5958,6 +6264,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pbce2i4": {
@@ -6046,6 +6355,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pbce2i5": {
@@ -6134,6 +6446,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "VOC+: Neue Anregungen von erwachsenen Kindern (Frage 21)"
   },
   "pbce2i6": {
@@ -6222,6 +6537,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pbce2i7": {
@@ -6310,6 +6628,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "VOC-: Kinder sind nervliche Belastung (Frage 21)"
   },
   "pbce2i8": {
@@ -6398,6 +6719,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "VOC-: Berufliche Ziele mit Kindern nicht erreichen (Frage 21)"
   },
   "pbce2i9": {
@@ -6486,6 +6810,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pbce2i10": {
@@ -6574,6 +6901,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd9": {
@@ -6641,6 +6971,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Haben Sie leibliche oder adoptierte Kinder (Frage 22)"
   },
   "psd19k1m": {
@@ -6759,6 +7092,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Monat Geburt Kind 1 (Frage 23)"
   },
   "psd19k1y": {
@@ -6967,6 +7303,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Jahr Geburt Kind 1 (Frage 23)"
   },
   "psd14k1g": {
@@ -7034,6 +7373,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Geschlecht Kind 1 (Frage 23)"
   },
   "psd15k1": {
@@ -7109,6 +7451,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Status Kind 1 (Frage 23)"
   },
   "psd19k2m": {
@@ -7227,6 +7572,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Monat Geburt Kind 2 (Frage 23)"
   },
   "psd19k2y": {
@@ -7420,6 +7768,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Jahr Geburt Kind 2 (Frage 23)"
   },
   "psd14k2g": {
@@ -7487,6 +7838,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Geschlecht Kind 2 (Frage 23)"
   },
   "psd15k2": {
@@ -7562,6 +7916,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Status Kind 2 (Frage 23)"
   },
   "psd19k3m": {
@@ -7680,6 +8037,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Monat Geburt Kind 3 (Frage 23)"
   },
   "psd19k3y": {
@@ -7848,6 +8208,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Jahr Geburt Kind 3 (Frage 23)"
   },
   "psd14k3g": {
@@ -7915,6 +8278,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Geschlecht Kind 3 (Frage 23)"
   },
   "psd15k3": {
@@ -7990,6 +8356,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Status Kind 3 (Frage 23)"
   },
   "psd19k4m": {
@@ -8103,6 +8472,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Monat Geburt Kind 4 (Frage 23)"
   },
   "psd19k4y": {
@@ -8226,6 +8598,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Jahr Geburt Kind 4 (Frage 23)"
   },
   "psd14k4g": {
@@ -8293,6 +8668,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Geschlecht Kind 4 (Frage 23)"
   },
   "psd15k4": {
@@ -8368,6 +8746,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Status Kind 4 (Frage 23)"
   },
   "psex5": {
@@ -8440,6 +8821,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex6i1": {
@@ -8507,6 +8891,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex6i2": {
@@ -8574,6 +8961,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex6i3": {
@@ -8641,6 +9031,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex6i4": {
@@ -8708,6 +9101,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex6i5": {
@@ -8775,6 +9171,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex6i6": {
@@ -8842,6 +9241,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex6i7": {
@@ -8909,6 +9311,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex6i8": {
@@ -8976,6 +9381,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex6i9": {
@@ -9043,6 +9451,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex6i10": {
@@ -9110,6 +9521,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex6i11": {
@@ -9177,6 +9591,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psex7": {
@@ -9259,6 +9676,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt1": {
@@ -9336,6 +9756,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psat5": {
@@ -9373,6 +9796,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Zufriedenheit mit Sexualleben (Frage 28)"
   },
   "pfrt5": {
@@ -9481,6 +9907,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ideale Kinderzahl (Frage 29)"
   },
   "pfrt6": {
@@ -9572,6 +10001,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Realistische Kinderzahl (Frage 30)"
   },
   "pfrt13i1": {
@@ -9639,6 +10071,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i2": {
@@ -9706,6 +10141,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i3": {
@@ -9773,6 +10211,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i4": {
@@ -9840,6 +10281,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i5": {
@@ -9907,6 +10351,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i6": {
@@ -9974,6 +10421,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i7": {
@@ -10041,6 +10491,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i8": {
@@ -10108,6 +10561,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i9": {
@@ -10175,6 +10631,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i10": {
@@ -10242,6 +10701,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i11": {
@@ -10309,6 +10771,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i12": {
@@ -10376,6 +10841,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i13": {
@@ -10443,6 +10911,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i14": {
@@ -10510,6 +10981,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt13i14o": {
@@ -10556,6 +11030,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Nennung sonstiger Grund (Frage 31)"
   },
   "pfrt7": {
@@ -10638,6 +11115,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt9": {
@@ -10854,6 +11334,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt10i1": {
@@ -10936,6 +11419,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freunde finden, dass ich Kind bekommen sollte (Frage 34)"
   },
   "pfrt10i2": {
@@ -11018,6 +11504,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Eltern finden, dass ich Kind bekommen sollte (Frage 34)"
   },
   "pfrt12i1": {
@@ -11106,6 +11595,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt12i2": {
@@ -11194,6 +11686,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt12i3": {
@@ -11282,6 +11777,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pfrt12i4": {
@@ -11370,6 +11868,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "plsr1i1": {
@@ -11407,6 +11908,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "plsr1i2": {
@@ -11444,6 +11948,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "plsr1i3": {
@@ -11481,6 +11988,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: In die Disko gehen (Frage 36)"
   },
   "plsr1i4": {
@@ -11518,6 +12028,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Freizeit: Mit Freunden treffen (Frage 36)"
   },
   "plsr2": {
@@ -11555,6 +12068,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Stunden Fernsehen letzte Woche (Frage 36)"
   },
   "plsr3": {
@@ -11592,6 +12108,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Stunden private Internetnutzung letzte Woche (Frage 36)"
   },
   "plsr4": {
@@ -11629,6 +12148,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Wochen Urlaub letztes Jahr (Frage 36)"
   },
   "pper1i1": {
@@ -11666,6 +12188,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ich stimme anderen oft zu, selbst wenn ich nicht sicher bin (Frage 37)"
   },
   "pper1i2": {
@@ -11703,6 +12228,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Manchmal denke ich, dass ich wertlos bin (Frage 37)"
   },
   "pper1i3": {
@@ -11740,6 +12268,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ich gerate schnell in Wut (Frage 37)"
   },
   "pper1i4": {
@@ -11777,6 +12308,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pper1i5": {
@@ -11814,6 +12348,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pper1i6": {
@@ -11851,6 +12388,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pper1i7": {
@@ -11888,6 +12428,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ich mag mich so wie ich bin (Frage 37)"
   },
   "pper1i8": {
@@ -11925,6 +12468,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ich steigere mich leicht in einen Streit hinein (Frage 37)"
   },
   "pper1i9": {
@@ -11962,6 +12508,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pper1i10": {
@@ -11999,6 +12548,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pper1i11": {
@@ -12036,6 +12588,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pper1i12": {
@@ -12073,6 +12628,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Ich gehe ungezwungen auf andere Menschen zu (Frage 37)"
   },
   "pper1i13": {
@@ -12110,6 +12668,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Alles in allem bin ich mit mir selbst zufrieden (Frage 37)"
   },
   "pdobd": {
@@ -12177,6 +12738,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Tag Geburt (Frage 38)"
   },
   "pdobm": {
@@ -12295,6 +12859,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Monat Geburt (Frage 38)"
   },
   "pdoby": {
@@ -12538,6 +13105,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Jahr Geburt (Frage 38)"
   },
   "psex": {
@@ -12605,6 +13175,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Geschlecht (Frage 39)"
   },
   "psd10": {
@@ -12687,6 +13260,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktueller Familienstand (Frage 40)"
   },
   "psd27": {
@@ -12835,6 +13411,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd27o": {
@@ -12881,6 +13460,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Nennung sonstiger Abschluss (Frage 41)"
   },
   "psd23i2": {
@@ -12948,6 +13530,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktuell: Abendschule, Kolleg (2. Bildungsweg) (Frage 42)"
   },
   "psd23i3": {
@@ -13015,6 +13600,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktuell: Berufliche Ausbildung (Frage 42)"
   },
   "psd23i4": {
@@ -13082,6 +13670,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktuell: Umschulung/Weiterbildung (Frage 42)"
   },
   "psd23i5": {
@@ -13149,6 +13740,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktuell: Berufsakademie (Frage 42)"
   },
   "psd23i6": {
@@ -13216,6 +13810,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd23i7": {
@@ -13283,6 +13880,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd23i8": {
@@ -13350,6 +13950,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktuell: Fachschulen (z.B. Meister-, Technikerschule) (Frage 42)"
   },
   "psd23i9": {
@@ -13417,6 +14020,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktuell: Sonstige Ausbildung (Frage 42)"
   },
   "psd23i10": {
@@ -13484,6 +14090,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd23i11": {
@@ -13551,6 +14160,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd23i12": {
@@ -13618,6 +14230,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd23i13": {
@@ -13685,6 +14300,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd23i14": {
@@ -13752,6 +14370,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd23i15": {
@@ -13819,6 +14440,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd23i16": {
@@ -13886,6 +14510,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd23i17": {
@@ -13953,6 +14580,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktuell: Mutterschutz, Elternzeit, sonstige Beurlaubung (Frage 42)"
   },
   "psd23i18": {
@@ -14020,6 +14650,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktuell: Wehrdienst/Zivildienst, freiwilliges soziales Jahr (Frage 42)"
   },
   "psd23i19": {
@@ -14087,6 +14720,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktuell: Arbeitslos, arbeitsuchend (Frage 42)"
   },
   "psd23i20": {
@@ -14154,6 +14790,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktuell: Hausfrau/Hausmann (Frage 42)"
   },
   "psd23i21": {
@@ -14221,6 +14860,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd23i22": {
@@ -14288,6 +14930,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "pjob2": {
@@ -14495,6 +15140,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Aktuelle berufliche Stellung (Frage 43)"
   },
   "pinc2": {
@@ -15218,6 +15866,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Nettoverdienst im letzten Monat (Frage 44)"
   },
   "pinc2c": {
@@ -15330,6 +15981,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Nettoverdienst im letzten Monat kategorisiert (Frage 44)"
   },
   "phlt1": {
@@ -15412,6 +16066,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Gesundheitszustand letzte 4 Wochen (Frage 45)"
   },
   "phlt2": {
@@ -15449,6 +16106,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "phlt3": {
@@ -15486,6 +16146,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "phlt4": {
@@ -15523,6 +16186,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Gewicht in kg (Frage 48)"
   },
   "phlt7": {
@@ -15560,6 +16226,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Stunden Schlaf pro Nacht unter der Woche (Frage 49)"
   },
   "phlt5": {
@@ -15627,6 +16296,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Erwerbsgemindert oder schwerbehindert (Frage 50)"
   },
   "phlt6": {
@@ -15664,6 +16336,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd30": {
@@ -15756,6 +16431,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psd31": {
@@ -15843,6 +16521,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "NA"
   },
   "psat6": {
@@ -15956,6 +16637,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Zufriedenheit mit Leben insgesamt (Frage 54)"
   },
   "pintd": {
@@ -16169,6 +16853,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Interviewdatum: Tag"
   },
   "pintm": {
@@ -16267,6 +16954,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Interviewdatum: Monat"
   },
   "pinty": {
@@ -16335,6 +17025,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Interviewdatum: Jahr"
   },
   "plng": {
@@ -16392,6 +17085,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "None",
     "label_de": "Sprache des Fragebogens"
   }
 }

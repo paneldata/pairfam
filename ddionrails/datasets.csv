@@ -1,59 +1,52 @@
-dataset_name,label,period_name,analysis_unit_name,conceptual_dataset_name
-anchor1,"anchor data, pairfam main sample, wave 1 (2008/09)",wave1,anchor,org/net
-anchor1_DD,"anchor data, DemoDiff subsample, wave 1 (2009/10)",wave1,anchor,org/net
-anchor2,"anchor data, pairfam main sample, wave 2 (2009/10)",wave2,anchor,org/net
-anchor2_DD,"anchor data, DemoDiff subsample (childhood history), wave 2 (2010/11)",wave2,anchor,org/net
-anchor3,"anchor data, wave 3 (2010/11)",wave3,anchor,org/net
-anchor4,"anchor data, wave 4 (2011/12)",wave4,anchor,org/net
-anchor5,"anchor data, wave 5 (2012/13)",wave5,anchor,org/net
-anchor6,"anchor data, wave 6 (2013/14)",wave6,anchor,org/net
-anchor7,"anchor data, wave 7 (2014/15)",wave7,anchor,org/net
-bioact,anchor’s activities (education & employment) as of wave 1 (prospective),cumulative,anchor,org/net
-bioact_rtr,anchor’s activities (education & employment) starting from the age of 18 up to wave 1 (retrospective),retrospective,anchor,org/net
-biochild,anchor’s children and episodes of cohabitation with these children (retrospective and prospective),cumulative,anchor,org/net
-biomob_ehc,anchor’s residences as of wave 1 (prospective; separate cities only),cumulative,anchor,org/net
-biomob_ehc_moves,anchor’s residences as of wave 1 (prospective; moves within cities),cumulative,anchor,org/net
-biomob_rtr,anchor’s main residences from the age of 18 up to wave 1 (retrospective),retrospective,anchor,org/net
-biomob_rtr_parents,anchor’s residency episodes within the parental household (retrospective),retrospective,anchor,org/net
-bioparent,"anchor’s biological, adoptive, and stepparents (retrospective and prospective)",cumulative,anchor,org/net
-biopart,"anchor’s partnership, cohabitation, and marriage episodes (retrospective and prospective)",cumulative,anchor,org/net
-child2,"child data, wave 2 (2009/10)",wave2,child,org/net
-child3,"child data, wave 3 (2010/11)",wave3,child,org/net
-child4,"child data, wave 4 (2011/12)",wave4,child,org/net
-child5,"child data, wave 5 (2012/13)",wave5,child,org/net
-child6,"child data, wave 6 (2013/14)",wave6,child,org/net
-child7,"child data, wave 7 (2014/15)",wave7,child,org/net
-household,"anchor’s main residence, household members, household income (wave 2 & 3)",cumulative,household,org/net
-Overview_multi_actor,"participation patterns anchor, partner, child, parenting, and parent survey",cumulative,all,
-parent2,"parent data, wave 2 (2009/10)",wave2,parent,org/net
-parent3,"parent data, wave 3 (2010/11)",wave3,parent,org/net
-parent4,"parent data, wave 4 (2011/12)",wave4,parent,org/net
-parent5,"parent data, wave 5 (2012/13)",wave5,parent,org/net
-parent6,"parent data, wave 6 (2013/14)",wave6,parent,org/net
-parent7,"parent data, wave 7 (2014/15)",wave7,parent,org/net
-parenting2,"parenting data, wave 2 (2009/10)",wave2,parent,org/net
-parenting3,"parenting data, wave 3 (2010/11)",wave3,parent,org/net
-parenting4,"parenting data, wave 4 (2011/12)",wave4,parent,org/net
-parenting5,"parenting data, wave 5 (2012/13)",wave5,parent,org/net
-parenting6,"parenting data, wave 6 (2013/14)",wave6,parent,org/net
-parenting7,"parenting data, wave 7 (2014/15)",wave7,parent,org/net
-partner1,"partner data, pairfam main sample, wave 1 (2008/09)",wave1,partner,org/net
-partner1_DD,"partner data, DemoDiff subsample, wave 1 (2009/10)",wave1,partner,org/net
-partner2,"partner data, pairfam main sample, wave 2 (2009/10)",wave2,partner,org/net
-partner3,"partner data, wave 3 (2010/11)",wave3,partner,org/net
-partner4,"partner data, wave 4 (2011/12)",wave4,partner,org/net
-partner5,"partner data, wave 5 (2012/13)",wave5,partner,org/net
-partner6,"partner data, wave 6 (2013/14)",wave6,partner,org/net
-partner7,"partner data, wave 7 (2014/15)",wave7,partner,org/net
-stepup_anchor4,"step-up anchor data, wave 4 (2011/12)",wave4,anchor,org/net
-stepup_anchor5,"step-up anchor data, wave 5 (2012/13)",wave5,anchor,org/net
-stepup_anchor6,"step-up anchor data, wave 6 (2013/14)",wave6,anchor,org/net
-stepup_anchor7,"step-up anchor data, wave 7 (2014/15)",wave7,anchor,org/net
-stepup_partner4,"step-up partner data, wave 4 (2011/12)",wave4,anchor,org/net
-stepup_partner5,"step-up partner data, wave 5 (2012/13)",wave5,anchor,org/net
-stepup_partner6,"step-up partner data, wave 6 (2013/14)",wave6,anchor,org/net
-stepup_partner7,"step-up partner data, wave 7 (2014/15)",wave7,anchor,org/net
-stepup_transition_anchor4,"step-up anchor data, transitional PAPI questionnaire, wave 4 (2011/12)",wave4,anchor,org/net
-stepup_transition_anchor5,"step-up anchor data, transitional PAPI questionnaire, wave 5 (2012/13)",wave5,anchor,org/net
-stepup_transition_anchor6,"step-up anchor data, transitional PAPI questionnaire, wave 6 (2013/14)",wave6,anchor,org/net
-stepup_transition_anchor7,"step-up anchor data, transitional PAPI questionnaire, wave 7 (2014/15)",wave7,anchor,org/net
+dataset_name,study_name
+biomob_ehc_moves,pairfam
+parent8,pairfam
+anchor2_dd,pairfam
+parenting2,pairfam
+bioparent,pairfam
+partner4,pairfam
+anchor1_dd,pairfam
+anchor5,pairfam
+anchor4,pairfam
+anchor8,pairfam
+child3,pairfam
+biomob_ehc,pairfam
+overview_multi_actor,pairfam
+child2,pairfam
+anchor2,pairfam
+anchor1,pairfam
+partner7,pairfam
+child8,pairfam
+child4,pairfam
+partner1_dd,pairfam
+parent4,pairfam
+parenting4,pairfam
+child6,pairfam
+parenting8,pairfam
+parent3,pairfam
+parent7,pairfam
+parenting3,pairfam
+partner5,pairfam
+anchor7,pairfam
+anchor3,pairfam
+parent5,pairfam
+parent2,pairfam
+parenting6,pairfam
+biomob_rtr_parents,pairfam
+biopart,pairfam
+bioact,pairfam
+biomob_rtr,pairfam
+partner6,pairfam
+partner1,pairfam
+partner8,pairfam
+parenting5,pairfam
+bioact_rtr,pairfam
+child7,pairfam
+partner2,pairfam
+child5,pairfam
+biochild,pairfam
+parent6,pairfam
+anchor6,pairfam
+parenting7,pairfam
+household,pairfam
+partner3,pairfam
