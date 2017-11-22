@@ -1,0 +1,4238 @@
+{
+  "id": {
+    "study": "pairfam",
+    "name": "id",
+    "name_cs": "id",
+    "variable": "id",
+    "dataset": "stepup_biopart",
+    "label": "Person number anchor",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "750400000",
+        "750500000",
+        "750600000",
+        "750600000",
+        "750700000",
+        "750900000",
+        "217",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Person number anchor"
+  },
+  "demodiff": {
+    "study": "pairfam",
+    "name": "demodiff",
+    "name_cs": "demodiff",
+    "variable": "demodiff",
+    "dataset": "stepup_biopart",
+    "label": "DemoDiff Stichprobe",
+    "categories": {
+      "frequencies": [
+        217,
+        0
+      ],
+      "labels": [
+        "0 pairfam",
+        "1 demodiff"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "0 pairfam",
+        "1 demodiff"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "DemoDiff Stichprobe"
+  },
+  "entry": {
+    "study": "pairfam",
+    "name": "entry",
+    "name_cs": "entry",
+    "variable": "entry",
+    "dataset": "stepup_biopart",
+    "label": "Respondent entered survey in wave",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "4",
+        "4",
+        "6",
+        "5.76",
+        "7",
+        "8",
+        "217",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Respondent entered survey in wave"
+  },
+  "intdatw4": {
+    "study": "pairfam",
+    "name": "intdatw4",
+    "name_cs": "intdatw4",
+    "variable": "intdatw4",
+    "dataset": "stepup_biopart",
+    "label": "Date of interview wave 4",
+    "categories": {
+      "frequencies": [
+        1,
+        28,
+        17,
+        9,
+        2,
+        1,
+        159,
+        0
+      ],
+      "labels": [
+        "1341",
+        "1342",
+        "1343",
+        "1344",
+        "1345",
+        "1346",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1341",
+        "1342",
+        "1343",
+        "1344",
+        "1345",
+        "1346",
+        "-3",
+        "-7"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "58",
+        "159"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Date of interview wave 4"
+  },
+  "intdatw5": {
+    "study": "pairfam",
+    "name": "intdatw5",
+    "name_cs": "intdatw5",
+    "variable": "intdatw5",
+    "dataset": "stepup_biopart",
+    "label": "Date of interview wave 5",
+    "categories": {
+      "frequencies": [
+        28,
+        35,
+        26,
+        3,
+        1,
+        1,
+        123,
+        0
+      ],
+      "labels": [
+        "1353",
+        "1354",
+        "1355",
+        "1356",
+        "1357",
+        "1358",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1353",
+        "1354",
+        "1355",
+        "1356",
+        "1357",
+        "1358",
+        "-3",
+        "-7"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "94",
+        "123"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Date of interview wave 5"
+  },
+  "intdatw6": {
+    "study": "pairfam",
+    "name": "intdatw6",
+    "name_cs": "intdatw6",
+    "variable": "intdatw6",
+    "dataset": "stepup_biopart",
+    "label": "Date of interview wave 6",
+    "categories": {
+      "frequencies": [
+        20,
+        56,
+        19,
+        18,
+        4,
+        1,
+        99,
+        0
+      ],
+      "labels": [
+        "1365",
+        "1366",
+        "1367",
+        "1368",
+        "1369",
+        "1370",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1365",
+        "1366",
+        "1367",
+        "1368",
+        "1369",
+        "1370",
+        "-3",
+        "-7"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "118",
+        "99"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Date of interview wave 6"
+  },
+  "intdatw7": {
+    "study": "pairfam",
+    "name": "intdatw7",
+    "name_cs": "intdatw7",
+    "variable": "intdatw7",
+    "dataset": "stepup_biopart",
+    "label": "Date of interview wave 7",
+    "categories": {
+      "frequencies": [
+        21,
+        66,
+        26,
+        29,
+        6,
+        7,
+        2,
+        2,
+        58,
+        0
+      ],
+      "labels": [
+        "1377",
+        "1378",
+        "1379",
+        "1380",
+        "1381",
+        "1382",
+        "1383",
+        "1384",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1377",
+        "1378",
+        "1379",
+        "1380",
+        "1381",
+        "1382",
+        "1383",
+        "1384",
+        "-3",
+        "-7"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "159",
+        "58"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Date of interview wave 7"
+  },
+  "intdatw8": {
+    "study": "pairfam",
+    "name": "intdatw8",
+    "name_cs": "intdatw8",
+    "variable": "intdatw8",
+    "dataset": "stepup_biopart",
+    "label": "Date of interview wave 8",
+    "categories": {
+      "frequencies": [
+        5,
+        80,
+        35,
+        34,
+        21,
+        7,
+        3,
+        32,
+        0
+      ],
+      "labels": [
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "1393",
+        "1394",
+        "1395",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "1393",
+        "1394",
+        "1395",
+        "-3",
+        "-7"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "185",
+        "32"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Date of interview wave 8"
+  },
+  "sex": {
+    "study": "pairfam",
+    "name": "sex",
+    "name_cs": "sex",
+    "variable": "sex",
+    "dataset": "stepup_biopart",
+    "label": "Sex anchor",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        80,
+        137
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-4 Filter error / Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Dont know",
+        "1 Male",
+        "2 Female"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-7",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-4 Filter error / Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Dont know",
+        "1 Male",
+        "2 Female"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sex anchor"
+  },
+  "dob": {
+    "study": "pairfam",
+    "name": "dob",
+    "name_cs": "dob",
+    "variable": "dob",
+    "dataset": "stepup_biopart",
+    "label": "Date of birth anchor",
+    "categories": {
+      "frequencies": [
+        2,
+        8,
+        2,
+        2,
+        1,
+        1,
+        5,
+        2,
+        6,
+        1,
+        1,
+        2,
+        10,
+        2,
+        3,
+        4,
+        2,
+        4,
+        3,
+        1,
+        2,
+        2,
+        5,
+        8,
+        8,
+        9,
+        2,
+        3,
+        3,
+        1,
+        11,
+        4,
+        4,
+        2,
+        2,
+        6,
+        3,
+        4,
+        1,
+        4,
+        7,
+        7,
+        3,
+        1,
+        5,
+        4,
+        3,
+        3,
+        5,
+        5,
+        1,
+        2,
+        1,
+        5,
+        3,
+        3,
+        7,
+        1,
+        2,
+        1,
+        2,
+        0,
+        0
+      ],
+      "labels": [
+        "1129",
+        "1131",
+        "1132",
+        "1134",
+        "1135",
+        "1136",
+        "1138",
+        "1139",
+        "1140",
+        "1141",
+        "1142",
+        "1144",
+        "1145",
+        "1146",
+        "1147",
+        "1148",
+        "1149",
+        "1150",
+        "1151",
+        "1152",
+        "1153",
+        "1155",
+        "1157",
+        "1158",
+        "1159",
+        "1160",
+        "1162",
+        "1164",
+        "1165",
+        "1167",
+        "1168",
+        "1169",
+        "1170",
+        "1171",
+        "1172",
+        "1173",
+        "1174",
+        "1175",
+        "1176",
+        "1177",
+        "1178",
+        "1179",
+        "1180",
+        "1181",
+        "1182",
+        "1183",
+        "1184",
+        "1185",
+        "1186",
+        "1187",
+        "1188",
+        "1189",
+        "1190",
+        "1192",
+        "1193",
+        "1194",
+        "1195",
+        "1196",
+        "1197",
+        "1198",
+        "1199",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1129",
+        "1131",
+        "1132",
+        "1134",
+        "1135",
+        "1136",
+        "1138",
+        "1139",
+        "1140",
+        "1141",
+        "1142",
+        "1144",
+        "1145",
+        "1146",
+        "1147",
+        "1148",
+        "1149",
+        "1150",
+        "1151",
+        "1152",
+        "1153",
+        "1155",
+        "1157",
+        "1158",
+        "1159",
+        "1160",
+        "1162",
+        "1164",
+        "1165",
+        "1167",
+        "1168",
+        "1169",
+        "1170",
+        "1171",
+        "1172",
+        "1173",
+        "1174",
+        "1175",
+        "1176",
+        "1177",
+        "1178",
+        "1179",
+        "1180",
+        "1181",
+        "1182",
+        "1183",
+        "1184",
+        "1185",
+        "1186",
+        "1187",
+        "1188",
+        "1189",
+        "1190",
+        "1192",
+        "1193",
+        "1194",
+        "1195",
+        "1196",
+        "1197",
+        "1198",
+        "1199",
+        "-3",
+        "-7"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Date of birth anchor"
+  },
+  "wave4": {
+    "study": "pairfam",
+    "name": "wave4",
+    "name_cs": "wave4",
+    "variable": "wave4",
+    "dataset": "stepup_biopart",
+    "label": "Survey year: wave 4",
+    "categories": {
+      "frequencies": [
+        0,
+        162,
+        0,
+        0,
+        0,
+        55,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-10 not in demodiff",
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/14",
+        "7 2014/15",
+        "8 2015/16"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-3",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "labels_de": [
+        "-10 not in demodiff",
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/14",
+        "7 2014/15",
+        "8 2015/16"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "55",
+        "162"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Survey year: wave 4"
+  },
+  "wave5": {
+    "study": "pairfam",
+    "name": "wave5",
+    "name_cs": "wave5",
+    "variable": "wave5",
+    "dataset": "stepup_biopart",
+    "label": "Survey year: wave 5",
+    "categories": {
+      "frequencies": [
+        0,
+        130,
+        0,
+        0,
+        0,
+        0,
+        87,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-10 not in demodiff",
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/14",
+        "7 2014/15",
+        "8 2015/16"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-3",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "labels_de": [
+        "-10 not in demodiff",
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/14",
+        "7 2014/15",
+        "8 2015/16"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "87",
+        "130"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Survey year: wave 5"
+  },
+  "wave6": {
+    "study": "pairfam",
+    "name": "wave6",
+    "name_cs": "wave6",
+    "variable": "wave6",
+    "dataset": "stepup_biopart",
+    "label": "Survey year: wave 6",
+    "categories": {
+      "frequencies": [
+        0,
+        111,
+        0,
+        0,
+        0,
+        0,
+        0,
+        106,
+        0,
+        0
+      ],
+      "labels": [
+        "-10 not in demodiff",
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/14",
+        "7 2014/15",
+        "8 2015/16"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-3",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "labels_de": [
+        "-10 not in demodiff",
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/14",
+        "7 2014/15",
+        "8 2015/16"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "106",
+        "111"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Survey year: wave 6"
+  },
+  "wave7": {
+    "study": "pairfam",
+    "name": "wave7",
+    "name_cs": "wave7",
+    "variable": "wave7",
+    "dataset": "stepup_biopart",
+    "label": "Survey year: wave 7",
+    "categories": {
+      "frequencies": [
+        0,
+        83,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        134,
+        0
+      ],
+      "labels": [
+        "-10 not in demodiff",
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/14",
+        "7 2014/15",
+        "8 2015/16"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-3",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "labels_de": [
+        "-10 not in demodiff",
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/14",
+        "7 2014/15",
+        "8 2015/16"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "134",
+        "83"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Survey year: wave 7"
+  },
+  "wave8": {
+    "study": "pairfam",
+    "name": "wave8",
+    "name_cs": "wave8",
+    "variable": "wave8",
+    "dataset": "stepup_biopart",
+    "label": "Survey year: wave 8",
+    "categories": {
+      "frequencies": [
+        0,
+        32,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        185
+      ],
+      "labels": [
+        "-10 not in demodiff",
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/14",
+        "7 2014/15",
+        "8 2015/16"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-3",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "labels_de": [
+        "-10 not in demodiff",
+        "-3 Does not apply",
+        "1 2008/09",
+        "2 2009/10",
+        "3 2010/11",
+        "4 2011/12",
+        "5 2012/13",
+        "6 2013/14",
+        "7 2014/15",
+        "8 2015/16"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "185",
+        "32"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Survey year: wave 8"
+  },
+  "respw4": {
+    "study": "pairfam",
+    "name": "respw4",
+    "name_cs": "respw4",
+    "variable": "respw4",
+    "dataset": "stepup_biopart",
+    "label": "Respondent in wave 4",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        162,
+        55
+      ],
+      "labels": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-7",
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Respondent in wave 4"
+  },
+  "respw5": {
+    "study": "pairfam",
+    "name": "respw5",
+    "name_cs": "respw5",
+    "variable": "respw5",
+    "dataset": "stepup_biopart",
+    "label": "Respondent in wave 5",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        130,
+        87
+      ],
+      "labels": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-7",
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Respondent in wave 5"
+  },
+  "respw6": {
+    "study": "pairfam",
+    "name": "respw6",
+    "name_cs": "respw6",
+    "variable": "respw6",
+    "dataset": "stepup_biopart",
+    "label": "Respondent in wave 6",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        111,
+        106
+      ],
+      "labels": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-7",
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Respondent in wave 6"
+  },
+  "respw7": {
+    "study": "pairfam",
+    "name": "respw7",
+    "name_cs": "respw7",
+    "variable": "respw7",
+    "dataset": "stepup_biopart",
+    "label": "Respondent in wave 7",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        83,
+        134
+      ],
+      "labels": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-7",
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Respondent in wave 7"
+  },
+  "respw8": {
+    "study": "pairfam",
+    "name": "respw8",
+    "name_cs": "respw8",
+    "variable": "respw8",
+    "dataset": "stepup_biopart",
+    "label": "Respondent in wave 8",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        32,
+        185
+      ],
+      "labels": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-7",
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Respondent in wave 8"
+  },
+  "partindex": {
+    "study": "pairfam",
+    "name": "partindex",
+    "name_cs": "partindex",
+    "variable": "partindex",
+    "dataset": "stepup_biopart",
+    "label": "Correct order of relationships: Number partner",
+    "categories": {
+      "frequencies": [
+        0,
+        152,
+        54,
+        6,
+        3,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-3 Does not apply",
+        "1st partner",
+        "2nd partner",
+        "3rd partner",
+        "4th partner",
+        "5th partner",
+        "6th partner",
+        "7th partner",
+        "8th partner",
+        "9th partner",
+        "10th partner",
+        "11th partner",
+        "12th partner",
+        "13th partner",
+        "14th partner",
+        "15th partner"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-3",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "labels_de": [
+        "-3 Does not apply",
+        "1st partner",
+        "2nd partner",
+        "3rd partner",
+        "4th partner",
+        "5th partner",
+        "6th partner",
+        "7th partner",
+        "8th partner",
+        "9th partner",
+        "10th partner",
+        "11th partner",
+        "12th partner",
+        "13th partner",
+        "14th partner",
+        "15th partner"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Correct order of relationships: Number partner"
+  },
+  "pid": {
+    "study": "pairfam",
+    "name": "pid",
+    "name_cs": "pid",
+    "variable": "pid",
+    "dataset": "stepup_biopart",
+    "label": "Person number current partner",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "750400000",
+        "750500000",
+        "750600000",
+        "750600000",
+        "750700000",
+        "750900000",
+        "52",
+        "165",
+        "52"
+      ]
+    },
+    "scale": "",
+    "label_de": "Person number current partner"
+  },
+  "sexp": {
+    "study": "pairfam",
+    "name": "sexp",
+    "name_cs": "sexp",
+    "variable": "sexp",
+    "dataset": "stepup_biopart",
+    "label": "Sex partner",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        130,
+        87
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-4 Filter error / Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Dont know",
+        "1 Male",
+        "2 Female"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-7",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-4 Filter error / Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Dont know",
+        "1 Male",
+        "2 Female"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sex partner"
+  },
+  "homosex_p": {
+    "study": "pairfam",
+    "name": "homosex_p",
+    "name_cs": "homosex_p",
+    "variable": "homosex_p",
+    "dataset": "stepup_biopart",
+    "label": "Homosexual union",
+    "categories": {
+      "frequencies": [
+        0,
+        208,
+        9
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "0 Hetereosexual union",
+        "1 Homosexual union"
+      ],
+      "missings": [
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-7",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "0 Hetereosexual union",
+        "1 Homosexual union"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Homosexual union"
+  },
+  "dobp": {
+    "study": "pairfam",
+    "name": "dobp",
+    "name_cs": "dobp",
+    "variable": "dobp",
+    "dataset": "stepup_biopart",
+    "label": "Date of birth current partner",
+    "categories": {
+      "frequencies": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        3,
+        2,
+        2,
+        1,
+        1,
+        2,
+        3,
+        1,
+        3,
+        2,
+        3,
+        1,
+        3,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        5,
+        3,
+        2,
+        4,
+        4,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        3,
+        1,
+        4,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        3,
+        1,
+        1,
+        3,
+        1,
+        2,
+        3,
+        4,
+        2,
+        2,
+        2,
+        3,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        0,
+        52,
+        0,
+        13
+      ],
+      "labels": [
+        "-1 Dont know",
+        "1035",
+        "1051",
+        "1062",
+        "1063",
+        "1070",
+        "1072",
+        "1089",
+        "1095",
+        "1098",
+        "1101",
+        "1104",
+        "1108",
+        "1109",
+        "1110",
+        "1112",
+        "1113",
+        "1117",
+        "1118",
+        "1120",
+        "1123",
+        "1126",
+        "1127",
+        "1128",
+        "1129",
+        "1130",
+        "1131",
+        "1132",
+        "1133",
+        "1134",
+        "1135",
+        "1136",
+        "1137",
+        "1138",
+        "1140",
+        "1141",
+        "1142",
+        "1143",
+        "1144",
+        "1145",
+        "1146",
+        "1147",
+        "1148",
+        "1150",
+        "1151",
+        "1152",
+        "1153",
+        "1154",
+        "1155",
+        "1156",
+        "1157",
+        "1158",
+        "1159",
+        "1160",
+        "1161",
+        "1162",
+        "1163",
+        "1164",
+        "1165",
+        "1166",
+        "1167",
+        "1169",
+        "1170",
+        "1171",
+        "1172",
+        "1173",
+        "1174",
+        "1175",
+        "1176",
+        "1178",
+        "1179",
+        "1181",
+        "1182",
+        "1183",
+        "1184",
+        "1185",
+        "1187",
+        "1188",
+        "1189",
+        "1190",
+        "1191",
+        "1192",
+        "1193",
+        "1194",
+        "1195",
+        "1197",
+        "1201",
+        "1202",
+        "1229",
+        "-2 No answer",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "-1",
+        "1035",
+        "1051",
+        "1062",
+        "1063",
+        "1070",
+        "1072",
+        "1089",
+        "1095",
+        "1098",
+        "1101",
+        "1104",
+        "1108",
+        "1109",
+        "1110",
+        "1112",
+        "1113",
+        "1117",
+        "1118",
+        "1120",
+        "1123",
+        "1126",
+        "1127",
+        "1128",
+        "1129",
+        "1130",
+        "1131",
+        "1132",
+        "1133",
+        "1134",
+        "1135",
+        "1136",
+        "1137",
+        "1138",
+        "1140",
+        "1141",
+        "1142",
+        "1143",
+        "1144",
+        "1145",
+        "1146",
+        "1147",
+        "1148",
+        "1150",
+        "1151",
+        "1152",
+        "1153",
+        "1154",
+        "1155",
+        "1156",
+        "1157",
+        "1158",
+        "1159",
+        "1160",
+        "1161",
+        "1162",
+        "1163",
+        "1164",
+        "1165",
+        "1166",
+        "1167",
+        "1169",
+        "1170",
+        "1171",
+        "1172",
+        "1173",
+        "1174",
+        "1175",
+        "1176",
+        "1178",
+        "1179",
+        "1181",
+        "1182",
+        "1183",
+        "1184",
+        "1185",
+        "1187",
+        "1188",
+        "1189",
+        "1190",
+        "1191",
+        "1192",
+        "1193",
+        "1194",
+        "1195",
+        "1197",
+        "1201",
+        "1202",
+        "1229",
+        "-2",
+        "-3",
+        "-66",
+        "-7"
+      ],
+      "labels_de": [
+        "-1 Dont know",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-2 No answer",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "152",
+        "65"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Date of birth current partner"
+  },
+  "dodp": {
+    "study": "pairfam",
+    "name": "dodp",
+    "name_cs": "dodp",
+    "variable": "dodp",
+    "dataset": "stepup_biopart",
+    "label": "Date of death partner",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Dont know"
+      ],
+      "missings": [
+        false,
+        true,
+        true,
+        true,
+        true
+      ],
+      "values": [
+        "-66",
+        " -7",
+        " -3",
+        " -2",
+        " -1"
+      ],
+      "labels_de": [
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Dont know"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Date of death partner"
+  },
+  "pnow4": {
+    "study": "pairfam",
+    "name": "pnow4",
+    "name_cs": "pnow4",
+    "variable": "pnow4",
+    "dataset": "stepup_biopart",
+    "label": "Number partner in wave 4",
+    "categories": {
+      "frequencies": [
+        23,
+        0,
+        2,
+        1,
+        190,
+        1
+      ],
+      "labels": [
+        "1",
+        "-10 Not in DemoDiff",
+        "2",
+        "3",
+        "-3 Does not apply",
+        "4"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-10",
+        "2",
+        "3",
+        "-3",
+        "4"
+      ],
+      "labels_de": [
+        "",
+        "-10 Not in DemoDiff",
+        "",
+        "",
+        "-3 Does not apply",
+        ""
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "27",
+        "190"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Number partner in wave 4"
+  },
+  "pnow5": {
+    "study": "pairfam",
+    "name": "pnow5",
+    "name_cs": "pnow5",
+    "variable": "pnow5",
+    "dataset": "stepup_biopart",
+    "label": "Number partner in wave 5",
+    "categories": {
+      "frequencies": [
+        33,
+        0,
+        5,
+        179
+      ],
+      "labels": [
+        "1",
+        "-10 Not in DemoDiff",
+        "2",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-10",
+        "2",
+        "-3"
+      ],
+      "labels_de": [
+        "",
+        "-10 Not in DemoDiff",
+        "",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "38",
+        "179"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Number partner in wave 5"
+  },
+  "pnow6": {
+    "study": "pairfam",
+    "name": "pnow6",
+    "name_cs": "pnow6",
+    "variable": "pnow6",
+    "dataset": "stepup_biopart",
+    "label": "Number partner in wave 6",
+    "categories": {
+      "frequencies": [
+        53,
+        0,
+        5,
+        159
+      ],
+      "labels": [
+        "1",
+        "-10 Not in DemoDiff",
+        "2",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-10",
+        "2",
+        "-3"
+      ],
+      "labels_de": [
+        "",
+        "-10 Not in DemoDiff",
+        "",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "58",
+        "159"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Number partner in wave 6"
+  },
+  "pnow7": {
+    "study": "pairfam",
+    "name": "pnow7",
+    "name_cs": "pnow7",
+    "variable": "pnow7",
+    "dataset": "stepup_biopart",
+    "label": "Number partner in wave 7",
+    "categories": {
+      "frequencies": [
+        89,
+        0,
+        12,
+        1,
+        115
+      ],
+      "labels": [
+        "1",
+        "-10 Not in DemoDiff",
+        "2",
+        "3",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-10",
+        "2",
+        "3",
+        "-3"
+      ],
+      "labels_de": [
+        "",
+        "-10 Not in DemoDiff",
+        "",
+        "",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "102",
+        "115"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Number partner in wave 7"
+  },
+  "pnow8": {
+    "study": "pairfam",
+    "name": "pnow8",
+    "name_cs": "pnow8",
+    "variable": "pnow8",
+    "dataset": "stepup_biopart",
+    "label": "Number partner in wave 8",
+    "categories": {
+      "frequencies": [
+        112,
+        0,
+        18,
+        87
+      ],
+      "labels": [
+        "1",
+        "-10 Not in DemoDiff",
+        "2",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-10",
+        "2",
+        "-3"
+      ],
+      "labels_de": [
+        "",
+        "-10 Not in DemoDiff",
+        "",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "130",
+        "87"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Number partner in wave 8"
+  },
+  "partcurrw4": {
+    "study": "pairfam",
+    "name": "partcurrw4",
+    "name_cs": "partcurrw4",
+    "variable": "partcurrw4",
+    "dataset": "stepup_biopart",
+    "label": "Current partner in wave 4",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        198,
+        19
+      ],
+      "labels": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-7",
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Current partner in wave 4"
+  },
+  "partcurrw5": {
+    "study": "pairfam",
+    "name": "partcurrw5",
+    "name_cs": "partcurrw5",
+    "variable": "partcurrw5",
+    "dataset": "stepup_biopart",
+    "label": "Current partner in wave 5",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        194,
+        23
+      ],
+      "labels": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-7",
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Current partner in wave 5"
+  },
+  "partcurrw6": {
+    "study": "pairfam",
+    "name": "partcurrw6",
+    "name_cs": "partcurrw6",
+    "variable": "partcurrw6",
+    "dataset": "stepup_biopart",
+    "label": "Current partner in wave 6",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        177,
+        40
+      ],
+      "labels": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-7",
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Current partner in wave 6"
+  },
+  "partcurrw7": {
+    "study": "pairfam",
+    "name": "partcurrw7",
+    "name_cs": "partcurrw7",
+    "variable": "partcurrw7",
+    "dataset": "stepup_biopart",
+    "label": "Current partner in wave 7",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        143,
+        74
+      ],
+      "labels": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-7",
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Current partner in wave 7"
+  },
+  "partcurrw8": {
+    "study": "pairfam",
+    "name": "partcurrw8",
+    "name_cs": "partcurrw8",
+    "variable": "partcurrw8",
+    "dataset": "stepup_biopart",
+    "label": "Current partner in wave 8",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        128,
+        89
+      ],
+      "labels": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-10",
+        "-7",
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-10 Not in demodiff",
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Current partner in wave 8"
+  },
+  "relbeg": {
+    "study": "pairfam",
+    "name": "relbeg",
+    "name_cs": "relbeg",
+    "variable": "relbeg",
+    "dataset": "stepup_biopart",
+    "label": "Beginning relationship",
+    "categories": {
+      "frequencies": [
+        5,
+        1,
+        2,
+        3,
+        3,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        2,
+        3,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        4,
+        1,
+        5,
+        7,
+        3,
+        7,
+        3,
+        2,
+        2,
+        3,
+        1,
+        6,
+        7,
+        6,
+        3,
+        7,
+        3,
+        4,
+        4,
+        1,
+        4,
+        3,
+        5,
+        10,
+        4,
+        4,
+        3,
+        1,
+        3,
+        2,
+        3,
+        4,
+        5,
+        4,
+        7,
+        5,
+        5,
+        7,
+        6,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "1320",
+        "1322",
+        "1323",
+        "1324",
+        "1325",
+        "1327",
+        "1329",
+        "1330",
+        "1332",
+        "1334",
+        "1335",
+        "1336",
+        "1337",
+        "1338",
+        "1340",
+        "1341",
+        "1342",
+        "1343",
+        "1344",
+        "1345",
+        "1346",
+        "1347",
+        "1348",
+        "1349",
+        "1350",
+        "1351",
+        "1352",
+        "1353",
+        "1355",
+        "1356",
+        "1357",
+        "1358",
+        "1359",
+        "1360",
+        "1361",
+        "1362",
+        "1363",
+        "1364",
+        "1365",
+        "1366",
+        "1367",
+        "1368",
+        "1369",
+        "1370",
+        "1371",
+        "1372",
+        "1373",
+        "1374",
+        "1375",
+        "1376",
+        "1377",
+        "1378",
+        "1379",
+        "1380",
+        "1381",
+        "1382",
+        "1383",
+        "1384",
+        "1385",
+        "1386",
+        "1387",
+        "1388",
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "1394",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1320",
+        "1322",
+        "1323",
+        "1324",
+        "1325",
+        "1327",
+        "1329",
+        "1330",
+        "1332",
+        "1334",
+        "1335",
+        "1336",
+        "1337",
+        "1338",
+        "1340",
+        "1341",
+        "1342",
+        "1343",
+        "1344",
+        "1345",
+        "1346",
+        "1347",
+        "1348",
+        "1349",
+        "1350",
+        "1351",
+        "1352",
+        "1353",
+        "1355",
+        "1356",
+        "1357",
+        "1358",
+        "1359",
+        "1360",
+        "1361",
+        "1362",
+        "1363",
+        "1364",
+        "1365",
+        "1366",
+        "1367",
+        "1368",
+        "1369",
+        "1370",
+        "1371",
+        "1372",
+        "1373",
+        "1374",
+        "1375",
+        "1376",
+        "1377",
+        "1378",
+        "1379",
+        "1380",
+        "1381",
+        "1382",
+        "1383",
+        "1384",
+        "1385",
+        "1386",
+        "1387",
+        "1388",
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "1394",
+        "-3",
+        "-66",
+        "-7",
+        "-77",
+        "-88",
+        "-99"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Beginning relationship"
+  },
+  "relend": {
+    "study": "pairfam",
+    "name": "relend",
+    "name_cs": "relend",
+    "variable": "relend",
+    "dataset": "stepup_biopart",
+    "label": "End realtionship",
+    "categories": {
+      "frequencies": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        4,
+        2,
+        1,
+        1,
+        3,
+        1,
+        1,
+        3,
+        4,
+        3,
+        2,
+        1,
+        2,
+        6,
+        2,
+        3,
+        2,
+        3,
+        1,
+        4,
+        1,
+        4,
+        6,
+        7,
+        3,
+        2,
+        3,
+        5,
+        1,
+        6,
+        1,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        106
+      ],
+      "labels": [
+        "1324",
+        "1326",
+        "1329",
+        "1334",
+        "1335",
+        "1337",
+        "1339",
+        "1341",
+        "1344",
+        "1345",
+        "1347",
+        "1348",
+        "1349",
+        "1350",
+        "1351",
+        "1352",
+        "1353",
+        "1356",
+        "1357",
+        "1358",
+        "1359",
+        "1361",
+        "1362",
+        "1363",
+        "1364",
+        "1365",
+        "1366",
+        "1369",
+        "1370",
+        "1371",
+        "1372",
+        "1373",
+        "1376",
+        "1377",
+        "1378",
+        "1379",
+        "1381",
+        "1382",
+        "1383",
+        "1384",
+        "1385",
+        "1386",
+        "1387",
+        "1388",
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1324",
+        "1326",
+        "1329",
+        "1334",
+        "1335",
+        "1337",
+        "1339",
+        "1341",
+        "1344",
+        "1345",
+        "1347",
+        "1348",
+        "1349",
+        "1350",
+        "1351",
+        "1352",
+        "1353",
+        "1356",
+        "1357",
+        "1358",
+        "1359",
+        "1361",
+        "1362",
+        "1363",
+        "1364",
+        "1365",
+        "1366",
+        "1369",
+        "1370",
+        "1371",
+        "1372",
+        "1373",
+        "1376",
+        "1377",
+        "1378",
+        "1379",
+        "1381",
+        "1382",
+        "1383",
+        "1384",
+        "1385",
+        "1386",
+        "1387",
+        "1388",
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "-3",
+        "-66",
+        "-7",
+        "-77",
+        "-88",
+        "-99"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "217",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "End realtionship"
+  },
+  "b1beg": {
+    "study": "pairfam",
+    "name": "b1beg",
+    "name_cs": "b1beg",
+    "variable": "b1beg",
+    "dataset": "stepup_biopart",
+    "label": "Beginning break 1 relationship",
+    "categories": {
+      "frequencies": [
+        1,
+        1,
+        1,
+        214,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "1347",
+        "1374",
+        "1378",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1347",
+        "1374",
+        "1378",
+        "-3",
+        "-66",
+        "-7",
+        "-77",
+        "-88",
+        "-99"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "214"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Beginning break 1 relationship"
+  },
+  "b1end": {
+    "study": "pairfam",
+    "name": "b1end",
+    "name_cs": "b1end",
+    "variable": "b1end",
+    "dataset": "stepup_biopart",
+    "label": "End break 1 relationship",
+    "categories": {
+      "frequencies": [
+        2,
+        1,
+        214,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "1380",
+        "1384",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1380",
+        "1384",
+        "-3",
+        "-66",
+        "-7",
+        "-77",
+        "-88",
+        "-99"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "214"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "End break 1 relationship"
+  },
+  "cohbeg": {
+    "study": "pairfam",
+    "name": "cohbeg",
+    "name_cs": "cohbeg",
+    "variable": "cohbeg",
+    "dataset": "stepup_biopart",
+    "label": "Beginning cohabitation",
+    "categories": {
+      "frequencies": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        198,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "1325",
+        "1339",
+        "1351",
+        "1355",
+        "1356",
+        "1357",
+        "1360",
+        "1364",
+        "1368",
+        "1375",
+        "1377",
+        "1378",
+        "1380",
+        "1388",
+        "1392",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1325",
+        "1339",
+        "1351",
+        "1355",
+        "1356",
+        "1357",
+        "1360",
+        "1364",
+        "1368",
+        "1375",
+        "1377",
+        "1378",
+        "1380",
+        "1388",
+        "1392",
+        "-3",
+        "-66",
+        "-7",
+        "-77",
+        "-88",
+        "-99"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "19",
+        "198"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Beginning cohabitation"
+  },
+  "cohend": {
+    "study": "pairfam",
+    "name": "cohend",
+    "name_cs": "cohend",
+    "variable": "cohend",
+    "dataset": "stepup_biopart",
+    "label": "End cohabitation",
+    "categories": {
+      "frequencies": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        198,
+        0,
+        0,
+        0,
+        0,
+        11
+      ],
+      "labels": [
+        "1335",
+        "1358",
+        "1362",
+        "1364",
+        "1377",
+        "1380",
+        "1386",
+        "1387",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1335",
+        "1358",
+        "1362",
+        "1364",
+        "1377",
+        "1380",
+        "1386",
+        "1387",
+        "-3",
+        "-66",
+        "-7",
+        "-77",
+        "-88",
+        "-99"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-77 Dont know/No answer",
+        "-88 Dont know/No answer",
+        "-99 Ongoing"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "19",
+        "198"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "End cohabitation"
+  },
+  "marbeg": {
+    "study": "pairfam",
+    "name": "marbeg",
+    "name_cs": "marbeg",
+    "variable": "marbeg",
+    "dataset": "stepup_biopart",
+    "label": "Beginning marriage",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-99 Ongoing",
+        "-88 Dont know/No answer",
+        "-77 Dont know/No answer",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "-99",
+        "-88",
+        "-77",
+        "-66",
+        " -7",
+        " -3"
+      ],
+      "labels_de": [
+        "-99 Ongoing",
+        "-88 Dont know/No answer",
+        "-77 Dont know/No answer",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Beginning marriage"
+  },
+  "marend": {
+    "study": "pairfam",
+    "name": "marend",
+    "name_cs": "marend",
+    "variable": "marend",
+    "dataset": "stepup_biopart",
+    "label": "End marriage",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-99 Ongoing",
+        "-88 Dont know/No answer",
+        "-77 Dont know/No answer",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "-99",
+        "-88",
+        "-77",
+        "-66",
+        " -7",
+        " -3"
+      ],
+      "labels_de": [
+        "-99 Ongoing",
+        "-88 Dont know/No answer",
+        "-77 Dont know/No answer",
+        "-66 Death partner",
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "End marriage"
+  },
+  "marcer": {
+    "study": "pairfam",
+    "name": "marcer",
+    "name_cs": "marcer",
+    "variable": "marcer",
+    "dataset": "stepup_biopart",
+    "label": "Marriage ceremony",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Dont know",
+        "1 Only a civil ceremony",
+        "2 A civil and a religious ceremony",
+        "3 Only a religious ceremony"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-7",
+        "-3",
+        "-2",
+        "-1",
+        " 1",
+        " 2",
+        " 3"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Dont know",
+        "1 Only a civil ceremony",
+        "2 A civil and a religious ceremony",
+        "3 Only a religious ceremony"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Marriage ceremony"
+  }
+}

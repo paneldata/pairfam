@@ -37,6 +37,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Personennummer Anker"
   },
@@ -82,6 +83,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "DemoDiff Stichprobe"
   },
@@ -137,6 +139,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Birth cohort"
   },
@@ -677,6 +680,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Date of birth"
   },
@@ -742,6 +746,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Generated sex anchor"
   },
@@ -817,6 +822,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Survey year wave1"
   },
@@ -892,6 +898,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Survey year wave2"
   },
@@ -967,6 +974,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Survey year wave3"
   },
@@ -1082,6 +1090,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Date of interview wave1"
   },
@@ -1162,6 +1171,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Date of interview wave2"
   },
@@ -1242,6 +1252,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Date of interview wave3"
   },
@@ -1292,6 +1303,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Respondent in wave 2"
   },
@@ -1342,6 +1354,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Respondent in wave 3"
   },
@@ -1397,6 +1410,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Place of residence mentioned"
   },
@@ -3772,6 +3786,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Beginning of episode"
   },
@@ -6212,6 +6227,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "End od episode"
   },
@@ -6272,6 +6288,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Censor"
   },
@@ -6427,6 +6444,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Federal State (Bundesland)"
   },
@@ -6647,6 +6665,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Number of main residence"
   },
@@ -11792,6 +11811,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Distance between consecutive residences (in km)"
   },
@@ -11882,6 +11902,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "BIK classification"
   },
@@ -11972,6 +11993,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Identification number city"
   },
@@ -12037,6 +12059,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Inaccurate information on month"
   },
@@ -12081,6 +12104,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "retrospective",
     "label_de": "Unknown information on month"
   }

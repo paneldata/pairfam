@@ -37,6 +37,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number anchor"
   },
@@ -87,6 +88,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year"
   },
@@ -130,6 +132,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number partner"
   },
@@ -173,6 +176,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number mother"
   },
@@ -216,6 +220,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number stepmother"
   },
@@ -259,6 +264,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number father"
   },
@@ -302,6 +308,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Personennummer CAPI-Kind"
   },
@@ -343,6 +350,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview: Month"
   },
@@ -384,6 +392,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview: Year"
   },
@@ -439,6 +448,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Generated sex anchor"
   },
@@ -544,6 +554,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Generated year of birth anchor"
   },
@@ -674,6 +685,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Generated month of birth anchor"
   },
@@ -724,6 +736,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Partner lives in household main residence"
   },
@@ -774,6 +787,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Mother lives in household main residence"
   },
@@ -824,6 +838,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Father lives in household main residence"
   },
@@ -909,6 +924,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number of children in household main residence"
   },
@@ -1019,6 +1035,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number of other hh members main residence"
   },
@@ -1134,6 +1151,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number of hh members main residence"
   },
@@ -1204,6 +1222,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Type of household (own, parental, shared, dorm., other)"
   },
@@ -1289,6 +1308,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Home-ownership"
   },
@@ -1364,6 +1384,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Nights spent at residence"
   },
@@ -3484,6 +3505,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Monthly rent for dwelling (euros)"
   },
@@ -4294,6 +4316,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Monthly expenditures for self-owned apartment / house (euros)"
   },
@@ -5439,6 +5462,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Size of dwelling (square meters)"
   },
@@ -5589,6 +5613,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number of rooms of dwelling"
   },
@@ -5639,6 +5664,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent has 2nd residence"
   },
@@ -10149,6 +10175,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Household net income (open and estimated information combined)"
   },
@@ -10269,6 +10296,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Household Composition (partner, kid(s), parent(s), others)"
   },
@@ -18729,6 +18757,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Net equivalence income (GCEE)"
   },
@@ -18879,6 +18908,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to partner 1"
   },
@@ -18934,6 +18964,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of partner 1"
   },
@@ -19264,6 +19295,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of partner 1"
   },
@@ -19394,6 +19426,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of partner 1"
   },
@@ -47754,6 +47787,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of partner 1"
   },
@@ -47904,6 +47938,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to partner 2"
   },
@@ -47959,6 +47994,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of partner 2"
   },
@@ -48099,6 +48135,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of partner 2"
   },
@@ -48204,6 +48241,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of partner 2"
   },
@@ -48549,6 +48587,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of partner 2"
   },
@@ -48699,6 +48738,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to child 1"
   },
@@ -48754,6 +48794,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of child 1"
   },
@@ -48939,6 +48980,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of child 1"
   },
@@ -49054,6 +49096,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of child 1"
   },
@@ -53784,6 +53827,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of child 1"
   },
@@ -53934,6 +53978,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to child 2"
   },
@@ -53989,6 +54034,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of child 2"
   },
@@ -54154,6 +54200,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of child 2"
   },
@@ -54264,6 +54311,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of child 2"
   },
@@ -57394,6 +57442,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of child 2"
   },
@@ -57544,6 +57593,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to child 3"
   },
@@ -57599,6 +57649,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of child 3"
   },
@@ -57754,6 +57805,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of child 3"
   },
@@ -57864,6 +57916,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of child 3"
   },
@@ -58559,6 +58612,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of child 3"
   },
@@ -58709,6 +58763,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to child 4"
   },
@@ -58764,6 +58819,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of child 4"
   },
@@ -58924,6 +58980,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of child 4"
   },
@@ -59034,6 +59091,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of child 4"
   },
@@ -59279,6 +59337,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of child 4"
   },
@@ -59429,6 +59488,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to child 5"
   },
@@ -59484,6 +59544,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of child 5"
   },
@@ -59624,6 +59685,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of child 5"
   },
@@ -59729,6 +59791,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of child 5"
   },
@@ -59794,6 +59857,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of child 5"
   },
@@ -59944,6 +60008,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to child 6"
   },
@@ -59999,6 +60064,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of child 6"
   },
@@ -60084,6 +60150,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of child 6"
   },
@@ -60169,6 +60236,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of child 6"
   },
@@ -60224,6 +60292,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of child 6"
   },
@@ -60374,6 +60443,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to child 7"
   },
@@ -60429,6 +60499,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of child 7"
   },
@@ -60494,6 +60565,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of child 7"
   },
@@ -60559,6 +60631,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of child 7"
   },
@@ -60609,6 +60682,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of child 7"
   },
@@ -60759,6 +60833,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to child 8"
   },
@@ -60814,6 +60889,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of child 8"
   },
@@ -60869,6 +60945,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of child 8"
   },
@@ -60924,6 +61001,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of child 8"
   },
@@ -60969,6 +61047,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of child 8"
   },
@@ -61119,6 +61198,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to child 9"
   },
@@ -61174,6 +61254,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of child 9"
   },
@@ -61229,6 +61310,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of child 9"
   },
@@ -61284,6 +61366,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of child 9"
   },
@@ -61329,6 +61412,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of child 9"
   },
@@ -61479,6 +61563,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to child 10"
   },
@@ -61534,6 +61619,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of child 10"
   },
@@ -61589,6 +61675,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of child 10"
   },
@@ -61639,6 +61726,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of child 10"
   },
@@ -61684,6 +61772,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of child 10"
   },
@@ -61834,6 +61923,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to parent 1"
   },
@@ -61889,6 +61979,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of parent 1"
   },
@@ -62194,6 +62285,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of parent 1"
   },
@@ -62324,6 +62416,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of parent 1"
   },
@@ -82999,6 +83092,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of parent 1"
   },
@@ -83149,6 +83243,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to parent 2"
   },
@@ -83204,6 +83299,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of parent 2"
   },
@@ -83524,6 +83620,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of parent 2"
   },
@@ -83654,6 +83751,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of parent 2"
   },
@@ -100589,6 +100687,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of parent 2"
   },
@@ -100739,6 +100838,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to parent 3"
   },
@@ -100794,6 +100894,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of parent 3"
   },
@@ -100909,6 +101010,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of parent 3"
   },
@@ -101009,6 +101111,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of parent 3"
   },
@@ -101204,6 +101307,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of parent 3"
   },
@@ -101354,6 +101458,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to parent 4"
   },
@@ -101409,6 +101514,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of parent 4"
   },
@@ -101464,6 +101570,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of parent 4"
   },
@@ -101524,6 +101631,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of parent 4"
   },
@@ -101594,6 +101702,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number of parent 4"
   },
@@ -101744,6 +101853,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 1"
   },
@@ -101799,6 +101909,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 1"
   },
@@ -102314,6 +102425,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 1"
   },
@@ -102419,6 +102531,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 1"
   },
@@ -102569,6 +102682,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 2"
   },
@@ -102624,6 +102738,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 2"
   },
@@ -103089,6 +103204,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 2"
   },
@@ -103194,6 +103310,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 2"
   },
@@ -103344,6 +103461,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 3"
   },
@@ -103399,6 +103517,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 3"
   },
@@ -103744,6 +103863,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 3"
   },
@@ -103849,6 +103969,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 3"
   },
@@ -103999,6 +104120,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 4"
   },
@@ -104054,6 +104176,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 4"
   },
@@ -104334,6 +104457,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 4"
   },
@@ -104439,6 +104563,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 4"
   },
@@ -104589,6 +104714,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 5"
   },
@@ -104644,6 +104770,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 5"
   },
@@ -104864,6 +104991,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 5"
   },
@@ -104969,6 +105097,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 5"
   },
@@ -105119,6 +105248,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 6"
   },
@@ -105174,6 +105304,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 6"
   },
@@ -105334,6 +105465,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 6"
   },
@@ -105439,6 +105571,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 6"
   },
@@ -105589,6 +105722,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 7"
   },
@@ -105644,6 +105778,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 7"
   },
@@ -105759,6 +105894,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 7"
   },
@@ -105859,6 +105995,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 7"
   },
@@ -106009,6 +106146,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 8"
   },
@@ -106064,6 +106202,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 8"
   },
@@ -106184,6 +106323,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 8"
   },
@@ -106289,6 +106429,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 8"
   },
@@ -106439,6 +106580,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 9"
   },
@@ -106494,6 +106636,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 9"
   },
@@ -106564,6 +106707,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 9"
   },
@@ -106644,6 +106788,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 9"
   },
@@ -106794,6 +106939,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 10"
   },
@@ -106849,6 +106995,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 10"
   },
@@ -106924,6 +107071,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 10"
   },
@@ -106984,6 +107132,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 10"
   },
@@ -107134,6 +107283,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 11"
   },
@@ -107189,6 +107339,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 11"
   },
@@ -107249,6 +107400,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 11"
   },
@@ -107299,6 +107451,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 11"
   },
@@ -107449,6 +107602,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 12"
   },
@@ -107504,6 +107658,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 12"
   },
@@ -107559,6 +107714,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 12"
   },
@@ -107614,6 +107770,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 12"
   },
@@ -107764,6 +107921,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 13"
   },
@@ -107819,6 +107977,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 13"
   },
@@ -107858,6 +108017,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 13"
   },
@@ -107897,6 +108057,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 13"
   },
@@ -108047,6 +108208,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 14"
   },
@@ -108102,6 +108264,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 14"
   },
@@ -108141,6 +108304,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 14"
   },
@@ -108180,6 +108344,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 14"
   },
@@ -108330,6 +108495,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 15"
   },
@@ -108385,6 +108551,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 15"
   },
@@ -108424,6 +108591,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 15"
   },
@@ -108463,6 +108631,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 15"
   },
@@ -108613,6 +108782,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 16"
   },
@@ -108668,6 +108838,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 16"
   },
@@ -108707,6 +108878,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 16"
   },
@@ -108746,6 +108918,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 16"
   },
@@ -108896,6 +109069,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 17"
   },
@@ -108951,6 +109125,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 17"
   },
@@ -108990,6 +109165,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 17"
   },
@@ -109029,6 +109205,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 17"
   },
@@ -109179,6 +109356,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 18"
   },
@@ -109234,6 +109412,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 18"
   },
@@ -109273,6 +109452,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 18"
   },
@@ -109312,6 +109492,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 18"
   },
@@ -109462,6 +109643,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Anchor's relation to hh member 19"
   },
@@ -109517,6 +109699,7 @@
     "scale": "cat",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex of hh member 19"
   },
@@ -109556,6 +109739,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Year of birth of hh member 19"
   },
@@ -109595,6 +109779,7 @@
     "scale": "",
     "analysis_unit": "household",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Month of birth of hh member 19"
   }

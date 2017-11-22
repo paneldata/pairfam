@@ -37,6 +37,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number anchor"
   },
@@ -82,6 +83,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "DemoDiff sample"
   },
@@ -672,6 +674,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of birth anchor"
   },
@@ -722,6 +725,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex anchor"
   },
@@ -772,6 +776,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Birth cohort"
   },
@@ -1127,6 +1132,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview (months since January 1900)"
   },
@@ -1202,6 +1208,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year"
   },
@@ -1243,6 +1250,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Pointer on Xth child (corresponding varkX in Anchor data)"
   },
@@ -49108,6 +49116,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number CAPI-child"
   },
@@ -49163,6 +49172,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Indicator: child was asked in CAPI child survey"
   },
@@ -49258,6 +49268,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Correct order of children (sorted descendingly by age)"
   },
@@ -51128,6 +51139,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of birth of child (months since January 1900)"
   },
@@ -51178,6 +51190,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Gender of child"
   },
@@ -51243,6 +51256,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Status of child"
   },
@@ -51323,6 +51337,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Cohabitation with child"
   },
@@ -51403,6 +51418,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Details on [currliv] category <2. With Anchor and elsewhere>"
   },
@@ -51498,6 +51514,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Partnerindex: second biological parent"
   },
@@ -82698,6 +82715,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number partner"
   },
@@ -108168,6 +108186,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number second biological parent"
   },
@@ -130053,6 +130072,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number mother"
   },
@@ -148953,6 +148973,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number father"
   },
@@ -153258,6 +153279,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number stepmother"
   },
@@ -158298,6 +158320,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number stepfather"
   },
@@ -159683,6 +159706,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning living together with child"
   },
@@ -160423,6 +160447,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End living together with child"
   },
@@ -160478,6 +160503,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Imputed date of beginning living together"
   },
@@ -160533,6 +160559,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Imputed date of end living together"
   },
@@ -160593,6 +160620,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 1 living together with child"
   },
@@ -160653,6 +160681,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 1 living together with child"
   },
@@ -160708,6 +160737,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Living together since birth with child"
   },
@@ -160908,6 +160938,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of death child (months since January 1900)"
   }

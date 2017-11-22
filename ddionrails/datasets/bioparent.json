@@ -37,6 +37,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number anchor"
   },
@@ -82,6 +83,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "DemoDiff sample"
   },
@@ -125,6 +127,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number parent (parent survey)"
   },
@@ -168,6 +171,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number mother"
   },
@@ -211,6 +215,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number father"
   },
@@ -254,6 +259,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number stepmother"
   },
@@ -297,6 +303,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number stepfather"
   },
@@ -352,6 +359,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Birth cohort"
   },
@@ -967,6 +975,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of birth"
   },
@@ -1032,6 +1041,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Generated sex anchor"
   },
@@ -1082,6 +1092,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Participation in parents' survey wave2"
   },
@@ -1132,6 +1143,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Participation in parents' survey wave3"
   },
@@ -1182,6 +1194,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Participation in parents' survey wave4"
   },
@@ -1232,6 +1245,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Participation in parents' survey wave5"
   },
@@ -1282,6 +1296,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Participation in parents' survey wave6"
   },
@@ -1332,6 +1347,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Participation in parents' survey wave7"
   },
@@ -1382,6 +1398,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Participation in parents' survey wave8"
   },
@@ -1447,6 +1464,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "No. of stepfather"
   },
@@ -1512,6 +1530,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "No. of stepmother"
   },
@@ -1617,6 +1636,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Type of parent"
   },
@@ -5142,6 +5162,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of birth (months since January 1900)"
   },
@@ -7477,6 +7498,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of death (months since January 1900)"
   },
@@ -7557,6 +7579,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave1"
   },
@@ -7637,6 +7660,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave2"
   },
@@ -7717,6 +7741,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave3"
   },
@@ -7797,6 +7822,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave4"
   },
@@ -7877,6 +7903,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave5"
   },
@@ -7957,6 +7984,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave6"
   },
@@ -8037,6 +8065,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave7"
   },
@@ -8122,6 +8151,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave8"
   },
@@ -8172,6 +8202,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave2"
   },
@@ -8222,6 +8253,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave3"
   },
@@ -8272,6 +8304,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave4"
   },
@@ -8322,6 +8355,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave5"
   },
@@ -8372,6 +8406,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave6"
   },
@@ -8422,6 +8457,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave7"
   },
@@ -8472,6 +8508,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave8"
   },
@@ -8587,6 +8624,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave1"
   },
@@ -8667,6 +8705,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave2"
   },
@@ -8747,6 +8786,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave3"
   },
@@ -8832,6 +8872,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave4"
   },
@@ -8917,6 +8958,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave5"
   },
@@ -9002,6 +9044,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave6"
   },
@@ -9087,6 +9130,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave7"
   },
@@ -9167,6 +9211,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave8"
   },
@@ -9242,6 +9287,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is married with other biological parent in w2"
   },
@@ -9317,6 +9363,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is married with other biological parent in w3"
   },
@@ -9392,6 +9439,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is married with other biological parent in w4"
   },
@@ -9467,6 +9515,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is married with other biological parent in w5"
   },
@@ -9542,6 +9591,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is married with other biological parent in w6"
   },
@@ -9617,6 +9667,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is married with other biological parent in w7"
   },
@@ -9692,6 +9743,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is married with other biological parent in w8"
   },
@@ -9767,6 +9819,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Bio./Adopt. parents living in one household in wave2"
   },
@@ -9842,6 +9895,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Bio./Adopt. parents living in one household in wave3"
   },
@@ -9917,6 +9971,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Bio./Adopt. parents living in one household in wave4"
   },
@@ -9992,6 +10047,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Bio./Adopt. parents living in one household in wave5"
   },
@@ -10067,6 +10123,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Bio./Adopt. parents living in one household in wave6"
   },
@@ -10142,6 +10199,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Bio./Adopt. parents living in one household in wave7"
   },
@@ -10217,6 +10275,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Bio./Adopt. parents living in one household in wave8"
   },
@@ -10307,6 +10366,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Marital status of parent in wave2"
   },
@@ -10397,6 +10457,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Marital status of parent in wave3"
   },
@@ -10487,6 +10548,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Marital status of parent in wave4"
   },
@@ -10577,6 +10639,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Marital status of parent in wave5"
   },
@@ -10667,6 +10730,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Marital status of parent in wave6"
   },
@@ -10757,6 +10821,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Marital status of parent in wave7"
   },
@@ -10847,6 +10912,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Marital status of parent in wave8"
   },
@@ -10927,6 +10993,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent has a new partner in wave2"
   },
@@ -11007,6 +11074,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent has a new partner in wave3"
   },
@@ -11087,6 +11155,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent has a new partner in wave4"
   },
@@ -11167,6 +11236,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent has a new partner in wave5"
   },
@@ -11247,6 +11317,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent has a new partner in wave6"
   },
@@ -11327,6 +11398,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent has a new partner in wave7"
   },
@@ -11407,6 +11479,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent has a new partner in wave8"
   },
@@ -11487,6 +11560,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with the new partner in wave2"
   },
@@ -11567,6 +11641,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with the new partner in wave3"
   },
@@ -11647,6 +11722,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with the new partner in wave4"
   },
@@ -11727,6 +11803,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with the new partner in wave5"
   },
@@ -11807,6 +11884,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with the new partner in wave6"
   },
@@ -11887,6 +11965,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with the new partner in wave7"
   },
@@ -11967,6 +12046,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with the new partner in wave8"
   },
@@ -12027,6 +12107,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with anchor in wave1"
   },
@@ -12087,6 +12168,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with anchor in wave2"
   },
@@ -12147,6 +12229,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with anchor in wave3"
   },
@@ -12207,6 +12290,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with anchor in wave4"
   },
@@ -12267,6 +12351,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with anchor in wave5"
   },
@@ -12327,6 +12412,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with anchor in wave6"
   },
@@ -12387,6 +12473,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Parent is living together with anchor in wave7"
   },
@@ -12492,6 +12579,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Contact of parent to anchor Wave1"
   },
@@ -12597,6 +12685,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Contact of parent to anchor Wave2"
   },
@@ -12702,6 +12791,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Contact of parent to anchor Wave3"
   },
@@ -12807,6 +12897,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Contact of parent to anchor Wave4"
   },
@@ -12912,6 +13003,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Contact of parent to anchor Wave5"
   },
@@ -13017,6 +13109,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Contact of parent to anchor Wave6"
   },
@@ -13122,6 +13215,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Contact of parent to anchor Wave7"
   },
@@ -13227,6 +13321,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Contact of parent to anchor Wave8"
   },
@@ -13307,6 +13402,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "New partner of the parent is the same partner as previous wave to wave3"
   },
@@ -13387,6 +13483,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "New partner of the parent is the same partner as previous wave to wave4"
   },
@@ -13467,6 +13564,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "New partner of the parent is the same partner as previous wave to wave5"
   },
@@ -13547,6 +13645,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "New partner of the parent is the same partner as previous wave to wave6"
   },
@@ -13627,6 +13726,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "New partner of the parent is the same partner as previous wave to wave7"
   },
@@ -13707,6 +13807,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "New partner of the parent is the same partner as previous wave to wave8"
   },
@@ -13952,6 +14053,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning of no contact of parent to anchor (months since January 1900)"
   },
@@ -14037,6 +14139,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Duration of new partnership (categorized in years) wave22"
   },
@@ -14122,6 +14225,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Duration of new partnership (categorized in years) wave23"
   },
@@ -14207,6 +14311,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Duration of new partnership (categorized in years) wave24"
   },
@@ -14292,6 +14397,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Duration of new partnership (categorized in years) wave25"
   },
@@ -14377,6 +14483,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Duration of new partnership (categorized in years) wave26"
   }

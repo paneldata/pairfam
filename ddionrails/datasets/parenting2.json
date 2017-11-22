@@ -37,6 +37,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Personennummer Anker"
   },
@@ -80,6 +81,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Personennummer Partner"
   },
@@ -121,6 +123,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Personennummer Kind"
   },
@@ -166,6 +169,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Erhebungsjahr"
   },
@@ -226,6 +230,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Drop-Off Version: Befragte Person?"
   },
@@ -302,6 +307,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -378,6 +384,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -454,6 +461,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -530,6 +538,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -606,6 +615,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Wenn es Probleme in der Erziehung gibt, liegt das an meinem Kind (Frage 1)"
   },
@@ -682,6 +692,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -758,6 +769,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -834,6 +846,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -910,6 +923,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -986,6 +1000,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Ich freue mich darauf, mit meinem Kind zusammen zu sein (Frage 1)"
   },
@@ -1062,6 +1077,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Sie zeigen Ihrem Kind mit Worten und Gesten, dass Sie es gerne haben (Frage 2)"
   },
@@ -1138,6 +1154,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -1214,6 +1231,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Sie kritisieren Ihr Kind (Frage 2)"
   },
@@ -1290,6 +1308,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -1366,6 +1385,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -1442,6 +1462,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Sie schreien Ihr Kind an, wenn es etwas falsch gemacht hat (Frage 2)"
   },
@@ -1518,6 +1539,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Ich rede eine Zeit lang nicht mit Kind, wenn es etwas angestellt hat (Frage 2)"
   },
@@ -1594,6 +1616,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -1670,6 +1693,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Sie loben Ihr Kind (Frage 2)"
   },
@@ -1746,6 +1770,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -1822,6 +1847,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -1898,6 +1924,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -1974,6 +2001,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2050,6 +2078,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2126,6 +2155,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2202,6 +2232,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2278,6 +2309,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2354,6 +2386,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2430,6 +2463,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2496,6 +2530,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2562,6 +2597,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2628,6 +2664,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2694,6 +2731,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2760,6 +2798,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2826,6 +2865,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -2892,6 +2932,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "SDQ: Im Allgemeinen folgsam; macht meist, was Erwachsene verlangen (Frage 4)"
   },
@@ -2958,6 +2999,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -3024,6 +3066,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -3090,6 +3133,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -3156,6 +3200,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "SDQ: Hat wenigstens einen guten Freund oder eine gute Freundin (Frage 4)"
   },
@@ -3222,6 +3267,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "SDQ: Streitet sich oft mit anderen Kindern oder schikaniert sie (Frage 4)"
   },
@@ -3288,6 +3334,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -3354,6 +3401,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "SDQ: Im Allgemeinen bei anderen Kindern beliebt (Frage 4)"
   },
@@ -3420,6 +3468,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "SDQ: Leicht ablenkbar, unkonzentriert (Frage 4)"
   },
@@ -3486,6 +3535,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -3552,6 +3602,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -3618,6 +3669,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -3684,6 +3736,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -3750,6 +3803,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "SDQ: Hilft anderen oft freiwillig (Eltern, Lehrern, anderen Kindern) (Frage 4)"
   },
@@ -3816,6 +3870,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "SDQ: Denkt nach, bevor er/sie handelt (Frage 4)"
   },
@@ -3882,6 +3937,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "SDQ: Stiehlt zu Hause, in der Schule oder anderswo (Frage 4)"
   },
@@ -3948,6 +4004,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "SDQ: Kommt besser mit Erwachsenen aus als mit anderen Kindern (Frage 4)"
   },
@@ -4014,6 +4071,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -4080,6 +4138,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -4156,6 +4215,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -4232,6 +4292,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -4308,6 +4369,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Die Dinge, die Ihr Kind tut, werden von Ihnen anerkannt (Frage 6)"
   },
@@ -4384,6 +4446,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Wie oft bringt Ihr Kind Sie dazu, dass Sie sich nach ihm richten? (Frage 6)"
   },
@@ -4460,6 +4523,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -4536,6 +4600,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Sie zeigen Ihrem Kind, dass Sie es gut finden (Frage 6)"
   },
@@ -4612,6 +4677,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Sie und Ihr Kind sind unterschiedlicher Meinung und streiten sich (Frage 6)"
   },
@@ -4688,6 +4754,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -4764,6 +4831,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -4840,6 +4908,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -4916,6 +4985,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -4992,6 +5062,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Sie lassen sich nicht von Ihren Regeln und Verboten abbringen (Frage 7)"
   },
@@ -5068,6 +5139,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Wenn Ihr Kind etwas gegen Ihren Willen tut, bestrafen Sie es (Frage 7)"
   },
@@ -5144,6 +5216,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Wenn Kind unterwegs war, fragen Sie nach, was es getan und erlebt hat (Frage 7)"
   },
@@ -5220,6 +5293,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Es gibt Tage, an denen Sie strenger sind als an anderen (Frage 7)"
   },
@@ -5296,6 +5370,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Sie geben Kind zu verstehen, dass es sich nicht widersetzen soll (Frage 7)"
   },
@@ -5372,6 +5447,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Sie drohen Ihrem Kind eine Strafe an, strafen es dann aber doch nicht (Frage 7)"
   },
@@ -5448,6 +5524,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -5524,6 +5601,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "NA"
   },
@@ -5600,6 +5678,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Sie sind eher streng (Frage 7)"
   },
@@ -5676,6 +5755,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave2",
     "label_de": "Wenn Ihr Kind neue Freunde hat, lernen Sie sie auch bald kennen (Frage 7)"
   }

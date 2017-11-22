@@ -1,0 +1,1338 @@
+{
+  "id": {
+    "study": "pairfam",
+    "name": "id",
+    "name_cs": "id",
+    "variable": "id",
+    "dataset": "stepup_biochild",
+    "label": "Person number anchor",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "750400000",
+        "750400000",
+        "750400000",
+        "750500000",
+        "750500000",
+        "750500000",
+        "7",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Person number anchor"
+  },
+  "demodiff": {
+    "study": "pairfam",
+    "name": "demodiff",
+    "name_cs": "demodiff",
+    "variable": "demodiff",
+    "dataset": "stepup_biochild",
+    "label": "DemoDiff sample",
+    "categories": {
+      "frequencies": [
+        7,
+        0
+      ],
+      "labels": [
+        "0 pairfam",
+        "1 demodiff"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "0 pairfam",
+        "1 demodiff"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "DemoDiff sample"
+  },
+  "entry": {
+    "study": "pairfam",
+    "name": "entry",
+    "name_cs": "entry",
+    "variable": "entry",
+    "dataset": "stepup_biochild",
+    "label": "Respondent entered survey in wave",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "4",
+        "4",
+        "4",
+        "4.286",
+        "4.5",
+        "5",
+        "7",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Respondent entered survey in wave"
+  },
+  "dobk": {
+    "study": "pairfam",
+    "name": "dobk",
+    "name_cs": "dobk",
+    "variable": "dobk",
+    "dataset": "stepup_biochild",
+    "label": "Date of birth of child (months since January 1900)",
+    "categories": {
+      "frequencies": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        0,
+        0
+      ],
+      "labels": [
+        "1343",
+        "1349",
+        "1356",
+        "1378",
+        "1384",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1343",
+        "1349",
+        "1356",
+        "1378",
+        "1384",
+        "-3",
+        "-7"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Date of birth of child (months since January 1900)"
+  },
+  "sexk": {
+    "study": "pairfam",
+    "name": "sexk",
+    "name_cs": "sexk",
+    "variable": "sexk",
+    "dataset": "stepup_biochild",
+    "label": "Gender of child",
+    "categories": {
+      "frequencies": [
+        0,
+        6,
+        1
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "1 Male",
+        "2 Female"
+      ],
+      "missings": [
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-7",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "1 Male",
+        "2 Female"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Gender of child"
+  },
+  "intdat": {
+    "study": "pairfam",
+    "name": "intdat",
+    "name_cs": "intdat",
+    "variable": "intdat",
+    "dataset": "stepup_biochild",
+    "label": "Date of interview (months since January 1900)",
+    "categories": {
+      "frequencies": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "labels": [
+        "1344",
+        "1354",
+        "1358",
+        "1379",
+        "1392",
+        "1393",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1344",
+        "1354",
+        "1358",
+        "1379",
+        "1392",
+        "1393",
+        "-3",
+        "-7"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-3 Does not apply",
+        "-7 Incomplete data"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Date of interview (months since January 1900)"
+  },
+  "wave": {
+    "study": "pairfam",
+    "name": "wave",
+    "name_cs": "wave",
+    "variable": "wave",
+    "dataset": "stepup_biochild",
+    "label": "Survey year",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        1,
+        3,
+        0,
+        1,
+        2
+      ],
+      "labels": [
+        "1 Wave 1 : 2008/09",
+        "2 Wave 2 : 2009/10",
+        "3 Wave 3 : 2010/11",
+        "4 Wave 4 : 2011/12",
+        "5 Wave 5 : 2012/13",
+        "6 Wave 6 : 2013/14",
+        "7 Wave 7 : 2014/15",
+        "8 Wave 8 : 2015/16"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "labels_de": [
+        "1 Wave 1 : 2008/09",
+        "2 Wave 2 : 2009/10",
+        "3 Wave 3 : 2010/11",
+        "4 Wave 4 : 2011/12",
+        "5 Wave 5 : 2012/13",
+        "6 Wave 6 : 2013/14",
+        "7 Wave 7 : 2014/15",
+        "8 Wave 8 : 2015/16"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Survey year"
+  },
+  "number": {
+    "study": "pairfam",
+    "name": "number",
+    "name_cs": "number",
+    "variable": "number",
+    "dataset": "stepup_biochild",
+    "label": "Pointer on Xth child (corresponding varkX in Anchor data)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "7",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Pointer on Xth child (corresponding varkX in Anchor data)"
+  },
+  "cid": {
+    "study": "pairfam",
+    "name": "cid",
+    "name_cs": "cid",
+    "variable": "cid",
+    "dataset": "stepup_biochild",
+    "label": "Person number CAPI-child",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "750400000",
+        "750400000",
+        "750400000",
+        "750500000",
+        "750500000",
+        "750500000",
+        "7",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Person number CAPI-child"
+  },
+  "surveykid": {
+    "study": "pairfam",
+    "name": "surveykid",
+    "name_cs": "surveykid",
+    "variable": "surveykid",
+    "dataset": "stepup_biochild",
+    "label": "Indicator: child was asked in CAPI child survey",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        7,
+        0
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ],
+      "missings": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-7",
+        "-3",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "0 No",
+        "1 Yes"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Indicator: child was asked in CAPI child survey"
+  },
+  "index": {
+    "study": "pairfam",
+    "name": "index",
+    "name_cs": "index",
+    "variable": "index",
+    "dataset": "stepup_biochild",
+    "label": "Correct order of children (sorted descendingly by age)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "1 1st child (oldest)",
+        "2 2nd child",
+        "3 3rd child",
+        "4 4th child",
+        "5 5th child",
+        "6 6th child",
+        "7 7th child",
+        "8 8th child",
+        "9 9th child",
+        "10 10th child"
+      ],
+      "missings": [
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-7",
+        "-3",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "1 1st child (oldest)",
+        "2 2nd child",
+        "3 3rd child",
+        "4 4th child",
+        "5 5th child",
+        "6 6th child",
+        "7 7th child",
+        "8 8th child",
+        "9 9th child",
+        "10 10th child"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Correct order of children (sorted descendingly by age)"
+  },
+  "statusk": {
+    "study": "pairfam",
+    "name": "statusk",
+    "name_cs": "statusk",
+    "variable": "statusk",
+    "dataset": "stepup_biochild",
+    "label": "Status of child",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        7,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "1 Biological child",
+        "2 Adopted child",
+        "3 Partner's child / stepchild",
+        "4 Foster child"
+      ],
+      "missings": [
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-7",
+        "-3",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "1 Biological child",
+        "2 Adopted child",
+        "3 Partner's child / stepchild",
+        "4 Foster child"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Status of child"
+  },
+  "currliv": {
+    "study": "pairfam",
+    "name": "currliv",
+    "name_cs": "currliv",
+    "variable": "currliv",
+    "dataset": "stepup_biochild",
+    "label": "Cohabitation with child",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        4,
+        1,
+        0,
+        0
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "1 Only with Anchor",
+        "2 With Anchor and elsewhere",
+        "9 Only alone/flat share",
+        "10 Only with other parent unit",
+        "11 Only with other relative",
+        "12 Children's home",
+        "13 Only elsewhere"
+      ],
+      "missings": [
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-7",
+        "-3",
+        "1",
+        "2",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "1 Only with Anchor",
+        "2 With Anchor and elsewhere",
+        "9 Only alone/flat share",
+        "10 Only with other parent unit",
+        "11 Only with other relative",
+        "12 Children's home",
+        "13 Only elsewhere"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Cohabitation with child"
+  },
+  "currliv_detail": {
+    "study": "pairfam",
+    "name": "currliv_detail",
+    "name_cs": "currliv_detail",
+    "variable": "currliv_detail",
+    "dataset": "stepup_biochild",
+    "label": "currliv_detail",
+    "categories": {
+      "frequencies": [
+        0,
+        6,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "2 With Anchor but also alone/flat share",
+        "3 With Anchor but also with other parent unit; mainly with Anchor",
+        "4 With Anchor but also with other parent unit; namely in equal shares with Anchor and with other parent unit",
+        "5 With Anchor but also with other parent unit; mainly with other parent unit",
+        "6 With Anchor but also with other relative",
+        "7 With Anchor but also at children's home",
+        "8 With Anchor but also elsewhere"
+      ],
+      "missings": [
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-7",
+        "-3",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        "2 With Anchor but also alone/flat share",
+        "3 With Anchor but also with other parent unit; mainly with Anchor",
+        "4 With Anchor but also with other parent unit; namely in equal shares with Anchor and with other parent unit",
+        "5 With Anchor but also with other parent unit; mainly with other parent unit",
+        "6 With Anchor but also with other relative",
+        "7 With Anchor but also at children's home",
+        "8 With Anchor but also elsewhere"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "6"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "currliv_detail"
+  },
+  "pno": {
+    "study": "pairfam",
+    "name": "pno",
+    "name_cs": "pno",
+    "variable": "pno",
+    "dataset": "stepup_biochild",
+    "label": "Partnerindex: second biological parent",
+    "categories": {
+      "frequencies": [
+        5,
+        1,
+        0,
+        0,
+        1
+      ],
+      "labels": [
+        "1",
+        "2",
+        "-3 Does not apply",
+        "-7 Incomplete data",
+        "97 Another person"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-3",
+        "-7",
+        "97"
+      ],
+      "labels_de": [
+        "",
+        "",
+        "-3 Does not apply",
+        "-7 Incomplete data",
+        "97 Another person"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Partnerindex: second biological parent"
+  },
+  "pid": {
+    "study": "pairfam",
+    "name": "pid",
+    "name_cs": "pid",
+    "variable": "pid",
+    "dataset": "stepup_biochild",
+    "label": "Person number partner",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "750400000",
+        "750400000",
+        "750500000",
+        "750500000",
+        "750500000",
+        "750500000",
+        "3",
+        "4",
+        "3"
+      ]
+    },
+    "scale": "",
+    "label_de": "Person number partner"
+  },
+  "parentid": {
+    "study": "pairfam",
+    "name": "parentid",
+    "name_cs": "parentid",
+    "variable": "parentid",
+    "dataset": "stepup_biochild",
+    "label": "Person number second biological parent",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "750400000",
+        "750400000",
+        "750500000",
+        "750500000",
+        "750500000",
+        "750500000",
+        "3",
+        "4",
+        "3"
+      ]
+    },
+    "scale": "",
+    "label_de": "Person number second biological parent"
+  },
+  "mid": {
+    "study": "pairfam",
+    "name": "mid",
+    "name_cs": "mid",
+    "variable": "mid",
+    "dataset": "stepup_biochild",
+    "label": "Person number mother",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "750400000",
+        "750400000",
+        "750400000",
+        "750500000",
+        "750500000",
+        "750500000",
+        "7",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Person number mother"
+  },
+  "fid": {
+    "study": "pairfam",
+    "name": "fid",
+    "name_cs": "fid",
+    "variable": "fid",
+    "dataset": "stepup_biochild",
+    "label": "Person number father",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "750400000",
+        "750400000",
+        "750400000",
+        "750500000",
+        "750500000",
+        "750500000",
+        "7",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Person number father"
+  },
+  "smid": {
+    "study": "pairfam",
+    "name": "smid",
+    "name_cs": "smid",
+    "variable": "smid",
+    "dataset": "stepup_biochild",
+    "label": "Person number stepmother",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "NA",
+        "NA",
+        "NA",
+        "NaN",
+        "NA",
+        "NA",
+        "7",
+        "0",
+        "7"
+      ]
+    },
+    "scale": "",
+    "label_de": "Person number stepmother"
+  },
+  "sfid": {
+    "study": "pairfam",
+    "name": "sfid",
+    "name_cs": "sfid",
+    "variable": "sfid",
+    "dataset": "stepup_biochild",
+    "label": "Person number stepfather",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "750500000",
+        "750500000",
+        "750500000",
+        "750500000",
+        "750500000",
+        "750500000",
+        "6",
+        "1",
+        "6"
+      ]
+    },
+    "scale": "",
+    "label_de": "Person number stepfather"
+  },
+  "livkbeg": {
+    "study": "pairfam",
+    "name": "livkbeg",
+    "name_cs": "livkbeg",
+    "variable": "livkbeg",
+    "dataset": "stepup_biochild",
+    "label": "Beginning living together with child",
+    "categories": {
+      "frequencies": [
+        0,
+        0
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        true,
+        true
+      ],
+      "values": [
+        "-7",
+        "-3"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Beginning living together with child"
+  },
+  "livkend": {
+    "study": "pairfam",
+    "name": "livkend",
+    "name_cs": "livkend",
+    "variable": "livkend",
+    "dataset": "stepup_biochild",
+    "label": "End living together with child",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-99 Ongoing",
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "-99",
+        " -7",
+        " -3"
+      ],
+      "labels_de": [
+        "-99 Ongoing",
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "End living together with child"
+  },
+  "b1livkbeg": {
+    "study": "pairfam",
+    "name": "b1livkbeg",
+    "name_cs": "b1livkbeg",
+    "variable": "b1livkbeg",
+    "dataset": "stepup_biochild",
+    "label": "Beginning break 1 living together with child",
+    "categories": {
+      "frequencies": [
+        0,
+        0
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        true,
+        true
+      ],
+      "values": [
+        "-7",
+        "-3"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Beginning break 1 living together with child"
+  },
+  "b1livkend": {
+    "study": "pairfam",
+    "name": "b1livkend",
+    "name_cs": "b1livkend",
+    "variable": "b1livkend",
+    "dataset": "stepup_biochild",
+    "label": "End break 1 living together with child",
+    "categories": {
+      "frequencies": [
+        0,
+        0
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        true,
+        true
+      ],
+      "values": [
+        "-7",
+        "-3"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "End break 1 living together with child"
+  },
+  "livkbirth": {
+    "study": "pairfam",
+    "name": "livkbirth",
+    "name_cs": "livkbirth",
+    "variable": "livkbirth",
+    "dataset": "stepup_biochild",
+    "label": "Living together since birth with child",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        " 0 Not living together since birth",
+        "1 Living together since birth"
+      ],
+      "missings": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-7",
+        "-3",
+        " 0",
+        " 1"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
+        " 0 Not living together since birth",
+        "1 Living together since birth"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Living together since birth with child"
+  },
+  "dodk": {
+    "study": "pairfam",
+    "name": "dodk",
+    "name_cs": "dodk",
+    "variable": "dodk",
+    "dataset": "stepup_biochild",
+    "label": "Date of death child (months since January 1900)",
+    "categories": {
+      "frequencies": [
+        0,
+        0
+      ],
+      "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ],
+      "missings": [
+        true,
+        true
+      ],
+      "values": [
+        "-7",
+        "-3"
+      ],
+      "labels_de": [
+        "-7 Incomplete data",
+        "-3 Does not apply"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "label_de": "Date of death child (months since January 1900)"
+  }
+}

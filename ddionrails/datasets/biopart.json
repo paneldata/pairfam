@@ -37,6 +37,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number anchor"
   },
@@ -82,6 +83,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "DemoDiff sample"
   },
@@ -137,6 +139,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Birth cohort"
   },
@@ -252,6 +255,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 1"
   },
@@ -337,6 +341,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 2"
   },
@@ -417,6 +422,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 3"
   },
@@ -502,6 +508,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 4"
   },
@@ -587,6 +594,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 5"
   },
@@ -672,6 +680,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 6"
   },
@@ -757,6 +766,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 7"
   },
@@ -837,6 +847,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 8"
   },
@@ -907,6 +918,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex anchor"
   },
@@ -1512,6 +1524,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of birth anchor"
   },
@@ -1597,6 +1610,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year: wave 1"
   },
@@ -1682,6 +1696,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year: wave 2"
   },
@@ -1767,6 +1782,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year: wave 3"
   },
@@ -1852,6 +1868,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year: wave 4"
   },
@@ -1937,6 +1954,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year: wave 5"
   },
@@ -2022,6 +2040,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year: wave 6"
   },
@@ -2107,6 +2126,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year: wave 7"
   },
@@ -2192,6 +2212,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year: wave 8"
   },
@@ -2252,6 +2273,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 2"
   },
@@ -2312,6 +2334,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 3"
   },
@@ -2372,6 +2395,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 4"
   },
@@ -2432,6 +2456,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 5"
   },
@@ -2492,6 +2517,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 6"
   },
@@ -2552,6 +2578,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 7"
   },
@@ -2612,6 +2639,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 8"
   },
@@ -2727,6 +2755,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Correct order of relationships: Number partner"
   },
@@ -70677,6 +70706,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number current partner"
   },
@@ -70747,6 +70777,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex partner"
   },
@@ -70797,6 +70828,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Homosexual union"
   },
@@ -73622,6 +73654,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of birth partner"
   },
@@ -74112,6 +74145,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of death partner"
   },
@@ -74222,6 +74256,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number partner in wave 1"
   },
@@ -74292,6 +74327,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number partner in wave 2"
   },
@@ -74362,6 +74398,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number partner in wave 3"
   },
@@ -74427,6 +74464,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number partner in wave 4"
   },
@@ -74497,6 +74535,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number partner in wave 5"
   },
@@ -74557,6 +74596,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number partner in wave 6"
   },
@@ -74617,6 +74657,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number partner in wave 7"
   },
@@ -74677,6 +74718,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Number partner in wave 8"
   },
@@ -74737,6 +74779,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current partner in wave 1"
   },
@@ -74797,6 +74840,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current partner in wave 2"
   },
@@ -74857,6 +74901,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current partner in wave 3"
   },
@@ -74917,6 +74962,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current partner in wave 4"
   },
@@ -74977,6 +75023,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current partner in wave 5"
   },
@@ -75037,6 +75084,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current partner in wave 6"
   },
@@ -75097,6 +75145,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current partner in wave 7"
   },
@@ -75157,6 +75206,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current partner in wave 8"
   },
@@ -77322,6 +77372,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning relationship"
   },
@@ -79297,6 +79348,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End relationship"
   },
@@ -80917,6 +80969,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 1 relationship"
   },
@@ -81377,6 +81430,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 2 relationship"
   },
@@ -81502,6 +81556,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 3 relationship"
   },
@@ -81582,6 +81637,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 4 relationship"
   },
@@ -81652,6 +81708,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 5 relationship"
   },
@@ -81722,6 +81779,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 6 relationship"
   },
@@ -81792,6 +81850,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 7 relationship"
   },
@@ -83282,6 +83341,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 1 relationship"
   },
@@ -83752,6 +83812,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 2 relationship"
   },
@@ -83872,6 +83933,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 3 relationship"
   },
@@ -83952,6 +84014,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 4 relationship"
   },
@@ -84022,6 +84085,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 5 relationship"
   },
@@ -84092,6 +84156,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 6 relationship"
   },
@@ -84162,6 +84227,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 7 relationship"
   },
@@ -86012,6 +86078,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning cohabitation"
   },
@@ -87687,6 +87754,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End cohabitation"
   },
@@ -88707,6 +88775,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 1 cohabitation"
   },
@@ -88962,6 +89031,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 2 cohabitation"
   },
@@ -89057,6 +89127,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 3 cohabitation"
   },
@@ -89132,6 +89203,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 4 cohabitation"
   },
@@ -89202,6 +89274,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 5 cohabitation"
   },
@@ -89272,6 +89345,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 6 cohabitation"
   },
@@ -89342,6 +89416,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 7 cohabitation"
   },
@@ -89412,6 +89487,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 8 cohabitation"
   },
@@ -89482,6 +89558,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 9 cohabitation"
   },
@@ -89552,6 +89629,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 10 cohabitation"
   },
@@ -89622,6 +89700,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 11 cohabitation"
   },
@@ -89692,6 +89771,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning break 12 cohabitation"
   },
@@ -90617,6 +90697,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 1 cohabitation"
   },
@@ -90857,6 +90938,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 2 cohabitation"
   },
@@ -90952,6 +91034,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 3 cohabitation"
   },
@@ -91027,6 +91110,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 4 cohabitation"
   },
@@ -91097,6 +91181,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 5 cohabitation"
   },
@@ -91167,6 +91252,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 6 cohabitation"
   },
@@ -91237,6 +91323,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 7 cohabitation"
   },
@@ -91307,6 +91394,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 8 cohabitation"
   },
@@ -91377,6 +91465,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 9 cohabitation"
   },
@@ -91447,6 +91536,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 10 cohabitation"
   },
@@ -91517,6 +91607,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 11 cohabitation"
   },
@@ -91587,6 +91678,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End break 12 cohabitation"
   },
@@ -93342,6 +93434,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning marriage"
   },
@@ -94687,6 +94780,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End marriage"
   },
@@ -94757,6 +94851,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Marriage ceremony"
   },
@@ -94812,6 +94907,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Imputed date of beginning union / end of break of union"
   },
@@ -94867,6 +94963,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Imputed date of end union / beginning of break of union"
   },
@@ -94922,6 +95019,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Imputed date of beginning cohabitation / end of break of cohabitation"
   },
@@ -94977,6 +95075,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Imputed date of end cohabitation / beginning of break of cohabitation"
   },
@@ -95032,6 +95131,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Imputed date of beginning marriage"
   },
@@ -95087,6 +95187,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Imputed date of end marriage"
   },
@@ -95132,6 +95233,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Inconsistency biopart: Marriage earlier than beginning of relationship"
   },
@@ -95177,6 +95279,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Inconsistency biopart: Overlapping cohab. episodes with diff. partners"
   },
@@ -95222,6 +95325,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Inconsistency biopart: Beginning current and end previous marriage"
   },
@@ -95282,6 +95386,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Inconsistency biopart: Year of birth partner"
   }

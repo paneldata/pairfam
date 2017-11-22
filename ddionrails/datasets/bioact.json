@@ -37,6 +37,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Person number anchor"
   },
@@ -82,6 +83,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "DemoDiff sample"
   },
@@ -137,6 +139,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Birth cohort"
   },
@@ -737,6 +740,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of birth"
   },
@@ -802,6 +806,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Sex anchor"
   },
@@ -882,6 +887,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave 1"
   },
@@ -962,6 +968,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave 2"
   },
@@ -1042,6 +1049,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave 3"
   },
@@ -1122,6 +1130,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave 4"
   },
@@ -1202,6 +1211,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave 5"
   },
@@ -1282,6 +1292,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave 6"
   },
@@ -1362,6 +1373,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave 7"
   },
@@ -1442,6 +1454,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Survey year wave 8"
   },
@@ -1492,6 +1505,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 2"
   },
@@ -1542,6 +1556,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 3"
   },
@@ -1592,6 +1607,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 4"
   },
@@ -1642,6 +1658,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 5"
   },
@@ -1692,6 +1709,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 6"
   },
@@ -1742,6 +1760,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 7"
   },
@@ -1792,6 +1811,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Respondent in wave 8"
   },
@@ -1907,6 +1927,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 1"
   },
@@ -1987,6 +2008,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 2"
   },
@@ -2067,6 +2089,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 3"
   },
@@ -2152,6 +2175,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 4"
   },
@@ -2237,6 +2261,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 5"
   },
@@ -2322,6 +2347,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 6"
   },
@@ -2407,6 +2433,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 7"
   },
@@ -2487,6 +2514,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Date of interview wave 8"
   },
@@ -2637,6 +2665,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Type of activity"
   },
@@ -2678,6 +2707,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Counter - Number of episodes per activity"
   },
@@ -2719,6 +2749,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Beginning of episode"
   },
@@ -3214,6 +3245,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "End of episode"
   },
@@ -3294,6 +3326,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Censor"
   },
@@ -3344,6 +3377,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current activity in wave 1"
   },
@@ -3394,6 +3428,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current activity in wave 2"
   },
@@ -3444,6 +3479,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current activity in wave 3"
   },
@@ -3494,6 +3530,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current activity in wave 4"
   },
@@ -3544,6 +3581,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current activity in wave 5"
   },
@@ -3594,6 +3632,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current activity in wave 6"
   },
@@ -3644,6 +3683,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current activity in wave 7"
   },
@@ -3694,6 +3734,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "cumulative",
     "label_de": "Current activity in wave 8"
   }

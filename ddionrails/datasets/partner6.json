@@ -37,6 +37,7 @@
     "scale": "",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Personennummer Anker"
   },
@@ -78,6 +79,7 @@
     "scale": "",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Personennummer Partner"
   },
@@ -118,6 +120,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Erhebungsjahr"
   },
@@ -163,6 +166,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "DemoDiff Stichprobe"
   },
@@ -248,6 +252,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -333,6 +338,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -418,6 +424,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -533,6 +540,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Zufriedenheit mit Schule, Ausbildung, Beruf (Frage 2)"
   },
@@ -648,6 +656,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Zufriedenheit mit Freizeitgestaltung, Hobbys, Interessen (Frage 2)"
   },
@@ -763,6 +772,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Zufriedenheit mit Freunden, Bekannten, soziale Kontakten (Frage 2)"
   },
@@ -878,6 +888,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Zufriedenheit mit Familie (Frage 2)"
   },
@@ -1013,6 +1024,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Wichtigkeit Lebensbereich Ausbildung bzw. berufl. Interessen verfolgen (Frage 3)"
   },
@@ -1143,6 +1155,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Wichtigkeit Lebensbereich Hobbys und Interessen nachgehen (Frage 3)"
   },
@@ -1263,6 +1276,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Wichtigkeit Lebensbereich Kontakte zu Freunden pflegen (Frage 3)"
   },
@@ -1388,6 +1402,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Wichtigkeit Lebensbereich in einer Partnerschaft leben (Frage 3)"
   },
@@ -1508,6 +1523,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Wichtigkeit Lebensbereich Kind bzw. weitere Kinder bekommen (Frage 3)"
   },
@@ -1623,6 +1639,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Zufriedenheit mit Beziehung (Frage 4)"
   },
@@ -1738,6 +1755,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -1828,6 +1846,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -1918,6 +1937,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -1993,6 +2013,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -2088,6 +2109,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Arbeitsteilung: Hausarbeit (Frage 9)"
   },
@@ -2183,6 +2205,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Arbeitsteilung: Einkaufen (Frage 9)"
   },
@@ -2278,6 +2301,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Arbeitsteilung: Reparaturen (Frage 9)"
   },
@@ -2373,6 +2397,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -2468,6 +2493,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Arbeitsteilung: Kinderbetreuung (Frage 9)"
   },
@@ -2553,6 +2579,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Fremdbeurteilung: Partner beleidigen oder beschimpfen (Frage 10)"
   },
@@ -2638,6 +2665,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Fremdbeurteilung: In Schweigen verfallen (Frage 10)"
   },
@@ -2723,6 +2751,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Fremdbeurteilung: Partner anschreien (Frage 10)"
   },
@@ -2808,6 +2837,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -2893,6 +2923,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -2978,6 +3009,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -3063,6 +3095,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Selbstbeurteilung: Partner beleidigen oder beschimpfen (Frage 10)"
   },
@@ -3148,6 +3181,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Selbstbeurteilung: In Schweigen verfallen (Frage 10)"
   },
@@ -3233,6 +3267,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Selbstbeurteilung: Partner anschreien (Frage 10)"
   },
@@ -3318,6 +3353,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -3403,6 +3439,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -3488,6 +3525,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -3573,6 +3611,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -3658,6 +3697,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -3743,6 +3783,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -3828,6 +3869,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -3913,6 +3955,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -3998,6 +4041,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -4083,6 +4127,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -4168,6 +4213,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -4238,6 +4284,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Gedacht, dass Partnerschaft in Schwierigkeiten (im letzten Jahr) (Frage 12)"
   },
@@ -4308,6 +4355,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ernsthaft an Trennung oder Scheidung gedacht (im letzten Jahr) (Frage 13)"
   },
@@ -4378,6 +4426,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ernsthaft Trennung oder Scheidung vorgeschlagen (im letzten Jahr) (Frage 14)"
   },
@@ -4453,6 +4502,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -4538,6 +4588,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -4653,6 +4704,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Zufriedenheit mit Sexualleben (Frage 17)"
   },
@@ -4743,6 +4795,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -4833,6 +4886,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "VOC+: Besonders enge emotionale Beziehung zu Kindern (Frage 18)"
   },
@@ -4923,6 +4977,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -5013,6 +5068,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -5103,6 +5159,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "VOC+: Neue Anregungen von erwachsenen Kindern (Frage 18)"
   },
@@ -5193,6 +5250,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -5283,6 +5341,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "VOC-: Kinder sind nervliche Belastung (Frage 18)"
   },
@@ -5373,6 +5432,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "VOC-: Berufliche Ziele mit Kindern nicht erreichen (Frage 18)"
   },
@@ -5463,6 +5523,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -5553,6 +5614,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -5663,6 +5725,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ideale Kinderzahl (Frage 19)"
   },
@@ -5743,6 +5806,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -5833,6 +5897,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Realistische Zahl weiterer leiblicher und adoptierter Kinder (Frage 20)"
   },
@@ -5918,6 +5983,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -6163,6 +6229,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -6388,6 +6455,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -6458,6 +6526,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Versucht, Kind zu zeugen bzw. schwanger zu werden (im letzten Jahr) (Frage 24)"
   },
@@ -6548,6 +6617,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Einigkeit mit Partner hinischtl. Kinderzahl (Frage 25)"
   },
@@ -6643,6 +6713,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Einigkeit mit Partner hinsichtl. Zeitpunkt Geburt Kinder (Frage 26)"
   },
@@ -6728,6 +6799,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -6813,6 +6885,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Elternschaftsentscheid.: Pers. Vor- und Nachteile ausschlaggebend (Frage 27)"
   },
@@ -6898,6 +6971,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -6983,6 +7057,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -7068,6 +7143,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Elternschaftsentscheid.: Schiebe Entscheidung vor mir her (Frage 27)"
   },
@@ -7153,6 +7229,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Elternschaftsentscheid.: Kinder bekommen ist nicht planbar (Frage 27)"
   },
@@ -7238,6 +7315,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Freunde finden, dass ich Kind bekommen sollte (Frage 28)"
   },
@@ -7323,6 +7401,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Eltern finden, dass ich Kind bekommen sollte (Frage 28)"
   },
@@ -7408,6 +7487,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -7493,6 +7573,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -7583,6 +7664,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -7673,6 +7755,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -7763,6 +7846,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -7853,6 +7937,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -7943,6 +8028,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -8033,6 +8119,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -8123,6 +8210,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -8213,6 +8301,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "(Potentielle) Auswirkung Elternschaft auf: Schule, Ausbildung, Beruf (Frage 31)"
   },
@@ -8303,6 +8392,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "(Potentielle) Auswirkung Elternschaft auf: Freizeit, Hobbys, Inter. (Frage 31)"
   },
@@ -8393,6 +8483,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "(Potentielle) Auswirkung Elternschaft auf: Freunde, Bekannte, etc. (Frage 31)"
   },
@@ -8483,6 +8574,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "(Potentielle) Auswirkung Elternschaft auf: Partnerschaft (Frage 31)"
   },
@@ -8568,6 +8660,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Probleme Kindererziehung: Meinungsverschiedenheiten (Frage 32)"
   },
@@ -8653,6 +8746,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Probleme Kindererziehung: Diskussionen enden im Streit (Frage 32)"
   },
@@ -8738,6 +8832,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -8823,6 +8918,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -8908,6 +9004,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -8993,6 +9090,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Elternrolle: was ich mir in Erziehung vornehme, kann ich umsetzen (Frage 33)"
   },
@@ -9078,6 +9176,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -9163,6 +9262,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Elternrolle: selbst in der Hand, wie ich in Erziehung zurecht komme (Frage 33)"
   },
@@ -9248,6 +9348,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich freue mich darauf, mit meinem Kind zusammen zu sein (Frage 33)"
   },
@@ -9333,6 +9434,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -9418,6 +9520,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -9488,6 +9591,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Mutter noch (Frage 34)"
   },
@@ -9558,6 +9662,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Vater noch (Frage 34)"
   },
@@ -9653,6 +9758,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Familienstand der leiblichen (resp. Adoptiv-)Mutter (Frage 35)"
   },
@@ -9748,6 +9854,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Familienstand leiblicher (resp. Adoptiv-) Vater (Frage 35)"
   },
@@ -9813,6 +9920,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Mutter mit Vater in gemeinsamen Haushalt? (Frage 36)"
   },
@@ -9878,6 +9986,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Mutter mit anderem Partner in gemeinsamen Haushalt? (Frage 36)"
   },
@@ -9943,6 +10052,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Mutter mit jemand anderem im Haushalt? (Frage 36)"
   },
@@ -10008,6 +10118,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Mutter allein im Haushalt? (Frage 36)"
   },
@@ -10073,6 +10184,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Mutter in Alters- oder Pflegeheim? (Frage 36)"
   },
@@ -10138,6 +10250,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Mutter sonstiges? (Frage 36)"
   },
@@ -10203,6 +10316,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -10268,6 +10382,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Vater mit Mutter in gemeinsamen Haushalt? (Frage 36)"
   },
@@ -10333,6 +10448,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Vater mit anderer Partnerin in gemeinsamen Haushalt? (Frage 36)"
   },
@@ -10398,6 +10514,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Vater mit jemand anderem im Haushalt? (Frage 36)"
   },
@@ -10463,6 +10580,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Vater allein im Haushalt? (Frage 36)"
   },
@@ -10528,6 +10646,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Vater in Alters- oder Pflegeheim? (Frage 36)"
   },
@@ -10593,6 +10712,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt Vater sonstiges? (Frage 36)"
   },
@@ -10658,6 +10778,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -10758,6 +10879,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -10858,6 +10980,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -10943,6 +11066,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Wie eng mit Mutter heute verbunden (Frage 38)"
   },
@@ -11028,6 +11152,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Wie eng mit Vater heute verbunden (Frage 39)"
   },
@@ -11123,6 +11248,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Dauer um zu Mutter zu gelangen (Frage 40)"
   },
@@ -11218,6 +11344,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Dauer um zu Vater zu gelangen (Frage 40)"
   },
@@ -11303,6 +11430,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -11388,6 +11516,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -11473,6 +11602,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -11558,6 +11688,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -11643,6 +11774,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Wie oft verschiedene Meinung und Streit mit Ihrer Mutter?(Frage 43)"
   },
@@ -11728,6 +11860,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Wie oft verschiedene Meinung und Streit mit Ihrem Vater? (Frage 43)"
   },
@@ -11813,6 +11946,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -11898,6 +12032,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -11968,6 +12103,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -12038,6 +12174,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -12103,6 +12240,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Mutter: Hilfe von prof. Pflegedienst (Frage 46)"
   },
@@ -12168,6 +12306,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Mutter: Hilfe von mir (Frage 46)"
   },
@@ -12233,6 +12372,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Mutter: Hilfe von ihrem (Ehe-)Partner (Frage 46)"
   },
@@ -12298,6 +12438,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -12363,6 +12504,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Mutter: Hilfe von sonstigen Personen (Frage 46)"
   },
@@ -12428,6 +12570,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Vater: Hilfe von prof. Pflegedienst (Frage 46)"
   },
@@ -12493,6 +12636,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Vater: Hilfe von mir (Frage 46)"
   },
@@ -12558,6 +12702,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Vater: Hilfe von seiner (Ehe-)Partnerin (Frage 46)"
   },
@@ -12623,6 +12768,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -12688,6 +12834,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Vater: Hilfe von sonstigen Personen (Frage 46)"
   },
@@ -12758,6 +12905,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt leibliche Mutter des Partners noch? (Frage 47)"
   },
@@ -12828,6 +12976,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Lebt leiblicher Vater des Partners noch? (Frage 47)"
   },
@@ -12928,6 +13077,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -13028,6 +13178,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -13113,6 +13264,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Wie eng mit leiblicher Mutter des Partners heute verbunden (Frage 49)"
   },
@@ -13198,6 +13350,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Wie eng mit leiblichem Vater des Partners heute verbunden (Frage 50)"
   },
@@ -13293,6 +13446,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Dauer um zu leiblicher Mutter des Partners zu gelangen (Frage 51)"
   },
@@ -13388,6 +13542,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Dauer um zu leiblichem Vater des Partners zu gelangen (Frage 51)"
   },
@@ -13473,6 +13628,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -13558,6 +13714,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -13648,6 +13805,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -13738,6 +13896,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -13828,6 +13987,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -13918,6 +14078,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14008,6 +14169,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14098,6 +14260,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14188,6 +14351,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14278,6 +14442,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14368,6 +14533,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14458,6 +14624,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14548,6 +14715,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14638,6 +14806,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14728,6 +14897,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14818,6 +14988,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14908,6 +15079,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -14998,6 +15170,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -15043,6 +15216,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Tag Geburt (Frage 54)"
   },
@@ -15163,6 +15337,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Monat Geburt (Frage 54)"
   },
@@ -15473,6 +15648,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Jahr Geburt (Frage 54)"
   },
@@ -15543,6 +15719,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Geschlecht (Frage 55)"
   },
@@ -15628,6 +15805,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Aktueller Familienstand (Frage 56)"
   },
@@ -17533,6 +17711,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Nettoverdienst im letzten Monat (Frage 57)"
   },
@@ -17663,6 +17842,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Nettoverdienst im letzten Monat kategorisiert (Frage 58)"
   },
@@ -17748,6 +17928,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Gesundheitszustand letzte 4 Wochen (Frage 59)"
   },
@@ -17868,6 +18049,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Stunden Schlaf pro Nacht unter der Woche (Frage 60)"
   },
@@ -17953,6 +18135,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Anzahl der Freunde (Frage 61)"
   },
@@ -18043,6 +18226,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Anteil eigener Freunde, die auch Freunde des Partners (=Anker) sind (Frage 62)"
   },
@@ -18133,6 +18317,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Anteil Freunde des Partners, die auch eigene Freunde sind (Frage 63)"
   },
@@ -18219,6 +18404,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Privatleben kommt zu kurz (Frage 64)"
   },
@@ -18305,6 +18491,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Probleme, mich auf Arbeit zu konzentrieren(Frage 64)"
   },
@@ -18391,6 +18578,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -18477,6 +18665,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -18563,6 +18752,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -18649,6 +18839,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -18735,6 +18926,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -18821,6 +19013,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -18906,6 +19099,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Manchmal denke ich, dass ich wertlos bin (Frage 65)"
   },
@@ -18991,6 +19185,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich mag mich so wie ich bin (Frage 65)"
   },
@@ -19076,6 +19271,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Alles in allem bin ich mit mir selbst zufrieden (Frage 65)"
   },
@@ -19161,6 +19357,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -19241,6 +19438,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -19321,6 +19519,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -19401,6 +19600,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich bin deprimiert (Frage 66)"
   },
@@ -19481,6 +19681,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich bin traurig (Frage 66)"
   },
@@ -19561,6 +19762,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich bin verzweifelt (Frage 66)"
   },
@@ -19641,6 +19843,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -19721,6 +19924,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -19801,6 +20005,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -19881,6 +20086,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich bin ruhig und gelassen (Frage 66)"
   },
@@ -19961,6 +20167,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -20076,6 +20283,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Zufriedenheit mit Leben insgesamt (Frage 67)"
   },
@@ -20146,6 +20354,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Haben sie leibliche oder adoptierte Kinder (Frage 68)"
   },
@@ -20266,6 +20475,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Monat Geburt Kind 1 (Frage 69)"
   },
@@ -20456,6 +20666,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Jahr Geburt Kind 1 (Frage 69)"
   },
@@ -20526,6 +20737,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Geschlecht Kind 1 (Frage 69)"
   },
@@ -20606,6 +20818,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Status Kind 1 (Frage 69)"
   },
@@ -20676,6 +20889,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Zusammenleben mit Kind 1 (Frage 69)"
   },
@@ -20796,6 +21010,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Monat Geburt Kind 2 (Frage 69)"
   },
@@ -20971,6 +21186,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Jahr Geburt Kind 2 (Frage 69)"
   },
@@ -21041,6 +21257,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Geschlecht Kind 2 (Frage 69)"
   },
@@ -21121,6 +21338,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Status Kind 2 (Frage 69)"
   },
@@ -21191,6 +21409,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Zusammenleben mit Kind 2 (Frage 69)"
   },
@@ -21306,6 +21525,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Monat Geburt Kind 3 (Frage 69)"
   },
@@ -21441,6 +21661,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Jahr Geburt Kind 3 (Frage 69)"
   },
@@ -21511,6 +21732,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Geschlecht Kind 3 (Frage 69)"
   },
@@ -21591,6 +21813,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Status Kind 3 (Frage 69)"
   },
@@ -21661,6 +21884,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Zusammenleben mit Kind 3 (Frage 69)"
   },
@@ -21756,6 +21980,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Monat Geburt Kind 4 (Frage 69)"
   },
@@ -21866,6 +22091,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Jahr Geburt Kind 4 (Frage 69)"
   },
@@ -21936,6 +22162,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Geschlecht Kind 4 (Frage 69)"
   },
@@ -22016,6 +22243,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Status Kind 4 (Frage 69)"
   },
@@ -22086,6 +22314,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Zusammenleben mit Kind 4 (Frage 69)"
   },
@@ -22191,6 +22420,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -22306,6 +22536,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Erziehung: von anderen gemocht werden, liebenswert sein (Frage 70)"
   },
@@ -22411,6 +22642,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -22521,6 +22753,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Erziehung: von anderen respektiert werden, angesehen sein (Frage 70)"
   },
@@ -22631,6 +22864,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -22736,6 +22970,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -22841,6 +23076,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -22941,6 +23177,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -23051,6 +23288,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Erziehung: eine hohe Bildung erhalten (Frage 70)"
   },
@@ -23156,6 +23394,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -23256,6 +23495,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Erziehung: verantwortunsgsbewusst sein (Frage 70)"
   },
@@ -23361,6 +23601,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Erziehung: sichere Umgangsformen haben (Frage 70)"
   },
@@ -23431,6 +23672,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Erwerbsgemindert oder schwerbehindert (Frage 71)"
   },
@@ -23521,6 +23763,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -23591,6 +23834,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Jemals im Leben geraucht (mind. 100 Zigaretten/andere Rauchwaren) (Frage 73a)"
   },
@@ -23746,6 +23990,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -23816,6 +24061,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -23986,6 +24232,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Anzahl gerauchter Zigaretten am Tag (Frage 73d)"
   },
@@ -24056,6 +24303,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Anzahl gerauchter Pfeifen am Tag (Frage 73d)"
   },
@@ -24141,6 +24389,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Anzahl gerauchter Zigarren/Zigarillos am Tag (Frage 73d)"
   },
@@ -24261,6 +24510,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -24401,6 +24651,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -24496,6 +24747,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -24606,6 +24858,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -24701,6 +24954,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -24791,6 +25045,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -25081,6 +25336,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Jahr Geburt Mutter (Frage 77)"
   },
@@ -25366,6 +25622,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Jahr Geburt Vater (Frage 77)"
   },
@@ -25451,6 +25708,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich stimme anderen oft zu, selbst wenn ich nicht sicher bin (Frage 78)"
   },
@@ -25536,6 +25794,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich gerate schnell in Wut (Frage 78)"
   },
@@ -25621,6 +25880,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -25706,6 +25966,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -25791,6 +26052,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich steigere mich leicht in einen Streit hinein (Frage 78)"
   },
@@ -25876,6 +26138,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -25961,6 +26224,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -26046,6 +26310,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -26131,6 +26396,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich gehe ungezwungen auf andere Menschen zu (Frage 78)"
   },
@@ -26216,6 +26482,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -26301,6 +26568,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich neige dazu, andere zu kritisieren (Frage 79)"
   },
@@ -26386,6 +26654,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -26471,6 +26740,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich werde leicht deprimiert, niedergeschlagen (Frage 79)"
   },
@@ -26556,6 +26826,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich bin vielseitig interessiert (Frage 79)"
   },
@@ -26641,6 +26912,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -26726,6 +26998,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich schenke anderen leicht Vertrauen, glaube an das Gute im Menschen (Frage 79)"
   },
@@ -26811,6 +27084,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich bin bequem und neige zur Faulheit (Frage 79)"
   },
@@ -26896,6 +27170,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich bin entspannt, lass mich durch nicht aus der Ruhe bringen (Frage 79)"
   },
@@ -26981,6 +27256,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -27066,6 +27342,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich bin eher der stille Typ, wortkarg (Frage 79)"
   },
@@ -27151,6 +27428,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich kann mich kalt und distanziert verhalten (Frage 79)"
   },
@@ -27236,6 +27514,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -27321,6 +27600,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich mache mir viele Sorgen (Frage 79)"
   },
@@ -27406,6 +27686,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich habe eine aktive Vorstellungskraft, bin phantasievoll (Frage 79)"
   },
@@ -27491,6 +27772,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Ich gehe aus mir heraus, bin gesellig (Frage 79)"
   },
@@ -27576,6 +27858,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -27661,6 +27944,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -27746,6 +28030,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -27831,6 +28116,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -27916,6 +28202,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "NA"
   },
@@ -28131,6 +28418,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Tag (Frage 80)"
   },
@@ -28241,6 +28529,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Monat (Frage 80)"
   },
@@ -28311,6 +28600,7 @@
     "scale": "cat",
     "analysis_unit": "partner",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave6",
     "label_de": "Jahr (Frage 80)"
   }

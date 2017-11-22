@@ -37,6 +37,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Personennummer Anker"
   },
@@ -3766,6 +3767,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Personennummer Partner"
   },
@@ -3807,6 +3809,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Personennummer Kind"
   },
@@ -3852,6 +3855,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "DemoDiff Stichprobe"
   },
@@ -3927,6 +3931,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Erhebungsjahr"
   },
@@ -4072,6 +4077,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Kinder-Nummer, d h CAPI-Kind ist Kind mit Nummer  "
   },
@@ -4152,6 +4158,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Geschlecht Kind"
   },
@@ -4227,6 +4234,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Tag Geburt (Frage 1)"
   },
@@ -4357,6 +4365,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Monat Geburt Kind (Frage 1)"
   },
@@ -4467,6 +4476,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Jahr Geburt Kind (Frage 1)"
   },
@@ -4547,6 +4557,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Gehst Du denn noch zur Schule? (Frage 2)"
   },
@@ -4692,6 +4703,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -4767,6 +4779,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Sonstige Schulart (Frage 3)"
   },
@@ -4857,6 +4870,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Besuchst du bestimmten Schulzweig, oder keine Trennung? (Frage 4) "
   },
@@ -4977,6 +4991,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Und in welcher Klasse bist Du? (Frage 5)"
   },
@@ -5077,6 +5092,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -5157,6 +5173,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Welche Durchschnittsnote hast Du bei Deinem Schulabschluss erreicht? (Frage 7)"
   },
@@ -5267,6 +5284,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Letztes Zeugnis: Note - Mathe (Frage 8)"
   },
@@ -5377,6 +5395,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Letztes Zeugnis: Note - Deutsch (Frage 8)"
   },
@@ -5457,6 +5476,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -5537,6 +5557,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -5617,6 +5638,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -5697,6 +5719,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -5777,6 +5800,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -5857,6 +5881,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -5937,6 +5962,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -6017,6 +6043,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -6097,6 +6124,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -6177,6 +6205,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -6257,6 +6286,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -6337,6 +6367,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -6417,6 +6448,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -6497,6 +6529,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -6577,6 +6610,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -6657,6 +6691,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -6732,6 +6767,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Note - keine Noten (Frage 10)"
   },
@@ -6842,6 +6878,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Note - Rechnen/Mathematik (Frage 11)"
   },
@@ -6952,6 +6989,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Note - Deutsch(Frage 11)"
   },
@@ -7062,6 +7100,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Note - Sport (Frage 11)"
   },
@@ -7172,6 +7211,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -7272,6 +7312,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Bewertung - Rechnen/Mathematik (Frage 12)"
   },
@@ -7372,6 +7413,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Bewertung - Deutsch/Lesen/Schreiben (Frage 12)"
   },
@@ -7472,6 +7514,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Bewertung - Sport (Frage 12)"
   },
@@ -7572,6 +7615,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -7667,6 +7711,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Die meisten in meiner Klasse sind nett und hilfsbereit (Frage 13)"
   },
@@ -7762,6 +7807,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -7857,6 +7903,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -7952,6 +7999,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -8047,6 +8095,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -8142,6 +8191,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -8237,6 +8287,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "In meiner Familie ist das Geld meistens knapp (Frage 14)"
   },
@@ -8332,6 +8383,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -8427,6 +8479,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Ich bin lieber allein als mit anderen zusammen (Frage 16)"
   },
@@ -8522,6 +8575,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Ich habe viele Freunde (Frage 16)"
   },
@@ -8617,6 +8671,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -8712,6 +8767,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Andere sind gemein zu mir (Frage 16)"
   },
@@ -8807,6 +8863,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Die anderen lassen mich oft nicht mitmachen (Frage 16)"
   },
@@ -8902,6 +8959,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -8992,6 +9050,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -9082,6 +9141,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -9172,6 +9232,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -9267,6 +9328,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -9347,6 +9409,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Du lebst hier mit [alle Personen im gleichen Haushalt]. Richtig? (Frage 20)"
   },
@@ -9427,6 +9490,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Kennst Du [Name Ankerperson]? (Frage 21)"
   },
@@ -9507,6 +9571,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Kennst Du [Name Partner von Ankerperson]? (Frage 22)"
   },
@@ -9582,6 +9647,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Name Ankerperson (Frage 23)"
   },
@@ -9657,6 +9723,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Name Partner der Ankerperson (Frage 24)"
   },
@@ -9752,6 +9819,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Anker] zeigt Dir, dass er/sie Dich gerne hat (Frage 25)"
   },
@@ -9847,6 +9915,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Anker] ist sehr streng (Frage 25)"
   },
@@ -9942,6 +10011,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -10037,6 +10107,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -10132,6 +10203,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Anker] schimpft mit Dir, wenn Du es gar nicht erwartest (Frage 25)"
   },
@@ -10227,6 +10299,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -10322,6 +10395,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -10417,6 +10491,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Anker] schreit Dich an, wenn etwas falsch gemacht (Frage 25)"
   },
@@ -10512,6 +10587,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Anker] hat Regeln, wie zu verhalten (Frage 25)"
   },
@@ -10607,6 +10683,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -10702,6 +10779,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -10797,6 +10875,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -10892,6 +10971,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Anker] lobt Dich (Frage 25)"
   },
@@ -10987,6 +11067,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -11082,6 +11163,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -11177,6 +11259,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wenn Fehler gemacht, fragst, ob [Anker] Dich mag (Frage 26)"
   },
@@ -11272,6 +11355,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -11367,6 +11451,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Die Dinge, die Du tust, werden von [Anker] anerkannt (Frage 27)"
   },
@@ -11462,6 +11547,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -11557,6 +11643,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Anker] zeigt Dir, dass er/sie Dich gut findet (Frage 27)"
   },
@@ -11652,6 +11739,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 27)"
   },
@@ -11747,6 +11835,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -11842,6 +11931,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -11937,6 +12027,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Dinge, die Du tust, werden von [Partner d. Ankers] anerkannt (Frage 28)"
   },
@@ -12032,6 +12123,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -12127,6 +12219,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Partner d. Ankers] zeigt Dir, dass er/sie Dich gut findet (Frage 28)"
   },
@@ -12222,6 +12315,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 28)"
   },
@@ -12317,6 +12411,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -12412,6 +12507,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -12507,6 +12603,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -12602,6 +12699,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wenn Fehler gemacht, fragst, ob [Partner d. Ankers] Dich mag (Frage 29)"
   },
@@ -12697,6 +12795,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Partner d. Ankers] zeigt Dir, dass er/sie Dich gerne hat (Frage 30)"
   },
@@ -12792,6 +12891,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Partner d. Ankers] ist sehr streng (Frage 30)"
   },
@@ -12887,6 +12987,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -12982,6 +13083,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -13077,6 +13179,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Partner d. Ankers] schimpft mit Dir, wenn Du es gar nicht erwartest (Frage 30)"
   },
@@ -13172,6 +13275,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -13267,6 +13371,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -13362,6 +13467,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Partner d. Ankers] schreit Dich an, wenn etwas falsch gemacht (Frage 30)"
   },
@@ -13457,6 +13563,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Partner d. Ankers] hat Regeln, wie zu verhalten (Frage 30)"
   },
@@ -13552,6 +13659,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -13647,6 +13755,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -13742,6 +13851,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -13837,6 +13947,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Partner d. Ankers] lobt Dich (Frage 30)"
   },
@@ -13927,6 +14038,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie viel Zeit verbingt [Name Ankerperson] mit Dir? (Frage 31)"
   },
@@ -14017,6 +14129,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie viel Zeit verbingt [Partner d. Ankers] mit Dir? (Frage 32)"
   },
@@ -14097,6 +14210,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Int:Sind die Eltern bzw. ein Elternteil des Kindes anwesend? (Frage 33)"
   },
@@ -14202,6 +14316,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -14312,6 +14427,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -14407,6 +14523,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -14502,6 +14619,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -14597,6 +14715,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -14692,6 +14811,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -14787,6 +14907,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -14882,6 +15003,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -14977,6 +15099,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -15072,6 +15195,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -15167,6 +15291,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -15262,6 +15387,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -15357,6 +15483,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Eifersucht, wenn [Anker] Aufmerksamkeit schenkt? (Frage 34)"
   },
@@ -15452,6 +15579,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Eifersucht, wenn [Partner von AP] Aufmerksamkeit schenkt? (Frage 34)"
   },
@@ -15547,6 +15675,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wer wird von [Anker] besser behandelt? (Frage 35)"
   },
@@ -15642,6 +15771,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wer wird von [Partner von AP] besser behandelt? (Frage 35)"
   },
@@ -15737,6 +15867,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wer bekommt mehr Aufmerksamkeit von [Anker]? (Frage 36)"
   },
@@ -15832,6 +15963,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wer bekommt mehr Aufmerksamkeit von [Partner von AP]? (Frage 36)"
   },
@@ -15927,6 +16059,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -16022,6 +16155,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -16107,6 +16241,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie gerecht findest Du das Verhalten von [Anker] zu Dir? (Frage 38)"
   },
@@ -16192,6 +16327,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie gerecht findest Du das Verhalten von [Partner AP] zu Dir (Frage 39)"
   },
@@ -16287,6 +16423,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wenn es mir Leid tut, ist er/sie trotzdem sauer auf mich. (Frage 40)"
   },
@@ -16382,6 +16519,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wenn den anderen was nervt, vertragen wir uns leicht wieder. (Frage 40)"
   },
@@ -16477,6 +16615,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wenn [Geschwister] und ich einen Streit haben, wird es wieder gut. (Frage 40)"
   },
@@ -16562,6 +16701,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -16647,6 +16787,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "SDQ: Ich bin oft unruhig; ich kann lange nicht stillsitzen (Frage 41)"
   },
@@ -16732,6 +16873,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -16817,6 +16959,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -16902,6 +17045,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -16987,6 +17131,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -17072,6 +17217,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "SDQ: Ich bin dauernd in Bewegung und zappelig (Frage 41)"
   },
@@ -17157,6 +17303,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -17242,6 +17389,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -17327,6 +17475,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -17412,6 +17561,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "SDQ: Ich habe einen oder mehrere gute Freunde oder Freundinnen. (Frage 41)"
   },
@@ -17497,6 +17647,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -17582,6 +17733,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -17667,6 +17819,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "SDQ: Im Allgemeinen bin ich bei Gleichaltrigen beliebt. (Frage 41)"
   },
@@ -17752,6 +17905,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "SDQ: Lasse mich leicht ablenken; finde es schwer, zu konzentrieren (Frage 41)"
   },
@@ -17837,6 +17991,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -17922,6 +18077,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -18007,6 +18163,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "SDQ: Ich bin hilfsbereit, wenn andere verletzt oder traurig sind (Frage 41)"
   },
@@ -18092,6 +18249,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -18177,6 +18335,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "SDQ: Ich denke nach, bevor ich handle (Frage 41)"
   },
@@ -18262,6 +18421,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -18347,6 +18507,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "SDQ: Normalerweise tue ich, was man mir sagt (Frage 41)"
   },
@@ -18432,6 +18593,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "SDQ: Ich komme besser mit Erwachsenen aus als mit Gleichaltrigen. (Frage 41)"
   },
@@ -18517,6 +18679,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "SDQ: Helfe anderen oft freiwillig (Eltern, Lehrern o. Gleichaltrigen) (Frage 41)"
   },
@@ -18602,6 +18765,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "SDQ: Was angefangen habe, mache zu Ende; kann lange konzentrieren (Frage 41)"
   },
@@ -18682,6 +18846,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Hattest Du schon einmal einen/eine festen Freund/feste Freundin? (Frage 42)"
   },
@@ -18812,6 +18977,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Alter zum ersten Mal einen/eine festen Freund/feste Freundin? (Frage 43)"
   },
@@ -18892,6 +19058,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Hast Du aktuell einen festen Freund/eine feste Freundin? (Frage 44)"
   },
@@ -18968,6 +19135,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -19093,6 +19261,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie alt ist [Name fester Freund/feste Freundin]? (Frage 46)"
   },
@@ -19173,6 +19342,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -19398,6 +19568,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie lange seid Ihr schon zusammen (in Monaten)? (Frage 47)"
   },
@@ -19513,6 +19684,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie habt Ihr Euch kennengelernt? (Frage 48)"
   },
@@ -19608,6 +19780,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -19703,6 +19876,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Die Dinge, die Du tust, werden von ihm/ihr anerkannt (Frage 49)"
   },
@@ -19798,6 +19972,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -19893,6 +20068,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -19988,6 +20164,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Er/Sie zeigt Dir, dass er/sie Dich gut findet (Frage 49)"
   },
@@ -20083,6 +20260,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet Euch (Frage 49)"
   },
@@ -20178,6 +20356,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -20273,6 +20452,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -20368,6 +20548,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Du bist unzufrieden in dieser Beziehung (Frage 49)"
   },
@@ -20463,6 +20644,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Angst er/sie lieber mit anderen Leuten zusammen und nicht mit Dir (Frage 50)"
   },
@@ -20558,6 +20740,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -20653,6 +20836,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Nicht sicher ob er/sie so gern mit Dir zusammen, wie Du mit ihm/ihr (Frage 50)"
   },
@@ -20748,6 +20932,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -20843,6 +21028,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -20923,6 +21109,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Hattest Du schon einmal Liebeskummer? (Frage 51)"
   },
@@ -21018,6 +21205,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -21103,6 +21291,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie lange hat dieser Liebeskummer gedauert? (Frage 53)"
   },
@@ -21198,6 +21387,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -21293,6 +21483,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Nach Streit vertragen sich [Name Ankerperson] & [Partner d. Ankers] (Frage 54)"
   },
@@ -21388,6 +21579,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -21483,6 +21675,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "[Name Ankerperson] & [Partner d. Ankers] sind gemein zueinander (Frage 54)"
   },
@@ -21578,6 +21771,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wenn Streit beendet [Name Ankerperson] & [Partner d. Ankers] nett (Frage 54)"
   },
@@ -21673,6 +21867,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Manchmal denke ich, dass ich wertlos bin. (Frage 55)"
   },
@@ -21768,6 +21963,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Ich mag mich so wie ich bin. (Frage 55)"
   },
@@ -21863,6 +22059,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Alles in allem bin ich mit mir selbst zufrieden. (Frage 55)"
   },
@@ -21958,6 +22155,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -22053,6 +22251,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Freizeit: Fernsehen, DVD, Videos sehen (Frage 56)"
   },
@@ -22148,6 +22347,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Freizeit: Dich mit Freunden treffen (Frage 56)"
   },
@@ -22243,6 +22443,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Freizeit: Computerspiele, Playstation (Frage 56)"
   },
@@ -22338,6 +22539,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Freizeit: [Kinder ab 11 Jahren]: Bar, Kneipe, Disko (Frage 56)"
   },
@@ -22433,6 +22635,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Freizeit: Partys und Feiern (Frage 56)"
   },
@@ -22528,6 +22731,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Freizeit: Lesen (Frage 56)"
   },
@@ -22623,6 +22827,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Freizeit: Sport treiben (Frage 56)"
   },
@@ -22718,6 +22923,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Freizeit: Unternehmungen mit der Familie (Frage 56)"
   },
@@ -22813,6 +23019,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -22908,6 +23115,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Freizeit: Mit Spielzeug spielen (Frage 56)"
   },
@@ -23003,6 +23211,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -23098,6 +23307,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Freizeit: Theater, Tanzen, Ballett (Frage 56)"
   },
@@ -23193,6 +23403,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -23253,6 +23464,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Name Mutter der Ankerperson (Frage 57)"
   },
@@ -23313,6 +23525,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Name Vaters der Ankerperson (Frage 58)"
   },
@@ -23408,6 +23621,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie oft siehst Du [Mutter von Anker]? (Frage 59)"
   },
@@ -23503,6 +23717,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie oft siehst Du [Vater von Anker]? (Frage 60)"
   },
@@ -23588,6 +23803,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie oft unternimmt [Mutter von Anker] Dinge, die Du gerne magst? (Frage 61)"
   },
@@ -23673,6 +23889,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie oft unternimmt [Vater von Anker] Dinge, die Du gerne magst? (Frage 62)"
   },
@@ -23758,6 +23975,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie oft gibt Dir [Mutter von Anker] Geld oder Geschenke? (Frage 63)"
   },
@@ -23843,6 +24061,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wie oft gibt Dir [Vater von Anker] Geld oder Geschenke? (Frage 64)"
   },
@@ -23928,6 +24147,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -24013,6 +24233,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -24088,6 +24309,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Wiederbefragungsbereitschaft im Rahmen des Ankercapis (Frage 67)"
   },
@@ -24159,6 +24381,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -24229,6 +24452,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -24299,6 +24523,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Eltern/Elternteil anwesend (Text 12)"
   },
@@ -24369,6 +24594,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Geschwisterkind(er) anwesend (Text 12)"
   },
@@ -24439,6 +24665,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -24509,6 +24736,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Sonstige Personen anwesend (Text 12)"
   },
@@ -24584,6 +24812,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Hat jemand von den anwesenden Personen in das Interview eingegriffen? (Text 13)"
   },
@@ -24654,6 +24883,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -24724,6 +24954,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Technische Probleme mit CASI-Teil (Text 14)"
   },
@@ -24794,6 +25025,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Keine Probleme mit CASI-Teil (Text 14)"
   },
@@ -24869,6 +25101,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -24939,6 +25172,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "NA"
   },
@@ -29314,6 +29548,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Dauer des Interviews"
   },
@@ -29424,6 +29659,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Beziehungsstatus der Ankerperson zum befragten Kind"
   },
@@ -29504,6 +29740,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Jahr Interview"
   },
@@ -29609,6 +29846,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Monat Interview"
   },
@@ -29834,6 +30072,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Tag Interview"
   },
@@ -29954,6 +30193,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Alter des Kindes in Jahren"
   },
@@ -30519,6 +30759,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Alter des Kindes in Monaten"
   },
@@ -30604,6 +30845,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Benennung der Ankerperson durch das Kind"
   },
@@ -30689,6 +30931,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Benennung des Partners der Ankerperson durch das Kind"
   },
@@ -30769,6 +31012,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Geschlecht Ankerperson"
   },
@@ -30845,6 +31089,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Inconsistency sex of child between statement of interviewer and anchor"
   },
@@ -30921,6 +31166,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Inconsistency year of child`s birth between statement of anchor and child"
   },
@@ -31001,6 +31247,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Inconsistency between waves: child`s sex"
   },
@@ -31077,6 +31324,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Inconsistency between waves: child`s year of birth"
   },
@@ -31157,6 +31405,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Inconsistency between waves: child`s month of birth"
   },
@@ -31247,6 +31496,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave8",
     "label_de": "Status Kind in Bezug auf Anker"
   }

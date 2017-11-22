@@ -37,6 +37,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Personennummer Anker"
   },
@@ -78,6 +79,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Personennummer Befragter (Eltern)"
   },
@@ -121,6 +123,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Personennummer (CAPI) Kind"
   },
@@ -164,6 +167,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Personennummer Geschwisterkind 1 (k2 in Welle 4)"
   },
@@ -207,6 +211,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Personennummer Geschwisterkind 2 (k3 in Welle 4)"
   },
@@ -250,6 +255,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Personennummer Geschwisterkind 3 (k4 in Welle 4)"
   },
@@ -293,6 +299,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Personennummer Geschwisterkind 4 (k5 in Welle 4)"
   },
@@ -336,6 +343,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Personennummer Geschwisterkind 5 (k6 in Welle 4)"
   },
@@ -379,6 +387,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Personennummer Geschwisterkind 6 (k7 in Welle 4)"
   },
@@ -422,6 +431,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Personennummer Geschwisterkind 7 (k8 in Welle 4)"
   },
@@ -462,6 +472,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Erhebungsjahr"
   },
@@ -512,6 +523,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Sprache Fragebogen"
   },
@@ -610,6 +622,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -708,6 +721,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -806,6 +820,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -930,6 +945,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Anzahl Kinder (Frage2)"
   },
@@ -1134,6 +1150,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Jahr Geburt Kind 1, Anker (Frage 3)"
   },
@@ -1217,6 +1234,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Geschlecht Kind 1, Anker (Frage 3)"
   },
@@ -1310,6 +1328,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Status Kind 1, Anker (Frage 3)"
   },
@@ -1393,6 +1412,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Kind 1, Anker  (Frage 3)"
   },
@@ -1486,6 +1506,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Familienstand Kind 1, Anker (Frage 3)"
   },
@@ -1569,6 +1590,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Partner Kind 1, Anker (Frage 3)"
   },
@@ -1682,6 +1704,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -1780,6 +1803,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Enge Kind 1, Anker (Frage 3)"
   },
@@ -1888,6 +1912,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Wohnentfernung Kind 1, Anker (Frage 3)"
   },
@@ -2002,6 +2027,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Eigene Kinder Kind 1, Anker  (Frage 3)"
   },
@@ -2111,6 +2137,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -2455,6 +2482,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Jahr Geburt Kind 2 (Frage 3)"
   },
@@ -2538,6 +2566,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Geschlecht Kind 2 (Frage 3)"
   },
@@ -2631,6 +2660,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Status Kind 2 (Frage 3)"
   },
@@ -2714,6 +2744,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Kind 2  (Frage 3)"
   },
@@ -2807,6 +2838,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Familienstand Kind 2  (Frage 3)"
   },
@@ -2890,6 +2922,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Partner Kind 2  (Frage 3)"
   },
@@ -3003,6 +3036,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -3101,6 +3135,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Enge Kind 2  (Frage 3)"
   },
@@ -3209,6 +3244,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Wohnentfernung Kind 2  (Frage 3)"
   },
@@ -3318,6 +3354,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Eigene Kinder Kind 2  (Frage 3)"
   },
@@ -3427,6 +3464,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -3761,6 +3799,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Jahr Geburt Kind 3 (Frage 3)"
   },
@@ -3844,6 +3883,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Geschlecht Kind 3 (Frage 3)"
   },
@@ -3937,6 +3977,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Status Kind 3 (Frage 3)"
   },
@@ -4020,6 +4061,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Kind 3  (Frage 3)"
   },
@@ -4113,6 +4155,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Familienstand Kind 3  (Frage 3)"
   },
@@ -4196,6 +4239,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Partner Kind 3  (Frage 3)"
   },
@@ -4309,6 +4353,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -4407,6 +4452,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Enge Kind 3  (Frage 3)"
   },
@@ -4515,6 +4561,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Wohnentfernung Kind 3  (Frage 3)"
   },
@@ -4634,6 +4681,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Eigene Kinder Kind 3  (Frage 3)"
   },
@@ -4743,6 +4791,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -5052,6 +5101,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Jahr Geburt Kind 4 (Frage 3)"
   },
@@ -5135,6 +5185,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Geschlecht Kind 4 (Frage 3)"
   },
@@ -5228,6 +5279,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Status Kind 4 (Frage 3)"
   },
@@ -5311,6 +5363,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Kind 4  (Frage 3)"
   },
@@ -5404,6 +5457,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Familienstand Kind 4  (Frage 3)"
   },
@@ -5487,6 +5541,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Partner Kind 4  (Frage 3)"
   },
@@ -5600,6 +5655,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -5698,6 +5754,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Enge Kind 4  (Frage 3)"
   },
@@ -5806,6 +5863,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Wohnentfernung Kind 4  (Frage 3)"
   },
@@ -5905,6 +5963,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Eigene Kinder Kind 4  (Frage 3)"
   },
@@ -6014,6 +6073,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -6117,6 +6177,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Erwartungen an Anker: Abwechslung in Ihr Leben (Frage 4)"
   },
@@ -6220,6 +6281,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Erwartungen an Anker: stolz auf Sie (Frage 4)"
   },
@@ -6323,6 +6385,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -6426,6 +6489,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -6529,6 +6593,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -6632,6 +6697,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -6735,6 +6801,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -6838,6 +6905,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -6941,6 +7009,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -7044,6 +7113,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -7142,6 +7212,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -7240,6 +7311,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -7338,6 +7410,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Wie oft bringt Anker Sie dazu, dass Sie sich nach ihm richten? (Frage 5)"
   },
@@ -7436,6 +7509,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -7534,6 +7608,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -7632,6 +7707,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Wie oft sind Sie untersch. Meinung/streiten Sie sich mit Anker (Frage 5)"
   },
@@ -7730,6 +7806,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -7828,6 +7905,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -7931,6 +8009,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -8034,6 +8113,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -8137,6 +8217,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -8240,6 +8321,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -8343,6 +8425,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -8446,6 +8529,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -8549,6 +8633,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -8652,6 +8737,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -8755,6 +8841,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -8858,6 +8945,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -8961,6 +9049,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -9064,6 +9153,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -9167,6 +9257,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -9270,6 +9361,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -9373,6 +9465,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -9476,6 +9569,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -9559,6 +9653,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -9642,6 +9737,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -9725,6 +9821,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -9838,6 +9935,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Summe Geldgeschenke an Anker in letzten 12 Monaten(Frage 9)"
   },
@@ -9941,6 +10039,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -10044,6 +10143,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -10152,6 +10252,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -10260,6 +10361,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -10363,6 +10465,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -10466,6 +10569,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -10569,6 +10673,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -10672,6 +10777,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Sie zeigen Kind mit Worten, dass Sie es gern haben (Frage 11)  "
   },
@@ -10775,6 +10881,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -10878,6 +10985,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Sie kritisieren Kind (Frage 11)        "
   },
@@ -10981,6 +11089,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -11084,6 +11193,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -11187,6 +11297,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Sie schreien Kind an, wenn es etwas falsch gemacht hat (Frage 11)      "
   },
@@ -11290,6 +11401,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Wenn Kind unterwegs war, fragen Sie nach, was es erlebt hat (Frage 11) "
   },
@@ -11393,6 +11505,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -11496,6 +11609,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Wenn Kind neue Freunde hat, lernen Sie sie bald kennen (Frage 11)      "
   },
@@ -11599,6 +11713,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Sie loben Kind (Frage 11)      "
   },
@@ -11702,6 +11817,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Sie lassen sich nicht von Regeln und Verboten abbringen (Frage 11)     "
   },
@@ -11805,6 +11921,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Wenn Kind etwas gegen Ihren Willen tut, bestrafen Sie es (Frage 11)    "
   },
@@ -11908,6 +12025,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Sie geben Kind zu verstehen,sich Anordnungen nicht zu widersetzen (Frage 11)"
   },
@@ -12011,6 +12129,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Sie sind eher streng (Frage 11)        "
   },
@@ -12114,6 +12233,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Probleme bei Kindererziehung mit Partner: Meinungsverschiedenheiten (Frage 12)"
   },
@@ -12217,6 +12337,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Probleme Kindererziehung: Diskussionen enden im Streit (Frage12)"
   },
@@ -12320,6 +12441,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -12403,6 +12525,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -12507,6 +12630,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -12600,6 +12724,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -12709,6 +12834,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Anzahl Enkel bis 3 Jahre (Frage 14)"
   },
@@ -12813,6 +12939,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Anzahl Enkel 4 bis 7 Jahre  (Frage 14)"
   },
@@ -12922,6 +13049,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Anzahl Enkel 8 bis 10 Jahre  (Frage 14)"
   },
@@ -13031,6 +13159,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Anzahl Enkel 11 bis 15 Jahre  (Frage 14)"
   },
@@ -13155,6 +13284,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -13233,6 +13363,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Keine Enkel  (Frage 14)"
   },
@@ -13316,6 +13447,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Geschlecht Enkel (Frage 15)"
   },
@@ -13450,6 +13582,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Geburtsmonat Enkel (Frage 16)"
   },
@@ -13649,6 +13782,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Geburtsjahr Enkel (Frage 16)"
   },
@@ -13762,6 +13896,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -13875,6 +14010,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -13978,6 +14114,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -14081,6 +14218,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -14184,6 +14322,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -14287,6 +14426,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -14400,6 +14540,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Summe Geldgeschenke an Enkel in letzten 12 Monaten (Frage 26)"
   },
@@ -14493,6 +14634,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -14591,6 +14733,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Enge zu Enkel (Frage 19)"
   },
@@ -14679,6 +14822,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -14782,6 +14926,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -14885,6 +15030,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -14968,6 +15114,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -15071,6 +15218,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -15174,6 +15322,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -15277,6 +15426,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -15380,6 +15530,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -15769,6 +15920,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Jahr Geburt Mutter (Frage 28)"
   },
@@ -16193,6 +16345,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Jahr Geburt Vater (Frage 28)"
   },
@@ -16276,6 +16429,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Mutter noch (Frage 29)"
   },
@@ -16359,6 +16513,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Vater noch (Frage 29)"
   },
@@ -16467,6 +16622,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Familienstand der leiblichen (resp. Adoptiv-)Mutter (Frage 30)"
   },
@@ -16575,6 +16731,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Familienstand des leiblichen (resp. Adoptiv-Vaters (Frage 30)"
   },
@@ -16658,6 +16815,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Mutter mit Vater in gemeinsamen Haushalt? (Frage 31)"
   },
@@ -16741,6 +16899,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Mutter mit anderem Partner in gemeinsamen Haushalt? (Frage 31)"
   },
@@ -16824,6 +16983,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Mutter mit jemand anderem im Haushalt? (Frage 31)"
   },
@@ -16907,6 +17067,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Mutter allein im Haushalt?  (Frage 31)"
   },
@@ -16990,6 +17151,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Mutter in Alters- oder Pflegeheim? (Frage 31)"
   },
@@ -17073,6 +17235,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Mutter sonstiges? (Frage 31)"
   },
@@ -17156,6 +17319,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -17239,6 +17403,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Vater mit Mutter in gemeinsamen Haushalt? (Frage 31)"
   },
@@ -17322,6 +17487,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Vater mit anderem Partner in gemeinsamen Haushalt? (Frage 31)"
   },
@@ -17405,6 +17571,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Vater mit jemand anderem im Haushalt? (Frage 31)"
   },
@@ -17488,6 +17655,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Vater allein im Haushalt?  (Frage 31)"
   },
@@ -17571,6 +17739,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Vater in Alters- oder Pflegeheim? (Frage 31)"
   },
@@ -17654,6 +17823,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lebt Vater sonstiges? (Frage 31)"
   },
@@ -17737,6 +17907,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -17850,6 +18021,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -17963,6 +18135,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -18046,6 +18219,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -18129,6 +18303,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -18212,6 +18387,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Mutter: Hilfe von prof. Pflegedienst (Frage 34)"
   },
@@ -18295,6 +18471,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Mutter: Hilfe von mir (Frage 34)"
   },
@@ -18378,6 +18555,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Mutter: Hilfe von ihrem (Ehe-)Partner (Frage 34)"
   },
@@ -18461,6 +18639,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -18544,6 +18723,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Mutter: Hilfe von sonstigen Personen (Frage 34)"
   },
@@ -18627,6 +18807,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Vater: Hilfe von prof. Pflegedienst (Frage 34)"
   },
@@ -18710,6 +18891,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Vater: Hilfe von mir (Frage 34)"
   },
@@ -18793,6 +18975,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Vater: Hilfe von ihrem (Ehe-)Partner (Frage 34)"
   },
@@ -18876,6 +19059,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -18959,6 +19143,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Vater: Hilfe von sonstigen Personen (Frage 34)"
   },
@@ -19093,6 +19278,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Monat Geburt befragtes Elternteil (Frage 35)"
   },
@@ -19397,6 +19583,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Jahr Geburt befragtes Elternteil (Frage 35)"
   },
@@ -19480,6 +19667,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Geschlecht befragtes Elternteil (Frage 36)"
   },
@@ -19573,6 +19761,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Aktueller Familienstand (Frage 37)"
   },
@@ -19696,6 +19885,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Personen im Haushalt ohne Befragten (Frage 38)"
   },
@@ -19784,6 +19974,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Aktueller Partnerschaftsstatus: Beziehung vorhanden (Frage 39)"
   },
@@ -19918,6 +20109,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Monat Geburt aktueller Partner (Frage 40)"
   },
@@ -20267,6 +20459,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Jahr Geburt aktueller Partner (Frage 40)"
   },
@@ -20386,6 +20579,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Wie viele lebende Schwestern haben Sie? (Frage 52)"
   },
@@ -20510,6 +20704,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -20823,6 +21018,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Jahr Auszug Elternhaus (Frage 53)"
   },
@@ -20921,6 +21117,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Gesundheitszustand letzte 4 Wochen (Frage 41)"
   },
@@ -21029,6 +21226,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -21132,6 +21330,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -21245,6 +21444,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -21384,6 +21584,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Anzahl Jahre Schulbesuch (Frage 46)"
   },
@@ -21467,6 +21668,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Lehre (DDR: Facharbeiterabschluss) (Frage 47)"
   },
@@ -21550,6 +21752,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Berufsfachschule/Handelsschule/Schule des Gesundheitswesens (Frage 47)"
   },
@@ -21633,6 +21836,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Fachschule (Frage 47)"
   },
@@ -21716,6 +21920,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Beamtenausbildung  (Frage 47)"
   },
@@ -21799,6 +22004,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Fachhochschule/Berufsakademie  (Frage 47)"
   },
@@ -21882,6 +22088,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -21965,6 +22172,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -22048,6 +22256,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Kein Berufsabschluss  (Frage 47)"
   },
@@ -22131,6 +22340,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -22214,6 +22424,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -22297,6 +22508,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -22380,6 +22592,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Aktuell: Praktika, Trainee, Volontariat (Frage 42)"
   },
@@ -22463,6 +22676,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -22546,6 +22760,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -22629,6 +22844,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -22712,6 +22928,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Aktuell: Mutterschutz, Elternzeit, sonstige Beurlaubung (Frage 42)"
   },
@@ -22795,6 +23012,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Aktuell: Wehrdienst/Zivildienst, freiwilliges soziales Jahr (Frage 42)"
   },
@@ -22878,6 +23096,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Aktuell: Arbeitslos, arbeitsuchend (Frage 42)"
   },
@@ -22961,6 +23180,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Aktuell: Hausfrau/Hausmann (Frage 42)"
   },
@@ -23044,6 +23264,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -23127,6 +23348,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -23210,6 +23432,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Aktuell: In Ausbildung (z. B. Abendschule, 2. Bildungsweg, etc.) (Frage 42)"
   },
@@ -23609,6 +23832,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Arbeitszeit pro Woche (Frage 43)"
   },
@@ -23757,6 +23981,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Haushaltsnettoeinkommen Zuordnung Kategorie (Frage 44)"
   },
@@ -23802,6 +24027,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Kinderzahl"
   },
@@ -23852,6 +24078,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Ankerinformation"
   },
@@ -23897,6 +24124,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Alter 2.Kind (leiblich)"
   },
@@ -23942,6 +24170,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Alter 3.Kind (leiblich)"
   },
@@ -23987,6 +24216,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Alter 4.Kind (leiblich)"
   },
@@ -24037,6 +24267,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Partnerstatus"
   },
@@ -24082,6 +24313,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Anzahl Enkel"
   },
@@ -24132,6 +24364,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Alter Eltern"
   },
@@ -24182,6 +24415,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Haushaltszusammensetzung"
   },
@@ -24227,6 +24461,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Auszug"
   },
@@ -24272,6 +24507,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Berufsabschluss"
   },
@@ -24347,6 +24583,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Typ Befragter"
   },
@@ -24392,6 +24629,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Position Befragter"
   },
@@ -24437,6 +24675,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Geschlecht Befragter"
   },
@@ -24492,6 +24731,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Geburtskohorte Anker"
   },
@@ -24533,6 +24773,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Geburtsjahr Anker basierend auf Ankerinterview"
   },
@@ -24733,6 +24974,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Befragungstag"
   },
@@ -24833,6 +25075,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Befragungsmonat"
   },
@@ -24888,6 +25131,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Befragungsjahr"
   },
@@ -24978,6 +25222,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Kinderzahl des Befragten, korrigiert"
   },
@@ -25098,6 +25343,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Enkelzahl des Befragten, korrigiert"
   },
@@ -25223,6 +25469,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Bundesland"
   },
@@ -25313,6 +25560,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "BIK-Gemeindetyp"
   },
@@ -25388,6 +25636,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -25433,6 +25682,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Neue Eltern in Welle 4"
   },
@@ -25483,6 +25733,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Angaben zum korrekten Enkel"
   },
@@ -25758,6 +26009,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Alter Befragter"
   },
@@ -26033,6 +26285,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Alter Befragter, jahresgenau"
   },
@@ -26298,6 +26551,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Alter Mutter des Befragten (wenn lebend)"
   },
@@ -26573,6 +26827,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Alter Mutter des Befragten (wenn lebend) jahresgenau"
   },
@@ -26813,6 +27068,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Alter Vater des Befragten (wenn lebend)"
   },
@@ -27063,6 +27319,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Alter Vater des Befragten (wenn lebend) jahresgenau"
   },
@@ -27187,6 +27444,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -27311,6 +27569,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -27376,6 +27635,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -27466,6 +27726,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "NA"
   },
@@ -27561,6 +27822,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Typ Kind des Befragten 1"
   },
@@ -27656,6 +27918,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Typ Kind des Befragten 2"
   },
@@ -27751,6 +28014,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Typ Kind des Befragten 3"
   },
@@ -27846,6 +28110,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Typ Kind des Befragten 4"
   },
@@ -27955,6 +28220,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Erwerbsstatus Befragter"
   },
@@ -28000,6 +28266,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Inkonsistens Erwerbsstatus Befragter"
   },
@@ -28070,6 +28337,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Familienstand Befragter"
   },
@@ -28169,6 +28437,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Partnerstatus Befragter"
   },
@@ -28219,6 +28488,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Eltern des Befragten in gemeinsamen Haushalt"
   },
@@ -28269,6 +28539,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Eltern des Befragten miteinander verheiratet"
   },
@@ -28354,6 +28625,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Highest school degree"
   },
@@ -28439,6 +28711,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Highest vocational degree"
   },
@@ -28529,6 +28802,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "CASMIN classification of education"
   },
@@ -28614,6 +28888,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "ISCED-97 classification of education"
   },
@@ -28749,6 +29024,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
+    "boost": "None",
     "period": "wave4",
     "label_de": "Years of education"
   }
