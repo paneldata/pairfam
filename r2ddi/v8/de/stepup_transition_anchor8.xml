@@ -1,0 +1,4097 @@
+<codebook>
+  <dataDscr>
+    <var ID="id" intrvl="numeric" files="stepup_transition_anchor8">
+      <labl>Personennummer Anker </labl>
+      <sumStat type="Min.">750800000</sumStat>
+      <sumStat type="1st Qu.">750800000</sumStat>
+      <sumStat type="Median">750800000</sumStat>
+      <sumStat type="Mean">750800000</sumStat>
+      <sumStat type="3rd Qu.">750900000</sumStat>
+      <sumStat type="Max.">750900000</sumStat>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="wave" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Erhebungsjahr</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 2008/09</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 2009/10</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 2010/11</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 2011/12</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 2012/13</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 2013/14</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 2014/15</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 2015/16</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr1p1n" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Name 1. Partner (Frage 1)</labl>
+      <sumStat type="valid">8</sumStat>
+      <sumStat type="invalid">49</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>-6 Offene Angabe nicht lesbar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">49</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Name genannt</labl>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr1p2n" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Name 2. Partner (Frage 1)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>-6 Offene Angabe nicht lesbar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Name genannt</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr1p3n" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Name 3. Partner (Frage 1)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>-6 Offene Angabe nicht lesbar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Name genannt</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr1p4n" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Name 4. Partner (Frage 1)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>-6 Offene Angabe nicht lesbar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Name genannt</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr1p1g" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Geschlecht 1. Partner (Frage 2)</labl>
+      <sumStat type="valid">8</sumStat>
+      <sumStat type="invalid">49</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">49</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Weiblich</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr1p2g" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Geschlecht 2. Partner (Frage 2)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Weiblich</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr1p3g" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Geschlecht 3. Partner (Frage 2)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Weiblich</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr1p4g" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Geschlecht 4. Partner (Frage 2)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Weiblich</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p1bm" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Monat Beginn Beziehung mit Partner 1 (Frage 3)</labl>
+      <sumStat type="valid">7</sumStat>
+      <sumStat type="invalid">50</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">49</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Januar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Februar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 April</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Mai</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 Juni</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Juli</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 August</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 September</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Oktober</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 November</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Dezember</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p2bm" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Monat Beginn Beziehung mit Partner 2 (Frage 3)</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">56</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Januar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Februar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 April</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Mai</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 Juni</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Juli</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 August</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 September</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Oktober</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 November</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Dezember</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p3bm" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Monat Beginn Beziehung mit Partner 3 (Frage 3)</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">56</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Januar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Februar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 April</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Mai</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 Juni</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Juli</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 August</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 September</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Oktober</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 November</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Dezember</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p4bm" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Monat Beginn Beziehung mit Partner 4 (Frage 3)</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">56</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Januar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Februar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 April</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Mai</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 Juni</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Juli</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 August</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 September</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Oktober</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 November</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Dezember</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p1by" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Jahr Beginn Beziehung mit Partner 1 (Frage 3)</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">52</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2013</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2014</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">49</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p2by" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Jahr Beginn Beziehung mit Partner 2 (Frage 3)</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">56</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2014</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p3by" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>Jahr Beginn Beziehung mit Partner 3 (Frage 3)</labl>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p4by" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Jahr Beginn Beziehung mit Partner 4 (Frage 3)</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">56</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2013</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p1em" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Monat Ende Beziehung mit Partner 1 (Frage 4)</labl>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">51</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">49</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Januar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Februar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 April</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Mai</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 Juni</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Juli</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 August</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 September</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Oktober</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 November</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Dezember</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p2em" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>Monat Ende Beziehung mit Partner 2 (Frage 4)</labl>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>1 Januar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 2</catValu>
+        <labl>2 Februar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 3</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 4</catValu>
+        <labl>4 April</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 5</catValu>
+        <labl>5 Mai</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 6</catValu>
+        <labl>6 Juni</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 7</catValu>
+        <labl>7 Juli</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 8</catValu>
+        <labl>8 August</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 9</catValu>
+        <labl>9 September</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Oktober</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 November</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Dezember</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p3em" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>Monat Ende Beziehung mit Partner 3 (Frage 4)</labl>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>1 Januar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 2</catValu>
+        <labl>2 Februar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 3</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 4</catValu>
+        <labl>4 April</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 5</catValu>
+        <labl>5 Mai</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 6</catValu>
+        <labl>6 Juni</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 7</catValu>
+        <labl>7 Juli</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 8</catValu>
+        <labl>8 August</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 9</catValu>
+        <labl>9 September</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Oktober</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 November</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Dezember</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p4em" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>Monat Ende Beziehung mit Partner 4 (Frage 4)</labl>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>1 Januar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 2</catValu>
+        <labl>2 Februar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 3</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 4</catValu>
+        <labl>4 April</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 5</catValu>
+        <labl>5 Mai</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 6</catValu>
+        <labl>6 Juni</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 7</catValu>
+        <labl>7 Juli</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 8</catValu>
+        <labl>8 August</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 9</catValu>
+        <labl>9 September</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Oktober</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 November</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Dezember</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p1ey" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Jahr Ende Beziehung mit Partner 1 (Frage 4)</labl>
+      <sumStat type="valid">4</sumStat>
+      <sumStat type="invalid">53</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2014</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">49</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p2ey" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>Jahr Ende Beziehung mit Partner 2 (Frage 4)</labl>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p3ey" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>Jahr Ende Beziehung mit Partner 3 (Frage 4)</labl>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr2p4ey" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>Jahr Ende Beziehung mit Partner 4 (Frage 4)</labl>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr3p1" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Weitere Episode mit Partner 1 (Frage 5)</labl>
+      <sumStat type="valid">8</sumStat>
+      <sumStat type="invalid">49</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">49</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Ja, heute wieder</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Nein</labl>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr3p2" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Weitere Episode mit Partner 2 (Frage 5)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Ja, heute wieder</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Nein</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr3p3" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Weitere Episode mit Partner 3 (Frage 5)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Ja, heute wieder</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Nein</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr3p4" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Weitere Episode mit Partner 4 (Frage 5)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Ja, heute wieder</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Nein</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr4p1" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Grund Ende Beziehung Partner 1 (Frage 6)</labl>
+      <sumStat type="valid">8</sumStat>
+      <sumStat type="invalid">49</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">49</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Durch Trennung</labl>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Durch den Tod des Partners</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr4p2" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Grund Ende Beziehung Partner 2 (Frage 6)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Durch Trennung</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Durch den Tod des Partners</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr4p3" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Grund Ende Beziehung Partner 3 (Frage 6)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Durch Trennung</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Durch den Tod des Partners</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr4p4" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Grund Ende Beziehung Partner 4 (Frage 6)</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Durch Trennung</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Durch den Tod des Partners</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="rtr46" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Anzahl weiterer Partnerschaften bis heute (Frage 7)</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">56</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i1" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i2" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i3" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">56</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i4" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i5" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i6" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i7" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i8" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i9" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i10" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i11" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i12" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nicht genannt</labl>
+        <catStat type="freq">57</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Genannt</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="mig1i12o" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>-6 Offene Angabe nicht lesbar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="mig4" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Geburtsland (Frage 9)</labl>
+      <sumStat type="valid">56</sumStat>
+      <sumStat type="invalid">1</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Bundesrepublik Deutschland</labl>
+        <catStat type="freq">54</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Polen</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 Italien</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Serbien</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 Kroatien</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 Griechenland</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 Kasachstan</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Bosnien-Herzegowina</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>13 In einem anderen Land</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="mig4o" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>Anderes Geburtsland (Frage 9)</labl>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>-6 Offene Angabe nicht lesbar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>1 Land genannt</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="cla1" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Bundesland bei Geburt (Frage 10)</labl>
+      <sumStat type="valid">54</sumStat>
+      <sumStat type="invalid">3</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Berlin (West)</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Schleswig-Holstein</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Hamburg</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Niedersachsen</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Bremen</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Nordrhein-Westfalen</labl>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 Hessen</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Rheinland-Pfalz</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 Bayern</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Berlin (Ost)</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>11 Brandenburg</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>12 Mecklenburg-Vorpommern</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>13 Sachsen</labl>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>14 Sachsen-Anhalt</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>16 Saarland</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="cla2" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">51</sumStat>
+      <sumStat type="invalid">6</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <catStat type="freq">19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+    </var>
+    <var ID="cla4" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Bei wem nach Geburt gelebt? (Frage 12)</labl>
+      <sumStat type="valid">56</sumStat>
+      <sumStat type="invalid">1</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Bei beiden leiblichen Eltern</labl>
+        <catStat type="freq">52</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Bei der Mutter (ohne Partner)</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Bei der Mutter mit ihrem (neuen) Partner</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Beim Vater (ohne Partnerin)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Beim Vater mit seiner (neuen) Partnerin</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Bei einem Bruder oder einer Schwester</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 Bei anderen Verwandten</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 Bei Adoptiveltern</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Bei Pflegeeltern</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>14 In einem Heim, einer betreuten Wohnung oder einem Internat</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="cla4o" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Eingabe Sonstiges: Bei wem nach Geburt gelebt? (Frage 12)</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">56</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>-6 Offene Angabe nicht lesbar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">56</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Sonstiges genannt</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="cla6e1" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">15</sumStat>
+      <sumStat type="invalid">42</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">42</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Bei beiden leiblichen Eltern</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Bei der Mutter (ohne Partner)</labl>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Bei der Mutter mit ihrem (neuen) Partner</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Beim Vater (ohne Partnerin)</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Beim Vater mit seiner (neuen) Partnerin</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Bei einem Bruder oder einer Schwester</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 Bei anderen Verwandten</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 Bei Adoptiveltern</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Bei Pflegeeltern</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>14 In einem Heim, einer betreuten Wohnung oder einem Internat</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="cla6e2" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">9</sumStat>
+      <sumStat type="invalid">48</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">48</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Bei beiden leiblichen Eltern</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Bei der Mutter (ohne Partner)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Bei der Mutter mit ihrem (neuen) Partner</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Beim Vater (ohne Partnerin)</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Beim Vater mit seiner (neuen) Partnerin</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Bei einem Bruder oder einer Schwester</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 Bei anderen Verwandten</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 Bei Adoptiveltern</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Bei Pflegeeltern</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>14 In einem Heim, einer betreuten Wohnung oder einem Internat</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="cla6e3" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Bei beiden leiblichen Eltern</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Bei der Mutter (ohne Partner)</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Bei der Mutter mit ihrem (neuen) Partner</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Beim Vater (ohne Partnerin)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Beim Vater mit seiner (neuen) Partnerin</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Bei einem Bruder oder einer Schwester</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 Bei anderen Verwandten</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 Bei Adoptiveltern</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Bei Pflegeeltern</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>14 In einem Heim, einer betreuten Wohnung oder einem Internat</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="cla6e4" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">56</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">56</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Bei beiden leiblichen Eltern</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Bei der Mutter (ohne Partner)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Bei der Mutter mit ihrem (neuen) Partner</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Beim Vater (ohne Partnerin)</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Beim Vater mit seiner (neuen) Partnerin</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Bei einem Bruder oder einer Schwester</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 Bei anderen Verwandten</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 Bei Adoptiveltern</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Bei Pflegeeltern</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>14 In einem Heim, einer betreuten Wohnung oder einem Internat</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="cla6e1o" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>-6 Offene Angabe nicht lesbar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>1 Sonstiges genannt</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="cla6e2o" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>-6 Offene Angabe nicht lesbar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>1 Sonstiges genannt</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="cla6e3o" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>-6 Offene Angabe nicht lesbar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>1 Sonstiges genannt</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="cla6e4o" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>-6 Offene Angabe nicht lesbar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>1 Sonstiges genannt</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="cla7e1" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">14</sumStat>
+      <sumStat type="invalid">43</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">42</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="cla7e2" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">9</sumStat>
+      <sumStat type="invalid">48</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">48</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="cla7e3" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">55</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="cla7e4" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">56</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">56</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="cla8" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">55</sumStat>
+      <sumStat type="invalid">2</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq">14</catStat>
+      </catgry>
+    </var>
+    <var ID="cla9" intrvl="unknown" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="igr19" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Anzahl leibliche Geschwister (Frage 15)</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nein</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">25</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="igr201" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Anzahl Halbgeschwister (Frage 16)</labl>
+      <sumStat type="valid">52</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nein</labl>
+        <catStat type="freq">43</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="igr202" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Anzahl Stiefgeschwister (Frage 17)</labl>
+      <sumStat type="valid">52</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nein</labl>
+        <catStat type="freq">46</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="igr203" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Anzahl Adoptivgeschwister (Frage 18)</labl>
+      <sumStat type="valid">52</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nein</labl>
+        <catStat type="freq">52</catStat>
+      </catgry>
+    </var>
+    <var ID="igr204" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Anzahl Pflegegeschwister (Frage 19)</labl>
+      <sumStat type="valid">52</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 Nein</labl>
+        <catStat type="freq">52</catStat>
+      </catgry>
+    </var>
+    <var ID="sd30" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Ja, und zwar der katholischen Kirche</labl>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Ja, und zwar der evangelischen Kirche</labl>
+        <catStat type="freq">27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 Ja, und zwar dem Islam</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Ja, und zwar dem Judentum</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Ja, und zwar einer anderen christlichen Religionsgemeinschaft</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 Ja, und zwar einer anderen Religionsgemeinschaft</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 Nein, konfessionslos</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+    </var>
+    <var ID="sd31" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 Mehr als einmal in der Woche</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 1mal in der Woche</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 1 bis 3mal im Monat</labl>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 Mehrmals im Jahr</labl>
+        <catStat type="freq">11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 Seltener</labl>
+        <catStat type="freq">20</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 Nie</labl>
+        <catStat type="freq">20</catStat>
+      </catgry>
+    </var>
+    <var ID="sex1i1" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Alter erster Kuss (Frage 23)</labl>
+      <sumStat type="valid">52</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>97</catValu>
+        <labl>97 Hatte ich bisher nicht</labl>
+        <catStat type="freq">20</catStat>
+      </catgry>
+    </var>
+    <var ID="sex1i2" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Alter erstes Petting (Frage 23)</labl>
+      <sumStat type="valid">47</sumStat>
+      <sumStat type="invalid">10</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>97</catValu>
+        <labl>97 Hatte ich bisher nicht</labl>
+        <catStat type="freq">28</catStat>
+      </catgry>
+    </var>
+    <var ID="sex1i3" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Alter erster Geschlechtsverkehr (Frage 23)</labl>
+      <sumStat type="valid">47</sumStat>
+      <sumStat type="invalid">10</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>97</catValu>
+        <labl>97 Hatte ich bisher nicht</labl>
+        <catStat type="freq">34</catStat>
+      </catgry>
+    </var>
+    <var ID="sex2" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">53</sumStat>
+      <sumStat type="invalid">4</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 Frauen</labl>
+        <catStat type="freq">29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+    </var>
+    <var ID="co1i1" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Zukunft: Wichtigkeit, beruflich etwas zu erreichen (Frage 25)</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Sehr wichtig</labl>
+        <catStat type="freq">20</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq">12</catStat>
+      </catgry>
+    </var>
+    <var ID="co1i2" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>Zukunft: Wichtigkeit, Kinder zu haben (Frage 25)</labl>
+      <sumStat type="valid">57</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Sehr wichtig</labl>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq">12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+    </var>
+    <var ID="co1i3" intrvl="labeled_numeric" files="stepup_transition_anchor8">
+      <labl>NA</labl>
+      <sumStat type="valid">56</sumStat>
+      <sumStat type="invalid">1</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 Sehr wichtig</labl>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>-2 Keine Angabe</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>-3 Trifft nicht zu</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>-4 Filterfehler/ Fehleingabe</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>-5 Inkonsistenter Wert</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq">11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq">11</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="stepup_transition_anchor8"/>
+</codebook>
