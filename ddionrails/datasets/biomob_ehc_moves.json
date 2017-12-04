@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,7 +38,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Person number anchor"
   },
@@ -83,7 +84,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "DemoDiff sample"
   },
@@ -139,7 +140,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Birth cohort"
   },
@@ -153,50 +154,6 @@
     "categories": {
       "frequencies": [
         0,
-        105,
-        110,
-        117,
-        82,
-        89,
-        88,
-        84,
-        97,
-        109,
-        86,
-        103,
-        107,
-        96,
-        101,
-        108,
-        102,
-        124,
-        115,
-        98,
-        88,
-        104,
-        121,
-        100,
-        93,
-        86,
-        80,
-        104,
-        92,
-        109,
-        122,
-        90,
-        92,
-        123,
-        106,
-        97,
-        105,
-        113,
-        87,
-        120,
-        116,
-        115,
-        103,
-        92,
-        78,
         0,
         0,
         114,
@@ -264,56 +221,56 @@
         95,
         78,
         111,
-        83
+        83,
+        105,
+        110,
+        117,
+        82,
+        89,
+        88,
+        84,
+        97,
+        109,
+        86,
+        103,
+        107,
+        96,
+        101,
+        108,
+        102,
+        124,
+        115,
+        98,
+        88,
+        104,
+        121,
+        100,
+        93,
+        86,
+        80,
+        104,
+        92,
+        109,
+        122,
+        90,
+        92,
+        123,
+        106,
+        97,
+        105,
+        113,
+        87,
+        120,
+        116,
+        115,
+        103,
+        92,
+        78
       ],
       "labels": [
         "-10 not in demodiff",
-        "1000",
-        "1001",
-        "1002",
-        "1003",
-        "1004",
-        "1005",
-        "1006",
-        "1007",
-        "1092",
-        "1093",
-        "1094",
-        "1095",
-        "1096",
-        "1097",
-        "1098",
-        "1099",
-        "1100",
-        "1101",
-        "1102",
-        "1103",
-        "1104",
-        "1105",
-        "1106",
-        "1107",
-        "1108",
-        "1109",
-        "1110",
-        "1111",
-        "1112",
-        "1113",
-        "1114",
-        "1115",
-        "1116",
-        "1117",
-        "1118",
-        "1119",
-        "1120",
-        "1121",
-        "1122",
-        "1123",
-        "1124",
-        "1125",
-        "1126",
-        "1127",
-        "-3 Does not apply",
         "-7 Incomplete data",
+        "-3 Does not apply",
         "852",
         "853",
         "854",
@@ -379,56 +336,100 @@
         "996",
         "997",
         "998",
-        "999"
+        "999",
+        "1000",
+        "1001",
+        "1002",
+        "1003",
+        "1004",
+        "1005",
+        "1006",
+        "1007",
+        "1092",
+        "1093",
+        "1094",
+        "1095",
+        "1096",
+        "1097",
+        "1098",
+        "1099",
+        "1100",
+        "1101",
+        "1102",
+        "1103",
+        "1104",
+        "1105",
+        "1106",
+        "1107",
+        "1108",
+        "1109",
+        "1110",
+        "1111",
+        "1112",
+        "1113",
+        "1114",
+        "1115",
+        "1116",
+        "1117",
+        "1118",
+        "1119",
+        "1120",
+        "1121",
+        "1122",
+        "1123",
+        "1124",
+        "1125",
+        "1126",
+        "1127"
       ],
       "missings": [
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
         true,
         true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -498,52 +499,8 @@
       ],
       "values": [
         "-10",
-        "1000",
-        "1001",
-        "1002",
-        "1003",
-        "1004",
-        "1005",
-        "1006",
-        "1007",
-        "1092",
-        "1093",
-        "1094",
-        "1095",
-        "1096",
-        "1097",
-        "1098",
-        "1099",
-        "1100",
-        "1101",
-        "1102",
-        "1103",
-        "1104",
-        "1105",
-        "1106",
-        "1107",
-        "1108",
-        "1109",
-        "1110",
-        "1111",
-        "1112",
-        "1113",
-        "1114",
-        "1115",
-        "1116",
-        "1117",
-        "1118",
-        "1119",
-        "1120",
-        "1121",
-        "1122",
-        "1123",
-        "1124",
-        "1125",
-        "1126",
-        "1127",
-        "-3",
         "-7",
+        "-3",
         "852",
         "853",
         "854",
@@ -609,122 +566,166 @@
         "996",
         "997",
         "998",
-        "999"
+        "999",
+        "1000",
+        "1001",
+        "1002",
+        "1003",
+        "1004",
+        "1005",
+        "1006",
+        "1007",
+        "1092",
+        "1093",
+        "1094",
+        "1095",
+        "1096",
+        "1097",
+        "1098",
+        "1099",
+        "1100",
+        "1101",
+        "1102",
+        "1103",
+        "1104",
+        "1105",
+        "1106",
+        "1107",
+        "1108",
+        "1109",
+        "1110",
+        "1111",
+        "1112",
+        "1113",
+        "1114",
+        "1115",
+        "1116",
+        "1117",
+        "1118",
+        "1119",
+        "1120",
+        "1121",
+        "1122",
+        "1123",
+        "1124",
+        "1125",
+        "1126",
+        "1127"
       ],
       "labels_de": [
         "-10 not in demodiff",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Does not apply",
         "-7 Incomplete data",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "-3 Does not apply",
+        "852",
+        "853",
+        "854",
+        "855",
+        "856",
+        "857",
+        "858",
+        "859",
+        "860",
+        "861",
+        "862",
+        "863",
+        "864",
+        "865",
+        "866",
+        "867",
+        "868",
+        "869",
+        "870",
+        "871",
+        "872",
+        "873",
+        "874",
+        "875",
+        "876",
+        "877",
+        "878",
+        "879",
+        "880",
+        "881",
+        "882",
+        "883",
+        "884",
+        "885",
+        "886",
+        "887",
+        "888",
+        "960",
+        "972",
+        "973",
+        "974",
+        "975",
+        "976",
+        "977",
+        "978",
+        "979",
+        "980",
+        "981",
+        "982",
+        "983",
+        "984",
+        "985",
+        "986",
+        "987",
+        "988",
+        "989",
+        "990",
+        "991",
+        "992",
+        "993",
+        "994",
+        "995",
+        "996",
+        "997",
+        "998",
+        "999",
+        "1000",
+        "1001",
+        "1002",
+        "1003",
+        "1004",
+        "1005",
+        "1006",
+        "1007",
+        "1092",
+        "1093",
+        "1094",
+        "1095",
+        "1096",
+        "1097",
+        "1098",
+        "1099",
+        "1100",
+        "1101",
+        "1102",
+        "1103",
+        "1104",
+        "1105",
+        "1106",
+        "1107",
+        "1108",
+        "1109",
+        "1110",
+        "1111",
+        "1112",
+        "1113",
+        "1114",
+        "1115",
+        "1116",
+        "1117",
+        "1118",
+        "1119",
+        "1120",
+        "1121",
+        "1122",
+        "1123",
+        "1124",
+        "1125",
+        "1126",
+        "1127"
       ]
     },
     "statistics": {
@@ -740,7 +741,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Date of birth anchor"
   },
@@ -806,7 +807,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Sex anchor"
   },
@@ -819,6 +820,7 @@
     "label": "Date of interview wave 1",
     "categories": {
       "frequencies": [
+        0,
         53,
         1633,
         2097,
@@ -832,10 +834,10 @@
         142,
         96,
         331,
-        521,
-        0
+        521
       ],
       "labels": [
+        "-3 Does not apply",
         "1304",
         "1305",
         "1306",
@@ -849,10 +851,10 @@
         "1319",
         "1320",
         "1321",
-        "1322",
-        "-3 Does not apply"
+        "1322"
       ],
       "missings": [
+        true,
         false,
         false,
         false,
@@ -866,10 +868,10 @@
         false,
         false,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "1304",
         "1305",
         "1306",
@@ -883,25 +885,24 @@
         "1319",
         "1320",
         "1321",
-        "1322",
-        "-3"
+        "1322"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Does not apply"
+        "-3 Does not apply",
+        "1304",
+        "1305",
+        "1306",
+        "1307",
+        "1308",
+        "1309",
+        "1310",
+        "1311",
+        "1312",
+        "1318",
+        "1319",
+        "1320",
+        "1321",
+        "1322"
       ]
     },
     "statistics": {
@@ -917,7 +918,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Date of interview wave 1"
   },
@@ -930,54 +931,54 @@
     "label": "Date of interview wave 2",
     "categories": {
       "frequencies": [
+        1758,
         201,
         2306,
         1276,
         1862,
         1828,
         1264,
-        332,
-        1758
+        332
       ],
       "labels": [
+        "-3 Does not apply",
         "1317",
         "1318",
         "1319",
         "1320",
         "1321",
         "1322",
-        "1323",
-        "-3 Does not apply"
+        "1323"
       ],
       "missings": [
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "1317",
         "1318",
         "1319",
         "1320",
         "1321",
         "1322",
-        "1323",
-        "-3"
+        "1323"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Does not apply"
+        "-3 Does not apply",
+        "1317",
+        "1318",
+        "1319",
+        "1320",
+        "1321",
+        "1322",
+        "1323"
       ]
     },
     "statistics": {
@@ -993,7 +994,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Date of interview wave 2"
   },
@@ -1006,54 +1007,54 @@
     "label": "Date of interview wave 3",
     "categories": {
       "frequencies": [
+        1753,
         13,
         2217,
         1344,
         2556,
         1646,
         928,
-        370,
-        1753
+        370
       ],
       "labels": [
+        "-3 Does not apply",
         "1329",
         "1330",
         "1331",
         "1332",
         "1333",
         "1334",
-        "1335",
-        "-3 Does not apply"
+        "1335"
       ],
       "missings": [
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "1329",
         "1330",
         "1331",
         "1332",
         "1333",
         "1334",
-        "1335",
-        "-3"
+        "1335"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Does not apply"
+        "-3 Does not apply",
+        "1329",
+        "1330",
+        "1331",
+        "1332",
+        "1333",
+        "1334",
+        "1335"
       ]
     },
     "statistics": {
@@ -1069,7 +1070,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Date of interview wave 3"
   },
@@ -1082,6 +1083,7 @@
     "label": "Date of interview wave 4",
     "categories": {
       "frequencies": [
+        2754,
         31,
         2431,
         1281,
@@ -1089,10 +1091,10 @@
         1120,
         573,
         217,
-        5,
-        2754
+        5
       ],
       "labels": [
+        "-3 Does not apply",
         "1341",
         "1342",
         "1343",
@@ -1100,10 +1102,10 @@
         "1345",
         "1346",
         "1347",
-        "1348",
-        "-3 Does not apply"
+        "1348"
       ],
       "missings": [
+        true,
         false,
         false,
         false,
@@ -1111,10 +1113,10 @@
         false,
         false,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "1341",
         "1342",
         "1343",
@@ -1122,19 +1124,18 @@
         "1345",
         "1346",
         "1347",
-        "1348",
-        "-3"
+        "1348"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Does not apply"
+        "-3 Does not apply",
+        "1341",
+        "1342",
+        "1343",
+        "1344",
+        "1345",
+        "1346",
+        "1347",
+        "1348"
       ]
     },
     "statistics": {
@@ -1150,7 +1151,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Date of interview wave 4"
   },
@@ -1163,6 +1164,7 @@
     "label": "Date of interview wave 5",
     "categories": {
       "frequencies": [
+        3579,
         1097,
         1818,
         1041,
@@ -1170,10 +1172,10 @@
         905,
         377,
         159,
-        14,
-        3579
+        14
       ],
       "labels": [
+        "-3 Does not apply",
         "1353",
         "1354",
         "1355",
@@ -1181,10 +1183,10 @@
         "1357",
         "1358",
         "1359",
-        "1360",
-        "-3 Does not apply"
+        "1360"
       ],
       "missings": [
+        true,
         false,
         false,
         false,
@@ -1192,10 +1194,10 @@
         false,
         false,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "1353",
         "1354",
         "1355",
@@ -1203,19 +1205,18 @@
         "1357",
         "1358",
         "1359",
-        "1360",
-        "-3"
+        "1360"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Does not apply"
+        "-3 Does not apply",
+        "1353",
+        "1354",
+        "1355",
+        "1356",
+        "1357",
+        "1358",
+        "1359",
+        "1360"
       ]
     },
     "statistics": {
@@ -1231,7 +1232,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Date of interview wave 5"
   },
@@ -1244,6 +1245,7 @@
     "label": "Date of interview wave 6",
     "categories": {
       "frequencies": [
+        4253,
         539,
         1996,
         999,
@@ -1251,10 +1253,10 @@
         901,
         322,
         157,
-        8,
-        4253
+        8
       ],
       "labels": [
+        "-3 Does not apply",
         "1365",
         "1366",
         "1367",
@@ -1262,10 +1264,10 @@
         "1369",
         "1370",
         "1371",
-        "1372",
-        "-3 Does not apply"
+        "1372"
       ],
       "missings": [
+        true,
         false,
         false,
         false,
@@ -1273,10 +1275,10 @@
         false,
         false,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "1365",
         "1366",
         "1367",
@@ -1284,19 +1286,18 @@
         "1369",
         "1370",
         "1371",
-        "1372",
-        "-3"
+        "1372"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Does not apply"
+        "-3 Does not apply",
+        "1365",
+        "1366",
+        "1367",
+        "1368",
+        "1369",
+        "1370",
+        "1371",
+        "1372"
       ]
     },
     "statistics": {
@@ -1312,7 +1313,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Date of interview wave 6"
   },
@@ -1325,6 +1326,7 @@
     "label": "Date of interview wave 7",
     "categories": {
       "frequencies": [
+        4908,
         733,
         1603,
         1071,
@@ -1332,10 +1334,10 @@
         636,
         367,
         168,
-        37,
-        4908
+        37
       ],
       "labels": [
+        "-3 Does not apply",
         "1377",
         "1378",
         "1379",
@@ -1343,10 +1345,10 @@
         "1381",
         "1382",
         "1383",
-        "1384",
-        "-3 Does not apply"
+        "1384"
       ],
       "missings": [
+        true,
         false,
         false,
         false,
@@ -1354,10 +1356,10 @@
         false,
         false,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "1377",
         "1378",
         "1379",
@@ -1365,19 +1367,18 @@
         "1381",
         "1382",
         "1383",
-        "1384",
-        "-3"
+        "1384"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Does not apply"
+        "-3 Does not apply",
+        "1377",
+        "1378",
+        "1379",
+        "1380",
+        "1381",
+        "1382",
+        "1383",
+        "1384"
       ]
     },
     "statistics": {
@@ -1393,7 +1394,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Date of interview wave 7"
   },
@@ -1406,54 +1407,54 @@
     "label": "Date of interview wave 8",
     "categories": {
       "frequencies": [
+        5366,
         276,
         1730,
         1349,
         1305,
         511,
         267,
-        23,
-        5366
+        23
       ],
       "labels": [
+        "-3 Does not apply",
         "1389",
         "1390",
         "1391",
         "1392",
         "1393",
         "1394",
-        "1395",
-        "-3 Does not apply"
+        "1395"
       ],
       "missings": [
+        true,
         false,
         false,
         false,
         false,
         false,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "1389",
         "1390",
         "1391",
         "1392",
         "1393",
         "1394",
-        "1395",
-        "-3"
+        "1395"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Does not apply"
+        "-3 Does not apply",
+        "1389",
+        "1390",
+        "1391",
+        "1392",
+        "1393",
+        "1394",
+        "1395"
       ]
     },
     "statistics": {
@@ -1469,7 +1470,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Date of interview wave 8"
   },
@@ -1482,59 +1483,59 @@
     "label": "No. of moves (resdis=0) w1 to w2: Main residence",
     "categories": {
       "frequencies": [
+        1755,
         9010,
         53,
-        1,
         4,
         1,
-        1755,
+        1,
         1,
         1,
         1
       ],
       "labels": [
+        "-3 does not apply",
         "0",
         "1",
-        "10",
         "2",
         "3",
-        "-3 does not apply",
         "4",
         "5",
-        "8"
+        "8",
+        "10"
       ],
       "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
         true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
       ],
       "values": [
+        "-3",
         "0",
         "1",
-        "10",
         "2",
         "3",
-        "-3",
         "4",
         "5",
-        "8"
+        "8",
+        "10"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
         "-3 does not apply",
-        "",
-        "",
-        ""
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "10"
       ]
     },
     "statistics": {
@@ -1550,7 +1551,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w1 to w2: Main residence"
   },
@@ -1563,29 +1564,29 @@
     "label": "No. of moves (resdis=0) w1 to w3: Main residence",
     "categories": {
       "frequencies": [
+        1732,
         9093,
-        2,
-        1732
+        2
       ],
       "labels": [
+        "-3 does not apply",
         "0",
-        "1",
-        "-3 does not apply"
+        "1"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "0",
-        "1",
-        "-3"
+        "1"
       ],
       "labels_de": [
-        "",
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0",
+        "1"
       ]
     },
     "statistics": {
@@ -1601,7 +1602,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w1 to w3: Main residence"
   },
@@ -1614,34 +1615,34 @@
     "label": "No. of moves (resdis=0) w2 to w3: Main residence",
     "categories": {
       "frequencies": [
+        1732,
         9090,
         4,
-        1,
-        1732
+        1
       ],
       "labels": [
+        "-3 does not apply",
         "0",
         "1",
-        "2",
-        "-3 does not apply"
+        "2"
       ],
       "missings": [
+        true,
         false,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "0",
         "1",
-        "2",
-        "-3"
+        "2"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0",
+        "1",
+        "2"
       ]
     },
     "statistics": {
@@ -1657,7 +1658,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w2 to w3: Main residence"
   },
@@ -1670,29 +1671,29 @@
     "label": "No. of moves (resdis=0) w2 to w4: Main residence",
     "categories": {
       "frequencies": [
+        2719,
         8107,
-        1,
-        2719
+        1
       ],
       "labels": [
+        "-3 does not apply",
         "0",
-        "1",
-        "-3 does not apply"
+        "1"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "0",
-        "1",
-        "-3"
+        "1"
       ],
       "labels_de": [
-        "",
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0",
+        "1"
       ]
     },
     "statistics": {
@@ -1708,7 +1709,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w2 to w4: Main residence"
   },
@@ -1721,29 +1722,29 @@
     "label": "No. of moves (resdis=0) w3 to w4: Main residence",
     "categories": {
       "frequencies": [
+        2719,
         8098,
-        10,
-        2719
+        10
       ],
       "labels": [
+        "-3 does not apply",
         "0",
-        "1",
-        "-3 does not apply"
+        "1"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "0",
-        "1",
-        "-3"
+        "1"
       ],
       "labels_de": [
-        "",
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0",
+        "1"
       ]
     },
     "statistics": {
@@ -1759,7 +1760,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w3 to w4: Main residence"
   },
@@ -1772,29 +1773,29 @@
     "label": "No. of moves (resdis=0) w3 to w5: Main residence",
     "categories": {
       "frequencies": [
+        3579,
         7246,
-        2,
-        3579
+        2
       ],
       "labels": [
+        "-3 does not apply",
         "0",
-        "1",
-        "-3 does not apply"
+        "1"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "0",
-        "1",
-        "-3"
+        "1"
       ],
       "labels_de": [
-        "",
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0",
+        "1"
       ]
     },
     "statistics": {
@@ -1810,7 +1811,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w3 to w5: Main residence"
   },
@@ -1823,29 +1824,29 @@
     "label": "No. of moves (resdis=0) w4 to w5: Main residence",
     "categories": {
       "frequencies": [
+        3579,
         7235,
-        13,
-        3579
+        13
       ],
       "labels": [
+        "-3 does not apply",
         "0",
-        "1",
-        "-3 does not apply"
+        "1"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "0",
-        "1",
-        "-3"
+        "1"
       ],
       "labels_de": [
-        "",
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0",
+        "1"
       ]
     },
     "statistics": {
@@ -1861,7 +1862,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w4 to w5: Main residence"
   },
@@ -1874,29 +1875,29 @@
     "label": "No. of moves (resdis=0) w4 to w6: Main residence",
     "categories": {
       "frequencies": [
+        4253,
         6573,
-        1,
-        4253
+        1
       ],
       "labels": [
+        "-3 does not apply",
         "0",
-        "1",
-        "-3 does not apply"
+        "1"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "0",
-        "1",
-        "-3"
+        "1"
       ],
       "labels_de": [
-        "",
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0",
+        "1"
       ]
     },
     "statistics": {
@@ -1912,7 +1913,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w4 to w6: Main residence"
   },
@@ -1925,29 +1926,29 @@
     "label": "No. of moves (resdis=0) w5 to w6: Main residence",
     "categories": {
       "frequencies": [
+        4253,
         6567,
-        7,
-        4253
+        7
       ],
       "labels": [
+        "-3 does not apply",
         "0",
-        "1",
-        "-3 does not apply"
+        "1"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "0",
-        "1",
-        "-3"
+        "1"
       ],
       "labels_de": [
-        "",
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0",
+        "1"
       ]
     },
     "statistics": {
@@ -1963,7 +1964,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w5 to w6: Main residence"
   },
@@ -1976,24 +1977,24 @@
     "label": "No. of moves (resdis=0) w5 to w7: Main residence",
     "categories": {
       "frequencies": [
-        5919,
-        4908
+        4908,
+        5919
       ],
       "labels": [
-        "0",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "0",
-        "-3"
+        "-3",
+        "0"
       ],
       "labels_de": [
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0"
       ]
     },
     "statistics": {
@@ -2009,7 +2010,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w5 to w7: Main residence"
   },
@@ -2022,34 +2023,34 @@
     "label": "No. of moves (resdis=0) w6 to w7: Main residence",
     "categories": {
       "frequencies": [
+        4908,
         5915,
         3,
-        1,
-        4908
+        1
       ],
       "labels": [
+        "-3 does not apply",
         "0",
         "1",
-        "2",
-        "-3 does not apply"
+        "2"
       ],
       "missings": [
+        true,
         false,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "0",
         "1",
-        "2",
-        "-3"
+        "2"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0",
+        "1",
+        "2"
       ]
     },
     "statistics": {
@@ -2065,7 +2066,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w6 to w7: Main residence"
   },
@@ -2078,24 +2079,24 @@
     "label": "No. of moves (resdis=0) w6 to w8: Main residence",
     "categories": {
       "frequencies": [
-        5461,
-        5366
+        5366,
+        5461
       ],
       "labels": [
-        "0",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "0",
-        "-3"
+        "-3",
+        "0"
       ],
       "labels_de": [
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0"
       ]
     },
     "statistics": {
@@ -2111,7 +2112,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w6 to w8: Main residence"
   },
@@ -2124,29 +2125,29 @@
     "label": "No. of moves (resdis=0) w7 to w8: Main residence",
     "categories": {
       "frequencies": [
+        4908,
         5905,
-        14,
-        4908
+        14
       ],
       "labels": [
+        "-3 does not apply",
         "0",
-        "1",
-        "-3 does not apply"
+        "1"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "0",
-        "1",
-        "-3"
+        "1"
       ],
       "labels_de": [
-        "",
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0",
+        "1"
       ]
     },
     "statistics": {
@@ -2162,7 +2163,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w7 to w8: Main residence"
   },
@@ -2175,59 +2176,59 @@
     "label": "No. of moves (resdis=0) w1 to w2: 2nd residence",
     "categories": {
       "frequencies": [
+        1755,
         9042,
         15,
-        1,
         5,
         4,
-        1755,
         2,
         2,
+        1,
         1
       ],
       "labels": [
+        "-3 does not apply",
         "0",
         "1",
-        "10",
         "2",
         "3",
-        "-3 does not apply",
         "5",
         "6",
-        "8"
+        "8",
+        "10"
       ],
       "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
         true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
       ],
       "values": [
+        "-3",
         "0",
         "1",
-        "10",
         "2",
         "3",
-        "-3",
         "5",
         "6",
-        "8"
+        "8",
+        "10"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
         "-3 does not apply",
-        "",
-        "",
-        ""
+        "0",
+        "1",
+        "2",
+        "3",
+        "5",
+        "6",
+        "8",
+        "10"
       ]
     },
     "statistics": {
@@ -2243,7 +2244,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w1 to w2: 2nd residence"
   },
@@ -2256,24 +2257,24 @@
     "label": "No. of moves (resdis=0) w1 to w3: 2nd residence",
     "categories": {
       "frequencies": [
-        9095,
-        1732
+        1732,
+        9095
       ],
       "labels": [
-        "0",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0"
       ],
       "missings": [
-        false,
-        true
+        true,
+        false
       ],
       "values": [
-        "0",
-        "-3"
+        "-3",
+        "0"
       ],
       "labels_de": [
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0"
       ]
     },
     "statistics": {
@@ -2289,7 +2290,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w1 to w3: 2nd residence"
   },
@@ -2302,29 +2303,29 @@
     "label": "No. of moves (resdis=0) w2 to w3: 2nd residence",
     "categories": {
       "frequencies": [
+        1732,
         9092,
-        3,
-        1732
+        3
       ],
       "labels": [
+        "-3 does not apply",
         "0",
-        "1",
-        "-3 does not apply"
+        "1"
       ],
       "missings": [
+        true,
         false,
-        false,
-        true
+        false
       ],
       "values": [
+        "-3",
         "0",
-        "1",
-        "-3"
+        "1"
       ],
       "labels_de": [
-        "",
-        "",
-        "-3 does not apply"
+        "-3 does not apply",
+        "0",
+        "1"
       ]
     },
     "statistics": {
@@ -2340,7 +2341,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "No. of moves (resdis=0) w2 to w3: 2nd residence"
   },
@@ -2391,7 +2392,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc18) w1 to w2: Main residence"
   },
@@ -2442,7 +2443,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w1 to w3: Main residence"
   },
@@ -2493,7 +2494,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w2 to w3: Main residence"
   },
@@ -2544,7 +2545,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w2 to w4: Main residence"
   },
@@ -2595,7 +2596,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w3 to w4: Main residence"
   },
@@ -2646,7 +2647,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w3 to w5: Main residence"
   },
@@ -2697,7 +2698,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w4 to w5: Main residence"
   },
@@ -2748,7 +2749,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w4 to w6: Main residence"
   },
@@ -2799,7 +2800,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w5 to w6: Main residence"
   },
@@ -2850,7 +2851,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w5 to w7: Main residence"
   },
@@ -2901,7 +2902,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w6 to w7: Main residence"
   },
@@ -2952,7 +2953,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w6 to w8: Main residence"
   },
@@ -3003,7 +3004,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w7 to w8: Main residence"
   },
@@ -3054,7 +3055,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc18) w1 to w2: 2nd residence"
   },
@@ -3105,7 +3106,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w1 to w3: 2nd residence"
   },
@@ -3156,7 +3157,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "cumulative",
     "label_de": "Within city (ehc29) w2 to w3: 2nd residence"
   }

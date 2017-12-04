@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,7 +38,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Personennummer Anker"
   },
@@ -52,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -81,7 +83,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Personennummer Partner"
   },
@@ -96,7 +98,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -123,7 +126,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Personennummer Kind"
   },
@@ -174,7 +177,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Erhebungsjahr"
   },
@@ -289,7 +292,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Kind mit Nummer 1",
         "2 Kind mit Nummer 2",
         "3 Kind mit Nummer 3",
@@ -320,7 +323,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Kinder-Nummer, d h CAPI-Kind ist Kind mit Nummer"
   },
@@ -383,9 +386,9 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Junge",
-        ""
+        "2"
       ]
     },
     "statistics": {
@@ -401,7 +404,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Geschlecht Kind"
   },
@@ -460,7 +463,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Tag genannt"
       ]
     },
@@ -477,7 +480,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Tag Geburt (Frage 1)"
   },
@@ -580,10 +583,10 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Januar",
         "2 Februar",
-        "",
+        "3",
         "4 April",
         "5 Mai",
         "6 Juni",
@@ -608,7 +611,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Monat Geburt Kind (Frage 1)"
   },
@@ -623,7 +626,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -650,7 +654,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Jahr Geburt Kind (Frage 1)"
   },
@@ -713,7 +717,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -731,7 +735,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Gehst du denn noch zur Schule? (Frage 2)"
   },
@@ -850,18 +854,18 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Grundschule",
         "2 Hauptschule",
         "3 Realschule/Mittelschule",
         "4 Gymnasium",
         "5 Gesamtschule",
-        "",
+        "6",
         "7 Berufsschule",
         "8 FOS",
         "9 Abendschule, Kolleg, zweiter Bildungsweg",
         "10 Sonstige Schule",
-        "",
+        "11",
         "51 Integrierte Gesamtschule",
         "52 Kooperative Gesamtschule, kein spezifischer Schulzweig angegeben",
         "521 Kooperative Gesamtschule: Hauptschulzweig",
@@ -882,7 +886,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -941,7 +945,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Sonstige Schulart genannt"
       ]
     },
@@ -958,7 +962,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Sonstige Schulart genannt (Frage 3)"
   },
@@ -971,104 +975,104 @@
     "label": "What grade are you in? (Qu. 4)",
     "categories": {
       "frequencies": [
-        2,
-        2,
-        24,
-        1,
-        81,
         0,
-        216,
+        0,
+        0,
+        1,
         3,
+        0,
+        2,
+        2,
+        81,
+        216,
         196,
-        1,
         161,
-        0,
         112,
-        0,
         87,
-        0,
         56,
-        45
+        45,
+        24,
+        1
       ],
       "labels": [
-        "1",
-        "-1 Don`t know",
-        "10",
-        "11",
-        "2",
-        "-2 No answer",
-        "3",
-        "-3 Does not apply",
-        "4",
-        "-4 Filter error / Incorrect entry",
-        "5",
-        "-5 Inconsistent value",
-        "6",
-        "-6 Unreadable answer",
-        "7",
         "-7 Incomplete data",
+        "-6 Unreadable answer",
+        "-5 Inconsistent value",
+        "-4 Filter error / Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don`t know",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
         "8",
-        "9"
+        "9",
+        "10",
+        "11"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         true,
         false,
         false,
         false,
-        true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
+        false,
         false,
         false
       ],
       "values": [
-        "1",
-        "-1",
-        "10",
-        "11",
-        "2",
-        "-2",
-        "3",
-        "-3",
-        "4",
-        "-4",
-        "5",
-        "-5",
-        "6",
-        "-6",
-        "7",
         "-7",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
         "8",
-        "9"
+        "9",
+        "10",
+        "11"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "-3 Trifft nicht zu",
-        "",
-        "-4 Fehleingabe/Filterfehler",
-        "",
-        "-5 Inkonsistenter Wert",
-        "",
-        "-6 Offene Angabe nicht lesbar",
-        "",
         "-7 Incomplete Data",
-        "",
-        ""
+        "-6 Offene Angabe nicht lesbar",
+        "-5 Inkonsistenter Wert",
+        "-4 Fehleingabe/Filterfehler",
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
       ]
     },
     "statistics": {
@@ -1084,7 +1088,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Und in welcher Klasse bist Du? (Frage 4)"
   },
@@ -1163,7 +1167,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Von der Schule abgegangen ohne Abschluss",
         "2 Hauptschulabschluss (Volksschulabschluss)",
         "3 Realschulabschluss (Mittlere Reife)",
@@ -1185,7 +1189,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1199,63 +1203,63 @@
     "categories": {
       "frequencies": [
         0,
-        1,
         0,
-        1,
+        0,
+        0,
         984,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0
+        1,
+        1
       ],
       "labels": [
+        "-7 Incomplete data",
+        "-6 Unreadable answer",
+        "-5 Inconsistent value",
+        "-4 Filter error / Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
         "-1 Don`t know",
         "1.9",
-        "-2 No answer",
         "2.4",
-        "-3 Does not apply",
-        "3.5",
-        "-4 Filter error / Incorrect entry",
-        "-5 Inconsistent value",
-        "-6 Unreadable answer",
-        "-7 Incomplete data"
+        "3.5"
       ],
       "missings": [
         true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
-        true,
         false,
-        true,
-        false,
-        true,
-        true,
-        true,
-        true
+        false
       ],
       "values": [
+        "-7",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
         "-1",
         "1.9",
-        "-2",
         "2.4",
-        "-3",
-        "3.5",
-        "-4",
-        "-5",
-        "-6",
-        "-7"
+        "3.5"
       ],
       "labels_de": [
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "-3 Trifft nicht zu",
-        "",
-        "-4 Fehleingabe/Filterfehler",
-        "-5 Inkonsistenter Wert",
+        "-7 Incomplete Data",
         "-6 Offene Angabe nicht lesbar",
-        "-7 Incomplete Data"
+        "-5 Inkonsistenter Wert",
+        "-4 Fehleingabe/Filterfehler",
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "1.9",
+        "2.4",
+        "3.5"
       ]
     },
     "statistics": {
@@ -1271,7 +1275,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Welche Durchschnittsnote hast Du bei Deinem Schulabschluss erreicht? (Frage 6)"
   },
@@ -1358,7 +1362,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "Note 1",
         "Note 2",
         "Note 3",
@@ -1382,7 +1386,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Letztes Zeugnis: Note - Mathe (Frage 7)"
   },
@@ -1469,7 +1473,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "Note 1",
         "Note 2",
         "Note 3",
@@ -1493,7 +1497,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Letztes Zeugnis: Note - Deutsch (Frage 7)"
   },
@@ -1556,7 +1560,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -1574,7 +1578,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1637,7 +1641,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -1655,7 +1659,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1718,7 +1722,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -1736,7 +1740,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1799,7 +1803,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -1817,7 +1821,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1880,7 +1884,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -1898,7 +1902,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1961,7 +1965,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -1979,7 +1983,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2042,7 +2046,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2060,7 +2064,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2123,7 +2127,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2141,7 +2145,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2204,7 +2208,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2222,7 +2226,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2285,7 +2289,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2303,7 +2307,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2366,7 +2370,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2384,7 +2388,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2447,7 +2451,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2465,7 +2469,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2528,7 +2532,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2546,7 +2550,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2609,7 +2613,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2627,7 +2631,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2690,7 +2694,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2708,7 +2712,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2771,7 +2775,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2789,7 +2793,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2864,8 +2868,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -2885,7 +2889,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Die meisten in meiner Klasse sind nett und hilfsbereit (Frage 9)"
   },
@@ -2960,8 +2964,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -2981,7 +2985,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -3056,8 +3060,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -3077,7 +3081,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -3152,8 +3156,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -3173,7 +3177,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -3248,8 +3252,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -3269,7 +3273,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -3344,8 +3348,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -3365,7 +3369,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -3440,8 +3444,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -3461,7 +3465,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "In meiner Familie ist das Geld meistens knapp (Frage 10)"
   },
@@ -3536,7 +3540,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Schlecht",
         "2 Weniger gut",
         "3 Zufriedenstellend",
@@ -3557,7 +3561,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -3632,8 +3636,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -3653,7 +3657,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Ich bin lieber alleine als mit anderen zusammen (Frage 12)"
   },
@@ -3728,8 +3732,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -3749,7 +3753,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Ich habe viele Freunde (Frage 12)"
   },
@@ -3824,8 +3828,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -3845,7 +3849,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -3920,8 +3924,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -3941,7 +3945,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Andere sind gemein zu mir (Frage 12)"
   },
@@ -4016,8 +4020,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -4037,7 +4041,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Die anderen lassen mich oft nicht mitmachen (Frage 12)"
   },
@@ -4112,8 +4116,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -4133,7 +4137,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -4208,11 +4212,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -4229,7 +4233,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -4304,11 +4308,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -4325,7 +4329,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -4400,11 +4404,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -4421,7 +4425,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -4496,11 +4500,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -4517,7 +4521,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -4580,7 +4584,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -4598,7 +4602,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Angabe, dass kein Freund/Freundin (Frage 13)"
   },
@@ -4661,7 +4665,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein, Angabe falsch"
       ]
@@ -4679,7 +4683,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Du lebst hier mit [alle Personen im gleichen Haushalt]. Richtig? (Frage 15)"
   },
@@ -4742,7 +4746,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -4760,7 +4764,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Kennst du [Name Ankerperson]? (Frage 16)"
   },
@@ -4823,7 +4827,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -4841,7 +4845,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Kennst du [Name Partner von Ankerperson]? (Frage 17)"
   },
@@ -4900,7 +4904,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Name genannt"
       ]
     },
@@ -4917,7 +4921,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Name Ankerperson (Frage 18)"
   },
@@ -4976,7 +4980,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Name genannt"
       ]
     },
@@ -4993,7 +4997,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Name Partner der Ankerperson (Frage 19)"
   },
@@ -5068,7 +5072,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -5089,7 +5093,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Anker] zeigt Dir, dass er/sie Dich gerne hat (Frage 20)"
   },
@@ -5164,7 +5168,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -5185,7 +5189,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -5260,7 +5264,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -5281,7 +5285,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -5356,7 +5360,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -5377,7 +5381,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -5452,7 +5456,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -5473,7 +5477,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Anker] lobt Dich (Frage 20)"
   },
@@ -5548,8 +5552,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -5569,7 +5573,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -5644,8 +5648,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -5665,7 +5669,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -5740,8 +5744,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -5761,7 +5765,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Wenn Fehler gemacht, fragst, ob [Anker] Dich mag (Frage 21)"
   },
@@ -5836,11 +5840,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -5857,7 +5861,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -5932,11 +5936,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -5953,7 +5957,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Die Dinge, die Du tust, werden von [Anker] anerkannt (Frage 22)"
   },
@@ -6028,11 +6032,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -6049,7 +6053,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -6124,11 +6128,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -6145,7 +6149,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Anker] zeigt Dir, dass er/sie Dich gut findet (Frage 22)"
   },
@@ -6220,11 +6224,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -6241,7 +6245,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet euch (Frage 22)"
   },
@@ -6316,11 +6320,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -6337,7 +6341,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -6412,8 +6416,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -6433,7 +6437,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -6508,8 +6512,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -6529,7 +6533,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -6604,8 +6608,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -6625,7 +6629,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Wenn Fehler gemacht, fragst, ob [Partner d. Ankers] Dich mag (Frage 23)"
   },
@@ -6700,11 +6704,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -6721,7 +6725,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -6796,11 +6800,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -6817,7 +6821,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Dinge, die Du tust, werden von [Partner d. Ankers] anerkannt (Frage 24)"
   },
@@ -6892,11 +6896,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -6913,7 +6917,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -6988,11 +6992,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -7009,7 +7013,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Partner d. Ankers] zeigt Dir, dass er/sie Dich gut findet (Frage 24)"
   },
@@ -7084,11 +7088,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -7105,7 +7109,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet euch (Frage 24)"
   },
@@ -7180,11 +7184,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -7201,7 +7205,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -7276,7 +7280,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -7297,7 +7301,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Partner d. Ankers] zeigt Dir, dass er/sie Dich gerne hat (Frage 25)"
   },
@@ -7372,7 +7376,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -7393,7 +7397,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -7468,7 +7472,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -7489,7 +7493,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -7564,7 +7568,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -7585,7 +7589,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -7660,7 +7664,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -7681,7 +7685,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Partner d. Ankers] lobt Dich (Frage 25)"
   },
@@ -7744,7 +7748,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -7762,7 +7766,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Hast Du leiblichen Vater/ Mutter, der/die nicht hier mit Dir lebt? (Frage 26)"
   },
@@ -7821,7 +7825,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Name genannt"
       ]
     },
@@ -7838,7 +7842,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -7925,8 +7929,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Mehrmals pro Woche",
         "3 Einmal pro Woche",
         "4 1-3 mal im Monat",
@@ -7949,7 +7953,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Wie oft siehst Du [anderen Elternteil extern]? (Frage 28)"
   },
@@ -8036,8 +8040,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Mehrmals pro Woche",
         "3 Einmal pro Woche",
         "4 1-3 mal im Monat",
@@ -8060,7 +8064,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -8135,8 +8139,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -8156,7 +8160,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -8231,8 +8235,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -8252,7 +8256,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -8327,8 +8331,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Stimmt eher nicht",
         "3 Stimmt teilweise",
         "4 Stimmt eher",
@@ -8348,7 +8352,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Wenn Fehler gemacht, fragst, ob [anderer Elternteil ext.] Dich mag (Frage 30)"
   },
@@ -8423,11 +8427,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -8444,7 +8448,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -8519,11 +8523,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -8540,7 +8544,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Dinge, die Du tust, werden von [anderer Elternteil ext.] anerkannt (Frage 31)"
   },
@@ -8615,11 +8619,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -8636,7 +8640,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -8711,11 +8715,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -8732,7 +8736,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Anderer Elternteil ext.] zeigt Dir, dass er/sie Dich gut findet (Frage 31)"
   },
@@ -8807,11 +8811,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -8828,7 +8832,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Ihr seid unterschiedlicher Meinung und streitet euch (Frage 31)"
   },
@@ -8903,11 +8907,11 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
-        "",
+        "4",
         "5 Immer"
       ]
     },
@@ -8924,7 +8928,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -8999,7 +9003,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -9020,7 +9024,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Anderer Elternteil ext.] zeigt Dir, dass er/sie Dich gerne hat (Frage 32)"
   },
@@ -9095,7 +9099,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -9116,7 +9120,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Anderer Elternteil ext.] ist sehr streng (Frage 32)"
   },
@@ -9191,7 +9195,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -9212,7 +9216,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -9287,7 +9291,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -9308,7 +9312,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Anderer Elternteil ext.] bestraft Dich, wenn Du gegen Willen tust (Frage 32)"
   },
@@ -9383,7 +9387,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -9404,7 +9408,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Anderer Elternteil ext.] meint, immer Recht & Du nicht widersprechen (Frage 32)"
   },
@@ -9479,7 +9483,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -9500,7 +9504,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -9575,7 +9579,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -9596,7 +9600,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "[Anderer Elternteil ext.] lobt Dich (Frage 32)"
   },
@@ -9671,7 +9675,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -9692,7 +9696,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Freizeit: Dich mit Freunden treffen (Frage 33)"
   },
@@ -9767,7 +9771,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -9788,7 +9792,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Freizeit: Unternehmungen mit der Familie (Frage 33)"
   },
@@ -9863,7 +9867,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -9884,7 +9888,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Freizeit: Dinge alleine machen (Frage 33)"
   },
@@ -9951,7 +9955,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -9970,7 +9974,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -10037,7 +10041,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -10056,7 +10060,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -10123,7 +10127,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -10142,7 +10146,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -10209,7 +10213,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -10228,7 +10232,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -10295,7 +10299,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -10314,7 +10318,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "SDQ: Normalerweise tue ich, was man mir sagt (Frage 34)"
   },
@@ -10381,7 +10385,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -10400,7 +10404,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -10467,7 +10471,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -10486,7 +10490,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "SDQ: Ich bin hilfsbereit, wenn andere verletzt oder traurig sind (Frage 34)"
   },
@@ -10553,7 +10557,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -10572,7 +10576,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -10639,7 +10643,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -10658,7 +10662,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -10725,7 +10729,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -10744,7 +10748,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -10811,7 +10815,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -10830,7 +10834,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -10897,7 +10901,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -10916,7 +10920,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -10983,7 +10987,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -11002,7 +11006,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "SDQ: Helfe anderen oft freiwillig (Eltern, Lehrern o. Gleichaltrigen) (Frage 34)"
   },
@@ -11069,7 +11073,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -11088,7 +11092,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -11155,7 +11159,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -11174,7 +11178,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -11232,7 +11236,7 @@
         "-5 Inkonsistenter Wert",
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -11250,7 +11254,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Wiederbefragungsbereitschaft im Rahmen des Ankercapis (Frage 35)"
   },
@@ -11321,7 +11325,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -11392,7 +11396,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -11463,7 +11467,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Ankerperson/Partner der Ankerperson anwesend (Text 9)"
   },
@@ -11534,7 +11538,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Kinder anwesend (Text 9)"
   },
@@ -11605,7 +11609,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -11676,7 +11680,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Sonstige Personen anwesend (Text 9)"
   },
@@ -11743,8 +11747,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Ja, manchmal",
         "3 Nein"
       ]
@@ -11762,7 +11766,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Hat jemand von den anwesenden Personen in das Interview eingegriffen? (Text 10)"
   },
@@ -11777,7 +11781,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11804,7 +11809,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Dauer des Interviews"
   },
@@ -11819,7 +11824,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11846,7 +11852,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Jahr Interview"
   },
@@ -11861,7 +11867,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11888,7 +11895,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Monat Interview"
   },
@@ -11903,7 +11910,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -11930,7 +11938,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Tag Interview"
   },
@@ -12017,7 +12025,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Leibliche Mutter",
         "2 Leiblicher Vater",
         "3 Adoptivmutter",
@@ -12041,7 +12049,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Beziehungsstatus des Ankers zum befragten Kind"
   },
@@ -12056,7 +12064,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12083,7 +12092,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Alter des Kindes in Jahren"
   },
@@ -12098,7 +12107,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -12125,7 +12135,7 @@
     "scale": "",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Alter des Kindes in Monaten"
   },
@@ -12192,7 +12202,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Kosenamen z.B. Papa, Mama,...",
         "2 Vorname z.B. Christian, Annett",
         "3 Unklare Benennung"
@@ -12211,7 +12221,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Benennung der Ankerperson durch das Kind"
   },
@@ -12278,7 +12288,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Kosenamen z.B. Papa, Mama,...",
         "2 Vorname z.B. Christian, Annett",
         "3 Unklare Benennung"
@@ -12297,7 +12307,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Benennung des Partners der Ankerperson durch das Kind"
   },
@@ -12364,7 +12374,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Kosenamen z.B. Papa, Mama,...",
         "2 Vorname z.B. Christian, Annett",
         "3 Unklare Benennung"
@@ -12383,7 +12393,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -12446,8 +12456,8 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Weiblich"
       ]
     },
@@ -12464,7 +12474,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Geschlecht Ankerperson"
   },
@@ -12510,7 +12520,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Inconsistency sex of child between statement of interviewer and anchor"
   },
@@ -12556,7 +12566,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -12607,7 +12617,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -12658,7 +12668,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -12709,7 +12719,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -12780,7 +12790,7 @@
         "-4 Fehleingabe/Filterfehler",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Leibliches Kind",
         "2 Adoptiertes Kind",
         "3 Stiefkind",
@@ -12800,7 +12810,7 @@
     "scale": "cat",
     "analysis_unit": "child",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Status Kind in Bezug auf Anker"
   }

@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -90,7 +91,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -126,49 +128,49 @@
     "label": "Date of birth of child (months since January 1900)",
     "categories": {
       "frequencies": [
-        2,
-        1,
-        1,
-        2,
-        1,
         0,
-        0
+        0,
+        2,
+        1,
+        1,
+        2,
+        1
       ],
       "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
         "1343",
         "1349",
         "1356",
         "1378",
-        "1384",
-        "-3 Does not apply",
-        "-7 Incomplete data"
+        "1384"
       ],
       "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
         true,
-        true
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
       ],
       "values": [
+        "-7",
+        "-3",
         "1343",
         "1349",
         "1356",
         "1378",
-        "1384",
-        "-3",
-        "-7"
+        "1384"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
+        "-7 Incomplete data",
         "-3 Does not apply",
-        "-7 Incomplete data"
+        "1343",
+        "1349",
+        "1356",
+        "1378",
+        "1384"
       ]
     },
     "statistics": {
@@ -240,54 +242,54 @@
     "label": "Date of interview (months since January 1900)",
     "categories": {
       "frequencies": [
+        0,
+        0,
         1,
         2,
         1,
         1,
         1,
-        1,
-        0,
-        0
+        1
       ],
       "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
         "1344",
         "1354",
         "1358",
         "1379",
         "1392",
-        "1393",
-        "-3 Does not apply",
-        "-7 Incomplete data"
+        "1393"
       ],
       "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
         true,
-        true
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
       ],
       "values": [
+        "-7",
+        "-3",
         "1344",
         "1354",
         "1358",
         "1379",
         "1392",
-        "1393",
-        "-3",
-        "-7"
+        "1393"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
+        "-7 Incomplete data",
         "-3 Does not apply",
-        "-7 Incomplete data"
+        "1344",
+        "1354",
+        "1358",
+        "1379",
+        "1392",
+        "1393"
       ]
     },
     "statistics": {
@@ -386,7 +388,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -424,7 +427,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -820,38 +824,38 @@
     "label": "Partnerindex: second biological parent",
     "categories": {
       "frequencies": [
+        0,
+        0,
         5,
         1,
-        0,
-        0,
         1
       ],
       "labels": [
+        "-7 Incomplete data",
+        "-3 Does not apply",
         "1",
         "2",
-        "-3 Does not apply",
-        "-7 Incomplete data",
         "97 Another person"
       ],
       "missings": [
-        false,
-        false,
         true,
         true,
+        false,
+        false,
         false
       ],
       "values": [
+        "-7",
+        "-3",
         "1",
         "2",
-        "-3",
-        "-7",
         "97"
       ],
       "labels_de": [
-        "",
-        "",
-        "-3 Does not apply",
         "-7 Incomplete data",
+        "-3 Does not apply",
+        "1",
+        "2",
         "97 Another person"
       ]
     },
@@ -879,7 +883,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -919,7 +924,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -959,7 +965,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -997,7 +1004,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1035,7 +1043,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1075,7 +1084,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [

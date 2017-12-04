@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,7 +38,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Personennummer Anker"
   },
@@ -104,7 +105,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Erhebungsjahr"
   },
@@ -158,7 +159,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Name genannt"
       ]
     },
@@ -175,7 +176,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Name 1. Partner (Frage 1)"
   },
@@ -229,7 +230,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Name genannt"
       ]
     },
@@ -246,7 +247,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Name 2. Partner (Frage 1)"
   },
@@ -300,7 +301,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Name genannt"
       ]
     },
@@ -311,7 +312,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Name 3. Partner (Frage 1)"
   },
@@ -365,7 +366,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Name genannt"
       ]
     },
@@ -376,7 +377,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Name 4. Partner (Frage 1)"
   },
@@ -429,8 +430,8 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Weiblich"
       ]
     },
@@ -447,7 +448,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Geschlecht 1. Partner (Frage 2)"
   },
@@ -500,8 +501,8 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Weiblich"
       ]
     },
@@ -518,7 +519,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Geschlecht 2. Partner (Frage 2)"
   },
@@ -571,8 +572,8 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        " 1",
         "2 Weiblich"
       ]
     },
@@ -583,7 +584,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Geschlecht 3. Partner (Frage 2)"
   },
@@ -636,8 +637,8 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        " 1",
         "2 Weiblich"
       ]
     },
@@ -648,7 +649,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Geschlecht 4. Partner (Frage 2)"
   },
@@ -741,10 +742,10 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Januar",
         "2 Februar",
-        "",
+        "3",
         "4 April",
         "5 Mai",
         "6 Juni",
@@ -769,7 +770,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Monat Beginn Beziehung mit Partner 1 (Frage 3)"
   },
@@ -862,10 +863,10 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Januar",
         "2 Februar",
-        "",
+        "3",
         "4 April",
         "5 Mai",
         "6 Juni",
@@ -890,7 +891,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Monat Beginn Beziehung mit Partner 2 (Frage 3)"
   },
@@ -983,10 +984,10 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Januar",
         "2 Februar",
-        "",
+        " 3",
         "4 April",
         "5 Mai",
         "6 Juni",
@@ -1005,7 +1006,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Monat Beginn Beziehung mit Partner 3 (Frage 3)"
   },
@@ -1098,10 +1099,10 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Januar",
         "2 Februar",
-        "",
+        " 3",
         "4 April",
         "5 Mai",
         "6 Juni",
@@ -1120,7 +1121,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Monat Beginn Beziehung mit Partner 4 (Frage 3)"
   },
@@ -1134,58 +1135,58 @@
     "categories": {
       "frequencies": [
         0,
-        3,
-        2,
-        3,
-        2,
-        1,
-        36,
         0,
-        0
+        36,
+        3,
+        0,
+        2,
+        3,
+        2,
+        1
       ],
       "labels": [
-        "-1",
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
         "-2 No answer",
+        "-1",
         "2011",
         "2012",
         "2013",
-        "2014",
-        "-3 Does not apply",
-        "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value"
+        "2014"
       ],
       "missings": [
         true,
         true,
-        false,
-        false,
-        false,
-        false,
         true,
         true,
-        true
+        true,
+        false,
+        false,
+        false,
+        false
       ],
       "values": [
-        "-1",
+        "-5",
+        "-4",
+        "-3",
         "-2",
+        "-1",
         "2011",
         "2012",
         "2013",
-        "2014",
-        "-3",
-        "-4",
-        "-5"
+        "2014"
       ],
       "labels_de": [
-        "",
-        "-2 Keine Angabe",
-        "",
-        "",
-        "",
-        "",
-        "-3 Trifft nicht zu",
+        "-5 Inkonsistenter Wert",
         "-4 Filterfehler/ Fehleingabe",
-        "-5 Inkonsistenter Wert"
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
       ]
     },
     "statistics": {
@@ -1201,7 +1202,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Jahr Beginn Beziehung mit Partner 1 (Frage 3)"
   },
@@ -1215,48 +1216,48 @@
     "categories": {
       "frequencies": [
         0,
-        1,
-        1,
-        1,
-        44,
         0,
-        0
+        44,
+        1,
+        0,
+        1,
+        1
       ],
       "labels": [
-        "-1",
-        "-2 No answer",
-        "2012",
-        "2014",
-        "-3 Does not apply",
+        "-5 Inconsistent value",
         "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value"
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
+        "2012",
+        "2014"
       ],
       "missings": [
         true,
         true,
-        false,
-        false,
         true,
         true,
-        true
+        true,
+        false,
+        false
       ],
       "values": [
-        "-1",
-        "-2",
-        "2012",
-        "2014",
-        "-3",
+        "-5",
         "-4",
-        "-5"
+        "-3",
+        "-2",
+        "-1",
+        "2012",
+        "2014"
       ],
       "labels_de": [
-        "",
-        "-2 Keine Angabe",
-        "",
-        "",
-        "-3 Trifft nicht zu",
+        "-5 Inkonsistenter Wert",
         "-4 Filterfehler/ Fehleingabe",
-        "-5 Inkonsistenter Wert"
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "2012",
+        "2014"
       ]
     },
     "statistics": {
@@ -1272,7 +1273,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Jahr Beginn Beziehung mit Partner 2 (Frage 3)"
   },
@@ -1317,7 +1318,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        ""
+        "-1"
       ]
     },
     "statistics": {
@@ -1327,7 +1328,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Jahr Beginn Beziehung mit Partner 3 (Frage 3)"
   },
@@ -1372,7 +1373,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        ""
+        "-1"
       ]
     },
     "statistics": {
@@ -1382,7 +1383,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Jahr Beginn Beziehung mit Partner 4 (Frage 3)"
   },
@@ -1475,10 +1476,10 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Januar",
         "2 Februar",
-        "",
+        "3",
         "4 April",
         "5 Mai",
         "6 Juni",
@@ -1503,7 +1504,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Monat Ende Beziehung mit Partner 1 (Frage 4)"
   },
@@ -1596,10 +1597,10 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Januar",
         "2 Februar",
-        "",
+        "3",
         "4 April",
         "5 Mai",
         "6 Juni",
@@ -1624,7 +1625,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Monat Ende Beziehung mit Partner 2 (Frage 4)"
   },
@@ -1717,10 +1718,10 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Januar",
         "2 Februar",
-        "",
+        " 3",
         "4 April",
         "5 Mai",
         "6 Juni",
@@ -1739,7 +1740,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Monat Ende Beziehung mit Partner 3 (Frage 4)"
   },
@@ -1832,10 +1833,10 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Januar",
         "2 Februar",
-        "",
+        " 3",
         "4 April",
         "5 Mai",
         "6 Juni",
@@ -1854,7 +1855,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Monat Ende Beziehung mit Partner 4 (Frage 4)"
   },
@@ -1868,53 +1869,53 @@
     "categories": {
       "frequencies": [
         0,
-        4,
-        1,
-        1,
-        5,
-        36,
         0,
-        0
+        36,
+        4,
+        0,
+        1,
+        1,
+        5
       ],
       "labels": [
-        "-1",
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
         "-2 No answer",
+        "-1",
         "2011",
         "2012",
-        "2013",
-        "-3 Does not apply",
-        "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value"
+        "2013"
       ],
       "missings": [
         true,
         true,
-        false,
-        false,
-        false,
         true,
         true,
-        true
+        true,
+        false,
+        false,
+        false
       ],
       "values": [
-        "-1",
+        "-5",
+        "-4",
+        "-3",
         "-2",
+        "-1",
         "2011",
         "2012",
-        "2013",
-        "-3",
-        "-4",
-        "-5"
+        "2013"
       ],
       "labels_de": [
-        "",
-        "-2 Keine Angabe",
-        "",
-        "",
-        "",
-        "-3 Trifft nicht zu",
+        "-5 Inkonsistenter Wert",
         "-4 Filterfehler/ Fehleingabe",
-        "-5 Inkonsistenter Wert"
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "2011",
+        "2012",
+        "2013"
       ]
     },
     "statistics": {
@@ -1930,7 +1931,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Jahr Ende Beziehung mit Partner 1 (Frage 4)"
   },
@@ -1944,48 +1945,48 @@
     "categories": {
       "frequencies": [
         0,
-        1,
-        1,
-        1,
-        44,
         0,
-        0
+        44,
+        1,
+        0,
+        1,
+        1
       ],
       "labels": [
-        "-1",
-        "-2 No answer",
-        "2013",
-        "2014",
-        "-3 Does not apply",
+        "-5 Inconsistent value",
         "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value"
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
+        "2013",
+        "2014"
       ],
       "missings": [
         true,
         true,
-        false,
-        false,
         true,
         true,
-        true
+        true,
+        false,
+        false
       ],
       "values": [
-        "-1",
-        "-2",
-        "2013",
-        "2014",
-        "-3",
+        "-5",
         "-4",
-        "-5"
+        "-3",
+        "-2",
+        "-1",
+        "2013",
+        "2014"
       ],
       "labels_de": [
-        "",
-        "-2 Keine Angabe",
-        "",
-        "",
-        "-3 Trifft nicht zu",
+        "-5 Inkonsistenter Wert",
         "-4 Filterfehler/ Fehleingabe",
-        "-5 Inkonsistenter Wert"
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "2013",
+        "2014"
       ]
     },
     "statistics": {
@@ -2001,7 +2002,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Jahr Ende Beziehung mit Partner 2 (Frage 4)"
   },
@@ -2046,7 +2047,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        ""
+        "-1"
       ]
     },
     "statistics": {
@@ -2056,7 +2057,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Jahr Ende Beziehung mit Partner 3 (Frage 4)"
   },
@@ -2101,7 +2102,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        ""
+        "-1"
       ]
     },
     "statistics": {
@@ -2111,7 +2112,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Jahr Ende Beziehung mit Partner 4 (Frage 4)"
   },
@@ -2168,8 +2169,8 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Ja, heute wieder",
         "3 Nein"
       ]
@@ -2187,7 +2188,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Weitere Episode mit Partner 1 (Frage 5)"
   },
@@ -2244,8 +2245,8 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        "1",
         "2 Ja, heute wieder",
         "3 Nein"
       ]
@@ -2263,7 +2264,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Weitere Episode mit Partner 2 (Frage 5)"
   },
@@ -2320,8 +2321,8 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        " 1",
         "2 Ja, heute wieder",
         "3 Nein"
       ]
@@ -2333,7 +2334,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Weitere Episode mit Partner 3 (Frage 5)"
   },
@@ -2390,8 +2391,8 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        "",
+        "-1",
+        " 1",
         "2 Ja, heute wieder",
         "3 Nein"
       ]
@@ -2403,7 +2404,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Weitere Episode mit Partner 4 (Frage 5)"
   },
@@ -2456,7 +2457,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Durch Trennung",
         "3 Durch den Tod des Partners"
       ]
@@ -2474,7 +2475,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Grund Ende Beziehung Partner 1 (Frage 6)"
   },
@@ -2527,7 +2528,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Durch Trennung",
         "3 Durch den Tod des Partners"
       ]
@@ -2545,7 +2546,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Grund Ende Beziehung Partner 2 (Frage 6)"
   },
@@ -2598,7 +2599,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Durch Trennung",
         "3 Durch den Tod des Partners"
       ]
@@ -2610,7 +2611,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Grund Ende Beziehung Partner 3 (Frage 6)"
   },
@@ -2663,7 +2664,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Durch Trennung",
         "3 Durch den Tod des Partners"
       ]
@@ -2675,7 +2676,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Grund Ende Beziehung Partner 4 (Frage 6)"
   },
@@ -2720,7 +2721,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        ""
+        "-1"
       ]
     },
     "statistics": {
@@ -2730,7 +2731,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Anzahl weiterer Partnerschaften bis heute (Frage 7)"
   },
@@ -2783,7 +2784,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2801,7 +2802,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -2854,7 +2855,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2872,7 +2873,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -2925,7 +2926,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -2943,7 +2944,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -2996,7 +2997,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -3014,7 +3015,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -3067,7 +3068,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -3085,7 +3086,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -3138,7 +3139,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -3156,7 +3157,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -3209,7 +3210,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -3227,7 +3228,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -3280,7 +3281,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -3298,7 +3299,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -3351,7 +3352,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -3369,7 +3370,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -3422,7 +3423,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -3440,7 +3441,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -3493,7 +3494,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -3511,7 +3512,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -3564,7 +3565,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nicht genannt",
         "1 Genannt"
       ]
@@ -3582,7 +3583,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -3636,8 +3637,8 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
-        ""
+        "-1",
+        "1"
       ]
     },
     "statistics": {
@@ -3653,7 +3654,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -3746,16 +3747,16 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Bundesrepublik Deutschland",
-        "",
-        "",
+        "3",
+        "4",
         "5 Polen",
         "6 Italien",
         "7 Serbien",
         "8 Kroatien",
         "9 Griechenland",
-        "",
+        "10",
         "11 Kasachstan",
         "12 Bosnien-Herzegowina",
         "13 In einem anderen Land"
@@ -3774,7 +3775,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Geburtsland (Frage 9)"
   },
@@ -3828,7 +3829,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Land genannt"
       ]
     },
@@ -3845,7 +3846,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Anderes Geburtsland (Frage 9)"
   },
@@ -3958,7 +3959,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Berlin (West)",
         "1 Schleswig-Holstein",
         "2 Hamburg",
@@ -3967,14 +3968,14 @@
         "5 Nordrhein-Westfalen",
         "6 Hessen",
         "7 Rheinland-Pfalz",
-        "",
+        "8",
         "9 Bayern",
         "10 Berlin (Ost)",
         "11 Brandenburg",
         "12 Mecklenburg-Vorpommern",
         "13 Sachsen",
         "14 Sachsen-Anhalt",
-        "",
+        "15",
         "16 Saarland"
       ]
     },
@@ -3991,7 +3992,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Bundesland bei Geburt (Frage 10)"
   },
@@ -4004,84 +4005,84 @@
     "label": "Number of moves since birth (to date) (Question 11)",
     "categories": {
       "frequencies": [
+        0,
+        0,
+        0,
+        9,
+        0,
         5,
         17,
-        0,
         6,
-        9,
         2,
-        0,
         2,
-        0,
         2,
-        0,
         2,
         1,
         1
       ],
       "labels": [
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
         "0 No move",
         "1",
-        "-1",
         "2",
-        "-2 No answer",
         "3",
-        "-3 Does not apply",
         "4",
-        "-4 Filter error/ Incorrect entry",
         "5",
-        "-5 Inconsistent value",
         "6",
         "7",
         "9"
       ],
       "missings": [
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
         true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
+        false,
+        false,
         false,
         false,
         false
       ],
       "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
         "0",
         "1",
-        "-1",
         "2",
-        "-2",
         "3",
-        "-3",
         "4",
-        "-4",
         "5",
-        "-5",
         "6",
         "7",
         "9"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "-3 Trifft nicht zu",
-        "",
-        "-4 Filterfehler/ Fehleingabe",
-        "",
         "-5 Inkonsistenter Wert",
-        "",
-        "",
-        ""
+        "-4 Filterfehler/ Fehleingabe",
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "9"
       ]
     },
     "statistics": {
@@ -4097,7 +4098,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -4190,19 +4191,19 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Bei beiden leiblichen Eltern",
         "2 Bei der Mutter (ohne Partner)",
         "3 Bei der Mutter mit ihrem (neuen) Partner",
         "4 Beim Vater (ohne Partnerin)",
         "5 Beim Vater mit seiner (neuen) Partnerin",
-        "",
+        "6",
         "7 Bei einem Bruder oder einer Schwester",
         "8 Bei anderen Verwandten",
         "9 Bei Adoptiveltern",
         "10 Bei Pflegeeltern",
         "14 In einem Heim, einer betreuten Wohnung oder einem Internat",
-        ""
+        "15"
       ]
     },
     "statistics": {
@@ -4218,7 +4219,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Bei wem nach Geburt gelebt? (Frage 12)"
   },
@@ -4272,7 +4273,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Sonstiges genannt"
       ]
     },
@@ -4283,7 +4284,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Eingabe Sonstiges: Bei wem nach Geburt gelebt? (Frage 12)"
   },
@@ -4376,19 +4377,19 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Bei beiden leiblichen Eltern",
         "2 Bei der Mutter (ohne Partner)",
         "3 Bei der Mutter mit ihrem (neuen) Partner",
         "4 Beim Vater (ohne Partnerin)",
         "5 Beim Vater mit seiner (neuen) Partnerin",
-        "",
+        "6",
         "7 Bei einem Bruder oder einer Schwester",
         "8 Bei anderen Verwandten",
         "9 Bei Adoptiveltern",
         "10 Bei Pflegeeltern",
         "14 In einem Heim, einer betreuten Wohnung oder einem Internat",
-        ""
+        "15"
       ]
     },
     "statistics": {
@@ -4404,7 +4405,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -4497,19 +4498,19 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Bei beiden leiblichen Eltern",
         "2 Bei der Mutter (ohne Partner)",
         "3 Bei der Mutter mit ihrem (neuen) Partner",
         "4 Beim Vater (ohne Partnerin)",
         "5 Beim Vater mit seiner (neuen) Partnerin",
-        "",
+        "6",
         "7 Bei einem Bruder oder einer Schwester",
         "8 Bei anderen Verwandten",
         "9 Bei Adoptiveltern",
         "10 Bei Pflegeeltern",
         "14 In einem Heim, einer betreuten Wohnung oder einem Internat",
-        ""
+        "15"
       ]
     },
     "statistics": {
@@ -4525,7 +4526,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -4618,19 +4619,19 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Bei beiden leiblichen Eltern",
         "2 Bei der Mutter (ohne Partner)",
         "3 Bei der Mutter mit ihrem (neuen) Partner",
         "4 Beim Vater (ohne Partnerin)",
         "5 Beim Vater mit seiner (neuen) Partnerin",
-        "",
+        "6",
         "7 Bei einem Bruder oder einer Schwester",
         "8 Bei anderen Verwandten",
         "9 Bei Adoptiveltern",
         "10 Bei Pflegeeltern",
         "14 In einem Heim, einer betreuten Wohnung oder einem Internat",
-        ""
+        "15"
       ]
     },
     "statistics": {
@@ -4646,7 +4647,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -4739,19 +4740,19 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Bei beiden leiblichen Eltern",
         "2 Bei der Mutter (ohne Partner)",
         "3 Bei der Mutter mit ihrem (neuen) Partner",
         "4 Beim Vater (ohne Partnerin)",
         "5 Beim Vater mit seiner (neuen) Partnerin",
-        "",
+        "6",
         "7 Bei einem Bruder oder einer Schwester",
         "8 Bei anderen Verwandten",
         "9 Bei Adoptiveltern",
         "10 Bei Pflegeeltern",
         "14 In einem Heim, einer betreuten Wohnung oder einem Internat",
-        ""
+        "15"
       ]
     },
     "statistics": {
@@ -4767,7 +4768,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -4821,7 +4822,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Sonstiges genannt"
       ]
     },
@@ -4832,7 +4833,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -4886,7 +4887,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Sonstiges genannt"
       ]
     },
@@ -4903,7 +4904,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -4957,7 +4958,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Sonstiges genannt"
       ]
     },
@@ -4968,7 +4969,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -5022,7 +5023,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Sonstiges genannt"
       ]
     },
@@ -5033,7 +5034,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -5046,79 +5047,79 @@
     "label": "Age at that time? (change 1) (Question 13)",
     "categories": {
       "frequencies": [
-        4,
         0,
-        1,
-        1,
-        1,
-        2,
         0,
-        3,
         31,
         0,
         0,
+        4,
+        2,
+        3,
         1,
-        3
+        3,
+        1,
+        1,
+        1
       ],
       "labels": [
-        "1",
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
         "-1",
+        "1",
+        "2",
+        "3",
+        "7",
+        "8",
         "11",
         "12",
-        "14",
-        "2",
-        "-2 No answer",
-        "3",
-        "-3 Does not apply",
-        "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value",
-        "7",
-        "8"
+        "14"
       ],
       "missings": [
-        false,
-        true,
-        false,
-        false,
-        false,
-        false,
-        true,
-        false,
         true,
         true,
         true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "values": [
-        "1",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
         "-1",
+        "1",
+        "2",
+        "3",
+        "7",
+        "8",
         "11",
         "12",
-        "14",
-        "2",
-        "-2",
-        "3",
-        "-3",
-        "-4",
-        "-5",
-        "7",
-        "8"
+        "14"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "-3 Trifft nicht zu",
-        "-4 Filterfehler/ Fehleingabe",
         "-5 Inkonsistenter Wert",
-        "",
-        ""
+        "-4 Filterfehler/ Fehleingabe",
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "7",
+        "8",
+        "11",
+        "12",
+        "14"
       ]
     },
     "statistics": {
@@ -5134,7 +5135,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -5149,87 +5150,87 @@
       "frequencies": [
         0,
         1,
-        2,
-        1,
-        1,
-        1,
-        1,
         34,
-        1,
         1,
         0,
         1,
         1,
         1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
         1
       ],
       "labels": [
-        "-1",
-        "10",
-        "13",
-        "15",
-        "16",
-        "-2 No answer",
-        "3",
-        "-3 Does not apply",
-        "-4 Filter error/ Incorrect entry",
-        "5",
         "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
+        "3",
+        "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10",
+        "13",
+        "15",
+        "16"
       ],
       "missings": [
         true,
-        false,
-        false,
-        false,
-        false,
         true,
-        false,
+        true,
         true,
         true,
         false,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
         false
       ],
       "values": [
-        "-1",
-        "10",
-        "13",
-        "15",
-        "16",
-        "-2",
-        "3",
-        "-3",
-        "-4",
-        "5",
         "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "3",
+        "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10",
+        "13",
+        "15",
+        "16"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "-3 Trifft nicht zu",
-        "-4 Filterfehler/ Fehleingabe",
-        "",
         "-5 Inkonsistenter Wert",
-        "",
-        "",
-        "",
-        ""
+        "-4 Filterfehler/ Fehleingabe",
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "3",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "13",
+        "15",
+        "16"
       ]
     },
     "statistics": {
@@ -5245,7 +5246,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -5259,48 +5260,48 @@
     "categories": {
       "frequencies": [
         0,
-        1,
-        2,
-        1,
-        43,
         0,
-        0
+        43,
+        1,
+        0,
+        1,
+        2
       ],
       "labels": [
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
         "-1",
         "14",
-        "15",
-        "-2 No answer",
-        "-3 Does not apply",
-        "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value"
+        "15"
       ],
       "missings": [
         true,
+        true,
+        true,
+        true,
+        true,
         false,
-        false,
-        true,
-        true,
-        true,
-        true
+        false
       ],
       "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
         "-1",
         "14",
-        "15",
-        "-2",
-        "-3",
-        "-4",
-        "-5"
+        "15"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "-3 Trifft nicht zu",
+        "-5 Inkonsistenter Wert",
         "-4 Filterfehler/ Fehleingabe",
-        "-5 Inkonsistenter Wert"
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "14",
+        "15"
       ]
     },
     "statistics": {
@@ -5316,7 +5317,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -5330,43 +5331,43 @@
     "categories": {
       "frequencies": [
         0,
-        1,
-        1,
-        45,
         0,
-        0
+        45,
+        1,
+        0,
+        1
       ],
       "labels": [
-        "-1",
-        "16",
-        "-2 No answer",
-        "-3 Does not apply",
+        "-5 Inconsistent value",
         "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value"
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
+        "16"
       ],
       "missings": [
         true,
-        false,
         true,
         true,
         true,
-        true
+        true,
+        false
       ],
       "values": [
-        "-1",
-        "16",
-        "-2",
-        "-3",
+        "-5",
         "-4",
-        "-5"
+        "-3",
+        "-2",
+        "-1",
+        "16"
       ],
       "labels_de": [
-        "",
-        "",
-        "-2 Keine Angabe",
-        "-3 Trifft nicht zu",
+        "-5 Inkonsistenter Wert",
         "-4 Filterfehler/ Fehleingabe",
-        "-5 Inkonsistenter Wert"
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "16"
       ]
     },
     "statistics": {
@@ -5382,7 +5383,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -5397,77 +5398,77 @@
       "frequencies": [
         0,
         0,
-        16,
-        1,
+        0,
         1,
         0,
+        0,
+        1,
         2,
-        0,
         4,
-        0,
         2,
         10,
-        11
+        11,
+        16
       ],
       "labels": [
-        "0 Very dissatisfied",
-        "-1",
-        "10 Very satisfied",
-        "-2 No answer",
-        "3",
-        "-3 Does not apply",
-        "4",
-        "-4 Filter error/ Incorrect entry",
-        "5",
         "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
+        "0 Very dissatisfied",
+        "3",
+        "4",
+        "5",
         "7",
         "8",
-        "9"
+        "9",
+        "10 Very satisfied"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
+        true,
         true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "0",
-        "-1",
-        "10",
-        "-2",
-        "3",
-        "-3",
-        "4",
-        "-4",
-        "5",
         "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "3",
+        "4",
+        "5",
         "7",
         "8",
-        "9"
+        "9",
+        "10"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "-3 Trifft nicht zu",
-        "",
-        "-4 Filterfehler/ Fehleingabe",
-        "",
         "-5 Inkonsistenter Wert",
-        "",
-        "",
-        ""
+        "-4 Filterfehler/ Fehleingabe",
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "0",
+        "3",
+        "4",
+        "5",
+        "7",
+        "8",
+        "9",
+        "10"
       ]
     },
     "statistics": {
@@ -5483,7 +5484,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -5528,7 +5529,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        ""
+        "-1"
       ]
     },
     "statistics": {
@@ -5538,7 +5539,7 @@
     "scale": "",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -5551,59 +5552,59 @@
     "label": "Number of biological siblings (Question 15)",
     "categories": {
       "frequencies": [
-        16,
-        19,
-        0,
-        7,
         2,
         0,
-        1,
         0,
-        2
+        2,
+        0,
+        16,
+        19,
+        7,
+        1
       ],
       "labels": [
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
         "0 No",
         "1",
-        "-1",
         "2",
-        "-2 No answer",
-        "-3 Does not apply",
-        "4",
-        "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value"
+        "4"
       ],
       "missings": [
-        false,
-        false,
-        true,
-        false,
         true,
         true,
-        false,
         true,
-        true
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
       ],
       "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
         "0",
         "1",
-        "-1",
         "2",
-        "-2",
-        "-3",
-        "4",
-        "-4",
-        "-5"
+        "4"
       ],
       "labels_de": [
-        "0 Nein",
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "-3 Trifft nicht zu",
-        "",
+        "-5 Inkonsistenter Wert",
         "-4 Filterfehler/ Fehleingabe",
-        "-5 Inkonsistenter Wert"
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "0 Nein",
+        "1",
+        "2",
+        "4"
       ]
     },
     "statistics": {
@@ -5619,7 +5620,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Anzahl leibliche Geschwister (Frage 15)"
   },
@@ -5632,59 +5633,59 @@
     "label": "Number of half-siblings (Question 16)",
     "categories": {
       "frequencies": [
+        1,
+        0,
+        0,
+        3,
+        0,
         29,
         4,
-        0,
         5,
-        3,
-        5,
-        0,
-        0,
-        1
+        5
       ],
       "labels": [
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
         "0 No",
         "1",
-        "-1",
         "2",
-        "-2 No answer",
-        "3",
-        "-3 Does not apply",
-        "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value"
+        "3"
       ],
       "missings": [
-        false,
-        false,
-        true,
-        false,
-        true,
-        false,
         true,
         true,
-        true
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
       ],
       "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
         "0",
         "1",
-        "-1",
         "2",
-        "-2",
-        "3",
-        "-3",
-        "-4",
-        "-5"
+        "3"
       ],
       "labels_de": [
-        "0 Nein",
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "-3 Trifft nicht zu",
+        "-5 Inkonsistenter Wert",
         "-4 Filterfehler/ Fehleingabe",
-        "-5 Inkonsistenter Wert"
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "0 Nein",
+        "1",
+        "2",
+        "3"
       ]
     },
     "statistics": {
@@ -5700,7 +5701,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Anzahl Halbgeschwister (Frage 16)"
   },
@@ -5713,59 +5714,59 @@
     "label": "Number of stepsiblings (Question 17)",
     "categories": {
       "frequencies": [
+        0,
+        0,
+        0,
+        6,
+        0,
         33,
         4,
-        0,
         3,
-        6,
-        1,
-        0,
-        0,
-        0
+        1
       ],
       "labels": [
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
         "0 No",
         "1",
-        "-1",
         "2",
-        "-2 No answer",
-        "3",
-        "-3 Does not apply",
-        "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value"
+        "3"
       ],
       "missings": [
-        false,
-        false,
-        true,
-        false,
-        true,
-        false,
         true,
         true,
-        true
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
       ],
       "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
         "0",
         "1",
-        "-1",
         "2",
-        "-2",
-        "3",
-        "-3",
-        "-4",
-        "-5"
+        "3"
       ],
       "labels_de": [
-        "0 Nein",
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "-3 Trifft nicht zu",
+        "-5 Inkonsistenter Wert",
         "-4 Filterfehler/ Fehleingabe",
-        "-5 Inkonsistenter Wert"
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "0 Nein",
+        "1",
+        "2",
+        "3"
       ]
     },
     "statistics": {
@@ -5781,7 +5782,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Anzahl Stiefgeschwister (Frage 17)"
   },
@@ -5830,7 +5831,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nein"
       ]
     },
@@ -5847,7 +5848,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Anzahl Adoptivgeschwister (Frage 18)"
   },
@@ -5896,7 +5897,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Nein"
       ]
     },
@@ -5913,7 +5914,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Anzahl Pflegegeschwister (Frage 19)"
   },
@@ -5986,7 +5987,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja, und zwar der katholischen Kirche",
         "2 Ja, und zwar der evangelischen Kirche",
         "3 Ja, und zwar dem Islam",
@@ -6009,7 +6010,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -6078,7 +6079,7 @@
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Mehr als einmal in der Woche",
         "2 1mal in der Woche",
         "3 1 bis 3mal im Monat",
@@ -6100,7 +6101,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -6113,7 +6114,14 @@
     "label": "Age first kiss (Question 23)",
     "categories": {
       "frequencies": [
+        0,
+        0,
+        0,
+        7,
         3,
+        1,
+        1,
+        1,
         3,
         3,
         3,
@@ -6121,17 +6129,17 @@
         3,
         3,
         2,
-        7,
-        0,
-        1,
-        0,
-        1,
-        0,
-        1,
         9
       ],
       "labels": [
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 I don't want to answer that",
         "-1",
+        "4",
+        "5",
+        "6",
         "10",
         "11",
         "12",
@@ -6139,35 +6147,35 @@
         "14",
         "15",
         "16",
-        "-2 I don't want to answer that",
-        "-3 Does not apply",
-        "4",
-        "-4 Filter error/ Incorrect entry",
-        "5",
-        "-5 Inconsistent value",
-        "6",
         "97 Have no experience up to now"
       ],
       "missings": [
         true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
+        true,
+        true,
         true,
         true,
         false,
-        true,
         false,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
         "-1",
+        "4",
+        "5",
+        "6",
         "10",
         "11",
         "12",
@@ -6175,31 +6183,24 @@
         "14",
         "15",
         "16",
-        "-2",
-        "-3",
-        "4",
-        "-4",
-        "5",
-        "-5",
-        "6",
         "97"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Trifft nicht zu",
-        "",
-        "-4 Filterfehler/ Fehleingabe",
-        "",
         "-5 Inkonsistenter Wert",
-        "",
+        "-4 Filterfehler/ Fehleingabe",
+        "-3 Trifft nicht zu",
+        "-2",
+        "-1",
+        "4",
+        "5",
+        "6",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
         "97 Hatte ich bisher nicht"
       ]
     },
@@ -6216,7 +6217,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Alter erster Kuss (Frage 23)"
   },
@@ -6229,63 +6230,63 @@
     "label": "Age first petting (Question 23)",
     "categories": {
       "frequencies": [
+        0,
+        0,
+        0,
+        11,
         3,
         4,
         5,
         5,
         4,
-        11,
-        0,
-        0,
-        0,
         15
       ],
       "labels": [
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 I don't want to answer that",
         "-1",
         "13",
         "14",
         "15",
         "16",
-        "-2 I don't want to answer that",
-        "-3 Does not apply",
-        "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value",
         "97 Have no experience up to now"
       ],
       "missings": [
         true,
-        false,
-        false,
-        false,
-        false,
         true,
         true,
         true,
         true,
+        false,
+        false,
+        false,
+        false,
         false
       ],
       "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
         "-1",
         "13",
         "14",
         "15",
         "16",
-        "-2",
-        "-3",
-        "-4",
-        "-5",
         "97"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Trifft nicht zu",
-        "-4 Filterfehler/ Fehleingabe",
         "-5 Inkonsistenter Wert",
+        "-4 Filterfehler/ Fehleingabe",
+        "-3 Trifft nicht zu",
+        "-2",
+        "-1",
+        "13",
+        "14",
+        "15",
+        "16",
         "97 Hatte ich bisher nicht"
       ]
     },
@@ -6302,7 +6303,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Alter erstes Petting (Frage 23)"
   },
@@ -6315,63 +6316,63 @@
     "label": "Age first sexual intercourse (Question 23)",
     "categories": {
       "frequencies": [
+        0,
+        0,
+        0,
+        10,
         1,
         4,
         3,
         6,
         7,
-        10,
-        0,
-        0,
-        0,
         16
       ],
       "labels": [
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 I don't want to answer that",
         "-1",
         "13",
         "14",
         "15",
         "16",
-        "-2 I don't want to answer that",
-        "-3 Does not apply",
-        "-4 Filter error/ Incorrect entry",
-        "-5 Inconsistent value",
         "97 Have no experience up to now"
       ],
       "missings": [
         true,
-        false,
-        false,
-        false,
-        false,
         true,
         true,
         true,
         true,
+        false,
+        false,
+        false,
+        false,
         false
       ],
       "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
         "-1",
         "13",
         "14",
         "15",
         "16",
-        "-2",
-        "-3",
-        "-4",
-        "-5",
         "97"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-3 Trifft nicht zu",
-        "-4 Filterfehler/ Fehleingabe",
         "-5 Inkonsistenter Wert",
+        "-4 Filterfehler/ Fehleingabe",
+        "-3 Trifft nicht zu",
+        "-2",
+        "-1",
+        "13",
+        "14",
+        "15",
+        "16",
         "97 Hatte ich bisher nicht"
       ]
     },
@@ -6388,7 +6389,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Alter erster Geschlechtsverkehr (Frage 23)"
   },
@@ -6444,11 +6445,11 @@
         "-5 Inkonsistenter Wert",
         "-4 Filterfehler/ Fehleingabe",
         "-3 Trifft nicht zu",
-        "",
-        "",
-        "",
+        "-2",
+        "-1",
+        "1",
         "2 Frauen",
-        ""
+        "3"
       ]
     },
     "statistics": {
@@ -6464,7 +6465,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   },
@@ -6479,67 +6480,67 @@
       "frequencies": [
         0,
         0,
-        23,
+        0,
         0,
         0,
         0,
         2,
-        0,
         6,
         5,
-        11
+        11,
+        23
       ],
       "labels": [
-        "0 Not important at all",
-        "-1",
-        "10 Very important",
-        "-2 No answer",
-        "-3 Does not apply",
-        "-4 Filter error/ Incorrect entry",
-        "5",
         "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
+        "0 Not important at all",
+        "5",
         "7",
         "8",
-        "9"
+        "9",
+        "10 Very important"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
+        true,
         true,
         false,
-        true,
-        true,
-        true,
         false,
-        true,
+        false,
         false,
         false,
         false
       ],
       "values": [
-        "0",
-        "-1",
-        "10",
-        "-2",
-        "-3",
-        "-4",
-        "5",
         "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "5",
         "7",
         "8",
-        "9"
+        "9",
+        "10"
       ],
       "labels_de": [
-        "",
-        "",
-        "10 Sehr wichtig",
-        "-2 Keine Angabe",
-        "-3 Trifft nicht zu",
-        "-4 Filterfehler/ Fehleingabe",
-        "",
         "-5 Inkonsistenter Wert",
-        "",
-        "",
-        ""
+        "-4 Filterfehler/ Fehleingabe",
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "0",
+        "5",
+        "7",
+        "8",
+        "9",
+        "10 Sehr wichtig"
       ]
     },
     "statistics": {
@@ -6555,7 +6556,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Zukunft: Wichtigkeit, beruflich etwas zu erreichen (Frage 25)"
   },
@@ -6568,84 +6569,84 @@
     "label": "Future: Importance to have children (Question 25)",
     "categories": {
       "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        11,
         5,
-        0,
-        0,
         2,
-        0,
         5,
-        0,
         3,
         1,
         7,
-        12
+        12,
+        11
       ],
       "labels": [
-        "0 Not important at all",
-        "-1",
-        "10 Very important",
-        "2",
-        "-2 No answer",
-        "-3 Does not apply",
-        "4",
-        "-4 Filter error/ Incorrect entry",
-        "5",
         "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
+        "0 Not important at all",
+        "2",
+        "4",
+        "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10 Very important"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
+        true,
         true,
         false,
         false,
-        true,
-        true,
         false,
-        true,
         false,
-        true,
+        false,
         false,
         false,
         false,
         false
       ],
       "values": [
-        "0",
-        "-1",
-        "10",
-        "2",
-        "-2",
-        "-3",
-        "4",
-        "-4",
-        "5",
         "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "2",
+        "4",
+        "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10"
       ],
       "labels_de": [
-        "",
-        "",
-        "10 Sehr wichtig",
-        "",
-        "-2 Keine Angabe",
-        "-3 Trifft nicht zu",
-        "",
-        "-4 Filterfehler/ Fehleingabe",
-        "",
         "-5 Inkonsistenter Wert",
-        "",
-        "",
-        "",
-        ""
+        "-4 Filterfehler/ Fehleingabe",
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "0",
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 Sehr wichtig"
       ]
     },
     "statistics": {
@@ -6661,7 +6662,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "Zukunft: Wichtigkeit, Kinder zu haben (Frage 25)"
   },
@@ -6675,93 +6676,93 @@
     "categories": {
       "frequencies": [
         0,
-        1,
         0,
-        9,
-        1,
         0,
+        0,
+        0,
+        0,
+        1,
+        1,
         3,
-        0,
         1,
-        0,
         7,
-        0,
         4,
         10,
         8,
-        3
+        3,
+        9
       ],
       "labels": [
+        "-5 Inconsistent value",
+        "-4 Filter error/ Incorrect entry",
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1",
         "0 Not important at all",
         "1",
-        "-1",
-        "10 Very important",
         "2",
-        "-2 No answer",
         "3",
-        "-3 Does not apply",
         "4",
-        "-4 Filter error/ Incorrect entry",
         "5",
-        "-5 Inconsistent value",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10 Very important"
       ],
       "missings": [
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
         true,
         false,
         false,
-        true,
         false,
-        true,
         false,
-        true,
         false,
-        true,
+        false,
+        false,
         false,
         false,
         false,
         false
       ],
       "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
         "0",
         "1",
-        "-1",
-        "10",
         "2",
-        "-2",
         "3",
-        "-3",
         "4",
-        "-4",
         "5",
-        "-5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "10 Sehr wichtig",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "-3 Trifft nicht zu",
-        "",
-        "-4 Filterfehler/ Fehleingabe",
-        "",
         "-5 Inkonsistenter Wert",
-        "",
-        "",
-        "",
-        ""
+        "-4 Filterfehler/ Fehleingabe",
+        "-3 Trifft nicht zu",
+        "-2 Keine Angabe",
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 Sehr wichtig"
       ]
     },
     "statistics": {
@@ -6777,7 +6778,7 @@
     "scale": "cat",
     "analysis_unit": "anchor",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave7",
     "label_de": "NA"
   }

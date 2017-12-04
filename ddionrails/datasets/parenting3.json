@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -37,7 +38,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Personennummer Anker"
   },
@@ -52,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -81,7 +83,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Personennummer Partner"
   },
@@ -96,7 +98,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -123,7 +126,7 @@
     "scale": "",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Personennummer Kind"
   },
@@ -174,7 +177,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Erhebungsjahr"
   },
@@ -235,7 +238,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Drop-Off Version: Befragte Person?"
   },
@@ -292,10 +295,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -316,7 +319,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Sie zeigen Ihrem Kind mit Worten und Gesten, dass Sie es gerne haben (Frage 1)"
   },
@@ -373,10 +376,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -397,7 +400,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -454,10 +457,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -478,7 +481,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Sie kritisieren Ihr Kind (Frage 1)"
   },
@@ -535,10 +538,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -559,7 +562,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -616,10 +619,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -640,7 +643,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -697,10 +700,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -721,7 +724,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -778,10 +781,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -802,7 +805,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -859,10 +862,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -883,7 +886,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Sie schreien Ihr Kind an, wenn es etwas falsch gemacht hat (Frage 1)"
   },
@@ -940,10 +943,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -964,7 +967,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Wenn Kind unterwegs war, fragen Sie nach, was es getan und erlebt hat (Frage 1)"
   },
@@ -1021,10 +1024,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -1045,7 +1048,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Es gibt Tage, an denen Sie strenger sind als an anderen (Frage 1)"
   },
@@ -1102,10 +1105,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -1126,7 +1129,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1183,10 +1186,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -1207,7 +1210,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Wenn Ihr Kind neue Freunde hat, lernen Sie sie auch bald kennen (Frage 1)"
   },
@@ -1264,10 +1267,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -1288,7 +1291,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Sie drohen Ihrem Kind eine Strafe an, strafen es dann aber doch nicht (Frage 1)"
   },
@@ -1345,10 +1348,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -1369,7 +1372,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Sie loben Ihr Kind (Frage 1)"
   },
@@ -1418,10 +1421,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -1440,7 +1443,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1489,10 +1492,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -1511,7 +1514,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1560,10 +1563,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -1582,7 +1585,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1631,10 +1634,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -1653,7 +1656,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1702,10 +1705,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -1724,7 +1727,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "SDQ: Im Allgemeinen folgsam; macht meist, was Erwachsene verlangen (Frage 2)"
   },
@@ -1773,10 +1776,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -1795,7 +1798,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1844,10 +1847,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -1866,7 +1869,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -1915,10 +1918,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -1937,7 +1940,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "SDQ: Streitet sich oft mit anderen Kindern oder schikaniert sie (Frage 2)"
   },
@@ -1986,10 +1989,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -2008,7 +2011,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2057,10 +2060,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -2079,7 +2082,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2128,10 +2131,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -2150,7 +2153,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2199,10 +2202,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -2221,7 +2224,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2270,10 +2273,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -2292,7 +2295,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "SDQ: Hilft anderen oft freiwillig (Eltern, Lehrern, anderen Kindern) (Frage 2)"
   },
@@ -2341,10 +2344,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -2363,7 +2366,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "SDQ: Stiehlt zu Hause, in der Schule oder anderswo (Frage 2)"
   },
@@ -2412,10 +2415,10 @@
         "2"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Trifft nicht zu",
         "1 Trifft teilweise zu",
         "2 Trifft eindeutig zu"
@@ -2434,7 +2437,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2447,59 +2450,59 @@
     "label": "When my child disobeys and breaks rules, he/she just wants to annoy me (Qu. 3)",
     "categories": {
       "frequencies": [
-        664,
-        27,
-        386,
+        0,
+        0,
         14,
+        27,
+        664,
+        386,
         233,
         63,
-        0,
-        21,
-        0
+        21
       ],
       "labels": [
-        "1 Not at all",
-        "-1 Don't know",
-        "2",
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
         "-2 No answer",
+        "-1 Don't know",
+        "1 Not at all",
+        "2",
         "3",
         "4",
-        "-4 Incorrect entry",
-        "5 Absolutely",
-        "-9 Invalid multiple answer"
+        "5 Absolutely"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
         true,
         false,
-        true,
         false,
         false,
-        true,
         false,
-        true
+        false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
+        "-9",
+        "-4",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4",
-        "-4",
-        "5",
-        "-9"
+        "5"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "",
+        "-9",
         "-4 Fehleingabe",
-        "5 Trifft voll und ganz zu",
-        ""
+        "-2 Keine Angabe",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5 Trifft voll und ganz zu"
       ]
     },
     "statistics": {
@@ -2515,7 +2518,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2528,59 +2531,59 @@
     "label": "If there are problems with way I raise my child, it's my child's fault (Qu. 3)",
     "categories": {
       "frequencies": [
-        743,
-        22,
-        419,
+        1,
+        0,
         14,
+        22,
+        743,
+        419,
         193,
         12,
-        0,
-        4,
-        1
+        4
       ],
       "labels": [
-        "1 Not at all",
-        "-1 Don't know",
-        "2",
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
         "-2 No answer",
+        "-1 Don't know",
+        "1 Not at all",
+        "2",
         "3",
         "4",
-        "-4 Incorrect entry",
-        "5 Absolutely",
-        "-9 Invalid multiple answer"
+        "5 Absolutely"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
         true,
         false,
-        true,
         false,
         false,
-        true,
         false,
-        true
+        false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
+        "-9",
+        "-4",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4",
-        "-4",
-        "5",
-        "-9"
+        "5"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "",
+        "-9",
         "-4 Fehleingabe",
-        "5 Trifft voll und ganz zu",
-        ""
+        "-2 Keine Angabe",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5 Trifft voll und ganz zu"
       ]
     },
     "statistics": {
@@ -2596,7 +2599,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Wenn es Probleme in der Erziehung gibt, liegt das an meinem Kind (Frage 3)"
   },
@@ -2609,59 +2612,59 @@
     "label": "It seems to me when my child misbehaves, he/she does it with purpose (Qu. 3)",
     "categories": {
       "frequencies": [
-        822,
-        22,
-        383,
+        1,
+        0,
         15,
+        22,
+        822,
+        383,
         145,
         12,
-        0,
-        8,
-        1
+        8
       ],
       "labels": [
-        "1 Not at all",
-        "-1 Don't know",
-        "2",
+        "-9 Invalid multiple answer",
+        "-4 Incorrect entry",
         "-2 No answer",
+        "-1 Don't know",
+        "1 Not at all",
+        "2",
         "3",
         "4",
-        "-4 Incorrect entry",
-        "5 Absolutely",
-        "-9 Invalid multiple answer"
+        "5 Absolutely"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
         true,
         false,
-        true,
         false,
         false,
-        true,
         false,
-        true
+        false
       ],
       "values": [
-        "1",
-        "-1",
-        "2",
+        "-9",
+        "-4",
         "-2",
+        "-1",
+        "1",
+        "2",
         "3",
         "4",
-        "-4",
-        "5",
-        "-9"
+        "5"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
-        "",
+        "-9",
         "-4 Fehleingabe",
-        "5 Trifft voll und ganz zu",
-        ""
+        "-2 Keine Angabe",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5 Trifft voll und ganz zu"
       ]
     },
     "statistics": {
@@ -2677,7 +2680,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2734,10 +2737,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -2758,7 +2761,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -2815,10 +2818,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -2839,7 +2842,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Die Dinge, die Ihr Kind tut, werden von Ihnen anerkannt (Frage 4)"
   },
@@ -2896,10 +2899,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -2920,7 +2923,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Ihr Kind bringt Sie dazu, dass Sie sich nach ihm richten (Frage 4)"
   },
@@ -2977,10 +2980,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -3001,7 +3004,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -3058,10 +3061,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -3082,7 +3085,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "Sie und Ihr Kind sind unterschiedlicher Meinung und streiten sich (Frage 4)"
   },
@@ -3139,10 +3142,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -3163,7 +3166,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   },
@@ -3220,10 +3223,10 @@
         "5"
       ],
       "labels_de": [
-        "",
+        "-9",
         "-4 Fehleingabe",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Nie",
         "2 Selten",
         "3 Manchmal",
@@ -3244,7 +3247,7 @@
     "scale": "cat",
     "analysis_unit": "parent",
     "sub_type": "org/net",
-    "boost": "None",
+    "boost": "1",
     "period": "wave3",
     "label_de": "NA"
   }

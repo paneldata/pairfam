@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -182,7 +183,7 @@
       "labels_de": [
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "0 Berlin (West)",
         "1 Schleswig-Holstein",
         "2 Hamburg",
@@ -191,14 +192,14 @@
         "5 Nordrhein-Westfalen",
         "6 Hessen",
         "7 Rheinland-Pfalz",
-        "",
+        "8",
         "9 Bayern",
         "10 Berlin (Ost)",
         "11 Brandenburg",
         "12 Mecklenburg-Vorpommern",
         "13 Sachsen",
         "14 Sachsen-Anhalt",
-        "",
+        "15",
         "16 Saarland",
         "18 Nicht in Deutschland geboren"
       ]
@@ -225,55 +226,55 @@
     "label": "Number of moves until 18th birthday (Qu. 2)",
     "categories": {
       "frequencies": [
+        0,
+        1,
+        9,
         370,
         266,
-        9,
-        6,
-        1,
-        3,
-        1,
         203,
-        1,
         156,
-        0,
         60,
         54,
         19,
         13,
         9,
-        2
+        2,
+        6,
+        1,
+        3,
+        1
       ],
       "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
         "0 No move",
         "1",
-        "-1 Don't know",
-        "10",
-        "11",
-        "12",
-        "13",
         "2",
-        "-2 No answer",
         "3",
-        "-3 Does not apply",
         "4",
         "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
       ],
       "missings": [
-        false,
-        false,
+        true,
+        true,
         true,
         false,
         false,
         false,
         false,
         false,
-        true,
         false,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -282,42 +283,42 @@
         false
       ],
       "values": [
+        "-3",
+        "-2",
+        "-1",
         "0",
         "1",
-        "-1",
-        "10",
-        "11",
-        "12",
-        "13",
         "2",
-        "-2",
         "3",
-        "-3",
         "4",
         "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
         "-3 Trifft nicht zu",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "-2 Keine Angabe",
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
       ]
     },
     "statistics": {
@@ -342,46 +343,46 @@
     "label": "Assessment childhood (Qu. 3)",
     "categories": {
       "frequencies": [
+        0,
+        0,
+        0,
         8,
         7,
-        0,
-        327,
         9,
-        0,
         21,
-        0,
         30,
         60,
         62,
         136,
         257,
-        256
+        256,
+        327
       ],
       "labels": [
+        "-3 Does not apply",
+        "-2 No answer",
+        "-1 Don't know",
         "0 Not happy at all",
         "1",
-        "-1 Don't know",
-        "10 Very happy",
         "2",
-        "-2 No answer",
         "3",
-        "-3 Does not apply",
         "4",
         "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10 Very happy"
       ],
       "missings": [
-        false,
-        false,
+        true,
+        true,
         true,
         false,
         false,
-        true,
         false,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -390,36 +391,36 @@
         false
       ],
       "values": [
+        "-3",
+        "-2",
+        "-1",
         "0",
         "1",
-        "-1",
-        "10",
         "2",
-        "-2",
         "3",
-        "-3",
         "4",
         "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10"
       ],
       "labels_de": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "-2 Keine Angabe",
-        "",
         "-3 Trifft nicht zu",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "-2 Keine Angabe",
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
       ]
     },
     "statistics": {
@@ -474,7 +475,7 @@
       "labels_de": [
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -567,18 +568,18 @@
       "labels_de": [
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "2 Bei der Mutter (ohne Partner)",
         "3 Bei der Mutter und ihrem (neuen) Partner",
         "4 Beim Vater (ohne Partnerin)",
         "5 Beim Vater und seiner (neuen) Partnerin",
-        "",
+        "6",
         "7 Bei einem Bruder oder einer Schwester",
         "8 Bei anderen Verwandten",
         "9 Bei Adoptiveltern",
         "10 Bei Pflegeeltern",
         "14 In einem Heim, einer betreuten Wohnung oder einem Internat",
-        ""
+        "15"
       ]
     },
     "statistics": {
@@ -633,7 +634,7 @@
       "labels_de": [
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -690,7 +691,7 @@
       "labels_de": [
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -747,7 +748,7 @@
       "labels_de": [
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -804,7 +805,7 @@
       "labels_de": [
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -861,7 +862,7 @@
       "labels_de": [
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -918,7 +919,7 @@
       "labels_de": [
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -975,7 +976,7 @@
       "labels_de": [
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -1032,7 +1033,7 @@
       "labels_de": [
         "-3 Trifft nicht zu",
         "-2 Keine Angabe",
-        "",
+        "-1",
         "1 Ja",
         "2 Nein"
       ]
@@ -1061,7 +1062,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1099,7 +1101,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1137,7 +1140,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
