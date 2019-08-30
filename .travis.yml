@@ -1,0 +1,37 @@
+dist: bionic
+language: python
+python: "3.7"
+git:
+  depth: 1 # clone only latest revision of repository
+cache:
+  - pip
+install:
+  - pip install git+https://github.com/paneldata/data-specification
+jobs:
+  include:
+    - stage: metadata
+      before_script: cd metadata
+      script:
+        # Infer a "datapackage.json" from the metadata/ directory
+        - ddionrails-datapackage infer .
+        # Validate the inferred "datapackage.json"
+        - goodtables validate datapackage.json --order-fields --error-limit=-1 --row-limit=-1
+        # TODO: Validate study.md as well
+        # ddionrails-datapackage validate study.md
+    - stage: ddionrails
+      # TODO: run preprocessing pipeline here!
+      before_script: cd ddionrails
+      script:
+        # Infer a "datapackage.json" from the ddionrails/ directory
+        - ddionrails-datapackage infer . --strict
+        - goodtables validate datapackage.json --order-fields --error-limit=-1 --row-limit=-1
+        # TODO: Validate created files as well (using jsonschema ?):
+        # jsonschema -i datasets/*.json --schema TODO
+        # jsonschema -i instruments/*.json --schema TODO
+      after_success:
+        # TODO push changes back to GitHub?
+        - git config --global user.email "travis@travis-ci.org"
+        - git config --global user.name "Travis CI"
+        - git status
+        - git add .
+        - git status
