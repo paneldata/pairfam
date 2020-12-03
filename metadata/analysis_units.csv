@@ -1,5 +1,5 @@
 study,name,label,label_de,description,description_de,,
-pairfam,anchor,Anchor respondent,Ankerperson ,Main respondent,Hauptbefragte/r,,
+pairfam,anchor,Main anchor respondent,Ankerperson ,Main respondent,Hauptbefragte/r,,
 pairfam,partner,Anchor respondent's partner,Partner der Ankerperson,Main respondent's current partner ,Aktuelle/r Partner/in der Ankerperson,,
 pairfam,child,Anchor respondent's child,Kind der Ankerperson,Main respondent's child ,Kind der Ankerperson,,
 pairfam,parent,Anchor respondent's parent,Elternteil der Ankerperson,Main respondent's parent,Elternteil der Ankerperson,,
