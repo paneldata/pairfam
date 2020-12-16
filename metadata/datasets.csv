@@ -1,66 +1,93 @@
-dataset_name,label,period_name,analysis_unit_name,conceptual_dataset_name
-anchor1,"anchor data, pairfam main sample, wave 1 (2008/09)",wave1,anchor,org/net
-anchor1_DD,"anchor data, DemoDiff subsample, wave 1 (2009/10)",wave1,anchor,org/net
-anchor2,"anchor data, pairfam main sample, wave 2 (2009/10)",wave2,anchor,org/net
-anchor2_DD,"anchor data, DemoDiff subsample (childhood history), wave 2 (2010/11)",wave2,anchor,org/net
-anchor3,"anchor data, wave 3 (2010/11)",wave3,anchor,org/net
-anchor4,"anchor data, wave 4 (2011/12)",wave4,anchor,org/net
-anchor5,"anchor data, wave 5 (2012/13)",wave5,anchor,org/net
-anchor6,"anchor data, wave 6 (2013/14)",wave6,anchor,org/net
-anchor7,"anchor data, wave 7 (2014/15)",wave7,anchor,org/net
-anchor8,"anchor data, wave 8 (2015/16)",wave8,anchor,org/net
-bioact,anchor’s activities (education & employment) as of wave 1 (prospective),cumulative,anchor,org/net
-bioact_rtr,anchor’s activities (education & employment) starting from the age of 18 up to wave 1 (retrospective),retrospective,anchor,org/net
-biochild,anchor’s children and episodes of cohabitation with these children (retrospective and prospective),cumulative,anchor,org/net
-biomob_ehc,anchor’s residences as of wave 1 (prospective; separate cities only),cumulative,anchor,org/net
-biomob_ehc_moves,anchor’s residences as of wave 1 (prospective; moves within cities),cumulative,anchor,org/net
-biomob_rtr,anchor’s main residences from the age of 18 up to wave 1 (retrospective),retrospective,anchor,org/net
-biomob_rtr_parents,anchor’s residency episodes within the parental household (retrospective),retrospective,anchor,org/net
-bioparent,"anchor’s biological, adoptive, and stepparents (retrospective and prospective)",cumulative,anchor,org/net
-biopart,"anchor’s partnership, cohabitation, and marriage episodes (retrospective and prospective)",cumulative,anchor,org/net
-child2,"child data, wave 2 (2009/10)",wave2,child,org/net
-child3,"child data, wave 3 (2010/11)",wave3,child,org/net
-child4,"child data, wave 4 (2011/12)",wave4,child,org/net
-child5,"child data, wave 5 (2012/13)",wave5,child,org/net
-child6,"child data, wave 6 (2013/14)",wave6,child,org/net
-child7,"child data, wave 7 (2014/15)",wave7,child,org/net
-child8,"child data, wave 8 (2015/16)",wave8,child,org/net
-household,"anchor’s main residence, household members, household income (wave 2 & 3)",cumulative,household,org/net
-Overview_multi_actor,"participation patterns anchor, partner, child, parenting, and parent survey",cumulative,all,
-parent2,"parent data, wave 2 (2009/10)",wave2,parent,org/net
-parent3,"parent data, wave 3 (2010/11)",wave3,parent,org/net
-parent4,"parent data, wave 4 (2011/12)",wave4,parent,org/net
-parent5,"parent data, wave 5 (2012/13)",wave5,parent,org/net
-parent6,"parent data, wave 6 (2013/14)",wave6,parent,org/net
-parent7,"parent data, wave 7 (2014/15)",wave7,parent,org/net
-parent8,"parent data, wave 8 (2015/16)",wave8,parent,org/net
-parenting2,"parenting data, wave 2 (2009/10)",wave2,parent,org/net
-parenting3,"parenting data, wave 3 (2010/11)",wave3,parent,org/net
-parenting4,"parenting data, wave 4 (2011/12)",wave4,parent,org/net
-parenting5,"parenting data, wave 5 (2012/13)",wave5,parent,org/net
-parenting6,"parenting data, wave 6 (2013/14)",wave6,parent,org/net
-parenting7,"parenting data, wave 7 (2014/15)",wave7,parent,org/net
-parenting8,"parenting data, wave 8 (2015/16)",wave8,parent,org/net
-partner1,"partner data, pairfam main sample, wave 1 (2008/09)",wave1,partner,org/net
-partner1_DD,"partner data, DemoDiff subsample, wave 1 (2009/10)",wave1,partner,org/net
-partner2,"partner data, pairfam main sample, wave 2 (2009/10)",wave2,partner,org/net
-partner3,"partner data, wave 3 (2010/11)",wave3,partner,org/net
-partner4,"partner data, wave 4 (2011/12)",wave4,partner,org/net
-partner5,"partner data, wave 5 (2012/13)",wave5,partner,org/net
-partner6,"partner data, wave 6 (2013/14)",wave6,partner,org/net
-partner7,"partner data, wave 7 (2014/15)",wave7,partner,org/net
-partner8,"partner data, wave 8 (2015/16)",wave8,partner,org/net
-stepup_anchor4,"step-up anchor data, wave 4 (2011/12)",wave4,anchor,org/net
-stepup_anchor5,"step-up anchor data, wave 5 (2012/13)",wave5,anchor,org/net
-stepup_anchor6,"step-up anchor data, wave 6 (2013/14)",wave6,anchor,org/net
-stepup_anchor7,"step-up anchor data, wave 7 (2014/15)",wave7,anchor,org/net
-stepup_partner4,"step-up partner data, wave 4 (2011/12)",wave4,anchor,org/net
-stepup_partner5,"step-up partner data, wave 5 (2012/13)",wave5,anchor,org/net
-stepup_partner6,"step-up partner data, wave 6 (2013/14)",wave6,anchor,org/net
-stepup_partner7,"step-up partner data, wave 7 (2014/15)",wave7,anchor,org/net
-stepup_partner8,"step-up partner data, wave 8 (2015/16)",wave8,anchor,org/net
-stepup_transition_anchor4,"step-up anchor data, transitional PAPI questionnaire, wave 4 (2011/12)",wave4,anchor,org/net
-stepup_transition_anchor5,"step-up anchor data, transitional PAPI questionnaire, wave 5 (2012/13)",wave5,anchor,org/net
-stepup_transition_anchor6,"step-up anchor data, transitional PAPI questionnaire, wave 6 (2013/14)",wave6,anchor,org/net
-stepup_transition_anchor7,"step-up anchor data, transitional PAPI questionnaire, wave 7 (2014/15)",wave7,anchor,org/net
-stepup_transition_anchor8,"step-up anchor data, transitional PAPI questionnaire, wave 8 (2015/16)",wave8,anchor,org/net
+study,name,label,label_de,description,description_de,analysis_unit,period
+pairfam,anchor1 ,"Anchor data, Wave1","Ankerdaten, Welle1","Anchor data, Wave 1 (2008/09)","Ankerdaten, Welle 1 (2008/09)",anchor,wave1
+pairfam,anchor1_DD,"Anchor data (DemoDiff), Wave1","Ankerdaten (DemoDiff), Welle1","Anchor data, DemoDiff subsample, Wave 1 (2009/10)","Ankerdaten, DemoDiff Stichprobe, Welle 1 (2009/10)",anchor,wave1
+pairfam,anchor2,"Anchor data, Wave2","Ankerdaten, Welle2","Anchor data, Wave 2 (2009/10)","Ankerdaten, Welle 2 (2009/10)",anchor,wave2
+pairfam,anchor2_DD,"Anchor data (DemoDiff), Wave2","Ankerdaten (DemoDiff), Welle2","Anchor data, DemoDiff subsample (childhood history), Wave 2 (2010/11)","Ankerdaten, DemoDiff Stichprobe (Kindheitsgeschichte), Welle 2 (2010/11)",anchor,wave2
+pairfam,anchor3,"Anchor data, Wave3","Ankerdaten, Welle3","Anchor data, Wave 3 (2010/11)","Ankerdaten, Welle 3 (2010/11)",anchor,wave3
+pairfam,anchor4,"Anchor data, Wave4","Ankerdaten, Welle4","Anchor data, Wave 4 (2011/12)","Ankerdaten, Welle 4 (2011/12)",anchor,wave4
+pairfam,anchor5,"Anchor data, Wave5","Ankerdaten, Welle5","Anchor data, Wave 5 (2012/13)","Ankerdaten, Welle 5 (2012/13)",anchor,wave5
+pairfam,anchor6,"Anchor data, Wave6","Ankerdaten, Welle6","Anchor data, Wave 6 (2013/14)","Ankerdaten, Welle 6 (2013/14)",anchor,wave6
+pairfam,anchor7,"Anchor data, Wave7","Ankerdaten, Welle7","Anchor data, Wave 7 (2014/15)","Ankerdaten, Welle 7 (2014/15)",anchor,wave7
+pairfam,anchor8,"Anchor data, Wave8","Ankerdaten, Welle8","Anchor data, Wave 8 (2015/16)","Ankerdaten, Welle 8 (2015/16)",anchor,wave8
+pairfam,anchor8_CARI,"Anchor data (CARI), Wave8","Ankerdaten (CARI), Welle8","Anchor data, CARI module, Wave 8 (2015/16)","Ankerdaten, CARI Modul, Welle 8 (2015/16)",anchor,wave8
+pairfam,anchor9,"Anchor data, Wave9","Ankerdaten, Welle9","Anchor data, Wave 9 (2016/17)","Ankerdaten, Welle 9 (2016/17)",anchor,wave9
+pairfam,anchor10,"Anchor data, Wave10","Ankerdaten, Welle10","Anchor data, Wave 10 (2017/18)","Ankerdaten, Welle 10 (2017/18)",anchor,wave10
+pairfam,anchor11,"Anchor data, Wave11","Ankerdaten, Welle11","Anchor data, Wave 11 (2018/19)","Ankerdaten, Welle 11 (2018/19)",anchor,wave11
+pairfam,bioact,Activity biography,Aktivitätenbiographie,Prospective information concerning anchor respondent's education and employment activities,"Prospektive Informationen zu Tätigkeiten der Ankerperson: Bildung, Ausbildung und Erwerbstätigkeit",anchor,cumulative
+pairfam,bioact_rtr,Activity biography_retrospective,Aktivitätenbiographie_retrospektiv,Retrospective information concerning anchor respondent's education and employment activities from age 18 up to Wave 1,"Retrospektive Informationen zu Tätigkeiten der Ankerperson: Bildung, Ausbildung und ErwerbstÃ¤tigkeit vom 18. Lebensjahr bis zur Welle 1",anchor,retrospective
+pairfam,biomob_ehc,Mobility biography,Mobilitätsbiographie,Prospective information concerning anchor respondent's mobility: Main and secondary residences,Prospektive Informationen zur Mobilität der Ankerperson: Haupt-und Zweitwohnsitze,anchor,prospective
+pairfam,biomob_ehc_moves,Mobility biography,Mobilitätsbiographie,Prospective information concerning anchor respondent's mobility: Relocations,Prospektive Informationen zur Mobilität der Ankerperson: Umzüge,anchor,prospective
+pairfam,biomob_rtr,Mobility biography,Mobilitätsbiographie,Retrospective information concerning anchor respondent's mobility: Main residence from age 18 up to Wave 1,Retrospektive Informationen zur Mobilität der Ankerperson: Hauptwohnsitz vom 18. Lebensjahr bis zur Welle 1,anchor,retrospective
+pairfam,biomob_rtr_parents,Mobility biography,Mobilitätsbiographie,Retrospective information concerning anchor respondent's mobility: Residency episodes within the parental household,Retrospektive Informationen zur Mobilität der Ankerperson: Auszug aus dem Elternhaus,anchor,retrospective
+pairfam,biopart,Partnership biography,Partnerschaftsbiographie,"Prospective and retrospective information concerning anchor respondent's partnership, cohabitation, and marriage episodes since age 14","Prospektive und retrospektive Informationen zu Beziehungs-, Kohabitations-, und Eheepisoden der Ankerperson ab dem 14. Lebensjahr",anchor,cumulative
+pairfam,partner1,"Partner data, Wave1","Partnerdaten, Welle1","Partner data, Wave 1 (2008/09)","Partnerdaten, Welle 1 (2008/09)",partner,wave1
+pairfam,partner1_DD,"Partner data (DemoDiff), Wave1","Partnerdaten (DemoDiff), Welle1","Partner data, DemoDiff subsample, Wave 1 (2009/10)","Partnerdaten, DemoDiff Stichprobe, Welle 1 (2009/10)",partner,wave1
+pairfam,partner2,"Partner data, Wave2","Partnerdaten, Welle2","Partner data, Wave 2 (2009/10)","Partnerdaten, Welle 2 (2009/10)",partner,wave2
+pairfam,partner3,"Partner data, Wave3","Partnerdaten, Welle3","Partner data, Wave 3 (2010/11)","Partnerdaten, Welle 3 (2010/11)",partner,wave3
+pairfam,partner4,"Partner data, Wave4","Partnerdaten, Welle4","Partner data, Wave 4 (2011/12)","Partnerdaten, Welle 4 (2011/12)",partner,wave4
+pairfam,partner5,"Partner data, Wave5","Partnerdaten, Welle5","Partner data, Wave 5 (2012/13)","Partnerdaten, Welle 5 (2012/13)",partner,wave5
+pairfam,partner6,"Partner data, Wave6","Partnerdaten, Welle6","Partner data, Wave 6 (2013/14)","Partnerdaten, Welle 6 (2013/14)",partner,wave6
+pairfam,partner7,"Partner data, Wave7","Partnerdaten, Welle7","Partner data, Wave 7 (2014/15)","Partnerdaten, Welle 7 (2014/15)",partner,wave7
+pairfam,partner8,"Partner data, Wave8","Partnerdaten, Welle8","Partner data, Wave 8 (2015/16)","Partnerdaten, Welle 8 (2015/16)",partner,wave8
+pairfam,partner9,"Partner data, Wave9","Partnerdaten, Welle9","Partner data, Wave 9 (2016/17)","Partnerdaten, Welle 9 (2016/17)",partner,wave9
+pairfam,partner10,"Partner data, Wave10","Partnerdaten, Welle10","Partner data, Wave 10 (2017/18)","Partnerdaten, Welle 10 (2017/18)",partner,wave10
+pairfam,partner11,"Partner data, Wave11","Partnerdaten, Welle11","Partner data, Wave 11 (2018/19)","Partnerdaten, Welle 11 (2018/19)",partner,wave11
+pairfam,biochild,Birth biography,Fertilitätsbiographie,Prospective and retrospective information concerning all anchor respondent's children: Birth and cohabitation episodes,Prospektive und retrospektive Informationen zu allen Kindern der Ankerperson: Geburt und Kohabitation,anchor,cumulative
+pairfam,child2,"Child data, Wave2","Kinderdaten, Welle2","Child data, Wave 2 (2009/10)","Kinderdaten, Welle 2 (2009/10)",child,wave2
+pairfam,child3,"Child data, Wave3","Kinderdaten, Welle3","Child data, Wave 3 (2010/11)","Kinderdaten, Welle 3 (2010/11)",child,wave3
+pairfam,child4,"Child data, Wave4","Kinderdaten, Welle4","Child data, Wave 4 (2011/12)","Kinderdaten, Welle 4 (2011/12)",child,wave4
+pairfam,child5,"Child data, Wave5","Kinderdaten, Welle5","Child data, Wave 5 (2012/13)","Kinderdaten, Welle 5 (2012/13)",child,wave5
+pairfam,child6,"Child data, Wave6","Kinderdaten, Welle6","Child data, Wave 6 (2013/14)","Kinderdaten, Welle 6 (2013/14)",child,wave6
+pairfam,child7,"Child data, Wave7","Kinderdaten, Welle7","Child data, Wave 7 (2014/15)","Kinderdaten, Welle 7 (2014/15)",child,wave7
+pairfam,child8,"Child data, Wave8","Kinderdaten, Welle8","Child data, Wave 8 (2015/16)","Kinderdaten, Welle 8 (2015/16)",child,wave8
+pairfam,child9,"Child data, Wave9","Kinderdaten, Welle9","Child data, Wave 9 (2016/17)","Kinderdaten, Welle 9 (2016/17)",child,wave9
+pairfam,child10,"Child data, Wave10","Kinderdaten, Welle10","Child data, Wave 10 (2017/18)","Kinderdaten, Welle 10 (2017/18)",child,wave10
+pairfam,child11,"Child data, Wave11","Kinderdaten, Welle11","Child data, Wave 11 (2018/19)","Kinderdaten, Welle 11 (2018/19)",child,wave11
+pairfam,household,Household grid,Haushaltsraster,Prospective information concerning anchor respondent's main residence: Living situation and household members (Wave 1 - Wave 3),Prospektive Informationen zum Haushalt der Ankerperson: Wohnsituation und Haushaltsmitglieder (Welle 1-Welle 3),household,cumulative
+pairfam,Overview_multi_actor,Multi-actor overview,Multi-Actor-Überblick,"Prospective information concerning alteri participation: Partner, child, parent, parenting, PAYA, and parenting U6 survey","Prospektive Informationen zur Teilnahme der Alteri: Partner-, Kinder-, Eltern-, Erziehungs-, PAYA- und Erziehungsfragebogen U6",all,cumulative
+pairfam,bioparent,Parental biography,Elternbiographie,"Prospective and retrospective information concerning all anchor respondent's parents: Type of parent, cohabitation, and marital status","Prospektive und retrospektive Informationen zu allen Elternteilen des Ankers: Art der Elternschaft, Kobabitation, Familienstand",anchor,cumulative
+pairfam,parent2,"Parent data, Wave2","Elterndaten, Welle2","Parent data, Wave 2 (2009/10)","Elterndaten, Welle 2 (2009/10)",parent,wave2
+pairfam,parent3,"Parent data, Wave3","Elterndaten, Welle3","Parent data, Wave 3 (2010/11)","Elterndaten, Welle 3 (2010/11)",parent,wave3
+pairfam,parent4,"Parent data, Wave4","Elterndaten, Welle4","Parent data, Wave 4 (2011/12)","Elterndaten, Welle 4 (2011/12)",parent,wave4
+pairfam,parent5,"Parent data, Wave5","Elterndaten, Welle5","Parent data, Wave 5 (2012/13)","Elterndaten, Welle 5 (2012/13)",parent,wave5
+pairfam,parent6,"Parent data, Wave6","Elterndaten, Welle6","Parent data, Wave 6 (2013/14)","Elterndaten, Welle 6 (2013/14)",parent,wave6
+pairfam,parent7,"Parent data, Wave7","Elterndaten, Welle7","Parent data, Wave 7 (2014/15)","Elterndaten, Welle 7 (2014/15)",parent,wave7
+pairfam,parent8,"(Grand-)Parent data, Wave8","(GroÃŸ-)Elterndaten, Welle8","(Grand-)Parent data, Wave 8 (2015/16)","(GroÃŸ-)Elterndaten, Welle 8 (2015/16)",parent,wave8
+pairfam,parenting2,"Parenting data, Wave2","Erziehungsdaten, Welle2","Parenting data, Wave 2 (2009/10)","Erziehungsdaten, Welle 2 (2009/10)",anchor,wave2
+pairfam,parenting3,"Parenting data, Wave3","Erziehungsdaten, Welle3","Parenting data, Wave 3 (2010/11)","Erziehungsdaten, Welle 3 (2010/11)",anchor,wave3
+pairfam,parenting4,"Parenting data, Wave4","Erziehungsdaten, Welle4","Parenting data, Wave 4 (2011/12)","Erziehungsdaten, Welle 4 (2011/12)",anchor,wave4
+pairfam,parenting5,"Parenting data, Wave5","Erziehungsdaten, Welle5","Parenting data, Wave 5 (2012/13)","Erziehungsdaten, Welle 5 (2012/13)",anchor,wave5
+pairfam,parenting6,"Parenting data, Wave6","Erziehungsdaten, Welle6","Parenting data, Wave 6 (2013/14)","Erziehungsdaten, Welle 6 (2013/14)",anchor,wave6
+pairfam,parenting7,"Parenting data, Wave7","Erziehungsdaten, Welle7","Parenting data, Wave 7 (2014/15)","Erziehungsdaten, Welle 7 (2014/15)",anchor,wave7
+pairfam,parenting8,"Parenting data, Wave8","Erziehungsdaten, Welle8","Parenting data, Wave 8 (2015/16)","Erziehungsdaten, Welle 8 (2015/16)",anchor,wave8
+pairfam,parenting9,"Parenting data, Wave9","Erziehungsdaten, Welle9","Parenting data, Wave 9 (2016/17)","Erziehungsdaten, Welle 9 (2016/17)",anchor,wave9
+pairfam,parenting10,"Parenting data, Wave10","Erziehungsdaten, Welle10","Parenting data, Wave 10 (2017/18)","Erziehungsdaten, Welle 10 (2017/18)",anchor,wave10
+pairfam,parenting11,"Parenting data, Wave11","Erziehungsdaten, Welle11","Parenting data, Wave 11 (2018/19)","Erziehungsdaten, Welle 11 (2018/19)",anchor,wave11
+pairfam,paya9,"PAYA data, Wave9","PAYA-Daten, Welle9","Parenting Adolescents and Youth data, Wave 9 (2016/17)","Erziehungsdaten Jugend und junges Erwachsenenalter, Welle 9 (2016/17)",anchor,wave9
+pairfam,paya10,"PAYA data, Wave10","PAYA-Daten, Welle10","Parenting Adolescents and Youth data, Wave 10 (2017/18)","Erziehungsdaten Jugend und junges Erwachsenenalter, Welle 10 (2017/18)",anchor,wave10
+pairfam,paya11,"PAYA data, Wave11","PAYA-Daten, Welle11","Parenting Adolescents and Youth data, Wave 11 (2018/19)","Erziehungsdaten Jugend und junges Erwachsenenalter, Welle 11 (2018/19)",anchor,wave11
+pairfam,parentingU6partner11,"Parenting U6 data, Wave11","Erziehungsdaten U6, Welle11","Parenting U6 (children under 6) data, Wave 11 (2018/19)","Erziehungsdaten (Kinder unter 6 Jahre), Welle 11 (2018/19)",partner,wave11
+pairfam,stepup_anchor4,"Step-up anchor data, Wave4","Step-up Ankerdaten, Welle4","Step-up anchor data, Wave 4 (2011/12)","Step-up Ankerdaten, Welle 4 (2011/12)",anchor,wave4
+pairfam,stepup_anchor5,"Step-up anchor data, Wave5","Step-up Ankerdaten, Welle5","Step-up anchor data, Wave 5 (2012/13)","Step-up Ankerdaten, Welle 5 (2012/13)",anchor,wave5
+pairfam,stepup_anchor6,"Step-up anchor data, Wave6","Step-up Ankerdaten, Welle6","Step-up anchor data, Wave 6 (2013/14)","Step-up Ankerdaten, Welle 6 (2013/14)",anchor,wave6
+pairfam,stepup_anchor7,"Step-up anchor data, Wave7","Step-up Ankerdaten, Welle7","Step-up anchor data, Wave 7 (2014/15)","Step-up Ankerdaten, Welle 7 (2014/15)",anchor,wave7
+pairfam,stepup_anchor8,"Step-up anchor data, Wave8","Step-up Ankerdaten, Welle8","Step-up anchor data, Wave 8 (2015/16)","Step-up Ankerdaten, Welle 8 (2015/16)",anchor,wave8
+pairfam,stepup_anchor9+transition,"Step-up anchor data, Wave9","Step-up Ankerdaten, Welle9","Step-up anchor data (incl. transitional questionnaire), Wave 9 (2016/17)","Step-up Ankerdaten (inkl. Überhangsfragebogen), Welle 9 (2016/17)",anchor,wave9
+pairfam,stepup_anchor10+transition,"Step-up anchor data, Wave10","Step-up Ankerdaten, Welle10","Step-up anchor data (incl. transitional quesdtionnaire), Wave 10 (2017/18)","Step-up Ankerdaten (inkl. Überhangsfragebogen), Welle 10 (2017/18)",anchor,wave10
+pairfam,stepup_anchor11+transition,"Step-up anchor data, Wave11","Step-up Ankerdaten, Welle11","Step-up anchor data (incl. transitional quesdtionnaire), Wave 11 (2018/19)","Step-up Ankerdaten (inkl. Überhangsfragebogen), Welle 11 (2018/19)",anchor,wave11
+pairfam,stepup_transition_anchor4,"Step-up anchor data (transition), Wave4","Step-up Ankerdaten (Übergang), Welle4","Step-up anchor data, transitional PAPI questionnaire, Wave 4 (2011/12)","Step-up Ankerdaten, PAPI Übergangsfragebogen, Welle 4 (2011/12)",anchor,wave4
+pairfam,stepup_transition_anchor5,"Step-up anchor data (transition), Wave5","Step-up Ankerdaten (Übergang), Welle5","Step-up anchor data, transitional PAPI questionnaire, Wave 5 (2012/13)","Step-up Ankerdaten, PAPI Übergangsfragebogen, Welle 5 (2012/13)",anchor,wave5
+pairfam,stepup_transition_anchor6,"Step-up anchor data (transition), Wave6","Step-up Ankerdaten (Übergang), Welle6","Step-up anchor data, transitional PAPI questionnaire, Wave 6 (2013/14)","Step-up Ankerdaten, PAPI Übergangsfragebogen, Welle 6 (2013/14)",anchor,wave6
+pairfam,stepup_transition_anchor7,"Step-up anchor data (transition), Wave7","Step-up Ankerdaten (Übergang), Welle7","Step-up anchor data, transitional PAPI questionnaire, Wave 7 (2014/15)","Step-up Ankerdaten, PAPI Übergangsfragebogen, Welle 7 (2014/15)",anchor,wave7
+pairfam,stepup_transition_anchor8,"Step-up anchor data (transition), Wave8","Step-up Ankerdaten (Übergang), Welle8","Step-up anchor data, transitional PAPI questionnaire, Wave 8 (2015/16)","Step-up Ankerdaten, PAPI Übergangsfragebogen, Welle 8 (2015/16)",anchor,wave8
+pairfam,stepup_biopart,Step-up relationship biography,Step-up Partnerschaftsbiographie,"Prospective and retrospective information concerning anchor respondent's partnership, cohabitation, and marriage episodes since age 14","Prospektive und retrospektive Informationen zu Beziehungs-, Kohabitations-, und Eheepisoden der Ankerperson ab dem 14. Lebensjahr",partner,cumulative
+pairfam,stepup_partner4,"Step-up partner data, Wave4","Step-up Partnerdaten, Welle4","Step-up partner data, Wave 4 (2011/12)","Step-up Partnerdaten, Welle 4 (2011/12)",partner,wave4
+pairfam,stepup_partner5,"Step-up partner data, Wave5","Step-up Partnerdaten, Welle5","Step-up partner data, Wave 5 (2012/13)","Step-up Partnerdaten, Welle 5 (2012/13)",partner,wave5
+pairfam,stepup_partner6,"Step-up partner data, Wave6","Step-up Partnerdaten, Welle6","Step-up partner data, Wave 6 (2013/14)","Step-up Partnerdaten, Welle 6 (2013/14)",partner,wave6
+pairfam,stepup_partner7,"Step-up partner data, Wave7","Step-up Partnerdaten, Welle7","Step-up partner data, Wave 7 (2014/15)","Step-up Partnerdaten, Welle 7 (2014/15)",partner,wave7
+pairfam,stepup_partner8,"Step-up partner data, Wave8","Step-up Partnerdaten, Welle8","Step-up partner data, Wave 8 (2015/16)","Step-up Partnerdaten, Welle 8 (2015/16)",partner,wave8
+pairfam,stepup_partner9,"Step-up partner data, Wave9","Step-up Partnerdaten, Welle9","Step-up partner data, Wave 9 (2016/17)","Step-up Partnerdaten, Welle 9 (2016/17)",partner,wave9
+pairfam,stepup_partner10,"Step-up partner data, Wave10","Step-up Partnerdaten, Welle10","Step-up partner data, Wave 10 (2017/18)","Step-up Partnerdaten, Welle 10 (2017/18)",partner,wave10
+pairfam,stepup_partner11,"Step-up partner data, Wave11","Step-up Partnerdaten, Welle11","Step-up partner data, Wave 11 (2018/19)","Step-up Partnerdaten, Welle 11 (2018/19)",partner,wave11
+pairfam,stepup_biochild,Step-up birth biography,Step-up Fertilitätsbiographie,Prospective and retrospective information concerning all anchor respondent's children: Birth and cohabitation episodes,Prospektive und retrospektive Informationen zu allen Kindern der Ankerperson: Geburt und Kohabitation,anchor,cumulative
+pairfam,stepup_parentingU6partner,Step-up parenting U6 data,Step-up Erziehungsdaten U6,Step-up parenting U6 data (children under 6),Step-up Erziehungsdaten U6 (Kinder unter 6 Jahre),partner,cumulative
