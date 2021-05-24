@@ -1,4 +1,4 @@
-study,name
+study,name, label, label_de, description, description_de, topic
 pairfam,id
 pairfam,demodiff
 pairfam,wave
