@@ -13,8 +13,8 @@ pairfam,anchor9,"Anchor Codebook, Wave9","Codebuch Anker, Welle9","Anchor Codebo
 pairfam,anchor10,"Anchor Codebook, Wave10","Codebuch Anker, Welle10","Anchor Codebook, Wave 10 (2017/18)","Codebuch Anker, Welle 10 (2017/18)",anchor,wave10
 pairfam,anchor11,"Anchor Codebook, Wave11","Codebuch Anker, Welle11","Anchor Codebook, Wave 11 (2018/19)","Codebuch Anker, Welle 11 (2018/19)",anchor,wave11
 pairfam,anchor12,"Anchor Codebook, Wave12","Codebuch Anker, Welle12","Anchor Codebook, Wave 12 (2019/20)","Codebuch Anker, Welle 12 (2019/20)",anchor,wave12
-pairfam,anchor12,"Anchor Codebook (CATI), Wave12","Codebuch Anker (CATI), Welle12","Anchor Codebook, CATI mode, Wave 12 (2019/20)","Codebuch Anker, CATI Modus, Welle 12 (2019/20)",anchor,wave12
-pairfam,anchor12,"Anchor Codebook (PAPI), Wave12","Codebuch Anker (PAPI), Welle12","Anchor Codebook, PAPI mode, Wave 12 (2019/20)","Codebuch Anker, PAPI Modus, Welle 12 (2019/20)",anchor,wave12
+pairfam,anchor12_CATI,"Anchor Codebook (CATI), Wave12","Codebuch Anker (CATI), Welle12","Anchor Codebook, CATI mode, Wave 12 (2019/20)","Codebuch Anker, CATI Modus, Welle 12 (2019/20)",anchor,wave12
+pairfam,anchor12_PAPI,"Anchor Codebook (PAPI), Wave12","Codebuch Anker (PAPI), Welle12","Anchor Codebook, PAPI mode, Wave 12 (2019/20)","Codebuch Anker, PAPI Modus, Welle 12 (2019/20)",anchor,wave12
 pairfam,partner1,"Partner Codebook, Wave1","Codebuch Partner, Welle1","Partner Codebook, Wave 1 (2008/09)","Codebuch Partner, Welle 1 (2008/09)",partner,wave1
 pairfam,partner1_DD,"Partner Codebook (DemoDiff), Wave1","Codebuch Partner (DemoDiff), Welle1","Partner Codebook, DemoDiff subsample, Wave 1 (2009/10)","Codebuch Partner, DemoDiff Stichprobe, Welle 1 (2009/10)",partner,wave1
 pairfam,partner2,"Partner Codebook, Wave2","Codebuch Partner, Welle2","Partner Codebook, Wave 2 (2009/10)","Codebuch Partner, Welle 2 (2009/10)",partner ,wave2
@@ -39,7 +39,7 @@ pairfam,child9,"Child Codebook, Wave9","Codebuch Kinder, Welle9","Child Codebook
 pairfam,child10,"Child Codebook, Wave10","Codebuch Kinder, Welle10","Child Codebook, Wave 10 (2017/18)","Codebuch Kinder, Welle 10 (2017/18)",child,wave10
 pairfam,child11,"Child Codebook, Wave11","Codebuch Kinder, Welle11","Child Codebook, Wave 11 (2018/19)","Codebuch Kinder, Welle 11 (2018/19)",child,wave11
 pairfam,child12,"Child Codebook, Wave12","Codebuch Kinder, Welle12","Child Codebook, Wave 12 (2019/20)","Codebuch Kinder, Welle 12 (2019/20)",child,wave12
-pairfam,child12,"Child Codebook (CATI), Wave12","Codebuch Kinder (CATI), Welle12","Child Codebook, CATI mode, Wave 12 (2019/20)","Codebuch Kinder, CATI Modus, Welle 12 (2019/20)",child,wave12
+pairfam,child12_CATI,"Child Codebook (CATI), Wave12","Codebuch Kinder (CATI), Welle12","Child Codebook, CATI mode, Wave 12 (2019/20)","Codebuch Kinder, CATI Modus, Welle 12 (2019/20)",child,wave12
 pairfam,parent2,"Parent Codebook, Wave2","Codebuch Eltern, Welle2","Parent (Son) Codebook, Wave 2 (2009/10)","Codebuch Eltern (Sohn), Welle 2 (2009/10)",parent,wave2
 pairfam,parent3,"Parent Codebook, Wave3","Codebuch Eltern, Welle3","Parent Codebook, Wave 3 (2010/11)","Codebuch Eltern, Welle 3 (2010/11)",parent,wave3
 pairfam,parent4,"Parent Codebook, Wave4","Codebuch Eltern, Welle4","Parent Codebook, Wave 4 (2011/12)","Codebuch Eltern, Welle 4 (2011/12)",parent,wave4
