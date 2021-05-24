@@ -1,7 +1,7 @@
 ---
 name: pairfam
 label: pairfam
-doi: 10.4232/pairfam.5678.11.0.0
+doi: 10.4232/pairfam.5678.12.0.0
 config:
     variables:
         label-table: True
@@ -10,12 +10,12 @@ config:
 ## Citation
 * **Title:** The German Family Panel (pairfam)
 * **Investigators:** Brüderl, Josef; Drobnič, Sonja; Hank, Karsten; Neyer, Franz J.; Walper, Sabine
-* **DOI:** 10.4232/pairfam.5678.11.0.0
+* **DOI:** 10.4232/pairfam.5678.12.0.0
 * **URL:** [www.pairfam.de/en](http://www.pairfam.de/en)
 
-Publications using these data should cite the DOI (doi: 10.4232/pairfam.5678.11.0.0) and include one of the following references:
+Publications using these data should cite the DOI (doi: 10.4232/pairfam.5678.12.0.0) and include one of the following references:
 
-  * Brüderl, Josef, Sonja Drobnič, Karsten Hank, Franz J. Neyer, Sabine Walper, Philipp Alt, Christiane Bozoyan, Christine Finn, Renate Frister, Madison Garrett, Tita Gonzalez Avilés,Henriette Greischel, Nicolai Gröpler, Kristin Hajek, Michel Herzig, Bernadette Huyer-May, Rüdiger Lenke, Lara Minkus, Timo Peter, Julia Reim, Claudia Schmiedeberg, Philipp Schütze, Nina Schumann, Carolin Thönnissen, Martin Wetzel & Barbara Wilhelm. 2020. The German Family Panel (pairfam). GESIS Data Archive, Cologne. ZA5678 Data file Version 11.0.0, https://doi.org/10.4232/pairfam.5678.11.0.0
+  * Brüderl, Josef, Sonja Drobnič, Karsten Hank, Franz J. Neyer, Sabine Walper, Philipp Alt, Christiane Bozoyan, Christine Finn, Renate Frister, Madison Garrett, Tita Gonzalez Avilés,Henriette Greischel, Nicolai Gröpler, Kristin Hajek, Michel Herzig, Bernadette Huyer-May, Rüdiger Lenke, Lara Minkus, Timo Peter, Julia Reim, Claudia Schmiedeberg, Philipp Schütze, Nina Schumann, Carolin Thönnissen, Martin Wetzel & Barbara Wilhelm. 2020. The German Family Panel (pairfam). GESIS Data Archive, Cologne. ZA5678 Data file Version 12.0.0, https://doi.org/10.4232/pairfam.5678.12.0.0
   * Huinink, Johannes, Josef Brüderl, Bernhard Nauck, Sabine Walper, Laura Castiglioni, & Michael Feldhaus. 2011. Panel Analysis of Intimate Relationships and Family Dynamics (pairfam): Conceptual framework and design. Zeitschrift für Familienforschung - Journal of Family Research 23: 77-101.
 
 ## Study info
@@ -89,8 +89,8 @@ For more detailed information on available data sets, see our [data structure su
 ## Data access
 The data collected by the German Family Panel pairfam are available to the research community via the GESIS Data Archive for the Social Sciences upon request as a Scientific Use File for scholarly analysis. The current release, 11.0, includes the following files:
 
-* professionally prepared and anonymized pairfam data of waves1-11 (incl. the DemoDiff, sample refreshment, and “step-up” subsamples) and 13 generated data sets in the standard Stata and SPSS data formats, with both English and German labels
-* all codebooks (in English and in German) and questionnaires for waves 1-11, as well as a set of instrument overviews, the [concept paper]( https://www.pairfam.de/fileadmin/user_upload/redakteur/publis/technical_papers/TP01%20Cumulated%20Field%20Report%2C%20pairfam%202020.pdf), the [Data Manual]( https://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Data_Manual_pairfam_Release_11.0.pdf) and [Scales Manual]( https://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Scales%20Manual%2C%20pairfam%20Release%2011.0.pdf), annual method reports, and several other documents (in English and German)
+* professionally prepared and anonymized pairfam data of waves 1-12 (incl. the DemoDiff, sample refreshment, and “step-up” subsamples) and 13 generated data sets in the standard Stata and SPSS data formats, with both English and German labels
+* all codebooks (in English and in German) and questionnaires for waves 1-12, as well as a set of instrument overviews, the [concept paper]( https://www.pairfam.de/fileadmin/user_upload/redakteur/publis/technical_papers/TP01%20Cumulated%20Field%20Report%2C%20pairfam%202020.pdf), the [Data Manual]( https://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Manuals/Data_Manual_pairfam_Release_11.0.pdf) and [Scales Manual]( https://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Scales%20Manual%2C%20pairfam%20Release%2011.0.pdf), annual method reports, and several other documents (in English and German)
 
 To ensure confidentiality for all respondents, pairfam adheres to strict security standards in the provision of data. Data is reserved exclusively for research use and provided only to the scientific community. All users must complete and sign the [data distribution form]( https://www.pairfam.de/fileadmin/user_upload/redakteur/publis/Dokumentation/Codebooks/Release11.0/Application%20forms/UserContract_pairfam11.0_en.pdf), which must be submitted to the pairfam [user support](mailto:support@pairfam.de) to access the complete SUF.
 
