@@ -65,75 +65,6 @@
       "encoding": "utf-8"
     },
     {
-      "name": "concepts",
-      "path": "concepts.csv",
-      "title": "Concepts",
-      "description": "A description about the concepts.csv file",
-      "schema": {
-        "fields": [
-          {
-            "name": "study",
-            "title": "Foreign key to Study",
-            "type": "string",
-            "format": "default",
-            "constraints": {
-              "required": true
-            }
-          },
-          {
-            "name": "name",
-            "title": "Name of the Concept",
-            "description": "The name of the concept is used as the primary key in this table. It is imported into the database and search engine.",
-            "type": "string",
-            "format": "default",
-            "constraints": {
-              "required": true
-            }
-          },
-          {
-            "name": "label",
-            "title": "Label of the Concept (English)",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "label_de",
-            "title": "Label of the Concept (German)",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "description",
-            "title": "Description of the Concept (Markdown, English)",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "description_de",
-            "title": "Description of the Concept (Markdown, German)",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "topic",
-            "title": "Foreign key to Topic",
-            "type": "string",
-            "format": "default"
-          }
-        ],
-        "primaryKey": [
-          "name"
-        ],
-        "missingValues": [
-          ""
-        ]
-      },
-      "profile": "tabular-data-resource",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8"
-    },
-    {
       "name": "conceptual_datasets",
       "path": "conceptual_datasets.csv",
       "title": "Conceptual datasets",
@@ -277,6 +208,81 @@
       "encoding": "utf-8"
     },
     {
+      "name": "instruments",
+      "path": "instruments.csv",
+      "title": "Instruments",
+      "description": "A description about the instruments.csv file",
+      "schema": {
+        "fields": [
+          {
+            "name": "study",
+            "title": "Foreign key to Study",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "name",
+            "title": "Name of the Instrument",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "label",
+            "title": "Label of the Instrument (English)",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "label_de",
+            "title": "Label of the Instrument (German)",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "description",
+            "title": "Description of the Instrument (Markdown, English)",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "description_de",
+            "title": "Description of the Instrument (Markdown, German)",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "analysis_unit",
+            "title": "Foreign key to analysis_unit",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "period",
+            "title": "Foreign key to Period",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "primaryKey": [
+          "study",
+          "name"
+        ],
+        "missingValues": [
+          ""
+        ]
+      },
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8"
+    },
+    {
       "name": "periods",
       "path": "periods.csv",
       "title": "Periods",
@@ -351,10 +357,10 @@
       "encoding": "utf-8"
     },
     {
-      "name": "variables",
-      "path": "variables.csv",
-      "title": "Variables",
-      "description": "A description about the variables.csv file",
+      "name": "questions",
+      "path": "questions.csv",
+      "title": "Questions",
+      "description": "A description about the questions.csv file",
       "schema": {
         "fields": [
           {
@@ -367,8 +373,8 @@
             }
           },
           {
-            "name": "dataset",
-            "title": "Foreign key to Dataset",
+            "name": "instrument",
+            "title": "Foreign key to Instrument",
             "type": "string",
             "format": "default",
             "constraints": {
@@ -377,7 +383,7 @@
           },
           {
             "name": "name",
-            "title": "Name of the Variable",
+            "title": "Name of the Question",
             "type": "string",
             "format": "default",
             "constraints": {
@@ -385,16 +391,73 @@
             }
           },
           {
-            "name": "concept",
-            "title": "Foreign key to Concept",
+            "name": "item",
+            "title": "A question's text content id",
+            "type": "integer",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "text",
+            "title": "The item's english text",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "text_de",
+            "title": "The item's german text",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "answer_list",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "instruction",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "instruction_de",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "goto",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "concept",
+            "title": "The concept the question is linked to",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
           }
-        ],
-        "primaryKey": [
-          "study",
-          "dataset",
-          "name"
         ],
         "missingValues": [
           ""
