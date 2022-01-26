@@ -17,7 +17,7 @@ pairfam,anchor12_CATI,"Anchor Codebook (CATI), Wave12","Codebuch Anker (CATI), W
 pairfam,anchor12_PAPI,"Anchor Codebook (PAPI), Wave12","Codebuch Anker (PAPI), Welle12","Anchor Codebook, PAPI mode, Wave 12 (2019/20)","Codebuch Anker, PAPI Modus, Welle 12 (2019/20)",anchor,wave12
 pairfam,partner1,"Partner Codebook, Wave1","Codebuch Partner, Welle1","Partner Codebook, Wave 1 (2008/09)","Codebuch Partner, Welle 1 (2008/09)",partner,wave1
 pairfam,partner1_DD,"Partner Codebook (DemoDiff), Wave1","Codebuch Partner (DemoDiff), Welle1","Partner Codebook, DemoDiff subsample, Wave 1 (2009/10)","Codebuch Partner, DemoDiff Stichprobe, Welle 1 (2009/10)",partner,wave1
-pairfam,partner2,"Partner Codebook, Wave2","Codebuch Partner, Welle2","Partner Codebook, Wave 2 (2009/10)","Codebuch Partner, Welle 2 (2009/10)",partner ,wave2
+pairfam,partner2,"Partner Codebook, Wave2","Codebuch Partner, Welle2","Partner Codebook, Wave 2 (2009/10)","Codebuch Partner, Welle 2 (2009/10)",partner,wave2
 pairfam,partner3,"Partner Codebook, Wave3","Codebuch Partner, Welle3","Partner Codebook, Wave 3 (2010/11)","Codebuch Partner, Welle 3 (2010/11)",partner,wave3
 pairfam,partner4,"Partner Codebook, Wave4","Codebuch Partner, Welle4","Partner Codebook, Wave 4 (2011/12)","Codebuch Partner, Welle 4 (2011/12)",partner,wave4
 pairfam,partner5,"Partner Codebook, Wave5","Codebuch Partner, Welle5","Partner Codebook, Wave 5 (2012/13)","Codebuch Partner, Welle 5 (2012/13)",partner,wave5

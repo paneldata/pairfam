@@ -1,5 +1,5 @@
 study,name,label,label_de,description,description_de,analysis_unit,conceptual_dataset,period
-pairfam,anchor1 ,"Anchor data, Wave1","Ankerdaten, Welle1","Anchor data, Wave 1 (2008/09)","Ankerdaten, Welle 1 (2008/09)",anchor,,wave1
+pairfam,anchor1,"Anchor data, Wave1","Ankerdaten, Welle1","Anchor data, Wave 1 (2008/09)","Ankerdaten, Welle 1 (2008/09)",anchor,,wave1
 pairfam,anchor1_DD,"Anchor data (DemoDiff), Wave1","Ankerdaten (DemoDiff), Welle1","Anchor data, DemoDiff subsample, Wave 1 (2009/10)","Ankerdaten, DemoDiff Stichprobe, Welle 1 (2009/10)",anchor,,wave1
 pairfam,anchor2,"Anchor data, Wave2","Ankerdaten, Welle2","Anchor data, Wave 2 (2009/10)","Ankerdaten, Welle 2 (2009/10)",anchor,,wave2
 pairfam,anchor2_DD,"Anchor data (DemoDiff), Wave2","Ankerdaten (DemoDiff), Welle2","Anchor data, DemoDiff subsample (childhood history), Wave 2 (2010/11)","Ankerdaten, DemoDiff Stichprobe (Kindheitsgeschichte), Welle 2 (2010/11)",anchor,,wave2
